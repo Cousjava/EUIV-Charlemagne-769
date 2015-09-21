@@ -1,0 +1,21 @@
+# Kent
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+capital = 235
+1410.1.1 = {
+	monarch = {
+		name = "Ecgberht II"
+		dynasty = "Wihtgilsing"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 24
+}

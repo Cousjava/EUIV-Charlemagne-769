@@ -1,0 +1,33 @@
+# Cheremisa
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mordvin
+religion = animism
+capital = 1304
+1408.1.1 = {
+	monarch = {
+		name = "Varaka"
+		dynasty = "Cheremisid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1435.1.1 = {
+	heir = {
+		name = "Nuyat"
+		monarch_name = "Nuyat"
+		dynasty = "Cheremisid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

@@ -1,0 +1,33 @@
+# Karlukid
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = karluk
+religion = tengri_pagan_reformed
+capital = 2126
+1400.1.1 = {
+	monarch = {
+		name = "Bönek"
+		dynasty = "Karlukid"
+		adm = 0
+		dip = 3
+		mil = 2
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Pulad"
+		monarch_name = "Pulad"
+		dynasty = "Karlukid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 3
+		dip = 6
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 6
+}

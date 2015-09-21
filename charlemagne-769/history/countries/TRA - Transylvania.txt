@@ -1,0 +1,21 @@
+# Transylvania
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = avar
+religion = tengri_pagan_reformed
+capital = 1951
+1403.1.1 = {
+	monarch = {
+		name = "Yani"
+		dynasty = "Yantsukh"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 21
+}

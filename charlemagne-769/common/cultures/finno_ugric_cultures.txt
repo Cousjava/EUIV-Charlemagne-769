@@ -1,0 +1,22 @@
+finno_ugric = {
+	lappish = {
+		primary = E01
+		dynasty_names = { "Guoládat" "Gájka" "Kaise" "Saiva" }
+	}
+	komi = {
+		primary = PRM
+		dynasty_names = { "Permyakid" "Yugra" }
+	}
+	samoyed = {
+		primary = FIN
+		dynasty_names = { "Sarakid" "Hasabid" }
+	}
+	mordvin = {
+		primary = FIN
+		dynasty_names = { "Muromid" "Mordvanid" "Mescheravid" "Meryavid" "Cheremisid" "Zyri" "Kardazid" "Varakid" "Inzhayid" }
+	}
+	khanty = {
+		primary = FIN
+		dynasty_names = { "Sibiri" "Narima" "Khantys" }
+	}
+}

@@ -1,0 +1,21 @@
+# Volhynia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = volhynian
+religion = animism
+capital = 1940
+1408.1.1 = {
+	monarch = {
+		name = "Briachislav"
+		dynasty = "Tyvercy"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

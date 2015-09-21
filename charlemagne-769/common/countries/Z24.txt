@@ -1,0 +1,156 @@
+# Pictland
+graphical_culture = westerngfx
+color = { 20 80 162 }
+historical_idea_groups = {
+	defensive_ideas
+	aristocracy_ideas
+	naval_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	scottish_highlander
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Telurg" "Ciniod" "Elpin" "Tarla" "Canuall" "Uthoil" "Brude" "Uuirp" "Aniel" "Ceother" 
+	"Ganant" "Uuredach" "Canutulachama" "Uipoig" "Breth" "Buthut" "Ru" "Argentocoxos" "Uuroid" "Galam" 
+	"Lutrin" "Drosten" "Mor" "Drest" "Caltram" "Murtolic" "Manath" "Uudrost" "Girom" "Naiton" 
+	"Bridei" "Telurgan" "Taran" "Unuist" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allcallorred" "Allisander" 
+	"Ardle" "Auust" "Bili" "Bran" "Briog" "Broichan" "Canu" "Canan" "Caradaig" "Caruorst" 
+	"Castant" "Castantin" "Crup" "Dabuut" "Deocillimon" "Deoord" "Domelch" "Eddarrnonn" "Enuidaig" "Erpin" 
+	"Garalt" "Gede" "Gest" "Gigurum" "Idual" "Iduallon" "Iestan" "Iuan" "Irb" "Mael" 
+	"Maelchon" "Mordeleg" "Morleo" "Ninian" "Pedric" "Pedur" "Paul" "Pidarnoin" "Ruatirch" "Rubert" 
+	"Rudri" "Uist" "Uuochu" "Uoret" "Unen" "Urguist" "Usuullt" "Uuen" "Uuid" }
+monarch_names = {
+	"Telurg #4" = 49
+	"Ciniod #2" = 9
+	"Elpin #1" = 9
+	"Tarla #0" = 9
+	"Canuall #0" = 9
+	"Uthoil #0" = 9
+	"Brude #0" = 9
+	"Uuirp #0" = 9
+	"Aniel #0" = 19
+	"Ceother #0" = 9
+	"Ganant #6" = 29
+	"Uuredach #1" = 19
+	"Canutulachama #1" = 9
+	"Uipoig #1" = 9
+	"Breth #1" = 9
+	"Buthut #1" = 9
+	"Ru #1" = 9
+	"Argentocoxos #1" = 9
+	"Uuroid #0" = 9
+	"Galam #2" = 29
+	"Lutrin #0" = 9
+	"Drosten #0" = 9
+	"Mor #0" = -10
+	"Drest #7" = 49
+	"Caltram #1" = 9
+	"Murtolic #0" = 9
+	"Manath #0" = 9
+	"Uudrost #0" = 9
+	"Girom #0" = 9
+	"Naiton #3" = 9
+	"Bridei #5" = 0
+	"Telurgan #2" = 0
+	"Taran #1" = 0
+	"Unuist #1" = 0
+	"Achiuir #0" = 0
+	"Aethon #0" = 0
+	"Aenbecan #0" = 0
+	"Allan #0" = 0
+	"Allcallorred #0" = 0
+	"Allisander #0" = 0
+	"Ardle #0" = 0
+	"Auust #0" = 0
+	"Bili #0" = 0
+	"Bran #0" = 0
+	"Briog #0" = 0
+	"Broichan #0" = 0
+	"Canu #0" = 0
+	"Canan #0" = 0
+	"Caradaig #0" = 0
+	"Caruorst #0" = 0
+	"Castant #0" = 0
+	"Castantin #0" = 0
+	"Crup #0" = 0
+	"Dabuut #0" = 0
+	"Deocillimon #0" = 0
+	"Deoord #0" = 0
+	"Domelch #0" = 0
+	"Eddarrnonn #0" = 0
+	"Enuidaig #0" = 0
+	"Erpin #0" = 0
+	"Garalt #0" = 0
+	"Gede #0" = 0
+	"Gest #0" = 0
+	"Gigurum #0" = 0
+	"Idual #0" = 0
+	"Iduallon #0" = 0
+	"Iestan #0" = 0
+	"Iuan #0" = 0
+	"Irb #0" = 0
+	"Mael #0" = 0
+	"Maelchon #0" = 0
+	"Mordeleg #0" = 0
+	"Morleo #0" = 0
+	"Ninian #0" = 0
+	"Pedric #0" = 0
+	"Pedur #0" = 0
+	"Paul #0" = 0
+	"Pidarnoin #0" = 0
+	"Ruatirch #0" = 0
+	"Rubert #0" = 0
+	"Rudri #0" = 0
+	"Uist #0" = 0
+	"Uuochu #0" = 0
+	"Uoret #0" = 0
+	"Unen #0" = 0
+	"Urguist #0" = 0
+	"Usuullt #0" = 0
+	"Uuen #0" = 0
+	"Uuid #0" = 0
+}
+ship_names = {
+	Advantage "Ann of Anstruther"
+	Bonaventure Bruce
+	Charles "Christian of Boness" Christopher Cuckoo
+	Flower Fortune
+	"Good Fortune" Green-tree
+	"Great Michael"
+	James Janet "Jenny Pirwin"
+	"King's Caravel"
+	"Lamb of Leith" Lesley Lion
+	Margaret "Margaret of Peterhead" "Mary Willoughby" "Mary Walsingham" Mercury Moon Morton
+	Pelican "Prince Rupert" "Providence of Dundee"
+	"Rainbow of Dundee" Rothes
+	Salamander "St. Salvator"
+	Thistle
+	Unicorn
+	Venture
+	Wemyss
+	"Yellow Caravel"
+}
+

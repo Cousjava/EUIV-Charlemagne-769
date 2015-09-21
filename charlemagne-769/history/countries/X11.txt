@@ -1,0 +1,33 @@
+# Ayudha
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = avadhi
+religion = hinduism
+capital = 556
+1415.1.1 = {
+	monarch = {
+		name = "Vajrayudha"
+		dynasty = "Ayudha"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+}
+1441.1.1 = {
+	heir = {
+		name = "Indrayudha"
+		monarch_name = "Indrayudha"
+		dynasty = "Ayudha"
+		birth_date = 1441.1.1
+		death_date = 1521.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 10
+	add_prestige = 11
+}

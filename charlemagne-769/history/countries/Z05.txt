@@ -1,0 +1,33 @@
+# Sjælland
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = norse
+religion = shamanism
+capital = 12
+1365.6.12 = {
+	monarch = {
+		name = "Haraldr"
+		dynasty = "Skjöldung"
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+1408.1.1 = {
+	heir = {
+		name = "Hrörekr"
+		monarch_name = "Hrörekr II"
+		dynasty = "Skjöldung"
+		birth_date = 1408.1.1
+		death_date = 1488.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 9
+}

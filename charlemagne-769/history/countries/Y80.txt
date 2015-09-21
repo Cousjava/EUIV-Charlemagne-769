@@ -1,0 +1,33 @@
+# Ghana
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mali
+religion = animism
+capital = 1131
+1400.1.1 = {
+	monarch = {
+		name = "Seydou"
+		dynasty = "Cisse"
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1405.1.1 = {
+	heir = {
+		name = "Drissa"
+		monarch_name = "Drissa"
+		dynasty = "Cisse"
+		birth_date = 1405.1.1
+		death_date = 1485.1.1
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 10
+}

@@ -1,0 +1,57 @@
+country_decisions = {
+
+	welsh_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = GBR }
+			NOT = { exists = WLS }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = {
+				primary_culture = welsh
+				ai = no
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			OR = {
+				owns_core_province = 241
+				owns_core_province = 242
+				primary_culture = welsh
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 241		# Galmorgan
+			owns_core_province = 242		# Gwynedd
+		}
+		effect = {
+			change_tag = WLS
+			cornwall = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = WLS
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			WLS = {
+				set_capital = 242
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

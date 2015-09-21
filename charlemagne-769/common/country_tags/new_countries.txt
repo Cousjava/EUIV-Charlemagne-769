@@ -1,0 +1,5 @@
+E01 = "countries/E01.txt" # Sapmi
+E02 = "countries/E02.txt" # Kurdistan
+E03 = "countries/E03.txt" # Baluchistan
+E04 = "countries/E04.txt" # Cumania
+E05 = "countries/E05.txt" # Francia

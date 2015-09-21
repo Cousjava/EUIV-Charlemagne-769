@@ -1,0 +1,33 @@
+# Magyar
+government = tribal_despotism
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = hungarian
+religion = tengri_pagan_reformed
+capital = 268
+1416.1.1 = {
+	monarch = {
+		name = "Jenö"
+		dynasty = "Jenö"
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+1433.1.1 = {
+	heir = {
+		name = "Dezsõ"
+		monarch_name = "Dezsõ"
+		dynasty = "Jenö"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 8
+	add_prestige = 8
+}

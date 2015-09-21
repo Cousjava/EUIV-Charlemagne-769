@@ -1,0 +1,33 @@
+# Songhay
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mali
+religion = animism
+capital = 1133
+1395.1.1 = {
+	monarch = {
+		name = "Zakoi"
+		dynasty = "Zuwa"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+1415.1.1 = {
+	heir = {
+		name = "Takoi"
+		monarch_name = "Takoi"
+		dynasty = "Zuwa"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 5
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 7
+}

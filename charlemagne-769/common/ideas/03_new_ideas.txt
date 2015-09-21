@@ -1,0 +1,127 @@
+#### Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+
+norse_ideas = {
+	free = yes
+	trigger = {
+		primary_culture = norse
+		NOT = { tag = DAN }
+		
+	}
+	start = {
+		light_ship_cost = -0.20
+		light_ship_power = 0.20
+	}
+	
+	bonus = {
+		trade_steering = 0.20
+	}
+	
+	natural_seamanship = {
+		naval_morale = 0.20
+	}
+	call_of_our_forefathers = {
+		range = 0.33
+		may_explore = yes
+	}
+	pioneer_spirit = {
+		colonists = 1
+	}
+	nor_shipbuilding = {
+		global_ship_cost = -0.1
+	}
+	seize_the_opportunity = {
+ 		global_trade_power = 0.1
+	}
+	nor_fishing = {
+		production_efficiency = 0.1
+	}
+	write_new_sagas = {
+		prestige = 1
+		discipline = 0.025
+	}
+}
+
+asturian_ideas = {
+	free = yes
+	
+	trigger = {
+		tag = Z50
+	}
+	
+	start = {
+		hostile_attrition = 1
+		defensiveness = 0.1
+	}
+	bonus = {
+		global_tax_modifier = 0.1
+	}
+	
+	cunning_diplomacy = {
+		diplomatic_reputation = 1
+	}
+	custom_idea_prestige_decay = {
+		prestige_decay = 0.05
+	}
+	custom_idea_core_creation= {
+		core_creation = 0.1
+	}
+	people_of_the_book = {
+		tolerance_heathen = 3
+	}
+	lon_nationalism = {
+		infantry_power = 0.1
+	}
+	lon_school_of_salamanca = {
+		idea_cost = -0.10
+	}
+	lon_heritage_of_the_reconquista = {
+		army_tradition = 0.5
+	}
+	
+}
+
+umayyad_ideas = {
+	free = yes
+	
+	trigger = {
+		OR = { 
+			tag = Z45
+			dynasty = "Umayyad"
+		}
+	}
+	
+	start = {
+		legitimacy = 1
+		tolerance_heathen = 1
+	}
+	
+	bonus = {
+		prestige = 2
+	}
+	
+	unite_al_andalus = {
+		diplomatic_annexation_cost = -0.15
+	}
+	ara_mediterranean_trade = {
+		trade_steering = 0.20
+	}
+	hayib_regent = {
+		 advisor_pool = 1
+	}
+	bring_berbers_over = {
+		add_accepted_culture = berber
+		culture_conversion_cost = -0.05
+	}
+	umayyad_raiding = {
+		loot_amount = 0.2
+	}
+	library_of_al_hakan = {
+		technology_cost = -0.1
+	}
+	water_wheels = {
+		global_trade_goods_size_modifier = 0.1
+	}
+}

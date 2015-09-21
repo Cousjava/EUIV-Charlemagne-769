@@ -1,0 +1,33 @@
+# Pratihara
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = rajput
+religion = hinduism
+capital = 526
+1405.1.1 = {
+	monarch = {
+		name = "Kakustha"
+		dynasty = "Pratihara"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1407.1.1 = {
+	heir = {
+		name = "Devasakti"
+		monarch_name = "Devasakti"
+		dynasty = "Pratihara"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 9
+	add_prestige = 77
+}

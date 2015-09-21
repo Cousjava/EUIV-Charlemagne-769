@@ -1,0 +1,21 @@
+# Idjil
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = animism
+capital = 1127
+1408.1.1 = {
+	monarch = {
+		name = "Awzal"
+		dynasty = "Idjili"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 4
+	add_prestige = 2
+}

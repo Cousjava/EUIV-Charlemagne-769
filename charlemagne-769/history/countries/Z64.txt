@@ -1,0 +1,21 @@
+# Sápmi
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = lappish
+religion = animism
+capital = 18
+1414.1.1 = {
+	monarch = {
+		name = "Leammá"
+		dynasty = "Kaise"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 4
+	add_prestige = 2
+}

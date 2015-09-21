@@ -1,0 +1,33 @@
+# Bréifne
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = irish
+religion = catholic
+capital = 376
+1402.1.1 = {
+	monarch = {
+		name = "Cernach"
+		dynasty = "Ua Briúin Bréifne"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1426.1.1 = {
+	heir = {
+		name = "Sellachán"
+		monarch_name = "Sellachán"
+		dynasty = "Ua Briúin Bréifne"
+		birth_date = 1426.1.1
+		death_date = 1506.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 4
+	add_prestige = 2
+}

@@ -1,0 +1,24 @@
+vassal = {
+	first = BUL
+	second = WAL
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = BUL
+	second = Y10
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = BUL
+	second = Y11
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = BUL
+	second = Y12
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

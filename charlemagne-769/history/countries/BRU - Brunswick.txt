@@ -1,0 +1,21 @@
+# Brunswick
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = old_saxon
+religion = shamanism
+capital = 57
+1425.1.1 = {
+	monarch = {
+		name = "Bruno"
+		dynasty = "Ludolfinger"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

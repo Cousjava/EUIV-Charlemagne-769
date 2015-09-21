@@ -1,0 +1,21 @@
+# Bulgaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = bolghar
+religion = tengri_pagan_reformed
+capital = 2750
+1395.1.2 = {
+	monarch = {
+		name = "Telerig"
+		dynasty = "Dulo"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 9
+	add_prestige = 83
+}

@@ -1,0 +1,21 @@
+# Esztergom
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = avar
+religion = tengri_pagan_reformed
+capital = 1772
+1386.1.1 = {
+	monarch = {
+		name = "Vetam"
+		dynasty = "Khazbek"
+		adm = 5
+		dip = 1
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 6
+}

@@ -1,0 +1,33 @@
+# Karelia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = finnish
+religion = animism
+capital = 1776
+1399.1.1 = {
+	monarch = {
+		name = "Lemetti"
+		dynasty = "Karjalainen"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+1426.1.1 = {
+	heir = {
+		name = "Ihala"
+		monarch_name = "Ihala"
+		dynasty = "Karjalainen"
+		birth_date = 1426.1.1
+		death_date = 1506.1.1
+		adm = 3
+		dip = 1
+		mil = 0
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

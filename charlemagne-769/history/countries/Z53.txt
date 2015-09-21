@@ -1,0 +1,21 @@
+# Spoleto
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = lombard
+religion = catholic
+capital = 120
+1425.1.1 = {
+	monarch = {
+		name = "Hildeprand"
+		dynasty = "Theodingi"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 4
+}

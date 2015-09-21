@@ -1,0 +1,33 @@
+# Chrobatia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = croatian
+religion = animism
+capital = 1953
+1394.1.1 = {
+	monarch = {
+		name = "Tvrdoslav"
+		dynasty = "Bijelahrvatskic"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+1416.1.1 = {
+	heir = {
+		name = "Hranislav"
+		monarch_name = "Hranislav"
+		dynasty = "Bijelahrvatskic"
+		birth_date = 1416.1.1
+		death_date = 1496.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

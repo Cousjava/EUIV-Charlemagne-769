@@ -1,0 +1,33 @@
+# Gojjam
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = coptic
+capital = 1223
+1408.1.1 = {
+	monarch = {
+		name = "Aman"
+		dynasty = "Desta"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Gebereal"
+		monarch_name = "Gebereal"
+		dynasty = "Desta"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

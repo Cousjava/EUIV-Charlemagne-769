@@ -1,0 +1,33 @@
+# Domnonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = breton
+religion = catholic
+capital = 169
+1395.1.1 = {
+	monarch = {
+		name = "Budic"
+		dynasty = "de Poher"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+1415.1.1 = {
+	heir = {
+		name = "Melliau"
+		monarch_name = "Melliau"
+		dynasty = "de Poher"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 4
+	add_prestige = 2
+}

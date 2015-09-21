@@ -1,0 +1,33 @@
+# Dál Riata
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = irish
+religion = catholic
+capital = 253
+1389.1.1 = {
+	monarch = {
+		name = "Áed III"
+		dynasty = "Mac Gabráin"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1429.1.1 = {
+	heir = {
+		name = "Eochaid"
+		monarch_name = "Eochaid IV"
+		dynasty = "Mac Gabráin"
+		birth_date = 1429.1.1
+		death_date = 1509.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 37
+}

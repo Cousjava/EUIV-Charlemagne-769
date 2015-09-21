@@ -1,0 +1,33 @@
+# Somavamsi
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = oriya
+religion = hinduism
+capital = 553
+1365.1.1 = {
+	monarch = {
+		name = "Nannadeva"
+		dynasty = "Somavamsi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1395.1.1 = {
+	heir = {
+		name = "Isanadeva"
+		monarch_name = "Isanadeva"
+		dynasty = "Somavamsi"
+		birth_date = 1395.1.1
+		death_date = 1475.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 10
+}

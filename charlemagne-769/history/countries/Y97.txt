@@ -1,0 +1,21 @@
+# Maru
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = rajput
+religion = hinduism
+capital = 514
+1365.1.1 = {
+	monarch = {
+		name = "Jhota"
+		dynasty = "Pratihara"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 76
+}

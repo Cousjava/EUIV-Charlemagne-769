@@ -1,0 +1,165 @@
+country_decisions = {
+
+	francia_nation_mil = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = E05 }
+			OR = {
+				tag = Z34
+				tag = Z42
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			legitimacy = 100
+			OR = {
+				AND = {
+					tag = Z34
+					NOT = { exists = Z42 }
+				}
+				AND = {
+					tag = Z42
+					NOT = { exists = Z34 }
+				}
+			}
+			owns_core_province = 87		# Calais
+			owns_core_province = 174	# GaZ42gne
+			owns_core_province = 183	# Ill-de-France
+			owns_core_province = 192	# Bourgogne
+			owns_core_province = 197	# Roussillon
+			owns_core_province = 201	# Provence
+		}
+		effect = {
+			change_tag = E05
+			
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			french_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = E05
+			}
+			add_prestige = 25
+			E05 = {
+				set_capital = 183
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+	francia_nation_dip = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			OR = {
+				ai = no
+				is_playing_custom_nation = no
+			}
+			OR = {
+				AND = {
+					tag = Z34
+					OR = {
+						ai = no
+						AND = {
+							ai = yes
+							OR = {
+								Z42 = {	junior_union_with = Z34	}
+								Z42 = {	vassal_of = Z34	}
+							}
+						}
+					}
+				}
+				AND = {
+					tag = Z42
+					OR = {
+						ai = no
+						AND = {
+							ai = yes
+							OR = {
+								Z34 = {	junior_union_with = Z42	}
+								Z34 = {	vassal_of = Z42	}
+							}
+						}
+					}
+				}
+			}
+		}
+		allow = {
+			adm_tech = 10
+			is_subject = no
+			is_at_war = no
+			legitimacy = 100
+			OR = {
+				AND = {
+					tag = Z34
+					OR = {
+						Z42 = {	junior_union_with = Z34	}
+						Z42 = {	vassal_of = Z34	}
+					}
+				}
+				AND = {
+					tag = Z42
+					OR = {
+						Z34 = {	junior_union_with = Z42	}
+						Z34 = {	vassal_of = Z42	}
+					}
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					tag = Z34
+					Z42 = {
+						ai = yes
+					}
+				}
+				inherit = Z42
+			}
+			if = {
+				limit = {
+					tag = Z42
+					Z34 = {
+						ai = yes
+					}
+				}
+				inherit = Z34
+			}
+			change_tag = E05
+			french_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = E05
+			}
+			add_prestige = 25
+			
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 200
+	}
+	
+}

@@ -1,0 +1,37 @@
+country_decisions = {
+
+	cuman_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = E04 }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			primary_culture = cuman
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 2366		# Utva
+			owns_core_province = 1075		# Tyumen
+			owns_core_province = 2360		# Tobykty				
+			owns_core_province = 2434		# Barnaul
+		}
+		effect = {
+			change_tag = E04
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

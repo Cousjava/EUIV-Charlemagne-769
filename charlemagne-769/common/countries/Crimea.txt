@@ -1,0 +1,81 @@
+# Crimea
+graphical_culture = muslimgfx
+color = { 226 186 80 }
+
+
+
+
+leader_names = {
+
+	"Obadiah" "Kundaç" "Baghatur" "Bulan" "Yilig" "Kibar" "Eirene" "Bihar" "Kaban" "Barjik" 
+	"Busir" "Theodora" "Khalga" "Irbis" "Böri-Shad" "Tun-Yagbu" "Bagha-Shad" "Muhan" "Alp" "Araslan" 
+	"Bagha" "Bälgiçi" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulçan" "Buzer" 
+	"Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" 
+	"Khuterkin" "Kisa" "Kundaçiq" "Mänär" "Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" "Sartäç" 
+	"Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yavantey" "Yençepi" 
+	"Yerneslu" "Yeçtirek" }
+monarch_names = {
+	"Obadiah #0" = 7
+	"Kundaç #1" = 7
+	"Baghatur #0" = 7
+	"Bulan #0" = 7
+	"Yilig #0" = 7
+	"Kibar #0" = 7
+	"Eirene #0" = -8
+	"Bihar #0" = 7
+	"Kaban #1" = 7
+	"Barjik #0" = 7
+	"Busir #0" = 7
+	"Theodora #0" = -8
+	"Khalga #1" = 7
+	"Irbis #0" = 7
+	"Böri-Shad #0" = 7
+	"Tun-Yagbu #0" = 7
+	"Bagha-Shad #0" = 7
+	"Muhan #0" = 7
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Bälgiçi #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulçan #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+}
+

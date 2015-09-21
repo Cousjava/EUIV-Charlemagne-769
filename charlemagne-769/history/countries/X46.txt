@@ -1,0 +1,33 @@
+# Krorän
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = tocharian
+religion = buddhism
+1417.1.1 = {
+	monarch = {
+		name = "Siddharthe"
+		dynasty = "Krorän"
+		adm = 4
+		dip = 6
+		mil = 2
+	}
+}
+1423.1.1 = {
+	heir = {
+		name = "Maya"
+		monarch_name = "Maya"
+		dynasty = "Krorän"
+		birth_date = 1423.1.1
+		death_date = 1503.1.1
+		female = yes
+		adm = 4
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 13
+}

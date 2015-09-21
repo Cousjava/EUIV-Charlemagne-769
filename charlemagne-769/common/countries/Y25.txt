@@ -1,0 +1,102 @@
+# Alania
+graphical_culture = easterngfx
+color = { 155 110 48 }
+
+
+
+
+leader_names = {
+
+	"Alatey" "Bazuk" "Buriberdi" "Balsag" "Rosmag" "Irbis" "Busir" "Barjik" "Bihar" "Ælbeg" 
+	"Æmbalan" "Aghsartan" "Akhsar" "Anbal" "Anbazuk" "Aravat" "Arsen" "Askhkadar" "Ashot" "Aslan" 
+	"Aspar" "Athom" "Balambar" "Barlah" "Bæqætar" "Basil" "Beler" "Ber" "Biræg" "Boz-Uruz" 
+	"Buürgur" "Burikhan" "Candak" "Chelakhsartag" "Davit" "Djadaron" "Durgulel" "Dzæræs" "Gætæg" "Georgy" 
+	"Girgon" "Gokhar" "Gubaz" "Guram" "Hasqar" "Huddan" "Istor" "Itaz" "Iveri" "Kandak" 
+	"Kandz" "Kavtia" "Kaur" "Khankhusy" "Khætag" "Konstantin" "Kubal" "Kuddana" "Kul" "Kuluk" 
+	"Lak" "Levan" "Pulad" "Respendial" "Safrak" "Sakhir" "Sangipan" "Saros" "Sathis" "Savkudz" 
+	"Soslan" "Suarn" "Syrdon" "Taymuraz" "Taus" "Totraz" "Urdure" "Uruzma" "Uturku" "Yasynya" 
+	"Zaur" }
+monarch_names = {
+	"Alatey #0" = 9
+	"Bazuk #0" = 9
+	"Buriberdi #1" = 9
+	"Balsag #0" = 9
+	"Rosmag #0" = 9
+	"Irbis #1" = 0
+	"Busir #1" = 0
+	"Barjik #1" = 0
+	"Bihar #1" = 0
+	"Ælbeg #0" = 0
+	"Æmbalan #0" = 0
+	"Aghsartan #0" = 0
+	"Akhsar #0" = 0
+	"Anbal #0" = 0
+	"Anbazuk #0" = 0
+	"Aravat #0" = 0
+	"Arsen #0" = 0
+	"Askhkadar #0" = 0
+	"Ashot #0" = 0
+	"Aslan #0" = 0
+	"Aspar #0" = 0
+	"Athom #0" = 0
+	"Balambar #0" = 0
+	"Barlah #0" = 0
+	"Bæqætar #0" = 0
+	"Basil #0" = 0
+	"Beler #0" = 0
+	"Ber #0" = 0
+	"Biræg #0" = 0
+	"Boz-Uruz #0" = 0
+	"Buürgur #0" = 0
+	"Burikhan #0" = 0
+	"Candak #0" = 0
+	"Chelakhsartag #0" = 0
+	"Davit #0" = 0
+	"Djadaron #0" = 0
+	"Durgulel #0" = 0
+	"Dzæræs #0" = 0
+	"Gætæg #0" = 0
+	"Georgy #0" = 0
+	"Girgon #0" = 0
+	"Gokhar #0" = 0
+	"Gubaz #0" = 0
+	"Guram #0" = 0
+	"Hasqar #0" = 0
+	"Huddan #0" = 0
+	"Istor #0" = 0
+	"Itaz #0" = 0
+	"Iveri #0" = 0
+	"Kandak #0" = 0
+	"Kandz #0" = 0
+	"Kavtia #0" = 0
+	"Kaur #0" = 0
+	"Khankhusy #0" = 0
+	"Khætag #0" = 0
+	"Konstantin #0" = 0
+	"Kubal #0" = 0
+	"Kuddana #0" = 0
+	"Kul #0" = 0
+	"Kuluk #0" = 0
+	"Lak #0" = 0
+	"Levan #0" = 0
+	"Pulad #0" = 0
+	"Respendial #0" = 0
+	"Safrak #0" = 0
+	"Sakhir #0" = 0
+	"Sangipan #0" = 0
+	"Saros #0" = 0
+	"Sathis #0" = 0
+	"Savkudz #0" = 0
+	"Soslan #0" = 0
+	"Suarn #0" = 0
+	"Syrdon #0" = 0
+	"Taymuraz #0" = 0
+	"Taus #0" = 0
+	"Totraz #0" = 0
+	"Urdure #0" = 0
+	"Uruzma #0" = 0
+	"Uturku #0" = 0
+	"Yasynya #0" = 0
+	"Zaur #0" = 0
+}
+

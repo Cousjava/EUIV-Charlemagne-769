@@ -1,0 +1,33 @@
+# Venice
+government = merchant_republic
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+religion = catholic
+capital = 112
+1401.1.1 = {
+	monarch = {
+		name = "Maurizio"
+		dynasty = "Galbaio"
+		adm = 1
+		dip = 6
+		mil = 0
+	}
+}
+1423.1.1 = {
+	heir = {
+		name = "Giovanni"
+		monarch_name = "Giovanni"
+		dynasty = "Galbaio"
+		birth_date = 1423.1.1
+		death_date = 1503.1.1
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 4
+}

@@ -1,0 +1,21 @@
+# Shura
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bengali
+religion = hinduism
+capital = 2038
+1405.1.1 = {
+	monarch = {
+		name = "Adnata"
+		dynasty = "Shura"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

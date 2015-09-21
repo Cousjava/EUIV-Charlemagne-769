@@ -1,0 +1,60 @@
+country_decisions = {
+	
+	formHRE = {
+		major = yes
+		potential = {
+			always = no
+			normal_or_historical_nations = yes
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			NOT = { exists = HLR }
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			religion = catholic
+			capital_scope = {
+				continent = europe
+			}
+			NOT = { hre_size = 1 }
+		}
+		allow = {
+			exists = PAP
+			PAP = { has_opinion = { who = FROM value = 200} }
+			size = 20
+		}
+		
+		effect = {
+			elector = yes
+			every_owned_province = {
+				limit = { 
+					continent = europe
+					is_core = PREV
+				}
+				set_in_empire = yes
+			}
+			set_hre_religion = catholic
+			every_subject_country = {
+				every_owned_province = {
+					limit = { 
+						continent = europe
+						is_core = PREV
+					}
+					set_in_empire = yes
+				}
+			}
+			free_vassal = {
+				every_subject_country = {
+					limit = { continent = europe }
+				}
+			}
+		}
+		
+	}	
+	
+
+}

@@ -1,0 +1,33 @@
+# Addauid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = al_suryah_arabic
+religion = sunni
+capital = 2313
+1408.1.1 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Addauid"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Abd al-Kadir"
+		monarch_name = "Abd al-Kadir"
+		dynasty = "Addauid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+}
+1444.11.11 = {
+	add_treasury = 7
+	add_prestige = 5
+}

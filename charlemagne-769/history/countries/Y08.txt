@@ -1,0 +1,33 @@
+# Slavonia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = croatian
+religion = animism
+capital = 131
+1405.1.1 = {
+	monarch = {
+		name = "Senulat"
+		dynasty = "Senulatovic"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Silimir"
+		monarch_name = "Silimir"
+		dynasty = "Senulatovic"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

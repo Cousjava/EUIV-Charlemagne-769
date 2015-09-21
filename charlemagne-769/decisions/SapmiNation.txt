@@ -1,0 +1,45 @@
+country_decisions = {
+
+	sapmi_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = {
+				primary_culture = lappish
+				ai = no
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			OR = {
+				owns_core_province = 11		# Vasterbotten
+				owns_core_province = 18		# Lappland
+				owns_core_province = 315	# Finnmark				
+				owns_core_province = 1777	# Kola
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 11		# Vasterbotten
+			owns_core_province = 18		# Lappland
+			owns_core_province = 315	# Finnmark				
+			owns_core_province = 1777	# Kola
+		}
+		effect = {
+			change_tag = E01
+			add_prestige = 25
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

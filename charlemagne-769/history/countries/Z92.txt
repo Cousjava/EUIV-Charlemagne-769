@@ -1,0 +1,21 @@
+# Bjarmia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = samoyed
+religion = animism
+capital = 313
+1408.1.1 = {
+	monarch = {
+		name = "Kako"
+		dynasty = "Hasabid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

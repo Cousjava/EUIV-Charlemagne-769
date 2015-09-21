@@ -1,0 +1,33 @@
+# Bohemia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = czech
+religion = animism
+capital = 266
+1390.1.1 = {
+	monarch = {
+		name = "Nezamysl"
+		dynasty = "Premyslid"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+1407.1.1 = {
+	heir = {
+		name = "Mnata"
+		monarch_name = "Mnata"
+		dynasty = "Premyslid"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 11
+}

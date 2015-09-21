@@ -1,0 +1,33 @@
+# Pala
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bengali
+religion = buddhism
+capital = 563
+1428.1.1 = {
+	monarch = {
+		name = "Dharmapala"
+		dynasty = "Pala"
+		adm = 5
+		dip = 4
+		mil = 5
+	}
+}
+1432.1.1 = {
+	heir = {
+		name = "Vakapala"
+		monarch_name = "Vakapala"
+		dynasty = "Pala"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 10
+	add_prestige = 23
+}

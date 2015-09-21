@@ -1,0 +1,77 @@
+country_decisions = {
+
+	denmark_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = DAN }
+			NOT = { exists = SCA }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = {
+				primary_culture = norse
+				primary_culture = danish
+				ai = no
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			any_core_province = {
+				region = danish_region
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 26		# Halland
+			owns_core_province = 12		# Sjaelland
+			owns_core_province = 13		# Slesvig
+			owns_core_province = 1984	# Nordjylland
+		}
+		effect = {
+			change_tag = DAN
+			swap_free_idea_group = yes
+			midtjylland = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = DAN
+			}
+			fyn = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = DAN
+			}
+			lolland = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = DAN
+			}
+			halland = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = DAN
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			DAN = {
+				set_capital = 12
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+}

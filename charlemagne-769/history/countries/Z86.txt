@@ -1,0 +1,33 @@
+# Kola
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = lappish
+religion = animism
+capital = 1777
+1405.1.1 = {
+	monarch = {
+		name = "Baeivi"
+		dynasty = "Guoládat"
+		adm = 1
+		dip = 6
+		mil = 1
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Mohkku"
+		monarch_name = "Mohkku"
+		dynasty = "Guoládat"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 4
+		dip = 0
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

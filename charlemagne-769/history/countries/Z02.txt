@@ -1,0 +1,33 @@
+# Tír Chonaill
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = irish
+religion = catholic
+capital = 372
+1405.1.1 = {
+	monarch = {
+		name = "Domnall"
+		dynasty = "Ua Néill Noígiallaich"
+		adm = 3
+		dip = 6
+		mil = 3
+	}
+}
+1435.1.1 = {
+	heir = {
+		name = "Flaithbertach"
+		monarch_name = "Flaithbertach"
+		dynasty = "Ua Néill Noígiallaich"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 4
+	add_prestige = 15
+}

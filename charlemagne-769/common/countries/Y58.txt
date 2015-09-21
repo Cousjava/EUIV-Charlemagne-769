@@ -1,0 +1,97 @@
+# Tangier
+graphical_culture = westerngfx
+color = { 51 255 9 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Abdela" "Pelaio" "Julian" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" 
+	"Berengario" "Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" 
+	"Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" 
+	"Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" 
+	"Wifredo" "Wimarano" "Witiza" }
+monarch_names = {
+	"Abdela #0" = 5
+	"Pelaio #0" = 5
+	"Julian #0" = 5
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

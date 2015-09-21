@@ -1,0 +1,21 @@
+# Hashimid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = bedouin_arabic
+religion = shiite
+capital = 384
+1378.1.1 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Hashimid"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 11
+}

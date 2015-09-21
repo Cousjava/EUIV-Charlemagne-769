@@ -1,0 +1,129 @@
+country_decisions = {
+
+	reform_norse = {
+		major = yes
+		potential = {
+			religion = shamanist
+			OR = {
+				primary_culture = norse
+				primary_culture = danish
+				primary_culture = norwegian
+				primary_culture = swedish
+				primary_culture = saxon
+				capital_scope = {
+					region = europe
+				}
+			}
+		
+		}
+		allow = {
+			owns_or_vassal_of = 96	#Zeeland
+			owns_or_vassal_of = 57	#Brunswick
+			owns_or_vassal_of = 1	#Stockholm
+			owns_or_vassal_of = 20	#Trondelag
+			owns_or_vassal_of = 12	#Sjaelland
+			legitimacy = 50
+		}
+		effect = {
+			change_religion = norse_pagan_reformed
+			prestige = 100
+			capital_scope = {
+				change_religion = norse_pagan_reformed
+				add_reform_center = norse_pagan_reformed
+			}
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	
+	}
+
+
+	reform_baltic = {
+		major = yes
+		potential = {
+			religion = animist
+			OR = {
+				primary_culture = old_prussian
+				primary_culture = latvian
+				primary_culture = lithuanian
+				primary_culture = pomeranian
+			}
+		
+		}
+		allow = {
+			owns_or_vassal_of = 47		#Stralsund
+			owns_or_vassal_of = 1859	#Chelmno
+			owns_or_vassal_of = 1935	#Mitau
+			owns_or_vassal_of = 1937	#Grodno
+			owns_or_vassal_of = 296		#Bryansk
+			legitimacy = 50
+		}
+		effect = {
+			change_religion = baltic_pagan_reformed
+			prestige = 100
+			capital_scope = {
+				change_religion = baltic_pagan_reformed
+				add_reform_center = baltic_pagan_reformed
+			}
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	
+	}
+	
+	reform_slavic = {
+		major = yes
+		potential = {
+			religion = animist
+			OR = {
+				primary_culture = serbian
+				primary_culture = croatian
+				primary_culture = romanian
+				primary_culture = czech
+				primary_culture = polish
+				primary_culture = volhynian
+				primary_culture = severian
+				primary_culture = ilmenian
+			}
+		
+		}
+		allow = {
+			owns_or_vassal_of = 47		#Stralsund
+			owns_or_vassal_of = 256		#Plock
+			owns_or_vassal_of = 310		#Novgorod
+			owns_or_vassal_of = 280		#Kiev
+			owns_or_vassal_of = 257		#Warsaw
+			legitimacy = 50
+		}
+		effect = {
+			change_religion = slavic_pagan_reformed
+			prestige = 100
+			capital_scope = {
+				change_religion = slavic_pagan_reformed
+				add_reform_center = slavic_pagan_reformed
+			}
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}
+		
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	
+	}
+
+}

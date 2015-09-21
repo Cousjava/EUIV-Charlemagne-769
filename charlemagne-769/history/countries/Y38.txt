@@ -1,0 +1,33 @@
+# Abbasid
+government = iqta
+government_rank = 3
+mercantilism = 0.1
+technology_group = western
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 2310
+1389.1.1 = {
+	monarch = {
+		name = "Al-Mansur"
+		dynasty = "Abbasid"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+1410.1.1 = {
+	heir = {
+		name = "Al-Mahdi"
+		monarch_name = "Al-Mahdi"
+		dynasty = "Abbasid"
+		birth_date = 1410.1.1
+		death_date = 1490.1.1
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+1444.11.11 = {
+	add_treasury = 14
+	add_prestige = 36
+}

@@ -1,0 +1,33 @@
+# Pallava
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = tamil
+religion = hinduism
+capital = 543
+1395.1.1 = {
+	monarch = {
+		name = "Nantivarman"
+		dynasty = "Pallava"
+		adm = 1
+		dip = 0
+		mil = 1
+	}
+}
+1415.1.1 = {
+	heir = {
+		name = "Tantivarman"
+		monarch_name = "Tantivarman"
+		dynasty = "Pallava"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 6
+}

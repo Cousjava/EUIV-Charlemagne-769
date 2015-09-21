@@ -1,0 +1,21 @@
+# Saadid
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 214
+1415.1.1 = {
+	monarch = {
+		name = "Husayn"
+		dynasty = "Saadid"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 6
+}

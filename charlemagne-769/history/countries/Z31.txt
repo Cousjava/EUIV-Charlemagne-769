@@ -1,0 +1,33 @@
+# Powys
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = welsh
+religion = catholic
+capital = 240
+1395.1.1 = {
+	monarch = {
+		name = "Brochfael II"
+		dynasty = "Gwerthrynion"
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Cadell"
+		monarch_name = "Cadell II"
+		dynasty = "Gwerthrynion"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 17
+}

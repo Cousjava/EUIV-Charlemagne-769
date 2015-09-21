@@ -1,0 +1,21 @@
+# Wallachia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bolghar
+religion = tengri_pagan_reformed
+capital = 161
+1428.1.1 = {
+	monarch = {
+		name = "Vakrim"
+		dynasty = "Ukil"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 30
+}

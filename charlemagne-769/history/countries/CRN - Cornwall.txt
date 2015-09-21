@@ -1,0 +1,33 @@
+# Cornwall
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = breton
+religion = catholic
+capital = 233
+1380.1.1 = {
+	monarch = {
+		name = "Cawrdolli"
+		dynasty = "Cerneu"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1400.1.1 = {
+	heir = {
+		name = "Oswallt"
+		monarch_name = "Oswallt"
+		dynasty = "Cerneu"
+		birth_date = 1400.1.1
+		death_date = 1480.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 11
+}

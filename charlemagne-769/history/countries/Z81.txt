@@ -1,0 +1,20 @@
+# Livonia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = estonian
+religion = animism
+1418.1.1 = {
+	monarch = {
+		name = "Ihanus"
+		dynasty = "Ridala"
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 5
+}

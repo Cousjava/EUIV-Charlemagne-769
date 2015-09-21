@@ -1,0 +1,21 @@
+# Ilmen
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = ilmenian
+religion = animism
+capital = 310
+1418.1.1 = {
+	monarch = {
+		name = "Rodislav"
+		dynasty = "Slovensky"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 7
+}

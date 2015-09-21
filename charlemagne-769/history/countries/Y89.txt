@@ -1,0 +1,33 @@
+# Rashtrakuta
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = kannada
+religion = hinduism
+capital = 527
+1380.1.1 = {
+	monarch = {
+		name = "Krishna"
+		dynasty = "Rashtrakuta"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1397.1.1 = {
+	heir = {
+		name = "Govinda"
+		monarch_name = "Govinda"
+		dynasty = "Rashtrakuta"
+		birth_date = 1397.1.1
+		death_date = 1477.1.1
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+}
+1444.11.11 = {
+	add_treasury = 9
+	add_prestige = 28
+}

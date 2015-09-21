@@ -1,0 +1,33 @@
+# Alodia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = nubian
+religion = coptic
+capital = 1222
+1369.1.1 = {
+	monarch = {
+		name = "Shamumun"
+		dynasty = "Alwa"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Zakharias"
+		monarch_name = "Zakharias"
+		dynasty = "Alwa"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 6
+	add_prestige = 13
+}

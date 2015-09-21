@@ -1,0 +1,21 @@
+# Abyssinia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = amhara
+religion = coptic
+capital = 2787
+1393.1.1 = {
+	monarch = {
+		name = "Oda Gosh"
+		dynasty = "Solomonid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 8
+	add_prestige = 38
+}

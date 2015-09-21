@@ -1,0 +1,14 @@
+iranian = {
+	kurdish = {
+		primary = PER
+		dynasty_names = { "Justanid" "of Kurdistan" "Oromid" "Kirkukbid" "Murrid" "of Paveh" "Behrouzid" "Revendid" "Mîrzid" "Xašayarid" "Nesrid" "Ranyid" "Ferîdid" "Cehandarid" "Cevid" }
+	}
+	baloch = {
+		primary = bal
+		dynasty_names = { "Qalat" "Jiskani" "Kalmati" "Mugheri" "Nutkani" }
+	}
+	afghan = {
+		primary = AFG
+		dynasty_names = { "Nandin" "Nagar" "of Kunduz" "Bamiyan" "Kaikanite" "Zunbil" "Jindin" "Zarbil" "Ghobadid" }
+	}
+}
