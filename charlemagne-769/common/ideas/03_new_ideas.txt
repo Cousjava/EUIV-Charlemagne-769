@@ -125,3 +125,41 @@ umayyad_ideas = {
 		global_trade_goods_size_modifier = 0.1
 	}
 }
+
+zunbil_ideas = {
+	free = yes
+
+	trigger = {
+		tag = Z75
+	}
+	
+	start = {
+		religious_unity = 0.25
+		hostile_attrition = 0.1
+	}
+	bonus = {
+		recover_army_morale_speed = 0.1
+	}
+	hephthalite_legacy = {
+		leader_land_manuever = 1
+	}
+	shrine_of_zoon = {
+		global_tax_modifier = 0.1
+	}	
+	disiplined_defence = {
+		discipline = 0.05
+	}
+	outpost_of_india = {
+		global_prov_trade_power_modifier = 0.15
+	}
+	zun_the_justice_giver = {
+		stability_cost_modifier = -0.1
+	}
+	birthplace_of_rostam = {
+		prestige = 1
+	}
+	sakawand_pilgramage = {
+		global_missionary_strength = 0.01
+	}
+	
+}

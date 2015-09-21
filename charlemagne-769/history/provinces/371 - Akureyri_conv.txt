@@ -1,14 +1,9 @@
-owner = Z01
-controller = Z01
-add_core = Z01
 culture = norse
 religion = shamanism
 citysize = 2000
 add_core = Z01
 discovered_by = eastern
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
 1444.11.11 = {
 	hre = no
 	remove_core = SCA
@@ -288,10 +283,4 @@ discovered_by = ottoman
 	remove_core = KAZ
 	remove_core = KZH
 	remove_core = MUG
-}
-1444.11.11 = {
-	owner = Z01
-	controller = Z01
-	culture = norse
-	religion = shamanism
 }

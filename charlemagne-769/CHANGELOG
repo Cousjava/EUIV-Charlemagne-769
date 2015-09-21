@@ -1,0 +1,18 @@
+Version 1.2.2
+-Changelog Started
+-ADD: More cultural ideas added for pre-existing cultures
+-ADD: Removed countires from Reykjavik and Akureyri, Iceland now starts uncolonised
+
+1.2.1
+-ADD: Umayyad and Asturian ideas
+
+1.2.0
+-ADD: Can now from nations of Francia, Wales, Sapmi, Cumania, Denmark
+
+1.1
+-FIX:culture groups now match
+-FIX: nation names, localisation files correct encoding
+
+1.0
+-Base imported from CK2
+

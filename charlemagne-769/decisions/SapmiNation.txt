@@ -33,7 +33,7 @@ country_decisions = {
 			owns_core_province = 1777	# Kola
 		}
 		effect = {
-			change_tag = E01
+			change_tag = SMI
 			add_prestige = 25
 		}
 		ai_will_do = {

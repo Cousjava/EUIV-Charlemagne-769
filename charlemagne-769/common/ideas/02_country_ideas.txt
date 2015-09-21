@@ -370,3 +370,16 @@ ASS_ideas = {
 	}
 
 }
+
+GRA_ideas = {
+	trigger = {
+		NOT = { dynasty= "Umayyad" }
+		OR = {
+			tag = GRA
+			tag = ADU
+			primary_culture = visigothic
+			primary_culture = andalusian
+		}
+	
+	}
+}

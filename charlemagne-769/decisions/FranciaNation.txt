@@ -34,7 +34,7 @@ country_decisions = {
 				}
 			}
 			owns_core_province = 87		# Calais
-			owns_core_province = 174	# GaZ42gne
+			owns_core_province = 174	# Gasgone
 			owns_core_province = 183	# Ill-de-France
 			owns_core_province = 192	# Bourgogne
 			owns_core_province = 197	# Roussillon
