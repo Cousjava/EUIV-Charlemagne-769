@@ -374,6 +374,7 @@ ASS_ideas = {
 GRA_ideas = {
 	trigger = {
 		NOT = { dynasty= "Umayyad" }
+		religion_group = muslim
 		OR = {
 			tag = GRA
 			tag = ADU

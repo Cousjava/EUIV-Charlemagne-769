@@ -63,10 +63,10 @@ asturian_ideas = {
 		diplomatic_reputation = 1
 	}
 	custom_idea_prestige_decay = {
-		prestige_decay = 0.05
+		prestige_decay = -0.05
 	}
 	custom_idea_core_creation= {
-		core_creation = 0.1
+		core_creation = -0.1
 	}
 	people_of_the_book = {
 		tolerance_heathen = 3
