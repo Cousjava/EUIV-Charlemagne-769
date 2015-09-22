@@ -8,6 +8,8 @@
 
 ENG_ideas = {
 	trigger = {
+		NOT = { tag = NOL }
+		NOT = {	tag = Z27 }
 		OR = {
 			tag = ENG
 			tag = GBR
@@ -382,5 +384,14 @@ GRA_ideas = {
 			primary_culture = andalusian
 		}
 	
+	}
+}
+
+NOL_ideas = {
+	trigger = {
+		OR = {
+			tag = NOL
+			tag = Z27
+		}
 	}
 }

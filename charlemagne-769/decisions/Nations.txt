@@ -1,0 +1,155 @@
+country_decisions = {
+
+	brittany_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = BRI }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			primary_culture = breton
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 169		# Armor
+			owns_core_province = 170		# Finistère
+			owns_core_province = 171		# Morbihan
+		}
+		effect = {
+			change_tag = BRI
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			DAN = {
+				set_capital = 12
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+	sweden_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = SWE }
+			NOT = { exists = SCA }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = {
+				primary_culture = norse
+				primary_culture = swedish
+				tag = Z70
+				ai = no
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			any_core_province = {
+				region = swedish_region
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 1		# Stockholm
+			owns_core_province = 16		# Bohuslan
+			owns_core_province = 10		# Jamtland
+			owns_core_province = 3		# Smaland
+		}
+		effect = {
+			change_tag = SWE
+			primary_culture = swedish
+			swap_free_idea_group = yes
+			swedish_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = SWE
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			SWE = {
+				set_capital = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+	
+	norway_nation = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			NOT = { exists = NOR }
+			NOT = { exists = SCA }
+			NOT = { tag = HLR }
+			NOT = { tag = PAP }
+			OR = {
+				primary_culture = norse
+				primary_culture = norwegian
+				ai = no
+			}
+			is_colonial_nation = no
+			OR = {
+				is_former_colonial_nation = no
+				AND = {
+					is_former_colonial_nation = yes
+					ai = no
+				}
+			}
+			any_core_province = {
+				region = norwegian_region
+			}
+		}
+		allow = {
+			is_at_war = no
+			owns_core_province = 20		# Trondelag
+			owns_core_province = 24		# Agder
+		}
+		effect = {
+			change_tag = NOR
+			primary_culture = norwegian
+			swap_free_idea_group = yes
+			norwegian_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_claim = NOR
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 7300
+			}
+			add_prestige = 25
+			NOR = {
+				set_capital = 1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+		ai_importance = 400
+	}
+}

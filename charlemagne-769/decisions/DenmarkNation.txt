@@ -35,25 +35,8 @@ country_decisions = {
 		effect = {
 			change_tag = DAN
 			swap_free_idea_group = yes
-			midtjylland = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_claim = DAN
-			}
-			fyn = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_claim = DAN
-			}
-			lolland = {
-				limit = {
-					NOT = { owned_by = ROOT }
-				}
-				add_claim = DAN
-			}
-			halland = {
+			primary_culture = danish
+			danish_region = {
 				limit = {
 					NOT = { owned_by = ROOT }
 				}

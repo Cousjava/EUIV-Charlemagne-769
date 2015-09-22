@@ -7,7 +7,7 @@ country_decisions = {
 			NOT = { exists = E05 }
 			OR = {
 				tag = Z34
-				tag = Z42
+				tag = Z43
 			}
 			is_colonial_nation = no
 			OR = {
@@ -26,10 +26,10 @@ country_decisions = {
 			OR = {
 				AND = {
 					tag = Z34
-					NOT = { exists = Z42 }
+					NOT = { exists = Z43 }
 				}
 				AND = {
-					tag = Z42
+					tag = Z43
 					NOT = { exists = Z34 }
 				}
 			}
@@ -80,21 +80,21 @@ country_decisions = {
 						AND = {
 							ai = yes
 							OR = {
-								Z42 = {	junior_union_with = Z34	}
-								Z42 = {	vassal_of = Z34	}
+								Z43 = {	junior_union_with = Z34	}
+								Z43 = {	vassal_of = Z34	}
 							}
 						}
 					}
 				}
 				AND = {
-					tag = Z42
+					tag = Z43
 					OR = {
 						ai = no
 						AND = {
 							ai = yes
 							OR = {
-								Z34 = {	junior_union_with = Z42	}
-								Z34 = {	vassal_of = Z42	}
+								Z34 = {	junior_union_with = Z43	}
+								Z34 = {	vassal_of = Z43	}
 							}
 						}
 					}
@@ -117,8 +117,8 @@ country_decisions = {
 				AND = {
 					tag = Z42
 					OR = {
-						Z34 = {	junior_union_with = Z42	}
-						Z34 = {	vassal_of = Z42	}
+						Z34 = {	junior_union_with = Z43	}
+						Z34 = {	vassal_of = Z43	}
 					}
 				}
 			}
@@ -127,15 +127,15 @@ country_decisions = {
 			if = {
 				limit = {
 					tag = Z34
-					Z42 = {
+					Z43 = {
 						ai = yes
 					}
 				}
-				inherit = Z42
+				inherit = Z43
 			}
 			if = {
 				limit = {
-					tag = Z42
+					tag = Z43
 					Z34 = {
 						ai = yes
 					}
