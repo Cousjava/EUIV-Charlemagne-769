@@ -11,8 +11,8 @@ groups = {
 	}
 	ottoman = {
 		modifier = 0.25
-		start_level = 3
-		cav_to_inf_ratio = 0.5
+		start_level = 2
+		cav_to_inf_ratio = 0.25
 	}
 	muslim = {
 		modifier = 0.50
@@ -69,11 +69,6 @@ groups = {
 		modifier = 0
 		start_level = 3
 		cav_to_inf_ratio = 0.5
-	}
-	norse = {
-		modifier = 0.2
-		start_level = 3
-		cav_to_inf_ratio = 0.4
 	}
 }
 

@@ -115,7 +115,7 @@ country_decisions = {
 					}
 				}
 				AND = {
-					tag = Z42
+					tag = Z43
 					OR = {
 						Z34 = {	junior_union_with = Z43	}
 						Z34 = {	vassal_of = Z43	}

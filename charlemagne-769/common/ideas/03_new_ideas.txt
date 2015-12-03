@@ -135,7 +135,7 @@ zunbil_ideas = {
 	
 	start = {
 		religious_unity = 0.25
-		hostile_attrition = 0.1
+		hostile_attrition = 1.0
 	}
 	bonus = {
 		recover_army_morale_speed = 0.1

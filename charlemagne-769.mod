@@ -67,4 +67,3 @@ tags={
 	"Converted From CKII"
 }
 picture="euiv_769.jpg"
-supported_version="1.13"

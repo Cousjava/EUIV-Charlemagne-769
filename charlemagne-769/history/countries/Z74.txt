@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = ottoman
 primary_culture = norse
 religion = shamanism
 capital = 7

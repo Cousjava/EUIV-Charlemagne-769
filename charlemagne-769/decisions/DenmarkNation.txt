@@ -35,7 +35,8 @@ country_decisions = {
 		effect = {
 			change_tag = DAN
 			swap_free_idea_group = yes
-			primary_culture = danish
+			change_primary_culture = danish
+			change_government = despotic_monarchy
 			danish_region = {
 				limit = {
 					NOT = { owned_by = ROOT }
@@ -49,6 +50,9 @@ country_decisions = {
 			add_prestige = 25
 			DAN = {
 				set_capital = 12
+			}
+			capital_scope = {
+				change_culture = danish
 			}
 		}
 		ai_will_do = {

@@ -1,4 +1,4 @@
-pagan = {
+ppagan = {
 
 	shamanism = {
 		color = { 0.5 0.3 0.3 }
@@ -296,6 +296,7 @@ dharmic = {
 		country = {
 			tolerance_own = 2
 			tolerance_heathen = -1
+			global_unrest = -1
 		}
 		
 		heretic = { TERAPANTHA }

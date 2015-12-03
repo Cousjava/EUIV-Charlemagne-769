@@ -28,3 +28,58 @@ country_event = {
 	}
 
 }
+
+country_event = {
+	id = charlemagne.2
+	desc = charlemagne.2_desc
+	id = charlemagne.1
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		tag = Z45
+		NOT = { dynasty = "Umayyad" }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		change_tag = ADU
+		swap_free_idea_group = yes
+		
+	}
+	
+	option = {
+		name = "charlemagne.2_accept"
+	} 
+}
+
+country_event = {
+	id = charlemagne.3
+	desc = charlemagne.3_desc
+	id = charlemagne.3
+	picture = DEATH_OF_HEIR_eventPicture
+	
+	fire_only_once = yes
+	
+	trigger = {
+		dynasty = "Karling"
+		NOT = { ideas = karling_ideas }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		swap_free_idea_group = yes
+		
+	}
+	
+	option = {
+		name = "charlemagne.3_accept"
+	} 
+}
