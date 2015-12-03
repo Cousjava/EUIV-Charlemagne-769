@@ -5,13 +5,14 @@ culture = pommeranian
 religion = animism
 citysize = 2000
 add_core = POM
-add_core = Y04
+add_claim = Y04
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	remove_tag=TEU
 }
 1444.11.11 = {
 	owner = POM

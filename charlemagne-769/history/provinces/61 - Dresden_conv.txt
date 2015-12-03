@@ -4,13 +4,14 @@ add_core = BOH
 culture = pommeranian
 religion = animism
 citysize = 2000
-add_core = Z78
+add_claim = Z78
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	remove_tax=SAX
 }
 1444.11.11 = {
 	owner = BOH
