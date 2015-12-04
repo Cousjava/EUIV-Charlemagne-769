@@ -9,7 +9,7 @@ discovered_by = western
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	remove_tag=KOL
+	remove_core=KOL
 }
 1444.11.11 = {
 	owner = BRU

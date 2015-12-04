@@ -10,8 +10,8 @@ discovered_by = western
 discovered_by = muslim
 1444.11.11 = {
 	hre = no
-	remove_tag=HAB
-	remove_tag=STY
+	remove_core=HAB
+	remove_core=STY
 }
 1444.11.11 = {
 	owner = BAV

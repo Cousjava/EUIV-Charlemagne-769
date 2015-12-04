@@ -4,7 +4,6 @@ add_core = Y09
 culture = serbian
 religion = animism
 citysize = 2000
-add_core = BYZ
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

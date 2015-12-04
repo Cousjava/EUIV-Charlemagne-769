@@ -5,12 +5,13 @@ culture = norse
 religion = shamanism
 citysize = 2000
 add_core = Z72
-add_core = Z74
 discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	remove_core=SWE
+	add_claim = Z74
 }
 1444.11.11 = {
 	owner = Z72

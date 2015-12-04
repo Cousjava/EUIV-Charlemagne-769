@@ -10,7 +10,7 @@ discovered_by = western
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	remove_tag=BRA
+	remove_core=BRA
 }
 1444.11.11 = {
 	owner = Z78
