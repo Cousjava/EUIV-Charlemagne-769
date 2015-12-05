@@ -10,6 +10,7 @@ discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	remove_core=SWI
 }
 1444.11.11 = {
 	owner = Z44

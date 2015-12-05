@@ -11,8 +11,6 @@ discovered_by = western
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	remove_core=SWE
-	remove_core=DAN
 }
 1444.11.11 = {
 	owner = GOT

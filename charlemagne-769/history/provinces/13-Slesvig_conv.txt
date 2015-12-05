@@ -9,8 +9,6 @@ discovered_by = western
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	remove_core=DAN
-	remove_core=SHL
 	add_claim=SHL
 }
 1444.11.11 = {

@@ -5,7 +5,6 @@ culture = breton
 religion = catholic
 citysize = 2000
 add_core = CRN
-add_core = Z19
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

@@ -5,13 +5,12 @@ culture = polish
 religion = animism
 citysize = 2000
 add_core = Y13
-add_core = Y15
 discovered_by = eastern
 discovered_by = western
-discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	add_claim = Y15
 }
 1444.11.11 = {
 	owner = Y13

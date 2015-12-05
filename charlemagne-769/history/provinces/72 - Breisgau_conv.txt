@@ -8,7 +8,6 @@ discovered_by = eastern
 discovered_by = western
 1444.11.11 = {
 	hre = no
-	remove_core=BAD
 }
 1444.11.11 = {
 	owner = Z44

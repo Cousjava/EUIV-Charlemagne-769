@@ -10,6 +10,7 @@ discovered_by = muslim
 discovered_by = ottoman
 1444.11.11 = {
 	hre = no
+	add_claim=Z50
 }
 1444.11.11 = {
 	owner = Z45
