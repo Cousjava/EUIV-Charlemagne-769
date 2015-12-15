@@ -61,6 +61,7 @@ replace_path="history/diplomacy/Russian_alliances.txt"
 replace_path="history/diplomacy/African_alliances.txt"
 replace_path="history/diplomacy/Turkeybalkan_alliances.txt"
 replace_path="history/diplomacy/Venetian_League.txt"
+
 user_dir="Charlemagne_769"
 supported_version="1.14"
 tags={

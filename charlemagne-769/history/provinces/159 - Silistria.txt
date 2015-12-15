@@ -1,20 +1,21 @@
-owner = TRA
-controller = TRA
-add_core = TRA
-culture = avar
+owner = Y10
+controller = Y10
+add_core = Y10
+culture = bulgarian
 religion = tengri_pagan_reformed
 citysize = 2000
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim
+discovered_by = ottoman
 1444.11.11 = {
 	hre = no
-	add_claim = Y06
-	remove_core=HUN
+	add_claim = BUL
+	add_claim = BYZ
 }
 1444.11.11 = {
-	owner = TRA
-	controller = TRA
-	culture = avar
+	owner = Y10
+	controller = Y10
+	culture = bulgarian
 	religion = tengri_pagan_reformed
 }

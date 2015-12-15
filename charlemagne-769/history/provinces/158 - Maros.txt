@@ -9,7 +9,6 @@ discovered_by = western
 discovered_by = muslim
 1444.11.11 = {
 	hre = no
-	remove_core=HUN
 	add_claim = Y06
 }
 1444.11.11 = {
