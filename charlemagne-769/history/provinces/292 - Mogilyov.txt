@@ -1,3 +1,9 @@
+base_tax = 4 
+base_production = 3
+trade_goods = wool 
+base_manpower = 5
+capital = "Mogilyov"
+is_city = yes
 owner = Y21
 controller = Y21
 add_core = Y21

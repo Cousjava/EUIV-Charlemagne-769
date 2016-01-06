@@ -1,3 +1,12 @@
+capital = "Bergerac"
+is_city = yes
+base_tax = 5 
+base_production = 5
+trade_goods = iron
+base_manpower = 4
+1589.1.1 = { base_tax = 4 
+base_production = 4 } # At the walls of Paris - French War of Religion
+1749.1.1 = { base_tax = 5 base_production = 5 } # Machault and the 5% tax
 owner = Z35
 controller = Z35
 add_core = Z35

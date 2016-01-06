@@ -1,3 +1,9 @@
+capital = "Sopron"
+trade_goods = grain
+base_tax = 5 
+base_production = 5
+base_manpower = 2
+is_city = yes
 owner = Y07
 controller = Y07
 add_core = Y07

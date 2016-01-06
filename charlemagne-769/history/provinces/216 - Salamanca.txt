@@ -1,3 +1,9 @@
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 7
+capital = Salamanca
+is_city = yes
 owner = Z45
 controller = Z45
 add_core = Z45

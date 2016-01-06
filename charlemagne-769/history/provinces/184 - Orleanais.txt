@@ -1,3 +1,13 @@
+capital = "Orl�ans"
+is_city = yes
+base_tax = 8 
+base_production = 8
+trade_goods = grain
+base_manpower = 7
+1589.1.1 = { base_tax = 9 
+base_production = 9 } # At the Walls of Paris: French Wars of Religion
+1621.1.1 = { base_tax = 10 
+base_production = 10 } # Richelieu
 owner = Z43
 controller = Z43
 add_core = Z43

@@ -1,3 +1,10 @@
+capital = "Vijayanagara"
+trade_goods = grain
+base_tax = 6 
+base_production = 5
+base_manpower = 4
+is_city = yes
+1650.1.1 = { capital = "Bellary" }
 owner = Y89
 controller = Y89
 add_core = Y89

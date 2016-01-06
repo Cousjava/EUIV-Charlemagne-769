@@ -1,3 +1,11 @@
+base_tax = 6 
+base_production = 6
+trade_goods = salt
+base_manpower = 6
+capital = "Qirq-Yer"
+is_city = yes
+1495.1.1 = { capital = "Salaciq" }
+1532.1.1 = { capital = "Bakhchisaray" } # A new capital is founded by Sahib Giray I
 owner = CRI
 controller = CRI
 add_core = CRI

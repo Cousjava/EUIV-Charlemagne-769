@@ -1,3 +1,9 @@
+capital = "Ahangaran"
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+is_city = yes
 owner = Y79
 controller = Y79
 add_core = Y79

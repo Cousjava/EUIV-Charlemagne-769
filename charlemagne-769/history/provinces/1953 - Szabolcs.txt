@@ -1,3 +1,9 @@
+capital = "Debrecen"
+trade_goods = naval_supplies
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y16
 controller = Y16
 add_core = Y16

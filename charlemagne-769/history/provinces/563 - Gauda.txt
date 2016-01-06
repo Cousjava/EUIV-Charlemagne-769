@@ -1,3 +1,11 @@
+capital = "Pandua"
+trade_goods = silk
+base_tax = 7
+base_production = 7
+base_manpower = 5
+is_city = yes
+1453.1.1 = { capital = "Gaur" }
+	capital = "Murshidabad"
 owner = X16
 controller = X16
 add_core = X16

@@ -1,3 +1,9 @@
+capital = "Balasore"
+trade_goods = cloth
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
 owner = X01
 controller = X01
 add_core = X01

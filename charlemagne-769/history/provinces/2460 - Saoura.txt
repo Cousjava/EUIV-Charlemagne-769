@@ -1,3 +1,10 @@
+capital = "Oulad Mhedi"
+trade_goods = wool
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+1605.1.1 = { capital = "Beni Abbes" }
 owner = Y84
 controller = Y84
 add_core = Y84

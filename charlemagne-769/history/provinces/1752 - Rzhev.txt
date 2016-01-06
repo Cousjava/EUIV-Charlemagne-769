@@ -1,3 +1,12 @@
+base_tax = 5 
+base_production = 5
+trade_goods = grain 
+base_manpower = 3
+capital = "Rzhev"
+is_city = yes
+1560.1.1 = { base_tax = 6 base_production = 6 } # Treasury reforms
+1711.1.1 = { base_tax = 7 base_production = 7 } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 8 base_production = 8 } # Legislative reform
 owner = Z97
 controller = Z97
 add_core = Z97

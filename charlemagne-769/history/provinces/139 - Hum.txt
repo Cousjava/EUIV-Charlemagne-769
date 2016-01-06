@@ -1,3 +1,9 @@
+capital = "Mostar"	# Unofficial capital of Herzegovina
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y09
 controller = Y09
 add_core = Y09

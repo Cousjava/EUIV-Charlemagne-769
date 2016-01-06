@@ -1,3 +1,9 @@
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 3
+capital = "Newcastle"
+is_city = yes
 owner = Z27
 controller = Z27
 add_core = Z27

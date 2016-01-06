@@ -1,3 +1,9 @@
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 3
+capital = "Grodno"
+is_city = yes 
 owner = Y02
 controller = Y02
 add_core = Y02

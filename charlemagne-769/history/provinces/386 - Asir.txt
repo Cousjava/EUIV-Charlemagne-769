@@ -1,3 +1,9 @@
+capital = "Bishah"
+trade_goods = coffee
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = Y42
 controller = Y42
 add_core = Y42

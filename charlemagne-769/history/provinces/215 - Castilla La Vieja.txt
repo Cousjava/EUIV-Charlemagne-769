@@ -1,3 +1,9 @@
+base_tax = 5
+base_production = 3
+trade_goods = wool 
+base_manpower = 2
+capital = "Valladolid"
+is_city = yes
 owner = Z48
 controller = Z48
 add_core = Z48

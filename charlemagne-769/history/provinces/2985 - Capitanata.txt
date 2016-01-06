@@ -1,3 +1,9 @@
+base_tax = 4
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Foggia"
+is_city = yes # Estimated 
 owner = Z52
 controller = Z52
 add_core = Z52

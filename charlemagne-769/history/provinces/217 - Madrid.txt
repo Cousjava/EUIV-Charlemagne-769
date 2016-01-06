@@ -1,3 +1,9 @@
+base_tax = 6
+base_production = 6
+trade_goods = cloth 
+base_manpower = 5
+capital = "Madrid" 
+is_city = yes # Includes the population of Alcal� de Henares and Guadalajara, that at times were bigger than Madrid itself 
 owner = Z45
 controller = Z45
 add_core = Z45

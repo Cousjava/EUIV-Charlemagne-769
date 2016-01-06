@@ -1,3 +1,10 @@
+capital = "Irgalem"
+is_city = yes
+base_manpower = 2
+trade_goods = coffee
+base_tax = 2 
+base_production = 2
+1600.1.1 = { trade_goods = coffee } # Rise of coffee trade changes nature of exports
 owner = Y73
 controller = Y73
 add_core = Y73

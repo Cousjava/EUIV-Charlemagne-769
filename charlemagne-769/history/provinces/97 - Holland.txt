@@ -1,3 +1,12 @@
+capital = "Amsterdam"
+is_city = yes
+base_tax = 8 
+base_production = 8
+trade_goods = fish
+base_manpower = 5
+1585.9.1 = { base_production = 10 } # Amsterdam becomes the beacon of the Lowlands
+1590.1.1 = { base_manpower = 7 } # Professionalisation of the Army
+1681.1.1 = { base_tax = 14 base_production = 14 } # Protestants expelled from France
 owner = HOL
 controller = HOL
 add_core = HOL

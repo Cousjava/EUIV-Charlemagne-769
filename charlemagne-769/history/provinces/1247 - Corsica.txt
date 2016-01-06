@@ -1,3 +1,9 @@
+capital = "Bastia"
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+is_city = yes
 owner = Z51
 controller = Z51
 add_core = Z51

@@ -1,3 +1,10 @@
+capital = "Sugauna"
+trade_goods = dyes
+base_tax = 5 
+base_production = 6
+base_manpower = 4
+is_city = yes
+	capital = "Darbhanga"
 owner = X16
 controller = X16
 add_core = X16

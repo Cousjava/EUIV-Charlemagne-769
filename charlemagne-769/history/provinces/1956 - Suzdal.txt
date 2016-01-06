@@ -1,3 +1,11 @@
+base_tax = 8 
+base_production = 8
+trade_goods = grain 
+base_manpower = 4
+capital = "Suzdal"
+is_city = yes
+1719.1.1 = { base_tax = 5 base_production = 5 } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 7 base_production = 7 } # Legislative reform
 owner = Y31
 controller = Y31
 add_core = Y31

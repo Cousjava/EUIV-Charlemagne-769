@@ -1,3 +1,9 @@
+is_city = yes
+base_manpower = 2
+capital = "Gao"
+trade_goods = cloth
+base_tax = 7 
+base_production = 7
 owner = Y81
 controller = Y81
 add_core = Y81

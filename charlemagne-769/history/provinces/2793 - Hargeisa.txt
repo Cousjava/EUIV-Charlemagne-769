@@ -1,3 +1,9 @@
+capital = "Hargeisa"
+is_city = yes
+base_manpower = 2
+trade_goods = naval_supplies
+base_tax = 2 
+base_production = 2
 owner = Y66
 controller = Y66
 add_core = Y66

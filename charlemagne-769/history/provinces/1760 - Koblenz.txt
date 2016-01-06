@@ -1,3 +1,11 @@
+trade_goods = grain
+capital = "Koblenz"
+base_tax = 4 
+base_production = 4
+is_city = yes
+base_manpower = 2
+1690.1.1 = { base_manpower = 1 } # Trier is repeatedly victim of French agression and population declines.
+1730.1.1 = { base_manpower = 2 } #
 owner = Z34
 controller = Z34
 add_core = Z34

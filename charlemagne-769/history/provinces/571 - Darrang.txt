@@ -1,3 +1,9 @@
+capital = "Koliabar"
+trade_goods = silk
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = X25
 controller = X25
 add_core = X25

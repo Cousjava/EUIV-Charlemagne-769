@@ -1,3 +1,9 @@
+capital = "Kalpi"
+trade_goods = cloth #Carpets
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = X11
 controller = X11
 add_core = X11

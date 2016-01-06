@@ -1,3 +1,10 @@
+capital = "Lakhiyarvira"
+trade_goods = salt
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+1510.1.1 = { capital = Bhuj }
 owner = X34
 controller = X34
 add_core = X34

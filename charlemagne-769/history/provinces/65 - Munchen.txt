@@ -1,3 +1,12 @@
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 3
+capital = "M�nchen"
+is_city = yes
+1632.1.1 = { base_tax = 12 base_production = 12 } # Swedish troops ravage the countryside and extort 300.000$ from Munich. 
+1700.1.1 = { base_tax = 14 
+base_production = 14 } 
 owner = BAV
 controller = BAV
 add_core = BAV

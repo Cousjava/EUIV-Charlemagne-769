@@ -1,3 +1,9 @@
+capital = "Chittagong"
+trade_goods = cotton
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
 owner = X02
 controller = X02
 add_core = X02

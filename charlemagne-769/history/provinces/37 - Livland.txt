@@ -1,3 +1,9 @@
+capital = "Fellin"
+trade_goods = grain
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
 owner = Z81
 controller = Z81
 add_core = Z81

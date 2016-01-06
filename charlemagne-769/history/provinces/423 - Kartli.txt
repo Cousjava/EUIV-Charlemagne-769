@@ -1,3 +1,9 @@
+capital = "T'bilisi"
+trade_goods = dyes
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
 owner = Y45
 controller = Y45
 add_core = Y45

@@ -1,3 +1,9 @@
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 2
+capital = "Nottingham"
+is_city = yes # Includes Leicester
 owner = Z18
 controller = Z18
 add_core = Z18

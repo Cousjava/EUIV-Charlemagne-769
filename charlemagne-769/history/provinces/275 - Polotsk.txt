@@ -1,3 +1,9 @@
+base_tax = 7 
+base_production = 7
+trade_goods = iron
+base_manpower = 5
+capital = "Polotsk"
+is_city = yes 
 owner = Y00
 controller = Y00
 add_core = Y00

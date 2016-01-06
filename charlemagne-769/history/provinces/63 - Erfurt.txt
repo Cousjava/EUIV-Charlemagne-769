@@ -1,3 +1,10 @@
+capital = "Erfurt"
+trade_goods = dyes #Woad
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
+1554.3.3 = { capital = "Weimar" }
 owner = Z34
 controller = Z34
 add_core = Z34

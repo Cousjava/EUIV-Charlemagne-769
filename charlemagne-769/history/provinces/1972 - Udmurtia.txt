@@ -1,3 +1,10 @@
+capital = "Izhkar"
+trade_goods = iron
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+1760.1.1 = { capital = "Izhevsk" }
 owner = PRM
 controller = PRM
 add_core = PRM

@@ -1,3 +1,11 @@
+capital = "Lakhnor"
+trade_goods = naval_supplies
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+1657.1.1 = { capital = "Bardhaman" }
+	capital = "Burdwan"
 owner = X16
 controller = X16
 add_core = X16

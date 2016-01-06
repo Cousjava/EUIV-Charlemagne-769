@@ -1,3 +1,9 @@
+base_tax = 7 
+base_production = 8
+trade_goods = fish
+base_manpower = 6
+capital = "K�benhavn"
+is_city = yes
 owner = Z05
 controller = Z05
 add_core = Z05

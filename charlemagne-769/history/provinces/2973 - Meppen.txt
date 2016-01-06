@@ -1,3 +1,13 @@
+trade_goods = cloth
+capital = "Meppen"
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+1643.1.1 = { base_manpower = 1 } # The 30 years war was hard on M�nster. It is one of the two towns where the peace is negotiated. 1643-1648
+ 	base_tax = 8 
+	base_production = 8
+ 	base_manpower = 2
 owner = Z38
 controller = Z38
 add_core = Z38

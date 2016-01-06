@@ -1,3 +1,10 @@
+capital = "Jalandhar"
+trade_goods = cloth #Calicoes and Carpets
+base_tax = 7 
+base_production = 9
+base_manpower = 3
+is_city = yes
+1574.1.1 = { capital = "Amritsar" }
 owner = X22
 controller = X22
 add_core = X22

@@ -1,3 +1,9 @@
+capital = "Vah"
+trade_goods = fur
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
 owner = X07
 controller = X07
 add_core = X07

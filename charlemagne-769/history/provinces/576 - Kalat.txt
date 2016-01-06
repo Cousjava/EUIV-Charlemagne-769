@@ -1,3 +1,9 @@
+capital = "Kalat"
+trade_goods = dyes
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+is_city = yes
 owner = X09
 controller = X09
 add_core = X09

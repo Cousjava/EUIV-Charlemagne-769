@@ -1,3 +1,12 @@
+base_tax = 5
+base_production = 5
+trade_goods = iron 
+base_manpower = 3
+capital = "Nizhny Novgorod"
+is_city = yes
+1560.1.1 = { base_tax = 7 base_production = 7 } # Treasury reform
+1719.1.1 = { base_tax = 8 base_production = 8  } # Governmental reforms and the absolutism, Nizhegorod governorate
+1767.1.1 = { base_tax = 9 base_production = 9 } # Legislative reform
 owner = Y31
 controller = Y31
 add_core = Y31

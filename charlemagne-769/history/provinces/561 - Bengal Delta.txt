@@ -1,3 +1,11 @@
+capital = "Howrah"
+trade_goods = silk
+base_tax = 9
+base_production = 9
+base_manpower = 6
+is_city = yes
+	capital = "Calcutta"
+	base_production = 11
 owner = X17
 controller = X17
 add_core = X17

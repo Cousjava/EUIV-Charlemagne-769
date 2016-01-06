@@ -1,3 +1,9 @@
+base_tax = 2 
+base_production = 2
+trade_goods = wool 
+base_manpower = 2
+capital = "Caceres"
+is_city = yes
 owner = Z45
 controller = Z45
 add_core = Z45

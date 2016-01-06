@@ -1,3 +1,9 @@
+capital = "Tlemcen"
+trade_goods = cloth
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
 owner = Y55
 controller = Y55
 add_core = Y55

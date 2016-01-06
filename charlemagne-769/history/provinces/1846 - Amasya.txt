@@ -1,3 +1,10 @@
+capital = "Amasya"
+trade_goods = iron
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+1740.1.1 = { base_tax = 3 base_production = 3 } # The decentralizing effect of the provincial system
 owner = BYZ
 controller = BYZ
 add_core = BYZ

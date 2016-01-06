@@ -1,3 +1,9 @@
+base_tax = 9 
+base_production = 9    
+trade_goods = grain
+base_manpower = 4    
+capital = "Mantova" 
+is_city = yes
 owner = Z51
 controller = Z51
 add_core = Z51

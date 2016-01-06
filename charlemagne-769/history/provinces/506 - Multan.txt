@@ -1,3 +1,9 @@
+capital = "Multan"
+trade_goods = cloth #Chintz
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes
 owner = X10
 controller = X10
 add_core = X10

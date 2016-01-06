@@ -1,3 +1,9 @@
+base_tax = 7 
+base_production = 7
+trade_goods = cloth	#fustians
+base_manpower = 4
+capital = "Ulm"
+is_city = yes
 owner = Z44
 controller = Z44
 add_core = Z44

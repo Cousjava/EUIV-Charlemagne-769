@@ -1,3 +1,9 @@
+capital = "Auch"
+is_city = yes
+base_tax = 5 
+base_production = 5
+trade_goods = wool
+base_manpower = 5
 owner = Z34
 controller = Z34
 add_core = Z34

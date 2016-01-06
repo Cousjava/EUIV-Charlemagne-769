@@ -1,3 +1,9 @@
+capital = "Skopje"
+trade_goods = iron
+base_tax = 3
+base_production = 4 #Many productive Mines. Main Source of Ottoman Silver in 1444.
+base_manpower = 3
+is_city = yes
 owner = BYZ
 controller = BYZ
 add_core = BYZ

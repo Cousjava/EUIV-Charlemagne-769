@@ -1,3 +1,11 @@
+capital = "Varanasi"
+trade_goods = silk
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+1558.12.1 = { capital = "Chunar" }
+	capital = "Varanasi"
 owner = X14
 controller = X14
 add_core = X14

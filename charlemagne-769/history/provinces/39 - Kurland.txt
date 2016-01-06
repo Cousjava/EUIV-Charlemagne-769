@@ -1,3 +1,9 @@
+base_tax = 4
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Goldingen"
+is_city = yes
 owner = Z80
 controller = Z80
 add_core = Z80

@@ -1,3 +1,9 @@
+capital = "Torun"
+is_city = yes
+trade_goods = grain
+base_tax = 5
+base_production = 5
+base_manpower = 2
 owner = Z79
 controller = Z79
 add_core = Z79

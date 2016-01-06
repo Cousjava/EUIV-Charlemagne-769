@@ -1,3 +1,10 @@
+base_tax = 5 
+base_production = 5
+trade_goods = wool
+base_manpower = 3
+capital = "Chester"
+is_city = yes
+1700.1.1 = { capital = "Liverpool" } # Includes Manchester; Tax Assessor Estimated
 owner = Z27
 controller = Z27
 add_core = Z27

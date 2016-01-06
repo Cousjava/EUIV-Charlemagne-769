@@ -1,3 +1,9 @@
+capital = "Brest"
+is_city = yes
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 4
 owner = Z40
 controller = Z40
 add_core = Z40

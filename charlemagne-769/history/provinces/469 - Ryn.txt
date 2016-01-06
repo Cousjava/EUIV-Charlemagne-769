@@ -1,3 +1,9 @@
+capital = "Ryn"
+trade_goods = fish
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = Y23
 controller = Y23
 add_core = Y23

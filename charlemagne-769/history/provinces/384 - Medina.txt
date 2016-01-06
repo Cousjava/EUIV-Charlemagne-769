@@ -1,3 +1,9 @@
+capital = "Medina"
+trade_goods = cloth
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y42
 controller = Y42
 add_core = Y42

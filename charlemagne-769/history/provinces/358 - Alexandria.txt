@@ -1,3 +1,9 @@
+capital = "Al Iskandirya"
+trade_goods = spices
+base_tax = 7 
+base_production = 7
+base_manpower = 5
+is_city = yes
 owner = Y39
 controller = Y39
 add_core = Y39

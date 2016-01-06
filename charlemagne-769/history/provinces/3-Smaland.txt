@@ -1,16 +1,10 @@
-base_tax = 1 
-base_production = 1
-trade_goods = fish
-base_manpower = 1
-capital = "Steig"
-is_city = yes
-owner = Z63
-controller = Z63
-add_core = Z63
+owner = Z73
+controller = Z73
+add_core = Z73
 culture = norse
 religion = shamanism
 citysize = 2000
-add_core = Z63
+add_core = Z73
 discovered_by = eastern
 discovered_by = western
 discovered_by = ottoman
@@ -18,8 +12,8 @@ discovered_by = ottoman
 	hre = no
 }
 1444.11.11 = {
-	owner = Z63
-	controller = Z63
+	owner = Z73
+	controller = Z73
 	culture = norse
 	religion = shamanism
 }

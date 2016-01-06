@@ -1,3 +1,10 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Skara"
+is_city = yes
+1621.1.1 = { capital = "G�teborg" }
 owner = Z74
 controller = Z74
 add_core = Z74

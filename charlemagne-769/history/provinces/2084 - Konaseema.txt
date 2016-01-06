@@ -1,3 +1,9 @@
+capital = "Rajahmundry"
+trade_goods = iron
+base_tax = 3
+base_production = 5
+base_manpower = 3
+is_city = yes
 owner = Y94
 controller = Y94
 add_core = Y94

@@ -1,3 +1,9 @@
+capital = "Viseu"
+trade_goods = wine
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
 owner = Z45
 controller = Z45
 add_core = Z45

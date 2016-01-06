@@ -1,3 +1,10 @@
+capital = "Hlynov"
+trade_goods = copper
+base_tax = 3 
+base_production = 3
+base_manpower = 4
+is_city = yes
+1780.12.18 = { capital = "Vyatka" }
 owner = PRM
 controller = PRM
 add_core = PRM

@@ -1,3 +1,11 @@
+is_city = yes
+capital = "Gursi"
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+1650.1.1 = { capital = "Biisaga" native_size = 60 } #Mossi expansion shifts capital northward
+1781.1.1 = { capital = "Wahiguya" native_size = 70 } #New capital built by Kango
 owner = Y80
 controller = Y80
 add_core = Y80

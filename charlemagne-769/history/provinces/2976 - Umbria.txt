@@ -1,3 +1,9 @@
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 1
+capital = "Perugia" 
+is_city = yes
 owner = Z53
 controller = Z53
 add_core = Z53

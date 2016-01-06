@@ -1,3 +1,9 @@
+capital = "Figuig"
+trade_goods = cloth
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Y60
 controller = Y60
 add_core = Y60

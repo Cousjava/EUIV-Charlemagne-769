@@ -1,3 +1,9 @@
+capital = "Gyula"
+trade_goods = wine
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = Y06
 controller = Y06
 add_core = Y06

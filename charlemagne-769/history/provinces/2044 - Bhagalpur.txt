@@ -1,3 +1,9 @@
+capital = "Bhagalpur"
+trade_goods = silk
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
 owner = X16
 controller = X16
 add_core = X16

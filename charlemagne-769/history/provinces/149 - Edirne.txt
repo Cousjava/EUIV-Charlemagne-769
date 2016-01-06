@@ -1,3 +1,13 @@
+capital = "Edirne"
+trade_goods = grain
+base_tax = 7
+base_production = 7
+base_manpower = 2
+is_city = yes
+1615.1.1 = { base_tax = 4 
+base_production = 4 } #The Decentralizing Effect of the Provincial System
+1718.1.1 = { unrest = 3 base_tax = 6 
+base_production = 6 } # Lale Devri (the tulip age), not appreciated by everyone 
 owner = BYZ
 controller = BYZ
 add_core = BYZ

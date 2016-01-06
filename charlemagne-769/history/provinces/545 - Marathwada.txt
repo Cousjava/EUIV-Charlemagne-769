@@ -1,3 +1,10 @@
+capital = "Daulatabad"
+trade_goods = grain	#Millet
+base_tax = 6 
+base_production = 5
+base_manpower = 3
+is_city = yes
+1653.1.1 = { capital = "Aurangabad" } # Aurangzeb renames the city
 owner = Y89
 controller = Y89
 add_core = Y89

@@ -1,3 +1,9 @@
+is_city = yes
+capital = "Bilanga"
+trade_goods = ivory
+base_tax = 1 
+base_production = 1
+base_manpower = 1
 owner = Y80
 controller = Y80
 add_core = Y80

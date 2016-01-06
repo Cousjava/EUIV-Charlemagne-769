@@ -1,3 +1,11 @@
+capital = "Pugal"
+trade_goods = wool
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+1485.1.1 = { capital = "Rati Ghati" }
+1488.1.1 = { capital = "Bikaner" }
 owner = Y96
 controller = Y96
 add_core = Y96

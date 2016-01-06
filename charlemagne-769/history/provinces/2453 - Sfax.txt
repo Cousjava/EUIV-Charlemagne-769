@@ -1,3 +1,9 @@
+capital = "Sfax"
+trade_goods = sugar
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+is_city = yes
 owner = Y49
 controller = Y49
 add_core = Y49

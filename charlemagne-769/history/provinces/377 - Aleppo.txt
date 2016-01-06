@@ -1,3 +1,9 @@
+capital = "Halab"
+trade_goods = silk
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
 owner = Y46
 controller = Y46
 add_core = Y46

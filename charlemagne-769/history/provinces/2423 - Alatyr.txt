@@ -1,3 +1,11 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Alatyr"
+is_city = yes
+1560.1.1 = { base_tax = 7 base_production = 7 } # Treasury reform
+1719.1.1 = { base_tax = 8 base_production = 8  } # Governmental reforms and the absolutism, Nizhegorod governorate
 owner = Y32
 controller = Y32
 add_core = Y32

@@ -1,3 +1,9 @@
+is_city = yes
+base_manpower = 1
+capital = "Lulama"
+trade_goods = grain
+base_tax = 3 
+base_production = 3
 owner = Y81
 controller = Y81
 add_core = Y81

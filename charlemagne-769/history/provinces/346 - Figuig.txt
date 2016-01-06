@@ -1,3 +1,9 @@
+capital = "Tafilalt"
+trade_goods = gold
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Y84
 controller = Y84
 add_core = Y84

@@ -1,3 +1,9 @@
+capital = "Shiraz"
+trade_goods = wine
+base_tax = 4 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y38
 controller = Y38
 add_core = Y38

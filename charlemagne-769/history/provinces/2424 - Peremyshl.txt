@@ -1,3 +1,9 @@
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 1
+capital = "Przemysl"
+is_city = yes
 owner = Y17
 controller = Y17
 add_core = Y17

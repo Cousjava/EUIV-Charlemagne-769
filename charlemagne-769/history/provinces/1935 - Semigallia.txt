@@ -1,3 +1,9 @@
+base_tax = 2 
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Mitau"
+is_city = yes # Estimated
 owner = Z80
 controller = Z80
 add_core = Z80

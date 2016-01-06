@@ -1,3 +1,13 @@
+capital = "Charaideo"
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+	capital = "Garhgaon"
+1707.1.1 = { capital = Rangpur }
+ #Rebels strike at the capital
+	capital = "Jorhat"
 owner = X25
 controller = X25
 add_core = X25

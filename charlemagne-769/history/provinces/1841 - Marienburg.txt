@@ -1,3 +1,9 @@
+capital = "Marienburg"
+trade_goods = naval_supplies
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
 owner = Z79
 controller = Z79
 add_core = Z79

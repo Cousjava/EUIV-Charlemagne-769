@@ -1,3 +1,9 @@
+capital = "Samsun"
+trade_goods = wine
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = BYZ
 controller = BYZ
 add_core = BYZ

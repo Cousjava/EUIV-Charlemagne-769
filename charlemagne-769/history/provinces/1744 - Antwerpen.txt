@@ -1,3 +1,9 @@
+is_city = yes
+capital = "Antwerp"
+base_tax = 8 
+base_production = 8
+trade_goods = cloth
+base_manpower = 3
 owner = FLA
 controller = FLA
 add_core = FLA

@@ -1,3 +1,9 @@
+base_tax = 2 
+base_production = 2
+trade_goods = iron
+base_manpower = 2
+capital = "Karlstad"
+is_city = yes
 owner = Z72
 controller = Z72
 add_core = Z72

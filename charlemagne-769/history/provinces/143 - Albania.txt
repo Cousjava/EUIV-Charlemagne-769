@@ -1,3 +1,10 @@
+capital = "Durr�s"
+trade_goods = wool
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
+1614.1.1 = { capital = "Tirana" } # Established by Sulejman Pasha
 owner = BYZ
 controller = BYZ
 add_core = BYZ

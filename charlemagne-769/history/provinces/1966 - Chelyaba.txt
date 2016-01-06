@@ -1,3 +1,10 @@
+capital = "Chelyaba"
+trade_goods = fur
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+1736.1.1 = { capital = "Chelyabinsk" culture = russian religion = orthodox remove_core = BSH }
 owner = Y34
 controller = Y34
 add_core = Y34

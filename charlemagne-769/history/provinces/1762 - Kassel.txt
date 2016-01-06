@@ -1,3 +1,10 @@
+capital = "Kassel"
+trade_goods = grain
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+1685.1.1 = { base_manpower = 2} # Reformed refugees find shelter in Kassel (-> Oberneustadt founded)
 owner = BRU
 controller = BRU
 add_core = BRU

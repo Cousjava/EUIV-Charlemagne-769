@@ -1,3 +1,10 @@
+capital = "Bashkort"
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+1574.1.1 = { capital = "Ufa" culture = russian religion = orthodox remove_core = BSH }
 owner = Y34
 controller = Y34
 add_core = Y34

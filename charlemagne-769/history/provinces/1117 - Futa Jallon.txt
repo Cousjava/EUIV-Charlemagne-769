@@ -1,3 +1,11 @@
+is_city = yes
+base_manpower = 3
+capital = "Timbo"
+trade_goods = ivory
+base_tax = 3 
+base_production = 3
+1504.1.1 = { unrest = 8 } #Koly Tengella launches new wave of Fulani incursions from base in Toro
+1689.1.1 = { unrest = 3 } #Marabout refugees under Maalik Sy establish Muslim state at Bundu as base for spread of jihad in Jallon
 owner = Y80
 controller = Y80
 add_core = Y80

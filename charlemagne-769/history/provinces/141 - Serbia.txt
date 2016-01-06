@@ -1,3 +1,13 @@
+capital = "Kru�evac"
+trade_goods = grain
+base_tax = 5 
+base_production = 4
+base_manpower = 3
+is_city = yes
+1402.1.1 = { capital = "Beograd" }
+1430.1.1 = { capital = "Smederevo" }
+	capital = "Beograd"
+1818.1.1 = { capital = "Kragujevac" }
 owner = Y09
 controller = Y09
 add_core = Y09

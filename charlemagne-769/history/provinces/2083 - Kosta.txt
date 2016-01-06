@@ -1,3 +1,10 @@
+capital = "Udayagiri"
+trade_goods = cotton
+base_tax = 3 
+base_production = 5
+base_manpower = 3
+is_city = yes
+	capital = "Nellore"
 owner = Y88
 controller = Y88
 add_core = Y88

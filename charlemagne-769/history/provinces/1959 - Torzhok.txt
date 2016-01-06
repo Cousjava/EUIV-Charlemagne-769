@@ -1,3 +1,9 @@
+base_tax = 5 
+base_production = 5
+trade_goods = naval_supplies
+base_manpower = 3
+capital = "Torzhok"
+is_city = yes
 owner = Z97
 controller = Z97
 add_core = Z97

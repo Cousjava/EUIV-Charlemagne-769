@@ -1,3 +1,9 @@
+base_tax = 7
+base_production = 8
+trade_goods = cloth
+base_manpower = 4
+capital = "Chelmsford"
+is_city = yes
 owner = Z22
 controller = Z22
 add_core = Z22

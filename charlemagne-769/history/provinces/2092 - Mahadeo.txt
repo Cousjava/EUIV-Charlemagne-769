@@ -1,3 +1,10 @@
+capital = "Kherla"
+trade_goods = tropical_wood
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+	capital = "Deogarh"
 owner = Y92
 controller = Y92
 add_core = Y92

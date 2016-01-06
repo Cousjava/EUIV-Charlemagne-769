@@ -1,3 +1,9 @@
+capital = "Kandahar"
+trade_goods = wool
+base_tax = 1 
+base_production = 1
+base_manpower = 3
+is_city = yes
 owner = Z75
 controller = Z75
 add_core = Z75

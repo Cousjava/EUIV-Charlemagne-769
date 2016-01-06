@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Sassari" 
+is_city = yes 
 owner = BYZ
 controller = BYZ
 add_core = BYZ

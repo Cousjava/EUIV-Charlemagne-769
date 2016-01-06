@@ -1,3 +1,10 @@
+capital = "Aswan"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+base_tax = 2 
+base_production = 2
+1540.1.1 = { owner = TUR controller = TUR capital = "Al Dirr" } #Ottomans occupy Lower Nubia
 owner = Y39
 controller = Y39
 add_core = Y39

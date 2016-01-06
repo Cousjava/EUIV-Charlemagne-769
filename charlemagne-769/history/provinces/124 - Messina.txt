@@ -1,3 +1,9 @@
+base_tax = 6 
+base_production = 6
+trade_goods = fish
+base_manpower = 5
+capital = "Messina"
+is_city = yes 
 owner = BYZ
 controller = BYZ
 add_core = BYZ

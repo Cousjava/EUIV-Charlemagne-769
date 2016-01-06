@@ -1,3 +1,10 @@
+capital = "Adana"
+trade_goods = cotton
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+1740.1.1 = { base_tax = 1 base_production = 1 } # The decentralizing effect of the provincial system
 owner = Y46
 controller = Y46
 add_core = Y46

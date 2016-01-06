@@ -1,3 +1,9 @@
+capital = "Korla"
+trade_goods = grain
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
 owner = X47
 controller = X47
 add_core = X47

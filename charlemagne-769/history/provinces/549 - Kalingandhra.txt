@@ -1,3 +1,9 @@
+capital = "Vizianagaram"
+trade_goods = cotton
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = X00
 controller = X00
 add_core = X00

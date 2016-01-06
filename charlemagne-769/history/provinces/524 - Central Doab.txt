@@ -1,3 +1,13 @@
+capital = "Mathura"
+trade_goods = dyes	#Indigo
+base_tax = 10
+base_production = 11
+base_manpower = 4
+is_city = yes
+1504.1.1 = { capital = "Agra" }
+1571.1.1 = { capital = "Fatehpur Sikri" } #Jama Masjid Fatehpur Sikri
+1585.1.1 = { capital = "Akbarabad" }
+	capital = "Agra"
 owner = X13
 controller = X13
 add_core = X13

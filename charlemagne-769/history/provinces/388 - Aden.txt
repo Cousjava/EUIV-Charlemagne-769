@@ -1,3 +1,9 @@
+capital = "Aden"
+trade_goods = spices
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
 owner = Y63
 controller = Y63
 add_core = Y63

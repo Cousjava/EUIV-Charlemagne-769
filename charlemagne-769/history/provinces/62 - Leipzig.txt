@@ -1,3 +1,9 @@
+capital = "Leipzig"
+trade_goods = wool
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Z34
 controller = Z34
 add_core = Z34

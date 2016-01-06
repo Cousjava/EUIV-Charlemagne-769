@@ -1,3 +1,9 @@
+base_tax = 10 
+base_production = 12    
+trade_goods = wine
+base_manpower = 6    
+capital = "Firenze" 
+is_city = yes 
 owner = Z51
 controller = Z51
 add_core = Z51

@@ -1,3 +1,9 @@
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 2
+capital = "Le�n"
+is_city = yes
 owner = Z50
 controller = Z50
 add_core = Z50

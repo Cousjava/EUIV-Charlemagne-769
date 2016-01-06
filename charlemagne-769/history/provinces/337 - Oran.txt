@@ -1,3 +1,9 @@
+capital = "Oran"
+trade_goods = cloth
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
 owner = Y55
 controller = Y55
 add_core = Y55

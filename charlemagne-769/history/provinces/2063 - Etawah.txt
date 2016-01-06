@@ -1,3 +1,9 @@
+capital = "Etawah"
+trade_goods = dyes
+base_tax = 6 
+base_production = 7
+base_manpower = 3
+is_city = yes
 owner = X11
 controller = X11
 add_core = X11

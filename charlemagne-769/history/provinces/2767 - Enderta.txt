@@ -1,3 +1,9 @@
+capital = "Antalo"
+is_city = yes
+base_manpower = 2
+trade_goods = copper
+base_tax = 1 
+base_production = 1
 owner = Y67
 controller = Y67
 add_core = Y67

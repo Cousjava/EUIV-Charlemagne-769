@@ -1,3 +1,9 @@
+capital = "Palamau"
+trade_goods = ivory
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = X31
 controller = X31
 add_core = X31

@@ -1,3 +1,13 @@
+capital = "Gondar"
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+base_tax = 4
+base_production = 4
+	capital = "Gonder"
+ #Rapid growth of Gonder as royal capital and secure fort
+1766.1.1 = { unrest = 8 } #Civil war between rival Oromo factions in capital
+1767.1.1 = { unrest = 0 } #Ras Mikael intervenes, end Oromo dominance in capital
 owner = Y74
 controller = Y74
 add_core = Y74

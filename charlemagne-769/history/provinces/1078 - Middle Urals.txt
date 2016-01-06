@@ -1,3 +1,12 @@
+capital = "Neromkar"
+trade_goods = unknown
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+	trade_goods = iron
+	is_city = yes 
+1600.1.1 = { capital = "Verkhoturye" }
+1723.5.17 = { capital = "Yekaterinburg" }
 owner = Y76
 controller = Y76
 add_core = Y76

@@ -1,3 +1,9 @@
+capital = "Calais"
+base_tax = 5 
+base_production = 5
+trade_goods = fish
+base_manpower = 3
+is_city = yes
 owner = Z34
 controller = Z34
 add_core = Z34

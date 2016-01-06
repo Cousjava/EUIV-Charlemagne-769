@@ -1,3 +1,9 @@
+base_tax = 4
+base_production = 4
+trade_goods = wool
+base_manpower = 3
+capital = "Stavropol"
+is_city = yes
 owner = Y24
 controller = Y24
 add_core = Y24

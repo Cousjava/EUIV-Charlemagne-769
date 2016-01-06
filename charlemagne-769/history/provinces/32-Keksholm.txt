@@ -1,3 +1,12 @@
+base_tax = 2 
+base_production = 2
+trade_goods = fur
+base_manpower = 1
+capital = "Korela" # initial Russian name
+is_city = yes
+1583.8.10 = { owner = SWE add_core = SWE capital = "Kexholm" } # The Armistice of Plussa
+1595.5.18 = { owner = RUS controller = RUS remove_core = SWE capital = "Korela" } # The Peace of Teusina
+1617.2.27 = { owner = SWE add_core = SWE remove_core = RUS capital = "Kexholm" } # The Peace of Stolbova
 owner = Z90
 controller = Z90
 add_core = Z90

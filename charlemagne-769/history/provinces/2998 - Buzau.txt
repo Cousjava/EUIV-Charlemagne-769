@@ -1,3 +1,10 @@
+capital = "Buzau"
+trade_goods = grain
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+1689.1.1 = { capital = "Bucuresti" }
 owner = WAL
 controller = WAL
 add_core = WAL

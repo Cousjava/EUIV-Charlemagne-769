@@ -1,3 +1,11 @@
+capital = "Stra�burg"
+is_city = yes
+base_tax = 4 
+base_production = 4
+trade_goods = wine
+base_manpower = 5
+1749.1.1 = { base_tax = 8 
+base_production = 8 } # Machault & the 5% tax
 owner = Z44
 controller = Z44
 add_core = Z44

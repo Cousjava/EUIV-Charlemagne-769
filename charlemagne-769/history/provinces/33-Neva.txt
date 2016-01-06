@@ -1,3 +1,11 @@
+base_tax = 3 
+base_production = 3
+trade_goods = fur
+base_manpower = 1
+capital = "Oreshek" # initial Russian name
+is_city = yes
+1617.2.17 = { owner = SWE add_core = SWE remove_core = RUS capital = "N�teborg" } # The Peace of Stolbova, Nyenskans fortress built
+1703.5.27 = { owner = RUS add_core = RUS capital = "St.Petersburg" culture = russian base_tax = 4 base_production = 4 } # St. Petersburg founded, Peter and Paul fortress
 owner = Z98
 controller = Z98
 add_core = Z98

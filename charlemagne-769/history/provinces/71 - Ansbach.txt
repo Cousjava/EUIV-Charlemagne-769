@@ -1,3 +1,9 @@
+trade_goods = salt
+capital = "Hall"
+is_city = yes
+base_manpower = 1
+base_tax = 3
+base_production = 3
 owner = Z36
 controller = Z36
 add_core = Z36

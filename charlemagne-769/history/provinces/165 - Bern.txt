@@ -1,3 +1,9 @@
+capital = "Bern"
+trade_goods = iron
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
 owner = Z44
 controller = Z44
 add_core = Z44

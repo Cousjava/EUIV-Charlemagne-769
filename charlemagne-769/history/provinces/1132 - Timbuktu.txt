@@ -1,3 +1,9 @@
+is_city = yes
+base_manpower = 2
+capital = "Timbuktu"
+trade_goods = cloth
+base_tax = 8
+base_production = 8
 owner = Y80
 controller = Y80
 add_core = Y80

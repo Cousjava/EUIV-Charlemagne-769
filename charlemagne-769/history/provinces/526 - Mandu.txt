@@ -1,3 +1,10 @@
+capital = "Mandu"
+trade_goods = dyes
+base_tax = 6 
+base_production = 7
+base_manpower = 4
+is_city = yes
+	capital = "Indore"
 owner = Y95
 controller = Y95
 add_core = Y95

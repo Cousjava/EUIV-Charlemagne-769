@@ -1,3 +1,9 @@
+base_tax = 4 
+base_production = 3
+trade_goods = wool  
+base_manpower = 2
+capital = "Pinsk"
+is_city = yes
 owner = Y20
 controller = Y20
 add_core = Y20

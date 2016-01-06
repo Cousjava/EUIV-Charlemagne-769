@@ -1,3 +1,11 @@
+base_tax = 2 
+base_production = 3
+trade_goods = fur 
+base_manpower = 1
+capital = "Soroka"
+is_city = yes
+1554.1.1 = { capital = "Novokholmogory" } # Richard Chancellor discovers the northern route, trade begins
+1584.1.1 = { capital = "Archangelsk" }
 owner = Z92
 controller = Z92
 add_core = Z92

@@ -1,3 +1,10 @@
+capital = "Chimgi-Tura"
+trade_goods = fur
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+1586.1.1 = { capital = "Tyumen"} # Tyumen is founded
 owner = Y77
 controller = Y77
 add_core = Y77

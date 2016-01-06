@@ -1,3 +1,9 @@
+capital = "Maydh"
+trade_goods = grain
+is_city = yes
+base_tax = 1 
+base_production = 1
+base_manpower = 2 #home of clan
 owner = Y65
 controller = Y65
 add_core = Y65

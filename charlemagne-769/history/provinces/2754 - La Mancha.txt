@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = gold #Almad�n
+base_manpower = 3
+capital = "Ciudad Real" 
+is_city = yes
 owner = Z45
 controller = Z45
 add_core = Z45

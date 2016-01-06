@@ -1,3 +1,12 @@
+capital = "Alwar"
+trade_goods = cloth #Carpets
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+	capital = "Deeg"
+1733.1.1 = { capital = "Bharatpur" }
+	capital = "Alwar"
 owner = X39
 controller = X39
 add_core = X39

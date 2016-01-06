@@ -1,3 +1,12 @@
+capital = "Metz"
+is_city = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 5
+1475.11.30 = { owner = BUR controller = BUR capital = "Thionville" unrest = 5 } # Charles the Bold annexes Lorraine
+1477.1.5 = { revolt = {} owner = LOR controller = LOR capital = "Metz" remove_core = BUR unrest = 0 } # Charles the Bold dies and Lorraine is re-established
+1749.1.1 = { base_tax = 8 base_production = 8 } # Machault & the 5% tax
 owner = Z43
 controller = Z43
 add_core = Z43

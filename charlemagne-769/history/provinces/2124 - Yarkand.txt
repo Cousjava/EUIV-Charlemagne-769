@@ -1,3 +1,9 @@
+capital = "Yarkant"
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = X45
 controller = X45
 add_core = X45

@@ -1,3 +1,14 @@
+base_tax = 5 
+base_production = 5
+trade_goods = iron 
+base_manpower = 3
+capital = "Tula"
+is_city = yes
+1598.1.7 = { unrest = 5 base_manpower = 4 } # "Time of troubles", peasantry brought into serfdom
+1711.1.1 = { base_tax = 4 base_production = 4 } # Governmental reforms and the absolutism
+1712.1.1 = { trade_goods = iron } # Center of the ironworking industry, first arms factory in Russia
+1767.1.1 = { base_tax = 5 base_production = 5 } # Legislative reform
+1771.1.1 = { base_tax = 4 base_production = 4 }
 owner = Y30
 controller = Y30
 add_core = Y30

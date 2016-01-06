@@ -1,3 +1,9 @@
+capital = "Gauhauti"
+trade_goods = cotton
+base_tax = 2 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = X25
 controller = X25
 add_core = X25

@@ -1,3 +1,11 @@
+capital = "Kotharia"
+trade_goods = gold #Silver and Zink mines
+#trade_goods = coper #Zink and Silver mines
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+1568.1.1 = { capital = "Udaipur" } #Udaipur
 owner = Y99
 controller = Y99
 add_core = Y99

@@ -1,3 +1,11 @@
+base_tax = 5 
+base_production = 5
+trade_goods = grain
+base_manpower = 4
+capital = "Linz" 
+is_city = yes
+1650.1.1 = { base_manpower = 2 }
+1700.1.1 = { base_manpower = 3 }
 owner = BAV
 controller = BAV
 add_core = BAV

@@ -1,3 +1,9 @@
+capital = "Nalchik"
+trade_goods = wine
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
 owner = Y25
 controller = Y25
 add_core = Y25

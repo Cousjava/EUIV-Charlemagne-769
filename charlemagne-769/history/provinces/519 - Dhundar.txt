@@ -1,3 +1,10 @@
+capital = "Amber"
+trade_goods = copper
+base_tax = 4 
+base_production = 3
+base_manpower = 3
+is_city = yes
+1727.1.1 = { capital = "Jaipur" } # Jaipur founded
 owner = Y96
 controller = Y96
 add_core = Y96

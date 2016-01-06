@@ -1,3 +1,11 @@
+capital = "Nicosia"
+trade_goods = wine
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+1690.1.1 = { base_tax = 6 
+base_production = 6 } # The Decentralizing effect of the provincial system
 owner = Y46
 controller = Y46
 add_core = Y46

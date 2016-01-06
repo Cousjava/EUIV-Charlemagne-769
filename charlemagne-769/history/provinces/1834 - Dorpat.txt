@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Dorpat"
+is_city = yes
 owner = Z81
 controller = Z81
 add_core = Z81

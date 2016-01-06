@@ -1,3 +1,9 @@
+base_tax = 4
+base_production = 4
+trade_goods = wool 
+base_manpower = 4
+capital = "Badajoz" 
+is_city = yes
 owner = Z45
 controller = Z45
 add_core = Z45

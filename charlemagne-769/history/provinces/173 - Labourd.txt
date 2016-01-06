@@ -1,3 +1,9 @@
+capital = "Bayonne"
+is_city = yes
+base_tax = 3 
+base_production = 3
+trade_goods = wine
+base_manpower = 4
 owner = Z34
 controller = Z34
 add_core = Z34

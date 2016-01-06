@@ -1,3 +1,9 @@
+base_tax = 9
+base_production = 9
+trade_goods = cloth
+base_manpower = 5
+capital = "Chamb�ry"
+is_city = yes	
 owner = Z43
 controller = Z43
 add_core = Z43

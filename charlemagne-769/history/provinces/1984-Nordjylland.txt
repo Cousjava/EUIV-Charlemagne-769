@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Aalborg"
+is_city = yes
 owner = Z05
 controller = Z05
 add_core = Z05

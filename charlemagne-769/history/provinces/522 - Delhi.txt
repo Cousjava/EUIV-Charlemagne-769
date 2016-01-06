@@ -1,3 +1,12 @@
+capital = "Delhi"
+trade_goods = silk
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes	#Still Recovering after sack by Timur
+	capital = "Shahjahanabad"
+} # Delhi became the capital & grew in importance again
+1784.1.1 = { capital = "Delhi" } # The Marathas install puppet
 owner = X39
 controller = X39
 add_core = X39

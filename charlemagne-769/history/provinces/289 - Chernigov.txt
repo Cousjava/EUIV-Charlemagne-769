@@ -1,3 +1,9 @@
+base_tax = 5
+base_production = 5
+trade_goods = iron 
+base_manpower = 3
+capital = "Chernigov"
+is_city = yes
 owner = Y22
 controller = Y22
 add_core = Y22

@@ -1,3 +1,9 @@
+capital = "Patan"
+trade_goods = cloth
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = X08
 controller = X08
 add_core = X08

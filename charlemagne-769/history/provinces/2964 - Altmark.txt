@@ -1,3 +1,11 @@
+base_tax = 4
+base_production = 4
+trade_goods = cloth
+base_manpower = 2
+capital = "Stendal"
+is_city = yes
+1725.1.1 = { base_manpower = 4 }
+1750.1.1 = { base_manpower = 5 base_tax = 10 base_production = 10 }
 owner = Z38
 controller = Z38
 add_core = Z38

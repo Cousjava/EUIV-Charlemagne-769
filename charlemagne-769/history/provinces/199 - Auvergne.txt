@@ -1,3 +1,10 @@
+capital = "Clermont"
+is_city = yes
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 3
+1630.4.15 = { capital = "Clermont-Ferrand" } # Cities of Clermont & Ferrand merged
 owner = Z43
 controller = Z43
 add_core = Z43

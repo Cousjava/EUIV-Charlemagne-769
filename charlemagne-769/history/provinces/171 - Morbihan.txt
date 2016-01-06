@@ -1,3 +1,10 @@
+capital = "Rohan"
+is_city = yes
+base_tax = 4 
+base_production = 4
+trade_goods = fish
+base_manpower = 4
+1650.1.1 = { capital = "Lorient" }
 owner = Z42
 controller = Z42
 add_core = Z42

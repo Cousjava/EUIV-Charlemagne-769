@@ -1,3 +1,15 @@
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 5
+capital = "Novy Nizovoy"
+is_city = yes
+1444.1.1 = { add_core = QAS capital = "Kasimov" }
+1598.1.7 = { unrest = 5 base_manpower = 6 } # "Time of troubles", peasantry brought into serfdom
+1711.1.1 = { base_tax = 7 
+base_production = 7 } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 8 
+base_production = 8 } # Legislative reform
 owner = Y31
 controller = Y31
 add_core = Y31

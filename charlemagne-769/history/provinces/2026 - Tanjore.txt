@@ -1,3 +1,10 @@
+capital = "Thanjavur"
+trade_goods = cloth
+base_tax = 8 
+base_production = 9
+base_manpower = 4
+is_city = yes
+	capital = Tanjore
 owner = Y88
 controller = Y88
 add_core = Y88

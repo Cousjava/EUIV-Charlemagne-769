@@ -1,3 +1,9 @@
+capital = "Ajmer"
+trade_goods = salt
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y97
 controller = Y97
 add_core = Y97

@@ -1,3 +1,13 @@
+base_tax = 4
+base_production = 4
+trade_goods = iron
+base_manpower = 4
+capital = "Potsdam"
+is_city = yes
+	base_tax = 8 
+	base_production = 8
+	base_manpower = 7
+1750.1.1 = { base_manpower = 8}
 owner = Z78
 controller = Z78
 add_core = Z78

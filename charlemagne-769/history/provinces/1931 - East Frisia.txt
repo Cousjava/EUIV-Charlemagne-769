@@ -1,3 +1,9 @@
+capital = "Emden"
+trade_goods = salt
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
 owner = Z37
 controller = Z37
 add_core = Z37

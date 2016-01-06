@@ -1,3 +1,11 @@
+base_tax = 4 
+base_production = 4
+trade_goods = grain
+base_manpower = 2
+capital = "Carrickfergus"
+is_city = yes
+	capital = Belfast
+1711.1.1 = { trade_goods = cloth } # Formation of Linen Board
 owner = Z03
 controller = Z03
 add_core = Z03

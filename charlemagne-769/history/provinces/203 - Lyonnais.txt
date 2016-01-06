@@ -1,3 +1,9 @@
+capital = "Lyon"
+is_city = yes
+base_tax = 8
+base_production = 8
+trade_goods = grain
+base_manpower = 8
 owner = Z43
 controller = Z43
 add_core = Z43

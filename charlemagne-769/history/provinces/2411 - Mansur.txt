@@ -1,3 +1,10 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 3
+capital = "Mansur"
+is_city = yes
+1739.9.29 = { owner = RUS add_core = RUS remove_core = TUR capital = "Ekaterinoslav" } # Treaty of Belgrad
 owner = Y18
 controller = Y18
 add_core = Y18

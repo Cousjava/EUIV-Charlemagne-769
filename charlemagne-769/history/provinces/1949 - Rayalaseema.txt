@@ -1,3 +1,14 @@
+capital = "Penukonda"
+trade_goods = cotton
+base_tax = 4
+base_production = 3
+base_manpower = 3
+is_city = yes
+1565.7.1 = { capital = "Penukonda" } # The Vijayanagar empire collapses, the Nayaks proclaimed themselves rulers
+1592.1.1 = { capital = "Chandragiri" }
+	capital = "Tirupati"
+	capital = "Kadapa"
+	capital = "Cuddapah"
 owner = Y88
 controller = Y88
 add_core = Y88

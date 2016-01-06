@@ -1,3 +1,9 @@
+base_tax = 7
+base_production = 7
+trade_goods = fish
+base_manpower = 5
+capital = "Hamburg"
+is_city = yes
 owner = Z38
 controller = Z38
 add_core = Z38

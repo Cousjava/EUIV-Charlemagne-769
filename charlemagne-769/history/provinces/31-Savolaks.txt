@@ -1,3 +1,11 @@
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Olofsborg"
+is_city = yes
+1600.1.1 = { trade_goods = naval_supplies }
+1639.1.1 = { capital = "Nyslott" } # Unknown date
 owner = Z89
 controller = Z89
 add_core = Z89

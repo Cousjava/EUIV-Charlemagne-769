@@ -1,3 +1,11 @@
+capital = "Larissa"
+trade_goods = grain
+base_tax = 6 
+base_production = 6
+base_manpower = 2
+is_city = yes
+1615.1.1 = { base_tax = 8 
+base_production = 8 } #The Decentralizing Effect of the Provincial System
 owner = BYZ
 controller = BYZ
 add_core = BYZ

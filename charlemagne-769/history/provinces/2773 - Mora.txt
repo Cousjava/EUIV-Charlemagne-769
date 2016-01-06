@@ -1,3 +1,10 @@
+capital = "Ali Sabieh"
+is_city = yes
+base_manpower = 1
+trade_goods = coffee
+base_tax = 1 
+base_production = 1
+1520.1.1 = { capital = "Harer" } # Adal Sultans shift capital
 owner = Y66
 controller = Y66
 add_core = Y66

@@ -1,3 +1,10 @@
+capital = "Damghan"
+trade_goods = dyes
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+1715.12.1 = { base_tax = 4 base_production = 4 } # Political fragmentation
 owner = Y37
 controller = Y37
 add_core = Y37

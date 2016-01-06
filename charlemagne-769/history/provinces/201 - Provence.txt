@@ -1,3 +1,10 @@
+capital = "Aix-en-Provence"
+is_city = yes
+base_tax = 7 
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+1650.1.1 = { capital = "Marseille" } # Marseille becomes the primary city in the region
 owner = PRO
 controller = PRO
 add_core = PRO

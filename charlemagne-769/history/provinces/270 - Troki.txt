@@ -1,3 +1,9 @@
+capital = "Trakai"
+trade_goods = grain
+base_tax = 4 
+base_production = 4
+base_manpower = 2 
+is_city = yes
 owner = Y01
 controller = Y01
 add_core = Y01

@@ -1,3 +1,9 @@
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Lerwick"
+is_city = yes # Estimated
 owner = Z25
 controller = Z25
 add_core = Z25

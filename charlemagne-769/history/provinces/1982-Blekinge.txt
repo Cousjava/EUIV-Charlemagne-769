@@ -1,3 +1,11 @@
+base_tax = 2 
+base_production = 2
+trade_goods = fish
+base_manpower = 1
+capital = "Ronneby"
+is_city = yes
+	capital = "Karlskrona" 
+	shipyard = yes		# Karlskrona issued as naval base by KXI
 owner = Z05
 controller = Z05
 add_core = Z05

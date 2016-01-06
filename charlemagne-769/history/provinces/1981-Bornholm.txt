@@ -1,3 +1,9 @@
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Ronne"
+is_city = yes
 owner = Z70
 controller = Z70
 add_core = Z70

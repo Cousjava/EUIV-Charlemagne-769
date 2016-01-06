@@ -1,3 +1,11 @@
+capital = "Jalor"
+trade_goods = cotton
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+	capital = "Palanpur"
+	capital = "Jalor"
 owner = Y97
 controller = Y97
 add_core = Y97

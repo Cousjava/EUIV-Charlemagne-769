@@ -1,3 +1,10 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Link�ping"
+is_city = yes # Estimated
+1690.1.1 = { capital = "Norrk�ping" }
 owner = Z73
 controller = Z73
 add_core = Z73

@@ -1,3 +1,13 @@
+capital = "Nemours"
+is_city = yes
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 6
+1621.1.1 = { base_tax = 7 
+base_production = 7 } # Richelieu
+1773.1.1 = { base_tax = 8 
+base_production = 8 } # Turgot and the Economic Reforms
 owner = Z43
 controller = Z43
 add_core = Z43

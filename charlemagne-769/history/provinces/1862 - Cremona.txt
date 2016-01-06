@@ -1,3 +1,9 @@
+base_tax = 8
+base_production = 8 
+trade_goods = grain
+base_manpower = 4
+capital = "Cremona"
+is_city = yes	# Estimated
 owner = Z51
 controller = Z51
 add_core = Z51

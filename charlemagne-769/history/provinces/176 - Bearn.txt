@@ -1,3 +1,9 @@
+capital = "Pau"
+is_city = yes
+base_tax = 4 
+base_production = 4
+trade_goods = wool
+base_manpower = 4
 owner = Z34
 controller = Z34
 add_core = Z34

@@ -1,3 +1,11 @@
+base_tax = 5 
+base_production = 5
+trade_goods = wine
+base_manpower = 5
+capital = "Kaffa"
+is_city = yes
+1475.5.1 = { owner = TUR controller = TUR add_core = TUR remove_core = GEN culture = turkish religion = sunni capital = "Kefe" } # Seized by Gedik Ahmet Pasha, population displaced
+1804.1.1 = { capital = "Feodosiya" } # The city is renamed
 owner = BYZ
 controller = BYZ
 add_core = BYZ

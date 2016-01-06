@@ -1,3 +1,9 @@
+capital = "Urzhar"
+trade_goods = salt
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = X04
 controller = X04
 add_core = X04

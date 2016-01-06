@@ -1,3 +1,9 @@
+capital = "Hamedan"
+trade_goods = cloth
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = Y38
 controller = Y38
 add_core = Y38

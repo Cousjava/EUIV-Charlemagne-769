@@ -1,3 +1,12 @@
+capital = "Dabareq"
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+base_tax = 1 
+base_production = 1
+1636.1.1 = { capital = "Gonder" } #Royal center of Gonder established
+1766.1.1 = { unrest = 8 } #Civil war between rival Oromo factions in capital
+1767.1.1 = { unrest = 0 } #Ras Mikael intervenes, end Oromo dominance in capital
 owner = X41
 controller = X41
 add_core = X41

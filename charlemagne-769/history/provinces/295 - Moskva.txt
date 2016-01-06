@@ -1,3 +1,13 @@
+base_tax = 8 
+base_production = 8
+trade_goods = grain 
+base_manpower = 8
+capital = "Moskva"
+is_city = yes
+1560.1.1 = { base_tax = 14 base_production = 14 } # Treasury reform
+1580.1.1 = { base_tax = 13 base_production = 13 }
+1711.1.1 = { base_tax = 14 base_production = 14  } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 15 base_production = 15 } # Legislative reform
 owner = Y28
 controller = Y28
 add_core = Y28

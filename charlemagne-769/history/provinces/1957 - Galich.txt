@@ -1,3 +1,10 @@
+capital = "Galich"
+trade_goods = salt
+base_tax = 5 
+base_production = 8 #Huge Salt Mine
+base_manpower = 2
+is_city = yes
+1598.1.7 = { unrest = 5 base_manpower = 3 } # "Time of troubles", peasantry brought into serfdom
 owner = Z96
 controller = Z96
 add_core = Z96

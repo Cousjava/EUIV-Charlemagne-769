@@ -1,3 +1,9 @@
+capital = "Kem"
+is_city = yes
+base_tax = 1 
+base_production = 1
+trade_goods = salt
+base_manpower = 1
 owner = Z87
 controller = Z87
 add_core = Z87

@@ -1,3 +1,10 @@
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Fr�s�n"
+is_city = yes
+1786.10.23 = { capital = "�stersund" }
 owner = Z67
 controller = Z67
 add_core = Z67

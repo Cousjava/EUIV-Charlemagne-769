@@ -1,3 +1,9 @@
+capital = "Srikakulam"
+trade_goods = sugar
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = X01
 controller = X01
 add_core = X01

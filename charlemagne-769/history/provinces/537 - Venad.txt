@@ -1,3 +1,11 @@
+capital = "Quilon"
+trade_goods = spices
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
+1550.1.1 = { capital = "Padmanabhapuram" }
+1795.1.1 = { capital = "Thiruvananthapuram" } # Rama Varma moved the capital
 owner = Y87
 controller = Y87
 add_core = Y87

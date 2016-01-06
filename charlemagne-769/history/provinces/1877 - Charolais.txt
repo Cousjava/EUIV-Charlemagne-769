@@ -1,3 +1,9 @@
+capital = "Charolles"
+is_city = yes
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 3
 owner = BUR
 controller = BUR
 add_core = BUR

@@ -1,3 +1,9 @@
+capital = "Harer"
+is_city = yes
+base_manpower = 3
+trade_goods = coffee
+base_tax = 3 
+base_production = 3
 owner = Y66
 controller = Y66
 add_core = Y66

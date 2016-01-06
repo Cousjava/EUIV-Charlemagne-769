@@ -1,3 +1,9 @@
+capital = "Grenoble"
+is_city = yes
+base_tax = 5 
+base_production = 5
+trade_goods = wool
+base_manpower = 5
 owner = Z43
 controller = Z43
 add_core = Z43

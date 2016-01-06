@@ -1,3 +1,11 @@
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Mdina" 
+is_city = yes
+	capital = "Birgu"
+1566.3.28 = { capital = "Valletta" }
 owner = BYZ
 controller = BYZ
 add_core = BYZ

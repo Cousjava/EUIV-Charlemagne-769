@@ -1,3 +1,9 @@
+capital = "Halaib"
+is_city = yes
+base_manpower = 1
+trade_goods = slaves
+base_tax = 1 
+base_production = 1
 owner = X35
 controller = X35
 add_core = X35

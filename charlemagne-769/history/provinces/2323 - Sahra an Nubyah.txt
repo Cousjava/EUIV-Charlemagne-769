@@ -1,3 +1,9 @@
+capital = "Sahra an N�byah"
+is_city = yes
+base_manpower = 1
+trade_goods = slaves
+base_tax = 1 
+base_production = 1
 owner = Y48
 controller = Y48
 add_core = Y48

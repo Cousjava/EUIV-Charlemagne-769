@@ -1,3 +1,11 @@
+capital = "Meissen"
+trade_goods = iron
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+1423.1.6 = { owner = SAX controller = SAX add_core = SAX remove_core = MEI capital = "Dresden" } # Incorporated into Saxony
+1464.1.1 = { capital = "Dresden" }
 owner = BOH
 controller = BOH
 add_core = BOH

@@ -1,3 +1,9 @@
+base_tax = 3
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "Tyn"
+is_city = yes
 owner = Y23
 controller = Y23
 add_core = Y23

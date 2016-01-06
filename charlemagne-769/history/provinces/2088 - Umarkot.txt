@@ -1,3 +1,10 @@
+capital = "Umarkot"
+trade_goods = cloth
+base_tax = 3 
+base_production = 2
+base_manpower = 2
+is_city = yes
+1768.1.1 = { capital = "Hyderabad" }
 owner = X09
 controller = X09
 add_core = X09

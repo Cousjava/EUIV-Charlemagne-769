@@ -1,3 +1,9 @@
+capital = "Silistra"
+trade_goods = fish
+base_tax = 4
+base_production = 4
+base_manpower = 4
+is_city = yes
 owner = Y10
 controller = Y10
 add_core = Y10

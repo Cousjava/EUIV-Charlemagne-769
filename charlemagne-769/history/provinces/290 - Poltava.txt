@@ -1,3 +1,9 @@
+base_tax = 4 
+base_production = 4
+trade_goods = grain
+base_manpower = 3
+capital = "Poltava"
+is_city = yes
 owner = Y18
 controller = Y18
 add_core = Y18

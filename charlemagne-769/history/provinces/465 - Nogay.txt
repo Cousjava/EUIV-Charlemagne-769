@@ -1,3 +1,11 @@
+capital = "Saraychik"
+trade_goods = salt
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+	capital = "Nizhny Yaitsky Gorodok" 
+1708.1.1 = { capital = "Guryev" } # City renamed
 owner = Y35
 controller = Y35
 add_core = Y35

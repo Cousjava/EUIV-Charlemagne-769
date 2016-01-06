@@ -1,3 +1,9 @@
+capital = "Maymana"
+trade_goods = cotton
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y37
 controller = Y37
 add_core = Y37

@@ -1,3 +1,9 @@
+capital = "Corfu"
+trade_goods = fish
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
 owner = BYZ
 controller = BYZ
 add_core = BYZ

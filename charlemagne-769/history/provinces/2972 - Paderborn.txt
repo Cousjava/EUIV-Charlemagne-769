@@ -1,3 +1,9 @@
+trade_goods = wool
+capital = "Paderborn"
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes # Paderborn is through its history dependant on M�nster and K�ln.
 owner = BRU
 controller = BRU
 add_core = BRU

@@ -1,3 +1,9 @@
+capital = "Zayla"
+is_city = yes
+base_manpower = 2
+trade_goods = slaves
+base_tax = 3
+base_production = 3
 owner = Y66
 controller = Y66
 add_core = Y66

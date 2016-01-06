@@ -1,3 +1,10 @@
+base_tax = 6 
+base_production = 7
+trade_goods = cloth
+base_manpower = 3
+capital = "York"
+is_city = yes
+1750.1.1 = { capital = "Leeds"  }
 owner = Z27
 controller = Z27
 add_core = Z27

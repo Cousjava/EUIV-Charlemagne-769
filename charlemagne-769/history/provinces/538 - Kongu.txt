@@ -1,3 +1,9 @@
+capital = "Coimbatore"
+trade_goods = grain
+base_tax = 3 
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Y87
 controller = Y87
 add_core = Y87

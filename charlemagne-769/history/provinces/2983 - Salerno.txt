@@ -1,3 +1,9 @@
+base_tax = 5
+base_production = 1
+trade_goods = fish 
+base_manpower = 5
+capital = "Salerno" 
+is_city = yes	# Estimated
 owner = Z52
 controller = Z52
 add_core = Z52

@@ -1,3 +1,10 @@
+is_city = yes
+base_manpower = 2
+capital = "Kirina"
+trade_goods = grain
+base_tax = 5 
+base_production = 5
+1620.1.1 = { revolt = {} owner = SOF controller = SOF add_core = SOF capital = "Segu" } # rise of Bambara state 
 owner = Y80
 controller = Y80
 add_core = Y80

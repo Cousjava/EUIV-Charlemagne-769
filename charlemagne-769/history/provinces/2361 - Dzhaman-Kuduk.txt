@@ -1,3 +1,9 @@
+capital = "Dzhaman-Kuduk"
+trade_goods = grain
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = X33
 controller = X33
 add_core = X33

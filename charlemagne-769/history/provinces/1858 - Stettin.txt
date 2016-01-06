@@ -1,3 +1,12 @@
+trade_goods = naval_supplies
+base_tax = 4
+base_production = 4
+base_manpower = 2
+capital = "Stettin"
+is_city = yes
+1725.1.1 = { base_tax = 8 
+base_production = 8 }
+1750.1.1 = { base_manpower = 6 }
 owner = POM
 controller = POM
 add_core = POM

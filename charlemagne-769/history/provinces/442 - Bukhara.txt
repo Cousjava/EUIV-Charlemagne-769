@@ -1,3 +1,10 @@
+capital = "Bukhara"
+trade_goods = salt
+base_tax = 5 
+base_production = 5
+base_manpower = 5
+is_city = yes
+1533.1.1 = { base_tax = 7 } # Bukhara becomes capital
 owner = Y36
 controller = Y36
 add_core = Y36

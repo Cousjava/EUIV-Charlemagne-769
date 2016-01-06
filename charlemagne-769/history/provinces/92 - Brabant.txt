@@ -1,3 +1,9 @@
+is_city = yes
+capital = "Brussel"
+base_tax = 8 
+base_production = 8
+trade_goods = cloth
+base_manpower = 4
 owner = HOL
 controller = HOL
 add_core = HOL

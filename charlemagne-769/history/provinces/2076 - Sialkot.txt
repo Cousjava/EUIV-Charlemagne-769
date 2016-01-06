@@ -1,3 +1,9 @@
+capital = "Sialkot"
+trade_goods = salt
+base_tax = 7 
+base_production = 9
+base_manpower = 4
+is_city = yes
 owner = X21
 controller = X21
 add_core = X21

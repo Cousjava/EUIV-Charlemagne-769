@@ -1,3 +1,9 @@
+capital = "Nevers"
+is_city = yes
+base_tax = 6 
+base_production = 6
+trade_goods = grain
+base_manpower = 4
 owner = BUR
 controller = BUR
 add_core = BUR

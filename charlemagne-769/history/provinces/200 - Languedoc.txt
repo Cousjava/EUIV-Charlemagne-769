@@ -1,3 +1,9 @@
+capital = "Montpellier"
+is_city = yes
+base_tax = 7
+base_production = 7
+trade_goods = cloth
+base_manpower = 6
 owner = TOU
 controller = TOU
 add_core = TOU

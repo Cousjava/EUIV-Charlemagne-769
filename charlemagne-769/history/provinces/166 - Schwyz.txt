@@ -1,3 +1,9 @@
+capital = "Schwyz"
+trade_goods = iron
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Z44
 controller = Z44
 add_core = Z44

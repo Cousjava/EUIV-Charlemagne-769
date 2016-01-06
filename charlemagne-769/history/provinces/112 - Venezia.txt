@@ -1,3 +1,9 @@
+base_tax = 10 
+base_production = 12 
+trade_goods = cloth
+base_manpower = 5 
+capital = "Venezia" 
+is_city = yes	# Estimated 
 owner = VEN
 controller = VEN
 add_core = VEN

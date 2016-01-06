@@ -1,3 +1,13 @@
+trade_goods = grain
+capital = "K�ln"
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+1638.1.1 = { base_tax = 10 
+base_production = 10 } # K�ln manages to stay neutral in the 30 years war and prospers through weapon sales. 
+1716.1.1 = { base_tax = 12 
+base_production = 12 } # Farnia begins exporting "Eau de Cologne" 
 owner = Z34
 controller = Z34
 add_core = Z34

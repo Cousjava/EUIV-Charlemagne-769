@@ -1,3 +1,9 @@
+capital = "Srinagar"
+trade_goods = cloth
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = X21
 controller = X21
 add_core = X21

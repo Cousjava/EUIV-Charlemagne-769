@@ -1,3 +1,9 @@
+capital = "At Tur"
+trade_goods = salt
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = Y39
 controller = Y39
 add_core = Y39

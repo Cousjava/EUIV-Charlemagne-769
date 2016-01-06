@@ -1,3 +1,9 @@
+capital = "Iglino"
+trade_goods = fur
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
 owner = Y78
 controller = Y78
 add_core = Y78

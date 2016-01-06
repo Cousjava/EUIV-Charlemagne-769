@@ -1,3 +1,9 @@
+capital = "Surguja"
+trade_goods = cotton
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = X20
 controller = X20
 add_core = X20

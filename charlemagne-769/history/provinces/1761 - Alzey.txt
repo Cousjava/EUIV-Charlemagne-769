@@ -1,3 +1,11 @@
+capital = "Worms"
+trade_goods = wine
+base_tax = 6 
+base_production = 6
+base_manpower = 3
+is_city = yes
+1689.8.1 = { base_tax = 5 
+base_production = 5 controller = FRA } # French troops burn, pillage and destroy in the succession wars.
 owner = Z34
 controller = Z34
 add_core = Z34

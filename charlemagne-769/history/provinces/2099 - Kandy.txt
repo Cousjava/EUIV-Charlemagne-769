@@ -1,3 +1,10 @@
+capital = "Gampala"
+trade_goods = spices
+base_tax = 2 
+base_production = 3
+base_manpower = 2
+is_city = yes
+	capital = "Kandy"
 owner = X28
 controller = X28
 add_core = X28

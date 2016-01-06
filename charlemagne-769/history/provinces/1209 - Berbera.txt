@@ -1,3 +1,9 @@
+capital = "Berbera"
+is_city = yes
+base_manpower = 2
+trade_goods = slaves
+base_tax = 4 
+base_production = 4
 owner = Y65
 controller = Y65
 add_core = Y65

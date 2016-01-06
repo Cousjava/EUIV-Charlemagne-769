@@ -1,3 +1,9 @@
+capital = "Vilna"
+is_city = yes
+trade_goods = grain
+base_tax = 6 
+base_production = 6
+base_manpower = 4
 owner = Y01
 controller = Y01
 add_core = Y01

@@ -1,3 +1,15 @@
+base_tax = 4
+base_production = 4
+trade_goods = gold
+base_manpower = 2
+capital = "Innsbruck" 
+is_city = yes
+1511.6.23 = { base_manpower = 1 } # Landslibell - Tyrolean's only military duty is the defense of their homeland.
+1577.1.1 = { base_tax = 7 
+base_production = 7 } # Minting moves from Meran to Hall
+1602.1.1 = { base_tax = 8 
+base_production = 8 } # Maximilian's economic reforms
+1665.6.25 = { base_manpower = 1 } # base_manpower decreased as Landslibell is still in effect under foreign governance
 owner = BAV
 controller = BAV
 add_core = BAV

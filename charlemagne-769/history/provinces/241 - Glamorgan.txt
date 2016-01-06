@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = iron
+base_manpower = 2
+capital = "Carmarthen"
+is_city = yes
 owner = Z15
 controller = Z15
 add_core = Z15

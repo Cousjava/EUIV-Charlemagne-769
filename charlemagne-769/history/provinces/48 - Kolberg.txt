@@ -1,3 +1,11 @@
+base_tax = 3 
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "Kolberg"
+is_city = yes
+1550.1.1 = { base_tax = 4 
+base_production = 4 }
 owner = POM
 controller = POM
 add_core = POM

@@ -1,3 +1,9 @@
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Stornoway"
+is_city = yes
 owner = Z26
 controller = Z26
 add_core = Z26

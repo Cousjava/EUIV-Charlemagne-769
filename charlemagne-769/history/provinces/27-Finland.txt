@@ -1,3 +1,9 @@
+base_tax = 3 
+base_production = 3
+trade_goods = grain
+base_manpower = 2
+capital = "�bo"
+is_city = yes
 owner = Z84
 controller = Z84
 add_core = Z84

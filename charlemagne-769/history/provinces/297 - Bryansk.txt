@@ -1,3 +1,9 @@
+base_tax = 7 
+base_production = 7
+trade_goods = grain
+base_manpower = 5
+capital = "Bryansk"
+is_city = yes
 owner = Y22
 controller = Y22
 add_core = Y22

@@ -1,3 +1,15 @@
+base_tax = 7
+base_production = 7
+trade_goods = naval_supplies
+base_manpower = 3
+capital = "L�beck"
+is_city = yes
+1550.1.1 = { base_tax = 7 
+base_production = 7 } # Gradual shift in trading power from L�beck to Hamburg
+1600.1.1 = { base_tax = 10 
+base_production = 10 shipyard = no } # Gradual shift in trading power from L�beck to Hamburg
+1617.1.1 = { base_tax = 8 
+base_production = 8 } # Stockholm commanded the Baltic Sea trade
 owner = SHL
 controller = SHL
 add_core = SHL

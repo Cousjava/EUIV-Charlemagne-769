@@ -1,3 +1,9 @@
+capital = "Kungirot"
+trade_goods = wool
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
 owner = Y36
 controller = Y36
 add_core = Y36

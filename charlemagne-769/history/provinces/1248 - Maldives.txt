@@ -1,3 +1,9 @@
+capital = "Mal�"
+trade_goods = fish
+base_tax = 2 
+base_production = 2
+base_manpower = 1
+is_city = yes
 owner = X38
 controller = X38
 add_core = X38

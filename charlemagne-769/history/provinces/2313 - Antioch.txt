@@ -1,3 +1,9 @@
+capital = "Antakya"
+trade_goods = cloth
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = Y46
 controller = Y46
 add_core = Y46

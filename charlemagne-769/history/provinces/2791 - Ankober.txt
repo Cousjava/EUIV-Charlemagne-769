@@ -1,3 +1,11 @@
+capital = "Ankober"
+is_city = yes
+base_manpower = 1
+trade_goods = grain
+base_tax = 1 
+base_production = 1
+1486.1.1 = { capital = "Badeqe" } # Debre Birhan abandoned
+1546.1.1 = { capital = "Munesa" } # Galawdewos establishes capital on frontline with Adal
 owner = Y73
 controller = Y73
 add_core = Y73

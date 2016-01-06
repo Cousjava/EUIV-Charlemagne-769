@@ -1,3 +1,9 @@
+capital = "Avignon"
+is_city = yes
+base_tax = 3 
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
 owner = PRO
 controller = PRO
 add_core = PRO

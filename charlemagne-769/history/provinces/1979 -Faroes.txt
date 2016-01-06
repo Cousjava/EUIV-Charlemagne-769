@@ -1,3 +1,9 @@
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "Torshavn"
+is_city = yes
 owner = Z23
 controller = Z23
 add_core = Z23

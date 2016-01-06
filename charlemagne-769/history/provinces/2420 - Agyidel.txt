@@ -1,3 +1,10 @@
+base_tax = 4 
+base_production = 4
+trade_goods = iron
+base_manpower = 3
+capital = "Agyidel"
+is_city = yes
+1735.8.31 = { culture = russian religion = orthodox capital = "Orenburg" remove_core = BSH }
 owner = Y34
 controller = Y34
 add_core = Y34

@@ -1,3 +1,10 @@
+capital = "Mandsaur"
+trade_goods = spices	#Opium
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+	capital = Ujjain
 owner = Y95
 controller = Y95
 add_core = Y95

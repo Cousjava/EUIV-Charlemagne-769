@@ -1,3 +1,9 @@
+capital = "Qakilik"
+trade_goods = wool
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
 owner = X46
 controller = X46
 add_core = X46

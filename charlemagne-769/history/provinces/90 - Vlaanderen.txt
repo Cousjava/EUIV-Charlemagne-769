@@ -1,3 +1,9 @@
+is_city = yes
+capital = "Brugge"
+base_tax = 6 
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
 owner = FLA
 controller = FLA
 add_core = FLA

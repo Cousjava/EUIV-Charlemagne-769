@@ -1,3 +1,13 @@
+base_tax = 7 
+base_production = 7
+trade_goods = grain 
+base_manpower = 4
+capital = "Yaroslavl"
+is_city = yes
+1560.1.1 = { base_tax = 4 base_production = 4 } # Treasury reforms
+1598.1.7 = { unrest = 5 base_manpower = 4 } # "Time of troubles", peasantry brought into serfdom
+1711.1.1 = { base_tax = 5 base_production = 5  } # Governmental reforms and the absolutism
+1767.1.1 = { base_tax = 6 base_production = 6 } # Legislative reforms 
 owner = Y27
 controller = Y27
 add_core = Y27

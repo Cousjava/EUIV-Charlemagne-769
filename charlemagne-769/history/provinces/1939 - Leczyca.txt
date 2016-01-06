@@ -1,3 +1,9 @@
+capital = "Leczyca"
+trade_goods = grain
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
 owner = Y14
 controller = Y14
 add_core = Y14

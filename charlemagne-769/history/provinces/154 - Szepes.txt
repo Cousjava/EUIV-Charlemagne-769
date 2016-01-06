@@ -1,3 +1,9 @@
+capital = "�rsek�jv�r"
+trade_goods = copper
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
 owner = Y05
 controller = Y05
 add_core = Y05

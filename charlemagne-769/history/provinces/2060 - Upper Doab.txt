@@ -1,3 +1,9 @@
+capital = "Meerut"
+trade_goods = cotton
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
 owner = X39
 controller = X39
 add_core = X39

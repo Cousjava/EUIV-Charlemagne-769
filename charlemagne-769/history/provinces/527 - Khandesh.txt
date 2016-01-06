@@ -1,3 +1,9 @@
+capital = "Burhanpur"
+trade_goods = cotton
+base_tax = 7 
+base_production = 7
+base_manpower = 4
+is_city = yes
 owner = Y92
 controller = Y92
 add_core = Y92

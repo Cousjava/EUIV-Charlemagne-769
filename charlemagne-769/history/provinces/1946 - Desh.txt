@@ -1,3 +1,10 @@
+capital = "Kolhapur"
+trade_goods = naval_supplies
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+	capital = "Satara"
 owner = Y89
 controller = Y89
 add_core = Y89

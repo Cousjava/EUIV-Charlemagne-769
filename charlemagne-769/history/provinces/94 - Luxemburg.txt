@@ -1,3 +1,11 @@
+capital = "Luxemburg"
+is_city = yes
+base_tax = 6 
+base_production = 6
+trade_goods = iron
+base_manpower = 2
+1789.5.5 = { base_tax = 9 
+base_production = 9 } # The General Estates
 owner = Z34
 controller = Z34
 add_core = Z34

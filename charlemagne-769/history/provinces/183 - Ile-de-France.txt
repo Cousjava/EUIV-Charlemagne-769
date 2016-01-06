@@ -1,3 +1,15 @@
+capital = "Paris"
+is_city = yes
+base_tax = 11
+base_production = 11
+trade_goods = cloth
+base_manpower = 10
+1589.1.1 = { base_tax = 14 
+base_production = 14 } # At the Walls of Paris: French Wars of Religion
+1621.1.1 = { base_tax = 15 
+base_production = 15 } # Richelieu
+1773.1.1 = { base_tax = 16 
+base_production = 16 } # Turgot & the Economic Reforms
 owner = Z43
 controller = Z43
 add_core = Z43

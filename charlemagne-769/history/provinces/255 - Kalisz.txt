@@ -1,3 +1,9 @@
+capital = "Gniezno"
+trade_goods = cloth
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
 owner = Y04
 controller = Y04
 add_core = Y04

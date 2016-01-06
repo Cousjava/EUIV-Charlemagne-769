@@ -1,3 +1,13 @@
+capital = "Bhakkar"
+trade_goods = cotton
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+1550.1.1 = { capital = "Sukkur" }
+	capital = "Shikarpur"
+1783.1.1 = { capital = "Burahan" }
+1786.1.1 = { capital = "Khairpur" }
 owner = X09
 controller = X09
 add_core = X09

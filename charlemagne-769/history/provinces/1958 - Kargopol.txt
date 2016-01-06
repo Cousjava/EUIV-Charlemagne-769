@@ -1,3 +1,9 @@
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "Kargopol"
+is_city = yes
 owner = Z91
 controller = Z91
 add_core = Z91

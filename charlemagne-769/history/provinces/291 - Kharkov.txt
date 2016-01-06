@@ -1,3 +1,10 @@
+base_tax = 4 
+base_production = 3
+trade_goods = iron 
+base_manpower = 4
+capital = "Belgorod"
+is_city = yes
+	capital = "Kharkov" 
 owner = Y18
 controller = Y18
 add_core = Y18

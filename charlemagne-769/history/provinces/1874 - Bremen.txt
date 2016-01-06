@@ -1,3 +1,9 @@
+capital = "Bremen"
+trade_goods = fish
+base_tax = 6 
+base_production = 6
+base_manpower = 4
+is_city = yes
 owner = SHL
 controller = SHL
 add_core = SHL

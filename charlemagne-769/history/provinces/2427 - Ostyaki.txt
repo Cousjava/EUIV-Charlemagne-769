@@ -1,3 +1,9 @@
+capital = "Beloyarskiy"
+trade_goods = fur
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = Y76
 controller = Y76
 add_core = Y76

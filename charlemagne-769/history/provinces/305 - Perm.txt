@@ -1,3 +1,10 @@
+base_tax = 4
+base_production = 4
+trade_goods = copper
+base_manpower = 3
+capital = "Yagoshiha"
+is_city = yes
+1720.3.20 = { capital = "Perm" } # Peter the Great founds city
 owner = PRM
 controller = PRM
 add_core = PRM

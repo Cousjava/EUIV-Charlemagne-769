@@ -1,3 +1,9 @@
+capital = "Uliastai"
+trade_goods = wool
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
 owner = X03
 controller = X03
 add_core = X03

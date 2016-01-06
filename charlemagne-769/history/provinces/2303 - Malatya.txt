@@ -1,3 +1,9 @@
+capital = "Malatiya"
+trade_goods = cloth
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
 owner = Y46
 controller = Y46
 add_core = Y46

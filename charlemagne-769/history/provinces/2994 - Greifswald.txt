@@ -1,3 +1,10 @@
+base_tax = 2
+base_production = 2
+trade_goods = salt
+base_manpower = 2
+capital = "Greifswald"
+is_city = yes
+1630.1.1 = { base_tax = 4 } # Devastating population losses in Thirty Years War
 owner = Z77
 controller = Z77
 add_core = Z77

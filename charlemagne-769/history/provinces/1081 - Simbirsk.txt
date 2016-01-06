@@ -1,3 +1,10 @@
+capital = "Bolgar"
+trade_goods = iron
+base_tax = 2 
+base_production = 2
+base_manpower = 2
+is_city = yes
+	capital = "Simbirsk" 
 owner = Y33
 controller = Y33
 add_core = Y33

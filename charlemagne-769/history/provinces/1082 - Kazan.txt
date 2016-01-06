@@ -1,3 +1,9 @@
+capital = "Kazan"
+trade_goods = grain
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
 owner = Y33
 controller = Y33
 add_core = Y33

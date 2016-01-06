@@ -1,3 +1,10 @@
+capital = "Kuddaluru"
+trade_goods = cloth
+base_tax = 8 
+base_production = 8
+base_manpower = 5
+is_city = yes
+	capital = "Pondicherry"
 owner = Y88
 controller = Y88
 add_core = Y88
