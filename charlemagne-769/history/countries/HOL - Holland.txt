@@ -10,7 +10,7 @@ capital = 97
 	monarch = {
 		name = "Anselm"
 		dynasty = "de Chaumontois"
-		adm = 3
+		adm = 2
 		dip = 2
 		mil = 3
 	}

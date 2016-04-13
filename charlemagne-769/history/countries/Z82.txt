@@ -10,9 +10,9 @@ capital = 28
 	monarch = {
 		name = "Mielus"
 		dynasty = "Hämäläinen"
-		adm = 3
+		adm = 2
 		dip = 4
-		mil = 1
+		mil = 3
 	}
 }
 1441.1.1 = {

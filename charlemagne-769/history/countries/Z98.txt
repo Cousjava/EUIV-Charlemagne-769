@@ -10,9 +10,9 @@ capital = 273
 	monarch = {
 		name = "Pukuveras"
 		dynasty = "Ugandi"
-		adm = 1
-		dip = 6
-		mil = 1
+		adm = 3
+		dip = 0
+		mil = 2
 	}
 }
 1444.11.11 = {

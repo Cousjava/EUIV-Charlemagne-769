@@ -22,9 +22,9 @@ capital = 241
 		dynasty = "Dyfed"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 2
-		dip = 3
-		mil = 4
+		adm = 1
+		dip = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

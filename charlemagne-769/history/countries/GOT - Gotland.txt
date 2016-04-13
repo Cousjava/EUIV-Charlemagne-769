@@ -10,9 +10,9 @@ capital = 25
 	monarch = {
 		name = "Şorfinn"
 		dynasty = "Gute"
-		adm = 3
-		dip = 2
-		mil = 3
+		adm = 1
+		dip = 0
+		mil = 2
 	}
 }
 1436.1.1 = {
@@ -22,8 +22,8 @@ capital = 25
 		dynasty = "Gute"
 		birth_date = 1436.1.1
 		death_date = 1516.1.1
-		adm = 2
-		dip = 3
+		adm = 3
+		dip = 2
 		mil = 3
 	}
 }

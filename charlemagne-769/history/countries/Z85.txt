@@ -11,8 +11,8 @@ capital = 1777
 		name = "Baeivi"
 		dynasty = "Guoládat"
 		adm = 3
-		dip = 1
-		mil = 1
+		dip = 3
+		mil = 4
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 1777
 		dynasty = "Guoládat"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 3
-		dip = 0
-		mil = 1
+		adm = 5
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

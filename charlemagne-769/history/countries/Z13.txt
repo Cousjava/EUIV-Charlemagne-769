@@ -10,9 +10,9 @@ capital = 375
 	monarch = {
 		name = "Indrechtach"
 		dynasty = "Eóganacht-Chaisil"
-		adm = 2
+		adm = 1
 		dip = 2
-		mil = 4
+		mil = 3
 	}
 }
 1410.1.1 = {
@@ -24,7 +24,7 @@ capital = 375
 		death_date = 1490.1.1
 		adm = 2
 		dip = 3
-		mil = 5
+		mil = 4
 	}
 }
 1444.11.11 = {

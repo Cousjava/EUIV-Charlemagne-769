@@ -10,9 +10,9 @@ capital = 1229
 	monarch = {
 		name = "Soizuros"
 		dynasty = "Hadendiwa"
-		adm = 0
-		dip = 0
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

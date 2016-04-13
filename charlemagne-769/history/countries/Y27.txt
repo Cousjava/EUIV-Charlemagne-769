@@ -10,9 +10,9 @@ capital = 302
 	monarch = {
 		name = "Uzhara"
 		dynasty = "Mordvanid"
-		adm = 1
+		adm = 2
 		dip = 4
-		mil = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

@@ -10,9 +10,9 @@ capital = 373
 	monarch = {
 		name = "Donnachad"
 		dynasty = "Ua Néill Noígiallaich"
-		adm = 3
-		dip = 1
-		mil = 4
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

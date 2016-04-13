@@ -10,9 +10,9 @@ capital = 240
 	monarch = {
 		name = "Brochfael II"
 		dynasty = "Gwerthrynion"
-		adm = 2
+		adm = 3
 		dip = 3
-		mil = 1
+		mil = 2
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 240
 		dynasty = "Gwerthrynion"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 5
-		dip = 2
-		mil = 4
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 1444.11.11 = {

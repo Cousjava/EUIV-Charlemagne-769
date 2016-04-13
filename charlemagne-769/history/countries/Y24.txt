@@ -11,8 +11,8 @@ capital = 294
 		name = "Volodar"
 		dynasty = "Vyatich"
 		adm = 3
-		dip = 1
-		mil = 1
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

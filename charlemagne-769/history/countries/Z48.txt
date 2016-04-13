@@ -11,8 +11,8 @@ capital = 227
 		name = "Abdallah"
 		dynasty = "Aslamid"
 		adm = 4
-		dip = 6
-		mil = 2
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

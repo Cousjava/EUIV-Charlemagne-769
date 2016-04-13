@@ -10,9 +10,9 @@ capital = 2960
 	monarch = {
 		name = "Siemowit"
 		dynasty = "Lechowicz"
-		adm = 0
-		dip = 1
-		mil = 1
+		adm = 2
+		dip = 0
+		mil = 4
 	}
 }
 1444.11.11 = {

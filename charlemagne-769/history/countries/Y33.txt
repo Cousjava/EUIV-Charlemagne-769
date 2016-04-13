@@ -10,9 +10,9 @@ capital = 1082
 	monarch = {
 		name = "Toktu"
 		dynasty = "Dulo"
-		adm = 3
-		dip = 1
-		mil = 4
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 }
 1415.1.2 = {
@@ -22,9 +22,9 @@ capital = 1082
 		dynasty = "Dulo"
 		birth_date = 1415.1.2
 		death_date = 1495.1.2
-		adm = 1
+		adm = 2
 		dip = 4
-		mil = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

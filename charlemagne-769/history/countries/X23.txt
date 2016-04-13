@@ -10,8 +10,8 @@ capital = 740
 	monarch = {
 		name = "Jejja"
 		dynasty = "Rashtrakuta"
-		adm = 6
-		dip = 3
+		adm = 5
+		dip = 1
 		mil = 3
 	}
 }

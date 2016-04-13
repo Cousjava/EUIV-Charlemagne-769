@@ -10,9 +10,9 @@ capital = 266
 	monarch = {
 		name = "Nezamysl"
 		dynasty = "Premyslid"
-		adm = 1
+		adm = 4
 		dip = 5
-		mil = 3
+		mil = 1
 	}
 }
 1407.1.1 = {
@@ -22,9 +22,9 @@ capital = 266
 		dynasty = "Premyslid"
 		birth_date = 1407.1.1
 		death_date = 1487.1.1
-		adm = 2
-		dip = 0
-		mil = 5
+		adm = 3
+		dip = 2
+		mil = 4
 	}
 }
 1444.11.11 = {

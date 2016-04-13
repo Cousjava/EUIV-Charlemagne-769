@@ -10,9 +10,9 @@ capital = 2752
 	monarch = {
 		name = "Grimr"
 		dynasty = "av Askø"
-		adm = 2
-		dip = 3
-		mil = 3
+		adm = 1
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

@@ -10,9 +10,9 @@ capital = 2098
 	monarch = {
 		name = "Nandivarman"
 		dynasty = "Bana"
-		adm = 2
+		adm = 1
 		dip = 1
-		mil = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

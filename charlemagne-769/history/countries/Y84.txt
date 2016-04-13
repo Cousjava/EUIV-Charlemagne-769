@@ -10,9 +10,9 @@ capital = 1128
 	monarch = {
 		name = "Gulusa"
 		dynasty = "Masuna"
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 0
+		dip = 6
+		mil = 3
 	}
 }
 1444.11.11 = {

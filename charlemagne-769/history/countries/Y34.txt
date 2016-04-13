@@ -10,7 +10,7 @@ capital = 2422
 	monarch = {
 		name = "Islivan"
 		dynasty = "Ezgil"
-		adm = 1
+		adm = 5
 		dip = 4
 		mil = 1
 	}

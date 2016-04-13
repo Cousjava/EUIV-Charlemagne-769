@@ -10,9 +10,9 @@ capital = 376
 	monarch = {
 		name = "Cernach"
 		dynasty = "Ua Briúin Bréifne"
-		adm = 2
-		dip = 4
-		mil = 3
+		adm = 3
+		dip = 6
+		mil = 2
 	}
 }
 1426.1.1 = {
@@ -22,9 +22,9 @@ capital = 376
 		dynasty = "Ua Briúin Bréifne"
 		birth_date = 1426.1.1
 		death_date = 1506.1.1
-		adm = 3
+		adm = 2
 		dip = 3
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

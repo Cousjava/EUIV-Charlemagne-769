@@ -10,9 +10,9 @@ capital = 46
 	monarch = {
 		name = "Boriwoj"
 		dynasty = "z Obodrytow"
-		adm = 5
+		adm = 4
 		dip = 2
-		mil = 2
+		mil = 4
 	}
 }
 1435.1.1 = {
@@ -22,7 +22,7 @@ capital = 46
 		dynasty = "z Obodrytow"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 2
+		adm = 4
 		dip = 2
 		mil = 4
 	}

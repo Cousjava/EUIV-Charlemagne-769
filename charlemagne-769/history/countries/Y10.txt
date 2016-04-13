@@ -11,8 +11,8 @@ capital = 263
 		name = "Milzas"
 		dynasty = "of the Golensizi"
 		adm = 1
-		dip = 3
-		mil = 3
+		dip = 5
+		mil = 1
 	}
 }
 1444.11.11 = {

@@ -10,8 +10,8 @@ capital = 425
 	monarch = {
 		name = "Nerseh"
 		dynasty = "Mihranian"
-		adm = 1
-		dip = 1
+		adm = 3
+		dip = 2
 		mil = 1
 	}
 }

@@ -10,9 +10,9 @@ capital = 527
 	monarch = {
 		name = "Krishna"
 		dynasty = "Rashtrakuta"
-		adm = 3
+		adm = 4
 		dip = 2
-		mil = 2
+		mil = 4
 	}
 }
 1397.1.1 = {
@@ -22,9 +22,9 @@ capital = 527
 		dynasty = "Rashtrakuta"
 		birth_date = 1397.1.1
 		death_date = 1477.1.1
-		adm = 6
+		adm = 3
 		dip = 2
-		mil = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

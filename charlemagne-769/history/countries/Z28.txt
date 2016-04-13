@@ -10,9 +10,9 @@ capital = 249
 	monarch = {
 		name = "Owain II"
 		dynasty = "Alt Clut"
-		adm = 1
-		dip = 6
-		mil = 3
+		adm = 5
+		dip = 3
+		mil = 4
 	}
 }
 1443.1.1 = {

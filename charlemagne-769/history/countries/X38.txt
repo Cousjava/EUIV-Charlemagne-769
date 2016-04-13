@@ -10,9 +10,9 @@ capital = 1230
 	monarch = {
 		name = "Panigiros"
 		dynasty = "Beniamer"
-		adm = 2
-		dip = 3
-		mil = 0
+		adm = 4
+		dip = 0
+		mil = 3
 	}
 }
 1444.11.11 = {

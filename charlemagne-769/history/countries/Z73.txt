@@ -10,9 +10,9 @@ capital = 7
 	monarch = {
 		name = "Oddr"
 		dynasty = "Gautske"
-		adm = 2
-		dip = 4
-		mil = 1
+		adm = 3
+		dip = 6
+		mil = 3
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 7
 		dynasty = "Gautske"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
+		adm = 0
 		dip = 2
-		mil = 2
+		mil = 4
 	}
 }
 1444.11.11 = {

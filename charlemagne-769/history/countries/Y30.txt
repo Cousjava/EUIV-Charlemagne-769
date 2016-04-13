@@ -10,9 +10,9 @@ capital = 1304
 	monarch = {
 		name = "Varaka"
 		dynasty = "Cheremisid"
-		adm = 2
-		dip = 3
-		mil = 1
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1435.1.1 = {
@@ -22,9 +22,9 @@ capital = 1304
 		dynasty = "Cheremisid"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1444.11.11 = {

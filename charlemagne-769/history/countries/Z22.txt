@@ -12,7 +12,7 @@ capital = 238
 		dynasty = "Offing"
 		adm = 2
 		dip = 2
-		mil = 3
+		mil = 1
 	}
 }
 1440.1.1 = {
@@ -22,8 +22,8 @@ capital = 238
 		dynasty = "Offing"
 		birth_date = 1440.1.1
 		death_date = 1520.1.1
-		adm = 4
-		dip = 3
+		adm = 3
+		dip = 4
 		mil = 3
 	}
 }

@@ -10,9 +10,9 @@ capital = 22
 	monarch = {
 		name = "Öysteinn"
 		dynasty = "Yngling"
-		adm = 0
-		dip = 2
-		mil = 1
+		adm = 4
+		dip = 1
+		mil = 4
 	}
 }
 1420.1.1 = {
@@ -22,8 +22,8 @@ capital = 22
 		dynasty = "Yngling"
 		birth_date = 1420.1.1
 		death_date = 1500.1.1
-		adm = 2
-		dip = 3
+		adm = 0
+		dip = 2
 		mil = 2
 	}
 }

@@ -10,8 +10,8 @@ capital = 1083
 	monarch = {
 		name = "Paksyut"
 		dynasty = "Varakid"
-		adm = 3
-		dip = 2
+		adm = 4
+		dip = 1
 		mil = 3
 	}
 }

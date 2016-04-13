@@ -10,8 +10,8 @@ capital = 718
 	monarch = {
 		name = "Üge"
 		dynasty = "Uzur"
-		adm = 6
-		dip = 3
+		adm = 1
+		dip = 2
 		mil = 3
 	}
 }

@@ -10,9 +10,9 @@ capital = 290
 	monarch = {
 		name = "Tarján"
 		dynasty = "Tarján"
-		adm = 3
-		dip = 0
-		mil = 3
+		adm = 6
+		dip = 2
+		mil = 4
 	}
 }
 1444.11.11 = {

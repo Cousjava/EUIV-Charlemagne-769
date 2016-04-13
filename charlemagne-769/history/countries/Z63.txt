@@ -10,9 +10,9 @@ capital = 18
 	monarch = {
 		name = "Leammá"
 		dynasty = "Kaise"
-		adm = 4
-		dip = 3
-		mil = 5
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

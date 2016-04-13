@@ -10,9 +10,9 @@ capital = 2749
 	monarch = {
 		name = "Aimo"
 		dynasty = "Tšuudit"
-		adm = 2
+		adm = 3
 		dip = 2
-		mil = 6
+		mil = 3
 	}
 }
 1444.11.11 = {

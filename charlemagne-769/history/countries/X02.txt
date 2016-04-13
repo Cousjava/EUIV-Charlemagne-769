@@ -10,9 +10,9 @@ capital = 552
 	monarch = {
 		name = "Sivakaradeva"
 		dynasty = "Bhaumakara"
-		adm = 1
-		dip = 1
-		mil = 6
+		adm = 3
+		dip = 0
+		mil = 1
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 552
 		dynasty = "Bhaumakara"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 4
-		dip = 3
-		mil = 2
+		adm = 0
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

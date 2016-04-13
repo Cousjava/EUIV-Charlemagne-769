@@ -10,9 +10,9 @@ capital = 235
 	monarch = {
 		name = "Ecgberht II"
 		dynasty = "Wihtgilsing"
-		adm = 3
+		adm = 2
 		dip = 3
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

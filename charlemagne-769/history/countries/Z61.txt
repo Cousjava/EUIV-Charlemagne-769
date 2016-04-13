@@ -11,8 +11,8 @@ capital = 20
 		name = "Ulfr"
 		dynasty = "av Røra"
 		adm = 3
-		dip = 3
-		mil = 3
+		dip = 0
+		mil = 2
 	}
 }
 1444.11.11 = {

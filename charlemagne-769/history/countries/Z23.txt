@@ -10,7 +10,7 @@ capital = 1979
 	monarch = {
 		name = "Allcallorred"
 		dynasty = "Caliu"
-		adm = 2
+		adm = 3
 		dip = 3
 		mil = 3
 	}

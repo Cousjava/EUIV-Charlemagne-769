@@ -11,8 +11,8 @@ capital = 43
 		name = "Dobieslaw"
 		dynasty = "Choscisko"
 		adm = 2
-		dip = 4
-		mil = 3
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

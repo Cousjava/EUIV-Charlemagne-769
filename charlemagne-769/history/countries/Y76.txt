@@ -10,9 +10,9 @@ capital = 1224
 	monarch = {
 		name = "Ogbae"
 		dynasty = "Zagwe"
-		adm = 3
-		dip = 5
-		mil = 2
+		adm = 0
+		dip = 3
+		mil = 3
 	}
 }
 1420.1.1 = {
@@ -23,7 +23,7 @@ capital = 1224
 		birth_date = 1420.1.1
 		death_date = 1500.1.1
 		adm = 4
-		dip = 1
+		dip = 3
 		mil = 3
 	}
 }

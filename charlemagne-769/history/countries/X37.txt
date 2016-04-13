@@ -10,9 +10,9 @@ capital = 1232
 	monarch = {
 		name = "Papasinen"
 		dynasty = "Amarrar"
-		adm = 2
+		adm = 4
 		dip = 1
-		mil = 4
+		mil = 2
 	}
 }
 1444.11.11 = {

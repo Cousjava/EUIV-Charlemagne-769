@@ -10,8 +10,8 @@ capital = 464
 	monarch = {
 		name = "Baghatur"
 		dynasty = "Ashina"
-		adm = 1
-		dip = 1
+		adm = 2
+		dip = 2
 		mil = 1
 	}
 }
@@ -22,9 +22,9 @@ capital = 464
 		dynasty = "Ashina"
 		birth_date = 1409.1.1
 		death_date = 1489.1.1
-		adm = 3
-		dip = 3
-		mil = 6
+		adm = 0
+		dip = 4
+		mil = 0
 	}
 }
 1444.11.11 = {

@@ -9,9 +9,9 @@ religion = buddhism
 	monarch = {
 		name = "Siddharthe"
 		dynasty = "Krorän"
-		adm = 2
+		adm = 5
 		dip = 3
-		mil = 2
+		mil = 4
 	}
 }
 1423.1.1 = {
@@ -22,8 +22,8 @@ religion = buddhism
 		birth_date = 1423.1.1
 		death_date = 1503.1.1
 		female = yes
-		adm = 2
-		dip = 2
+		adm = 5
+		dip = 1
 		mil = 4
 	}
 }

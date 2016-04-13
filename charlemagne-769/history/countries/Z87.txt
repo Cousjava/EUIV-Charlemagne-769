@@ -10,9 +10,9 @@ capital = 315
 	monarch = {
 		name = "Áilu"
 		dynasty = "Gájka"
-		adm = 4
-		dip = 2
-		mil = 1
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

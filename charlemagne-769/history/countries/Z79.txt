@@ -10,9 +10,9 @@ capital = 39
 	monarch = {
 		name = "Ankad"
 		dynasty = "Penikis"
-		adm = 3
-		dip = 3
-		mil = 2
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
 1444.11.11 = {

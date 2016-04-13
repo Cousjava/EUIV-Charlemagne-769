@@ -10,9 +10,9 @@ capital = 233
 	monarch = {
 		name = "Cawrdolli"
 		dynasty = "Cerneu"
-		adm = 1
-		dip = 1
-		mil = 3
+		adm = 2
+		dip = 2
+		mil = 0
 	}
 }
 1400.1.1 = {
@@ -22,9 +22,9 @@ capital = 233
 		dynasty = "Cerneu"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

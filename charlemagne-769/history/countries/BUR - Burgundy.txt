@@ -10,8 +10,8 @@ capital = 192
 	monarch = {
 		name = "Theoderic"
 		dynasty = "Nibelunging"
-		adm = 2
-		dip = 2
+		adm = 4
+		dip = 3
 		mil = 0
 	}
 }

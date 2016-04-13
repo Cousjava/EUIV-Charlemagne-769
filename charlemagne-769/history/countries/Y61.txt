@@ -10,9 +10,9 @@ capital = 334
 	monarch = {
 		name = "Pelagio"
 		dynasty = "Qutid"
-		adm = 3
+		adm = 2
 		dip = 2
-		mil = 1
+		mil = 2
 	}
 }
 1435.1.1 = {
@@ -22,9 +22,9 @@ capital = 334
 		dynasty = "Qutid"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 2
+		mil = 4
 	}
 }
 1444.11.11 = {

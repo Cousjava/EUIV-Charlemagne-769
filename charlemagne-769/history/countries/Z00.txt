@@ -10,9 +10,9 @@ capital = 370
 	monarch = {
 		name = "Eirikr"
 		dynasty = "av Island"
-		adm = 1
-		dip = 2
-		mil = 5
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

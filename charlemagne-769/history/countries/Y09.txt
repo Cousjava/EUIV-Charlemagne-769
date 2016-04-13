@@ -10,8 +10,8 @@ capital = 2746
 	monarch = {
 		name = "Uturgur"
 		dynasty = "Ukil"
-		adm = 4
-		dip = 1
+		adm = 1
+		dip = 5
 		mil = 3
 	}
 }

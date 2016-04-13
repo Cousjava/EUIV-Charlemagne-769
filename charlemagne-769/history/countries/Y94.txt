@@ -11,8 +11,8 @@ capital = 517
 		name = "Aniruddha"
 		dynasty = "Ruddha"
 		adm = 3
-		dip = 1
-		mil = 1
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

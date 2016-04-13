@@ -10,9 +10,9 @@ capital = 423
 	monarch = {
 		name = "Nerse"
 		dynasty = "Nersiani"
-		adm = 4
-		dip = 3
-		mil = 2
+		adm = 3
+		dip = 2
+		mil = 3
 	}
 }
 1444.11.11 = {

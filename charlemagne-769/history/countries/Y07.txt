@@ -10,8 +10,8 @@ capital = 137
 	monarch = {
 		name = "Vojislav"
 		dynasty = "Vlastimirovic"
-		adm = 3
-		dip = 0
+		adm = 1
+		dip = 2
 		mil = 4
 	}
 }
@@ -22,9 +22,9 @@ capital = 137
 		dynasty = "Vlastimirovic"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 4
+		dip = 1
+		mil = 1
 	}
 }
 1444.11.11 = {

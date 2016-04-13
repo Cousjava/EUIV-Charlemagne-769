@@ -10,8 +10,8 @@ capital = 234
 	monarch = {
 		name = "Cynewulf"
 		dynasty = "Cerdicing"
-		adm = 3
-		dip = 1
+		adm = 2
+		dip = 0
 		mil = 2
 	}
 }
@@ -22,9 +22,9 @@ capital = 234
 		dynasty = "Cerdicing"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 3
-		dip = 4
-		mil = 1
+		adm = 1
+		dip = 3
+		mil = 5
 	}
 }
 1444.11.11 = {

@@ -11,8 +11,8 @@ capital = 543
 		name = "Nantivarman"
 		dynasty = "Pallava"
 		adm = 3
-		dip = 2
-		mil = 4
+		dip = 1
+		mil = 0
 	}
 }
 1415.1.1 = {
@@ -22,9 +22,9 @@ capital = 543
 		dynasty = "Pallava"
 		birth_date = 1415.1.1
 		death_date = 1495.1.1
-		adm = 3
-		dip = 2
-		mil = 3
+		adm = 4
+		dip = 0
+		mil = 1
 	}
 }
 1444.11.11 = {

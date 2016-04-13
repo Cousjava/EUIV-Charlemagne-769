@@ -11,7 +11,7 @@ capital = 503
 		name = "Barappa"
 		dynasty = "Sankhyavat"
 		adm = 2
-		dip = 3
+		dip = 2
 		mil = 4
 	}
 }

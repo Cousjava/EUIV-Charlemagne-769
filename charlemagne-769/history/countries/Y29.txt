@@ -10,9 +10,9 @@ capital = 307
 	monarch = {
 		name = "Varaka"
 		dynasty = "Muromid"
-		adm = 3
-		dip = 5
-		mil = 2
+		adm = 4
+		dip = 4
+		mil = 1
 	}
 }
 1444.11.11 = {

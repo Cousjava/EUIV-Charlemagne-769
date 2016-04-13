@@ -10,9 +10,9 @@ capital = 475
 	monarch = {
 		name = "Taridin"
 		dynasty = "Baskatir"
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 4
+		dip = 5
+		mil = 4
 	}
 }
 1429.1.1 = {
@@ -22,9 +22,9 @@ capital = 475
 		dynasty = "Baskatir"
 		birth_date = 1429.1.1
 		death_date = 1509.1.1
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 1
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

@@ -10,8 +10,8 @@ capital = 1775
 	monarch = {
 		name = "Hesso"
 		dynasty = "Hessing"
-		adm = 3
-		dip = 1
+		adm = 4
+		dip = 3
 		mil = 0
 	}
 }

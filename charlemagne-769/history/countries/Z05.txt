@@ -10,9 +10,9 @@ capital = 12
 	monarch = {
 		name = "Haraldr"
 		dynasty = "Skjöldung"
-		adm = 1
-		dip = 3
-		mil = 4
+		adm = 6
+		dip = 1
+		mil = 5
 	}
 }
 1405.1.1 = {
@@ -22,9 +22,9 @@ capital = 12
 		dynasty = "Skjöldung"
 		birth_date = 1405.1.1
 		death_date = 1485.1.1
-		adm = 3
-		dip = 1
-		mil = 3
+		adm = 2
+		dip = 2
+		mil = 6
 	}
 }
 1444.11.11 = {

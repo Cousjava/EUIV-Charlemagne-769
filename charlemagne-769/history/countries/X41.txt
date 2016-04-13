@@ -10,9 +10,9 @@ capital = 1099
 	monarch = {
 		name = "Philemon"
 		dynasty = "Yahballaha"
-		adm = 0
-		dip = 2
-		mil = 0
+		adm = 4
+		dip = 0
+		mil = 2
 	}
 }
 1432.1.1 = {
@@ -22,9 +22,9 @@ capital = 1099
 		dynasty = "Yahballaha"
 		birth_date = 1432.1.1
 		death_date = 1512.1.1
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 4
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

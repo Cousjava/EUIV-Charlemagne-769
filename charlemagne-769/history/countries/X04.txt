@@ -10,9 +10,9 @@ capital = 2190
 	monarch = {
 		name = "Tengri Bögü"
 		dynasty = "Yaghlakar"
-		adm = 2
-		dip = 4
-		mil = 1
+		adm = 1
+		dip = 3
+		mil = 4
 	}
 }
 1440.1.1 = {

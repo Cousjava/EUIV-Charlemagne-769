@@ -10,9 +10,9 @@ capital = 1753
 	monarch = {
 		name = "Surt"
 		dynasty = "Meryavid"
-		adm = 5
+		adm = 3
 		dip = 2
-		mil = 3
+		mil = 6
 	}
 }
 1444.11.11 = {

@@ -10,7 +10,7 @@ capital = 8
 	monarch = {
 		name = "Þorbjörn"
 		dynasty = "Hylling"
-		adm = 3
+		adm = 6
 		dip = 3
 		mil = 2
 	}

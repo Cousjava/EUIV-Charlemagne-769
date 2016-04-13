@@ -10,9 +10,9 @@ capital = 2750
 	monarch = {
 		name = "Telerig"
 		dynasty = "Dulo"
-		adm = 1
-		dip = 2
-		mil = 3
+		adm = 3
+		dip = 0
+		mil = 5
 	}
 }
 1444.11.11 = {

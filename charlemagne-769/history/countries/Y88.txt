@@ -10,9 +10,9 @@ capital = 536
 	monarch = {
 		name = "Parântaka"
 		dynasty = "Pandya"
-		adm = 3
-		dip = 4
-		mil = 3
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 1425.1.1 = {
@@ -23,7 +23,7 @@ capital = 536
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
 		adm = 2
-		dip = 2
+		dip = 3
 		mil = 2
 	}
 }

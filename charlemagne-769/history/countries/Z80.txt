@@ -10,8 +10,8 @@ religion = animism
 		name = "Ihanus"
 		dynasty = "Ridala"
 		adm = 2
-		dip = 4
-		mil = 6
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

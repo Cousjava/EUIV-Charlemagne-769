@@ -11,8 +11,8 @@ capital = 373
 		name = "Congalach"
 		dynasty = "Ua Néill Noígiallaich"
 		adm = 2
-		dip = 3
-		mil = 2
+		dip = 5
+		mil = 1
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 373
 		dynasty = "Ua Néill Noígiallaich"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 1
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 4
+		mil = 2
 	}
 }
 1444.11.11 = {

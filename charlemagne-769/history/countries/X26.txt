@@ -11,8 +11,8 @@ capital = 577
 		name = "Nihaal"
 		dynasty = "Kaikanite"
 		adm = 2
-		dip = 2
-		mil = 1
+		dip = 4
+		mil = 2
 	}
 }
 1444.11.11 = {

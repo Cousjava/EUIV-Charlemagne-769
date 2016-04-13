@@ -10,8 +10,8 @@ capital = 278
 	monarch = {
 		name = "Igor"
 		dynasty = "Dregovich"
-		adm = 4
-		dip = 2
+		adm = 0
+		dip = 3
 		mil = 3
 	}
 }

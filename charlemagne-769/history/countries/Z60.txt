@@ -10,9 +10,9 @@ capital = 22
 	monarch = {
 		name = "Şorsteinn"
 		dynasty = "Hede"
-		adm = 4
-		dip = 0
-		mil = 1
+		adm = 5
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

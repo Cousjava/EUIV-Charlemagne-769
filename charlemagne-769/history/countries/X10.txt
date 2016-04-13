@@ -10,8 +10,8 @@ capital = 556
 	monarch = {
 		name = "Vajrayudha"
 		dynasty = "Ayudha"
-		adm = 2
-		dip = 0
+		adm = 3
+		dip = 1
 		mil = 6
 	}
 }
@@ -22,8 +22,8 @@ capital = 556
 		dynasty = "Ayudha"
 		birth_date = 1441.1.1
 		death_date = 1521.1.1
-		adm = 4
-		dip = 4
+		adm = 3
+		dip = 3
 		mil = 4
 	}
 }

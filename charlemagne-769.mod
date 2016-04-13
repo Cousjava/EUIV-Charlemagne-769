@@ -63,7 +63,7 @@ replace_path="history/diplomacy/Turkeybalkan_alliances.txt"
 replace_path="history/diplomacy/Venetian_League.txt"
 
 user_dir="Charlemagne_769"
-supported_version="1.14"
+supported_version="1.16.*"
 tags={
 	"Alternative History"
 	"Converted From CKII"

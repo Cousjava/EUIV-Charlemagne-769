@@ -10,9 +10,9 @@ capital = 36
 	monarch = {
 		name = "Kaupo"
 		dynasty = "Harjumaa"
-		adm = 0
-		dip = 0
-		mil = 2
+		adm = 3
+		dip = 1
+		mil = 1
 	}
 }
 1444.11.11 = {

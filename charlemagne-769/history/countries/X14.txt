@@ -10,8 +10,8 @@ capital = 523
 	monarch = {
 		name = "Rajaputra"
 		dynasty = "Kalachuri"
-		adm = 4
-		dip = 0
+		adm = 1
+		dip = 3
 		mil = 2
 	}
 }

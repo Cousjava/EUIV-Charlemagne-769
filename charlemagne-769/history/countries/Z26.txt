@@ -10,7 +10,7 @@ capital = 253
 	monarch = {
 		name = "Áed III"
 		dynasty = "Mac Gabráin"
-		adm = 5
+		adm = 2
 		dip = 2
 		mil = 2
 	}
@@ -22,8 +22,8 @@ capital = 253
 		dynasty = "Mac Gabráin"
 		birth_date = 1429.1.1
 		death_date = 1509.1.1
-		adm = 2
-		dip = 1
+		adm = 3
+		dip = 2
 		mil = 2
 	}
 }

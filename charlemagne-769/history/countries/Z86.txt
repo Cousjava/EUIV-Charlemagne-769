@@ -10,8 +10,8 @@ capital = 1776
 	monarch = {
 		name = "Lemetti"
 		dynasty = "Karjalainen"
-		adm = 0
-		dip = 0
+		adm = 3
+		dip = 6
 		mil = 3
 	}
 }
@@ -22,9 +22,9 @@ capital = 1776
 		dynasty = "Karjalainen"
 		birth_date = 1426.1.1
 		death_date = 1506.1.1
-		adm = 5
+		adm = 3
 		dip = 2
-		mil = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

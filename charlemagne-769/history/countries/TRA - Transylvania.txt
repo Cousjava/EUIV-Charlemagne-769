@@ -10,9 +10,9 @@ capital = 1951
 	monarch = {
 		name = "Yani"
 		dynasty = "Yantsukh"
-		adm = 3
-		dip = 6
-		mil = 2
+		adm = 2
+		dip = 2
+		mil = 5
 	}
 }
 1444.11.11 = {

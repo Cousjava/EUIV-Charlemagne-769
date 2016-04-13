@@ -10,8 +10,8 @@ capital = 23
 	monarch = {
 		name = "Geir"
 		dynasty = "av Hafrsfjord"
-		adm = 0
-		dip = 1
+		adm = 2
+		dip = 0
 		mil = 3
 	}
 }

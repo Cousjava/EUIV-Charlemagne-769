@@ -10,9 +10,9 @@ capital = 10
 	monarch = {
 		name = "Sigtrygg"
 		dynasty = "Herja"
-		adm = 1
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

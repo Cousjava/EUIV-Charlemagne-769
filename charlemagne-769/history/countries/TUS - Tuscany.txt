@@ -10,9 +10,9 @@ capital = 115
 	monarch = {
 		name = "Alperto"
 		dynasty = "Walpertingi"
-		adm = 0
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 0
+		mil = 4
 	}
 }
 1444.11.11 = {

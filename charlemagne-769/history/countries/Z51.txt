@@ -10,9 +10,9 @@ capital = 1933
 	monarch = {
 		name = "Arechis II"
 		dynasty = "Gausian"
-		adm = 2
-		dip = 0
-		mil = 0
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

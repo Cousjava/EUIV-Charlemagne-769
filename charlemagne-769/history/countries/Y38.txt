@@ -10,9 +10,9 @@ capital = 465
 	monarch = {
 		name = "Baytas"
 		dynasty = "Bozok"
-		adm = 2
+		adm = 3
 		dip = 4
-		mil = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

@@ -10,8 +10,8 @@ capital = 372
 	monarch = {
 		name = "Domnall"
 		dynasty = "Ua Néill Noígiallaich"
-		adm = 4
-		dip = 4
+		adm = 2
+		dip = 3
 		mil = 2
 	}
 }
@@ -22,9 +22,9 @@ capital = 372
 		dynasty = "Ua Néill Noígiallaich"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 2
+		adm = 3
 		dip = 2
-		mil = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

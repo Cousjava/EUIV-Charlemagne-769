@@ -10,9 +10,9 @@ capital = 120
 	monarch = {
 		name = "Hildeprand"
 		dynasty = "Theodingi"
-		adm = 2
-		dip = 1
-		mil = 5
+		adm = 6
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

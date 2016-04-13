@@ -10,8 +10,8 @@ capital = 2197
 	monarch = {
 		name = "Buriberdi"
 		dynasty = "Zmbalani"
-		adm = 4
-		dip = 3
+		adm = 2
+		dip = 4
 		mil = 4
 	}
 }
@@ -23,8 +23,8 @@ capital = 2197
 		birth_date = 1421.1.1
 		death_date = 1501.1.1
 		adm = 1
-		dip = 2
-		mil = 6
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

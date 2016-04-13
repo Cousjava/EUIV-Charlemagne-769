@@ -10,9 +10,9 @@ capital = 170
 	monarch = {
 		name = "Custentin"
 		dynasty = "de Cornouaille"
-		adm = 4
-		dip = 0
-		mil = 2
+		adm = 0
+		dip = 2
+		mil = 0
 	}
 }
 1444.1.1 = {

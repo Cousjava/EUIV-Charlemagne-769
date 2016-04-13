@@ -11,8 +11,8 @@ capital = 1860
 		name = "Æthelred"
 		dynasty = "Wuffing"
 		adm = 3
-		dip = 2
-		mil = 2
+		dip = 4
+		mil = 3
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 1860
 		dynasty = "Wuffing"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 1
-		dip = 2
-		mil = 1
+		adm = 4
+		dip = 4
+		mil = 0
 	}
 }
 1444.11.11 = {

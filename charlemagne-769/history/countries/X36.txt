@@ -10,9 +10,9 @@ capital = 2433
 	monarch = {
 		name = "Seitek"
 		dynasty = "Tiele"
-		adm = 2
-		dip = 0
-		mil = 3
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1427.3.24 = {
@@ -22,9 +22,9 @@ capital = 2433
 		dynasty = "Tiele"
 		birth_date = 1427.3.24
 		death_date = 1507.3.24
-		adm = 4
-		dip = 4
-		mil = 1
+		adm = 1
+		dip = 3
+		mil = 5
 	}
 }
 1444.11.11 = {

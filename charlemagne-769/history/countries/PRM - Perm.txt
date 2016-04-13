@@ -10,9 +10,9 @@ capital = 305
 	monarch = {
 		name = "Omurtag"
 		dynasty = "Permyakid"
-		adm = 1
-		dip = 1
-		mil = 2
+		adm = 4
+		dip = 3
+		mil = 0
 	}
 }
 1440.1.1 = {
@@ -24,7 +24,7 @@ capital = 305
 		death_date = 1520.1.1
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

@@ -9,8 +9,8 @@ religion = coptic
 	monarch = {
 		name = "Smbat II"
 		dynasty = "Bagrationi"
-		adm = 3
-		dip = 2
+		adm = 2
+		dip = 3
 		mil = 2
 	}
 }

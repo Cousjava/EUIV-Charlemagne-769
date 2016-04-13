@@ -10,9 +10,9 @@ capital = 571
 	monarch = {
 		name = "Balavarman II"
 		dynasty = "Mlechchha"
-		adm = 1
-		dip = 2
-		mil = 2
+		adm = 2
+		dip = 1
+		mil = 5
 	}
 }
 1422.1.1 = {
@@ -22,8 +22,8 @@ capital = 571
 		dynasty = "Mlechchha"
 		birth_date = 1422.1.1
 		death_date = 1502.1.1
-		adm = 1
-		dip = 3
+		adm = 3
+		dip = 4
 		mil = 1
 	}
 }

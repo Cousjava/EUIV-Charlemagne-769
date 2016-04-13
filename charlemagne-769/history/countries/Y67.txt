@@ -10,9 +10,9 @@ capital = 399
 	monarch = {
 		name = "al-Julanda"
 		dynasty = "Azd Umanid"
-		adm = 3
-		dip = 6
-		mil = 2
+		adm = 6
+		dip = 1
+		mil = 3
 	}
 }
 1409.1.1 = {
@@ -22,9 +22,9 @@ capital = 399
 		dynasty = "Azd Umanid"
 		birth_date = 1409.1.1
 		death_date = 1489.1.1
-		adm = 3
-		dip = 0
-		mil = 2
+		adm = 0
+		dip = 5
+		mil = 3
 	}
 }
 1444.11.11 = {

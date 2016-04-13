@@ -10,9 +10,9 @@ capital = 374
 	monarch = {
 		name = "Tóim Snáma"
 		dynasty = "Dál Birn"
-		adm = 2
-		dip = 2
-		mil = 6
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 374
 		dynasty = "Dál Birn"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 3
-		dip = 2
-		mil = 5
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

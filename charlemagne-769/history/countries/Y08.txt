@@ -10,8 +10,8 @@ capital = 159
 	monarch = {
 		name = "Krum"
 		dynasty = "Dulo"
-		adm = 4
-		dip = 3
+		adm = 3
+		dip = 1
 		mil = 6
 	}
 }

@@ -10,9 +10,9 @@ capital = 46
 	monarch = {
 		name = "Sobieslav"
 		dynasty = "z Wieletow"
-		adm = 2
-		dip = 4
-		mil = 5
+		adm = 4
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

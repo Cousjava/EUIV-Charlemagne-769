@@ -22,7 +22,7 @@ capital = 151
 		dynasty = "Isauros"
 		birth_date = 1425.1.25
 		death_date = 1505.1.25
-		adm = 3
+		adm = 2
 		dip = 6
 		mil = 1
 	}

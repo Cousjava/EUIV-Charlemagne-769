@@ -10,7 +10,7 @@ capital = 207
 	monarch = {
 		name = "Aurelio"
 		dynasty = "de Cantabria"
-		adm = 2
+		adm = 3
 		dip = 3
 		mil = 2
 	}

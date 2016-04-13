@@ -10,9 +10,9 @@ capital = 1772
 	monarch = {
 		name = "Vetam"
 		dynasty = "Khazbek"
-		adm = 4
-		dip = 1
-		mil = 4
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

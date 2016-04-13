@@ -10,9 +10,9 @@ capital = 2409
 	monarch = {
 		name = "Sartäç"
 		dynasty = "Karadakhu"
-		adm = 0
-		dip = 5
-		mil = 3
+		adm = 3
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

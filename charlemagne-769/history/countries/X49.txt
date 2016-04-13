@@ -10,8 +10,8 @@ capital = 2121
 	monarch = {
 		name = "Dharmawarme"
 		dynasty = "Kuci"
-		adm = 5
-		dip = 2
+		adm = 6
+		dip = 1
 		mil = 2
 	}
 }
@@ -24,8 +24,8 @@ capital = 2121
 		death_date = 1505.1.1
 		female = yes
 		adm = 2
-		dip = 3
-		mil = 2
+		dip = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

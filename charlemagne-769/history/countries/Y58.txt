@@ -11,8 +11,8 @@ capital = 336
 		name = "Abu Qurra"
 		dynasty = "Ifrinid"
 		adm = 1
-		dip = 4
-		mil = 1
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

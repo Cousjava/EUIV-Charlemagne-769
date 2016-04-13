@@ -10,9 +10,9 @@ capital = 251
 	monarch = {
 		name = "Urguist"
 		dynasty = "Circinn"
-		adm = 6
-		dip = 2
-		mil = 3
+		adm = 4
+		dip = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

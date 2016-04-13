@@ -12,7 +12,7 @@ capital = 390
 		dynasty = "Arwadid"
 		adm = 2
 		dip = 3
-		mil = 1
+		mil = 6
 	}
 }
 1444.11.11 = {

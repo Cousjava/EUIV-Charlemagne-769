@@ -10,9 +10,9 @@ capital = 1940
 	monarch = {
 		name = "Briachislav"
 		dynasty = "Tyvercy"
-		adm = 3
-		dip = 4
-		mil = 3
+		adm = 1
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

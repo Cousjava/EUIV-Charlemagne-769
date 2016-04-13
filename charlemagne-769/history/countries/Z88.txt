@@ -10,9 +10,9 @@ capital = 31
 	monarch = {
 		name = "Sampo"
 		dynasty = "Savolainen"
-		adm = 3
-		dip = 5
-		mil = 1
+		adm = 2
+		dip = 4
+		mil = 2
 	}
 }
 1439.1.1 = {

@@ -11,8 +11,8 @@ capital = 1826
 		name = "Budimir"
 		dynasty = "Trpimirovic"
 		adm = 1
-		dip = 3
-		mil = 4
+		dip = 4
+		mil = 2
 	}
 }
 1413.1.1 = {
@@ -22,9 +22,9 @@ capital = 1826
 		dynasty = "Trpimirovic"
 		birth_date = 1413.1.1
 		death_date = 1493.1.1
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 6
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

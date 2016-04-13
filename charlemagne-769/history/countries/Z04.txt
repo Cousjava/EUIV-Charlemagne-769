@@ -10,9 +10,9 @@ capital = 372
 	monarch = {
 		name = "Fiachnae"
 		dynasty = "Dál Fiatach"
-		adm = 3
-		dip = 4
-		mil = 2
+		adm = 2
+		dip = 2
+		mil = 3
 	}
 }
 1415.1.1 = {
@@ -22,9 +22,9 @@ capital = 372
 		dynasty = "Dál Fiatach"
 		birth_date = 1415.1.1
 		death_date = 1495.1.1
-		adm = 4
-		dip = 0
-		mil = 4
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

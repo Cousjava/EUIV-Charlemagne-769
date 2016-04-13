@@ -10,9 +10,9 @@ capital = 2762
 	monarch = {
 		name = "Afework"
 		dynasty = "Na'akuelo"
-		adm = 2
+		adm = 1
 		dip = 4
-		mil = 2
+		mil = 6
 	}
 }
 1435.1.1 = {
@@ -22,8 +22,8 @@ capital = 2762
 		dynasty = "Na'akuelo"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 2
-		dip = 2
+		adm = 3
+		dip = 4
 		mil = 2
 	}
 }

@@ -10,8 +10,8 @@ capital = 235
 	monarch = {
 		name = "Brorda"
 		dynasty = "Godhelming"
-		adm = 4
-		dip = 5
+		adm = 3
+		dip = 4
 		mil = 2
 	}
 }

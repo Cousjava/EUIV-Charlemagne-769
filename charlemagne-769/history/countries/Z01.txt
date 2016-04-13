@@ -10,9 +10,9 @@ capital = 371
 	monarch = {
 		name = "Froði"
 		dynasty = "Drake"
-		adm = 4
-		dip = 2
-		mil = 0
+		adm = 3
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

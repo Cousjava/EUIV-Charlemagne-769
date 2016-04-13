@@ -11,8 +11,8 @@ capital = 2118
 		name = "Kozel"
 		dynasty = "Akhun"
 		adm = 1
-		dip = 4
-		mil = 3
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {

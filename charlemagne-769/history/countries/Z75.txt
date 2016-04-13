@@ -10,9 +10,9 @@ capital = 47
 	monarch = {
 		name = "Strasz"
 		dynasty = "z Rujani"
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 1444.11.11 = {

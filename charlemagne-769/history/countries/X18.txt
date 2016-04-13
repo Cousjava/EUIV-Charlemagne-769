@@ -10,9 +10,9 @@ capital = 550
 	monarch = {
 		name = "Sankaragana"
 		dynasty = "Cedi"
-		adm = 1
+		adm = 2
 		dip = 2
-		mil = 2
+		mil = 0
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 550
 		dynasty = "Cedi"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 1
-		dip = 3
-		mil = 1
+		adm = 3
+		dip = 0
+		mil = 4
 	}
 }
 1444.11.11 = {

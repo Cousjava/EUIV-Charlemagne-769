@@ -10,9 +10,9 @@ capital = 79
 	monarch = {
 		name = "Thuringus"
 		dynasty = "Hetanid"
-		adm = 1
-		dip = 2
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 6
 	}
 }
 1444.11.11 = {

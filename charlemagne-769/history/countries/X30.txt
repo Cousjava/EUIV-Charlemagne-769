@@ -10,9 +10,9 @@ capital = 560
 	monarch = {
 		name = "Pasna"
 		dynasty = "Munda"
-		adm = 4
-		dip = 2
-		mil = 5
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 1425.1.1 = {
@@ -22,8 +22,8 @@ capital = 560
 		dynasty = "Munda"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
-		dip = 3
+		adm = 4
+		dip = 1
 		mil = 1
 	}
 }

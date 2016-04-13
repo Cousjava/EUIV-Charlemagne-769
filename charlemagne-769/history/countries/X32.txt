@@ -10,9 +10,9 @@ capital = 477
 	monarch = {
 		name = "Karaca"
 		dynasty = "Haravoi"
-		adm = 0
-		dip = 2
-		mil = 3
+		adm = 1
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

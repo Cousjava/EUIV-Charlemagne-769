@@ -10,9 +10,9 @@ capital = 1939
 	monarch = {
 		name = "Sedziej"
 		dynasty = "Sieradzki"
-		adm = 4
+		adm = 2
 		dip = 3
-		mil = 3
+		mil = 0
 	}
 }
 1444.11.11 = {

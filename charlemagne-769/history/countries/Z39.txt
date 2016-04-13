@@ -10,8 +10,8 @@ capital = 170
 	monarch = {
 		name = "Morvan"
 		dynasty = "Leon"
-		adm = 1
-		dip = 3
+		adm = 3
+		dip = 0
 		mil = 2
 	}
 }
@@ -22,7 +22,7 @@ capital = 170
 		dynasty = "Leon"
 		birth_date = 1440.1.1
 		death_date = 1520.1.1
-		adm = 3
+		adm = 4
 		dip = 3
 		mil = 3
 	}

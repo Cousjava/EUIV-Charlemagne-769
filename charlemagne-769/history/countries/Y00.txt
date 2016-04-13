@@ -10,9 +10,9 @@ capital = 1937
 	monarch = {
 		name = "Arunas"
 		dynasty = "of Gardinas"
-		adm = 1
-		dip = 3
-		mil = 5
+		adm = 5
+		dip = 0
+		mil = 2
 	}
 }
 1444.11.11 = {

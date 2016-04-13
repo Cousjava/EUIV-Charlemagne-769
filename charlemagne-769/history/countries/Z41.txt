@@ -11,7 +11,7 @@ capital = 171
 		name = "Berdic"
 		dynasty = "Breizh"
 		adm = 4
-		dip = 6
+		dip = 1
 		mil = 2
 	}
 }
@@ -24,7 +24,7 @@ capital = 171
 		death_date = 1521.1.1
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

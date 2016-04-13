@@ -10,9 +10,9 @@ capital = 1841
 	monarch = {
 		name = "Bezprzym"
 		dynasty = "Wilks"
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 3
+		mil = 5
 	}
 }
 1444.11.11 = {

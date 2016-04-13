@@ -10,9 +10,9 @@ capital = 293
 	monarch = {
 		name = "Stanislav"
 		dynasty = "Radimich"
-		adm = 3
-		dip = 4
-		mil = 1
+		adm = 0
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

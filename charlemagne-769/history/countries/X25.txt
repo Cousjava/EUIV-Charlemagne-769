@@ -10,9 +10,9 @@ capital = 451
 	monarch = {
 		name = "Bo-Fuzun"
 		dynasty = "Nandin"
-		adm = 1
+		adm = 0
 		dip = 3
-		mil = 2
+		mil = 3
 	}
 }
 1417.9.25 = {
@@ -22,8 +22,8 @@ capital = 451
 		dynasty = "Nandin"
 		birth_date = 1417.9.25
 		death_date = 1497.9.25
-		adm = 2
-		dip = 0
+		adm = 1
+		dip = 3
 		mil = 2
 	}
 }

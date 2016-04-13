@@ -10,8 +10,8 @@ capital = 1958
 	monarch = {
 		name = "Oiva"
 		dynasty = "Vepsä"
-		adm = 1
-		dip = 3
+		adm = 3
+		dip = 1
 		mil = 3
 	}
 }

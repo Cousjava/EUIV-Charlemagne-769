@@ -10,8 +10,8 @@ capital = 301
 	monarch = {
 		name = "Parush"
 		dynasty = "Mescheravid"
-		adm = 2
-		dip = 0
+		adm = 3
+		dip = 2
 		mil = 4
 	}
 }

@@ -10,7 +10,7 @@ capital = 153
 	monarch = {
 		name = "Dengizikh"
 		dynasty = "Khunzakhal"
-		adm = 4
+		adm = 3
 		dip = 3
 		mil = 2
 	}
