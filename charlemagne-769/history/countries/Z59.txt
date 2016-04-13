@@ -1,18 +1,18 @@
-# Hordaland
+# Nidaros
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 23
-1419.1.1 = {
+religion = animism
+capital = 2752
+1408.1.1 = {
 	monarch = {
-		name = "Hrafn"
-		dynasty = "Ytra"
-		adm = 1
-		dip = 4
-		mil = 2
+		name = "Grimr"
+		dynasty = "av Askø"
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

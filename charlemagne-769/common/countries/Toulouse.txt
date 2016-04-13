@@ -7,7 +7,7 @@ color = { 10 16 243 }
 
 leader_names = {
 
-	"Guillaume" "Niebelung" "Theodbert" "Teudoin" "Nibelung" "Childebrand" "Theoderic" "Adalelm" "Berta" "Abba" 
+	"Teudoin" "Theodbert" "Niebelung" "Guillaume" "Theoderic" "Abba" "Nibelung" "Berta" "Adalelm" "Childebrand" 
 	"Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" "Agiulf" 
 	"Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Arnulf" "Ascaric" 
 	"Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" "Berald" 
@@ -29,16 +29,16 @@ leader_names = {
 	"Tetbert" "Teutbald" "Teutbert" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" "Trutgaud" 
 	"Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
-	"Guillaume #1" = 21
-	"Niebelung #0" = 43
-	"Theodbert #0" = 21
 	"Teudoin #0" = 21
-	"Nibelung #0" = 43
-	"Childebrand #0" = 21
+	"Theodbert #0" = 21
+	"Niebelung #0" = 43
+	"Guillaume #1" = 21
 	"Theoderic #0" = 43
-	"Adalelm #0" = 21
-	"Berta #0" = -22
 	"Abba #0" = -22
+	"Nibelung #0" = 43
+	"Berta #0" = -22
+	"Adalelm #0" = 21
+	"Childebrand #0" = 21
 	"Abrahil #0" = 0
 	"Abram #0" = 0
 	"Adalbald #0" = 0

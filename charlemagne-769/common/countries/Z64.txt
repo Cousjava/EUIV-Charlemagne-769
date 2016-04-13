@@ -1,6 +1,6 @@
-# Sápmi
+# Länsipohja
 graphical_culture = easterngfx
-color = { 60 60 130 }
+color = { 70 70 156 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -33,13 +33,13 @@ historical_units = {
 
 leader_names = {
 
-	"Leammá" "Ággi" "Áigesárri" "Áilu" "Ámmot" "Ára" "Árrajuoksa" "Ásllat" "Èoavvá" "Ahkemiella" 
+	"Sárra" "Ággi" "Áigesárri" "Áilu" "Ámmot" "Ára" "Árrajuoksa" "Ásllat" "Èoavvá" "Ahkemiella" 
 	"Algebaeivi" "Baeivi" "Baeivvet" "Biejan" "Bijás" "Bilzi" "Dávgon" "Duttá" "Gáivvas" "Gáktu" 
-	"Henes" "Járre" "Jeansa" "Juvven" "Lágon" "Lávrrohas" "Mellet" "Mihka" "Mohkku" "Mokci" 
-	"Náhkol" "Náinnas" "Njulgu" "Oaván" "Orddot" "Rástos" "Riibma" "Ruigi" "Sárra" "Speaidna" 
+	"Henes" "Járre" "Jeansa" "Juvven" "Lágon" "Lávrrohas" "Leammá" "Mellet" "Mihka" "Mohkku" 
+	"Mokci" "Náhkol" "Náinnas" "Njulgu" "Oaván" "Orddot" "Rástos" "Riibma" "Ruigi" "Speaidna" 
 	"Viggu" }
 monarch_names = {
-	"Leammá #0" = 5
+	"Sárra #0" = 5
 	"Ággi #0" = 0
 	"Áigesárri #0" = 0
 	"Áilu #0" = 0
@@ -65,6 +65,7 @@ monarch_names = {
 	"Juvven #0" = 0
 	"Lágon #0" = 0
 	"Lávrrohas #0" = 0
+	"Leammá #0" = 0
 	"Mellet #0" = 0
 	"Mihka #0" = 0
 	"Mohkku #0" = 0
@@ -77,7 +78,6 @@ monarch_names = {
 	"Rástos #0" = 0
 	"Riibma #0" = 0
 	"Ruigi #0" = 0
-	"Sárra #0" = 0
 	"Speaidna #0" = 0
 	"Viggu #0" = 0
 }

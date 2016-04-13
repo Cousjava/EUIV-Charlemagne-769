@@ -1,17 +1,17 @@
-# Sápmi
+# Länsipohja
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = lappish
+primary_culture = sapmi
 religion = animism
-capital = 18
-1414.1.1 = {
+capital = 11
+1410.1.1 = {
 	monarch = {
-		name = "Leammá"
-		dynasty = "Kaise"
-		adm = 2
-		dip = 4
+		name = "Sárra"
+		dynasty = "Saiva"
+		adm = 3
+		dip = 0
 		mil = 2
 	}
 }

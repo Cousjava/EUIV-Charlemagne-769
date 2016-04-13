@@ -1,21 +1,33 @@
-# Muhallabid
+# Bajanid
 government = iqta
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 361
-1395.1.1 = {
+capital = 453
+1407.1.1 = {
 	monarch = {
-		name = "Yazid"
-		dynasty = "Muhallabid"
+		name = "Jibril"
+		dynasty = "Bajanid"
 		adm = 1
-		dip = 5
+		dip = 3
 		mil = 3
 	}
 }
+1385.1.1 = {
+	heir = {
+		name = "Yahya"
+		monarch_name = "Yahya"
+		dynasty = "Bajanid"
+		birth_date = 1385.1.1
+		death_date = 1465.1.1
+		adm = 5
+		dip = 4
+		mil = 4
+	}
+}
 1444.11.11 = {
-	add_treasury = 10
-	add_prestige = 14
+	add_treasury = 6
+	add_prestige = 5
 }

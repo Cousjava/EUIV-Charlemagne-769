@@ -1,21 +1,33 @@
-# Suakin
-government = feudal_monarchy
-government_rank = 1
+# Kirghiz
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = nubian
-religion = coptic
-capital = 1232
-1417.1.1 = {
+technology_group = nomad_group
+primary_culture = kirgiz
+religion = manichean
+capital = 2433
+1407.4.15 = {
 	monarch = {
-		name = "Papasinen"
-		dynasty = "Amarrar"
-		adm = 3
-		dip = 2
-		mil = 2
+		name = "Seitek"
+		dynasty = "Tiele"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+1427.3.24 = {
+	heir = {
+		name = "Sotan"
+		monarch_name = "Sotan"
+		dynasty = "Tiele"
+		birth_date = 1427.3.24
+		death_date = 1507.3.24
+		adm = 4
+		dip = 4
+		mil = 1
 	}
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	add_treasury = 10
+	add_prestige = 12
 }

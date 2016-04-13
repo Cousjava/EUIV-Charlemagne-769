@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = irish
 religion = catholic
 capital = 374
@@ -10,9 +10,9 @@ capital = 374
 	monarch = {
 		name = "Tóim Snáma"
 		dynasty = "Dál Birn"
-		adm = 4
+		adm = 2
 		dip = 2
-		mil = 2
+		mil = 6
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 374
 		dynasty = "Dál Birn"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 3
+		dip = 2
+		mil = 5
 	}
 }
 1444.11.11 = {

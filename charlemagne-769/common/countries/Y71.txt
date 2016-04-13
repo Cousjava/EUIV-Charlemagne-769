@@ -1,28 +1,24 @@
-# Alodia
+# Kassala
 graphical_culture = muslimgfx
-color = { 128 60 20 }
+color = { 200 101 34 }
 
 
 
 
 leader_names = {
 
-	"Shamumun" "Zakharias" "Gabriel" "Dauid" "Asabysos" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" 
-	"Athanasios" "Balô" "Bartholomaios" "Birêl" "Chael" "Christophoros" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" 
-	"Eionkouda" "Emmanouel" "Enôch" "Ephannê" "Epimachos" "Epiphanios" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" 
-	"Hêlias" "Hoase" "Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" 
-	"Iordanes" "Ioseph" "Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" 
-	"Makarios" "Mariana" "Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" 
-	"Mena" "Menankouda" "Merkourios" "Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" 
-	"Patrikios" "Paulos" "Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" 
-	"Senouthios" "Sentiko" "Sergios" "Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" 
-	"Theodôros" "Theodosios" "Theodote" "Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
+	"Thoma" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
+	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
+	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
+	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
+	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
+	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" 
+	"Merkourios" "Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" 
+	"Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" 
+	"Sergios" "Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" 
+	"Theodote" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
 monarch_names = {
-	"Shamumun #1" = 10
-	"Zakharias #0" = 10
-	"Gabriel #1" = 10
-	"Dauid #1" = 10
-	"Asabysos #1" = 10
+	"Thoma #0" = 10
 	"Aarôn #0" = 0
 	"Aberikos #0" = 0
 	"Abraam #0" = 0
@@ -34,6 +30,7 @@ monarch_names = {
 	"Birêl #0" = 0
 	"Chael #0" = 0
 	"Christophoros #0" = 0
+	"Dauid #0" = 0
 	"Dimetheos #0" = 0
 	"Dioskoros #0" = 0
 	"Diônisios #0" = 0
@@ -44,6 +41,7 @@ monarch_names = {
 	"Ephannê #0" = 0
 	"Epimachos #0" = 0
 	"Epiphanios #0" = 0
+	"Gabriel #0" = 0
 	"Gabrielkouda #0" = 0
 	"Gabrielophorou #0" = 0
 	"Gennatios #0" = 0
@@ -111,7 +109,6 @@ monarch_names = {
 	"Theodôros #0" = 0
 	"Theodosios #0" = 0
 	"Theodote #0" = 0
-	"Thoma #0" = 0
 	"Tophêna #0" = 0
 	"Tirsakouni #0" = 0
 	"Zacharias #0" = 0

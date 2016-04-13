@@ -1,21 +1,21 @@
-# Severia
-government = tribal_despotism
+# Yabghumakh
+government = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = severian
-religion = animism
-capital = 289
-1408.1.1 = {
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
+capital = 284
+1406.1.1 = {
 	monarch = {
-		name = "Sviatoslav"
-		dynasty = "Seversky"
+		name = "Mënümarót"
+		dynasty = "Yabghumakh"
 		adm = 3
-		dip = 1
-		mil = 0
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 8
+	add_prestige = 8
 }

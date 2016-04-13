@@ -7,8 +7,8 @@ color = { 108 23 29 }
 
 leader_names = {
 
-	"Shivamara" "Sripurusha" "Vishnugopa" "Harivarman" "Madhava" "Konganivarman" "Bhuvikarma" "Srivikrama" "Polavira" "Mushkara" 
-	"Durvinita" "Avinita" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" "Ayanna" "Bhuvikrama" 
+	"Shivamara" "Sripurusha" "Konganivarman" "Madhava" "Harivarman" "Vishnugopa" "Avinita" "Durvinita" "Mushkara" "Polavira" 
+	"Srivikrama" "Bhuvikarma" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" "Ayanna" "Bhuvikrama" 
 	"Bijjama" "Bukka" "Butuga" "Chavundaraya" "Dantidurga" "Dashavarman" "Dhruva" "Durgasimha" "Ereganga" "Ereyanga" 
 	"Gangaraja" "Gajankusha" "Gobburi" "Govinda" "Hakka" "Harihara" "Indra" "Jagadhekamalla" "Jagaraya" "Jagattunga" 
 	"Jayasimha" "Jogama" "Kambarasa" "Kannama" "Karka" "Khottiga" "Kiriyasaga" "Kirtivarman" "Krishna" "Madhura" 
@@ -20,16 +20,16 @@ leader_names = {
 monarch_names = {
 	"Shivamara #1" = 21
 	"Sripurusha #1" = 10
-	"Vishnugopa #1" = 21
-	"Harivarman #1" = 10
-	"Madhava #2" = 21
 	"Konganivarman #1" = 10
-	"Bhuvikarma #1" = 10
-	"Srivikrama #1" = 10
-	"Polavira #1" = 10
-	"Mushkara #1" = 10
-	"Durvinita #1" = 10
+	"Madhava #2" = 21
+	"Harivarman #1" = 10
+	"Vishnugopa #1" = 21
 	"Avinita #1" = 10
+	"Durvinita #1" = 10
+	"Mushkara #1" = 10
+	"Polavira #1" = 10
+	"Srivikrama #1" = 10
+	"Bhuvikarma #1" = 10
 	"Achugi #0" = 0
 	"Adikavi #0" = 0
 	"Ahavamalla #0" = 0

@@ -1,21 +1,21 @@
-# Aslamid
-government = iqta
-government_rank = 1
+# Asturias
+government = feudal_monarchy
+government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = bedouin_arabic
-religion = sunni
-capital = 227
-1413.1.1 = {
+primary_culture = visigothic
+religion = catholic
+capital = 207
+1390.1.1 = {
 	monarch = {
-		name = "Abdallah"
-		dynasty = "Aslamid"
-		adm = 4
-		dip = 1
+		name = "Aurelio"
+		dynasty = "de Cantabria"
+		adm = 2
+		dip = 3
 		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 8
+	add_prestige = 13
 }

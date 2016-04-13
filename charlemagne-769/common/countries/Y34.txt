@@ -1,28 +1,28 @@
-# Yaik
+# Ezgil
 graphical_culture = muslimgfx
-color = { 231 178 35 }
+color = { 208 218 160 }
 
 
 
 
 leader_names = {
 
-	"Taridin" "Oshi" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Asparukh" "Balamber" "Bars" 
+	"Kormisosh" "Islivan" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Asparukh" "Balamber" "Bars" 
 	"Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" "Belkermak" "Bezmer" "Boyan" "Bulger" "Buzan" 
 	"Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" "Ellak" "Elemag" 
-	"Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" "Islivan" 
-	"Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" "Khudbard" 
-	"Kordil" "Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kurt" "Kutrigur" 
-	"Kuvrat" "Labertam" "Magotin" "Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" 
-	"Onegavon" "Organ" "Organa" "Ornag" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" "Rassate" 
-	"Rugila" "Sabin" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Sondoke" 
-	"Tähtaman" "Tarasiy" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timëreç" "Timërpälat" "Tingiz" 
+	"Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" "Isperikh" 
+	"Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" "Khudbard" "Kordil" 
+	"Kormesiy" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kurt" "Kutrigur" "Kuvrat" "Labertam" 
+	"Magotin" "Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" 
+	"Organa" "Ornag" "Oshi" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" "Rassate" "Rugila" 
+	"Sabin" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Sondoke" "Tähtaman" 
+	"Tarasiy" "Taridin" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timëreç" "Timërpälat" "Tingiz" 
 	"Tiradin" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" "Umor" "Uturgur" "Vakrim" "Venda" 
 	"Vetam" "Vinekh" "Yani" "Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" 
 	"Aydar" "Irkhan" "Batir" }
 monarch_names = {
-	"Taridin #0" = 13
-	"Oshi #0" = 13
+	"Kormisosh #0" = 13
+	"Islivan #1" = 13
 	"Almish #0" = 0
 	"Alzek #0" = 0
 	"Anzi #0" = 0
@@ -60,7 +60,6 @@ monarch_names = {
 	"Iani #0" = 0
 	"Irnek #0" = 0
 	"Isbul #0" = 0
-	"Islivan #0" = 0
 	"Isperikh #0" = 0
 	"Ispor #0" = 0
 	"Kälaç #0" = 0
@@ -73,7 +72,6 @@ monarch_names = {
 	"Khudbard #0" = 0
 	"Kordil #0" = 0
 	"Kormesiy #0" = 0
-	"Kormisosh #0" = 0
 	"Kotrag #0" = 0
 	"Krovat #0" = 0
 	"Krum #0" = 0
@@ -95,6 +93,7 @@ monarch_names = {
 	"Organ #0" = 0
 	"Organa #0" = 0
 	"Ornag #0" = 0
+	"Oshi #0" = 0
 	"Ostro #0" = 0
 	"Pagan #0" = 0
 	"Pakhtiyar #0" = 0
@@ -113,6 +112,7 @@ monarch_names = {
 	"Sondoke #0" = 0
 	"Tähtaman #0" = 0
 	"Tarasiy #0" = 0
+	"Taridin #0" = 0
 	"Tatra #0" = 0
 	"Telec #0" = 0
 	"Telerig #0" = 0

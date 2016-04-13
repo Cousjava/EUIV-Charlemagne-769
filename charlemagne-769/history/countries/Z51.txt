@@ -1,33 +1,21 @@
-# Lombardy
+# Benevento
 government = feudal_monarchy
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = lombard
 religion = catholic
-capital = 104
-1392.1.1 = {
+capital = 1933
+1410.1.1 = {
 	monarch = {
-		name = "Desiderius"
-		dynasty = "Alachisling"
-		adm = 3
-		dip = 2
-		mil = 2
-	}
-}
-1434.1.1 = {
-	heir = {
-		name = "Adelchis"
-		monarch_name = "Adelchis"
-		dynasty = "Alachisling"
-		birth_date = 1434.1.1
-		death_date = 1514.1.1
-		adm = 3
-		dip = 2
-		mil = 3
+		name = "Arechis II"
+		dynasty = "Gausian"
+		adm = 2
+		dip = 0
+		mil = 0
 	}
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 7
+	add_treasury = 6
+	add_prestige = 51
 }

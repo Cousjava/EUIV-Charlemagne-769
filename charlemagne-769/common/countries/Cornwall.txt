@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Hopkin" "Cawrdolli" "Oswallt" "Hernam" "Rodric" "Donual" "Hoël" "Iudhael" "Caradog" "Meurig" 
+	"Hopkin" "Hernam" "Oswallt" "Cawrdolli" "Iudhael" "Hoël" "Donual" "Rodric" "Caradog" "Meurig" 
 	"Dynod" "Cynan Meiriadog" "Cadfan" "Gwrfawr" "Tudwal" "Cynfawr" "Custennin" "Erbin" "Geraint" "Cadwy" 
 	"Gereint" "Bledric" "Clemen" "Petroc" "Culmin" "Dumnarth" "Adoyre" "Adrien" "Aedan" "Agustin" 
 	"Alan" "Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" 
@@ -78,13 +78,13 @@ leader_names = {
 	"Urbien" "Urblon" "Urvod" "Uther" "Vincenne" }
 monarch_names = {
 	"Hopkin #0" = 43
-	"Cawrdolli #1" = 43
-	"Oswallt #0" = 43
 	"Hernam #0" = 43
-	"Rodric #0" = 43
-	"Donual #1" = 43
-	"Hoël #1" = 43
+	"Oswallt #0" = 43
+	"Cawrdolli #1" = 43
 	"Iudhael #1" = 43
+	"Hoël #1" = 43
+	"Donual #1" = 43
+	"Rodric #0" = 43
 	"Caradog #1" = 0
 	"Meurig #1" = 0
 	"Dynod #1" = 0

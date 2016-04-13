@@ -1,21 +1,21 @@
-# Wag
-government = feudal_monarchy
+# Berbera
+government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = amhara
-religion = coptic
-capital = 1227
-1395.1.1 = {
+primary_culture = somali
+religion = sunni
+capital = 1209
+1412.1.1 = {
 	monarch = {
-		name = "Ayzur"
-		dynasty = "Solomonid"
-		adm = 3
-		dip = 0
-		mil = 2
+		name = "Hil"
+		dynasty = "Abrone"
+		adm = 2
+		dip = 4
+		mil = 3
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 37
+	add_prestige = 5
 }

@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = irish
 religion = catholic
 capital = 376
@@ -11,7 +11,7 @@ capital = 376
 		name = "Cernach"
 		dynasty = "Ua Briúin Bréifne"
 		adm = 2
-		dip = 3
+		dip = 4
 		mil = 3
 	}
 }

@@ -1,7 +1,7 @@
 iranian = {
 	kurdish = {
 		primary = PER
-		dynasty_names = { "Justanid" "of Kurdistan" "Oromid" "Kirkukbid" "Murrid" "of Paveh" "Behrouzid" "Revendid" "Mîrzid" "Xašayarid" "Nesrid" "Ranyid" "Ferîdid" "Cehandarid" "Cevid" }
+		dynasty_names = { "Justanid" "Bebadid" "Oromid" "Kirkukbid" "Murrid" "Pavehid" "Ziaid" "Efšerid" "Assadid" }
 	}
 	baloch = {
 		primary = PER

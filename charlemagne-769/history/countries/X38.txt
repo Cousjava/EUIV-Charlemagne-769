@@ -1,18 +1,18 @@
-# Maldives
+# Trinkitat
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = sinhala
-religion = buddhism
-capital = 1248
-1435.1.1 = {
+technology_group = muslim
+primary_culture = nubian
+religion = coptic
+capital = 1230
+1421.1.1 = {
 	monarch = {
-		name = "Aditya"
-		dynasty = "Adityavansha"
-		adm = 3
+		name = "Panigiros"
+		dynasty = "Beniamer"
+		adm = 2
 		dip = 3
-		mil = 3
+		mil = 0
 	}
 }
 1444.11.11 = {

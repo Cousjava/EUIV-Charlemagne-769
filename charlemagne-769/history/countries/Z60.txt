@@ -1,18 +1,18 @@
-# Nidaros
+# Heidmark
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 2752
-1408.1.1 = {
+religion = animism
+capital = 22
+1415.1.1 = {
 	monarch = {
-		name = "Grimr"
-		dynasty = "av Askø"
+		name = "Þorsteinn"
+		dynasty = "Hede"
 		adm = 4
-		dip = 2
-		mil = 4
+		dip = 0
+		mil = 1
 	}
 }
 1444.11.11 = {

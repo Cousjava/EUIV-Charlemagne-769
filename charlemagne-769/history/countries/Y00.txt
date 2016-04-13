@@ -1,18 +1,18 @@
-# Kryvia
+# Yatvingia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = ilmenian
+primary_culture = lithuanian
 religion = animism
-capital = 293
-1425.1.1 = {
+capital = 1937
+1408.1.1 = {
 	monarch = {
-		name = "Svetozar"
-		dynasty = "Kryvich"
-		adm = 2
-		dip = 0
-		mil = 6
+		name = "Arunas"
+		dynasty = "of Gardinas"
+		adm = 1
+		dip = 3
+		mil = 5
 	}
 }
 1444.11.11 = {

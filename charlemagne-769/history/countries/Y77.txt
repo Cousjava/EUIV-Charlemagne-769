@@ -1,33 +1,33 @@
-# Tyumen
+# Gojjam
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = cuman
-religion = tengri_pagan_reformed
-capital = 1075
-1398.1.1 = {
+primary_culture = amhara
+religion = coptic
+capital = 1223
+1408.1.1 = {
 	monarch = {
-		name = "Kuntuvdi"
-		dynasty = "Andjogli"
-		adm = 1
-		dip = 6
-		mil = 3
+		name = "Aman"
+		dynasty = "Desta"
+		adm = 2
+		dip = 0
+		mil = 2
 	}
 }
-1418.1.1 = {
+1425.1.1 = {
 	heir = {
-		name = "Koza"
-		monarch_name = "Koza"
-		dynasty = "Andjogli"
-		birth_date = 1418.1.1
-		death_date = 1498.1.1
+		name = "Gebereal"
+		monarch_name = "Gebereal"
+		dynasty = "Desta"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
 		adm = 3
-		dip = 0
-		mil = 4
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	add_treasury = 6
+	add_prestige = 5
 }

@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Congal" "Cobthach" "Máel-Dúin" "Áed" "Conaing" "Cummine" "Áed Bennán" "Crimthann" "Dauí Iarlaithe" "Maithne" 
+	"Cobthach" "Congal" "Máel-Dúin" "Maithne" "Dauí Iarlaithe" "Crimthann" "Áed Bennán" "Cummine" "Conaing" "Áed" 
 	"Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" 
 	"Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" 
 	"Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" 
@@ -84,16 +84,16 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Congal #0" = 50
 	"Cobthach #0" = 101
+	"Congal #0" = 50
 	"Máel-Dúin #0" = 50
-	"Áed #0" = 50
-	"Conaing #0" = 50
-	"Cummine #0" = 50
-	"Áed Bennán #0" = 50
-	"Crimthann #0" = 50
-	"Dauí Iarlaithe #0" = 50
 	"Maithne #0" = 50
+	"Dauí Iarlaithe #0" = 50
+	"Crimthann #0" = 50
+	"Áed Bennán #0" = 50
+	"Cummine #0" = 50
+	"Conaing #0" = 50
+	"Áed #0" = 50
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

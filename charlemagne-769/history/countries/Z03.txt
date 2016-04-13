@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = irish
 religion = catholic
 capital = 372
@@ -11,8 +11,8 @@ capital = 372
 		name = "Niall"
 		dynasty = "Ua Néill Noígiallaich"
 		adm = 1
-		dip = 3
-		mil = 2
+		dip = 0
+		mil = 1
 	}
 }
 1435.1.1 = {
@@ -22,9 +22,9 @@ capital = 372
 		dynasty = "Ua Néill Noígiallaich"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 4
-		dip = 4
-		mil = 2
+		adm = 2
+		dip = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

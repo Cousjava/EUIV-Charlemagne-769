@@ -35,8 +35,8 @@ historical_units = {
 
 leader_names = {
 
-	"Ashot" "Smbat" "Atrnerseh" "Sahak" "Bagrat" "Vasak" "Varaz-Tiroc" "Manvel" "Spandiat" "Vassak" 
-	"Tiroc" "Thoros" "Mushel" "Hamazasp" "Grigor" "Nerseh" "Abas" "Abirad" "Aboughamr" "Aboulgharib" 
+	"Ashot" "Atrnerseh" "Smbat" "Bagrat" "Sahak" "Tiroc" "Vassak" "Spandiat" "Varaz-Tiroc" "Manvel" 
+	"Vasak" "Thoros" "Mushel" "Hamazasp" "Grigor" "Nerseh" "Abas" "Abirad" "Aboughamr" "Aboulgharib" 
 	"Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Athom" "Avag" "Avedis" "Bagour" 
 	"Bedros" "Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Gurgen" "Hagop" "Hethum" 
 	"Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" 
@@ -46,16 +46,16 @@ leader_names = {
 	"Vartan" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
 monarch_names = {
 	"Ashot #2" = 38
-	"Smbat #2" = 57
 	"Atrnerseh #0" = 9
-	"Sahak #1" = 19
+	"Smbat #2" = 57
 	"Bagrat #0" = 9
-	"Vasak #0" = 9
+	"Sahak #1" = 19
+	"Tiroc #0" = 9
+	"Vassak #0" = 9
+	"Spandiat #0" = 9
 	"Varaz-Tiroc #0" = 19
 	"Manvel #0" = 9
-	"Spandiat #0" = 9
-	"Vassak #0" = 9
-	"Tiroc #0" = 9
+	"Vasak #0" = 9
 	"Thoros #1" = 0
 	"Mushel #2" = 0
 	"Hamazasp #1" = 0

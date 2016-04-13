@@ -1,29 +1,37 @@
-# Vemulavada Chalukya
+# Rashtrakuta
 graphical_culture = indiangfx
-color = { 185 39 45 }
+color = { 150 0 20 }
 
 
 
 
 leader_names = {
 
-	"Vinayaditya Yuddhamalla" "Arikesari" "Rajaditya" "Maharaja" "Prithvipati" "Satyasraya" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" 
-	"Anekonda" "Asaga" "Avinita" "Ayanna" "Bhuvikrama" "Bijjama" "Bukka" "Butuga" "Chavundaraya" "Dantidurga" 
-	"Dashavarman" "Dhruva" "Durgasimha" "Durvinita" "Ereganga" "Ereyanga" "Gangaraja" "Gajankusha" "Gobburi" "Govinda" 
-	"Hakka" "Harihara" "Harivarman" "Indra" "Jagadhekamalla" "Jagaraya" "Jagattunga" "Jayasimha" "Jogama" "Kambarasa" 
-	"Kannama" "Karka" "Khottiga" "Kiriyasaga" "Kirtivarman" "Konganivarman" "Krishna" "Madhava" "Madhura" "Mallikarjuna" 
-	"Mallugi" "Mangalesi" "Marasimha" "Marulaganga" "Mushkara" "Narasanayaka" "Narasimha" "Neetimarga" "Nripakama" "Permadi" 
-	"Permanadi" "Polavira" "Praudharaya" "Pulakesi" "Purandaradasa" "Rachamalla" "Ramachandra" "Ramadeva" "Ramaraya" "Sankama" 
-	"Sharva" "Shivamara" "Singhana" "Somesvara" "Sovideva" "Sripadaraya" "Sripurusha" "Sriranga" "Srivikrama" "Tailapa" 
-	"Thimma" "Tirumalaraya" "Uchita" "Venkatadri" "Venkatapathi" "Vikramaditya" "Vijayaditya" "Vinayaditya" "Viraballala" "Viravijaya" 
-	"Virupaksha" "Vishnugopa" "Vishnuvardhana" "Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
+	"Rannadevi" "Indra" "Govinda" "Karkka" "Dhruva" "Sthamba" "Krishna" "Dantidurga" "Pulakesi" "Kirtivarman" 
+	"Mangalesa" "Vikramaditya" "Vinayaditya" "Vijayaditya" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" 
+	"Avinita" "Ayanna" "Bhuvikrama" "Bijjama" "Bukka" "Butuga" "Chavundaraya" "Dashavarman" "Durgasimha" "Durvinita" 
+	"Ereganga" "Ereyanga" "Gangaraja" "Gajankusha" "Gobburi" "Hakka" "Harihara" "Harivarman" "Jagadhekamalla" "Jagaraya" 
+	"Jagattunga" "Jayasimha" "Jogama" "Kambarasa" "Kannama" "Karka" "Khottiga" "Kiriyasaga" "Konganivarman" "Madhava" 
+	"Madhura" "Mallikarjuna" "Mallugi" "Mangalesi" "Marasimha" "Marulaganga" "Mushkara" "Narasanayaka" "Narasimha" "Neetimarga" 
+	"Nripakama" "Permadi" "Permanadi" "Polavira" "Praudharaya" "Purandaradasa" "Rachamalla" "Ramachandra" "Ramadeva" "Ramaraya" 
+	"Sankama" "Satyasraya" "Sharva" "Shivamara" "Singhana" "Somesvara" "Sovideva" "Sripadaraya" "Sripurusha" "Sriranga" 
+	"Srivikrama" "Tailapa" "Thimma" "Tirumalaraya" "Uchita" "Venkatadri" "Venkatapathi" "Viraballala" "Viravijaya" "Virupaksha" 
+	"Vishnugopa" "Vishnuvardhana" "Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
 monarch_names = {
-	"Vinayaditya Yuddhamalla #1" = 11
-	"Arikesari #0" = 11
-	"Rajaditya #1" = 11
-	"Maharaja #1" = 11
-	"Prithvipati #1" = 11
-	"Satyasraya #1" = 11
+	"Rannadevi #0" = -11
+	"Indra #0" = 21
+	"Govinda #0" = 32
+	"Karkka #0" = 10
+	"Dhruva #0" = 10
+	"Sthamba #0" = 10
+	"Krishna #1" = 10
+	"Dantidurga #1" = 10
+	"Pulakesi #2" = 0
+	"Kirtivarman #2" = 0
+	"Mangalesa #1" = 0
+	"Vikramaditya #2" = 0
+	"Vinayaditya #1" = 0
+	"Vijayaditya #1" = 0
 	"Achugi #0" = 0
 	"Adikavi #0" = 0
 	"Ahavamalla #0" = 0
@@ -37,9 +45,7 @@ monarch_names = {
 	"Bukka #0" = 0
 	"Butuga #0" = 0
 	"Chavundaraya #0" = 0
-	"Dantidurga #0" = 0
 	"Dashavarman #0" = 0
-	"Dhruva #0" = 0
 	"Durgasimha #0" = 0
 	"Durvinita #0" = 0
 	"Ereganga #0" = 0
@@ -47,11 +53,9 @@ monarch_names = {
 	"Gangaraja #0" = 0
 	"Gajankusha #0" = 0
 	"Gobburi #0" = 0
-	"Govinda #0" = 0
 	"Hakka #0" = 0
 	"Harihara #0" = 0
 	"Harivarman #0" = 0
-	"Indra #0" = 0
 	"Jagadhekamalla #0" = 0
 	"Jagaraya #0" = 0
 	"Jagattunga #0" = 0
@@ -62,9 +66,7 @@ monarch_names = {
 	"Karka #0" = 0
 	"Khottiga #0" = 0
 	"Kiriyasaga #0" = 0
-	"Kirtivarman #0" = 0
 	"Konganivarman #0" = 0
-	"Krishna #0" = 0
 	"Madhava #0" = 0
 	"Madhura #0" = 0
 	"Mallikarjuna #0" = 0
@@ -81,13 +83,13 @@ monarch_names = {
 	"Permanadi #0" = 0
 	"Polavira #0" = 0
 	"Praudharaya #0" = 0
-	"Pulakesi #0" = 0
 	"Purandaradasa #0" = 0
 	"Rachamalla #0" = 0
 	"Ramachandra #0" = 0
 	"Ramadeva #0" = 0
 	"Ramaraya #0" = 0
 	"Sankama #0" = 0
+	"Satyasraya #0" = 0
 	"Sharva #0" = 0
 	"Shivamara #0" = 0
 	"Singhana #0" = 0
@@ -103,9 +105,6 @@ monarch_names = {
 	"Uchita #0" = 0
 	"Venkatadri #0" = 0
 	"Venkatapathi #0" = 0
-	"Vikramaditya #0" = 0
-	"Vijayaditya #0" = 0
-	"Vinayaditya #0" = 0
 	"Viraballala #0" = 0
 	"Viravijaya #0" = 0
 	"Virupaksha #0" = 0

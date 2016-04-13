@@ -1,18 +1,18 @@
-# Ouadane
-government = tribal_despotism
+# Sijilmasa
+government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = animism
-capital = 1127
-1417.1.1 = {
+religion = ibadi
+capital = 346
+1400.1.1 = {
 	monarch = {
-		name = "Ugdada"
-		dynasty = "Ofodike"
-		adm = 2
-		dip = 2
-		mil = 5
+		name = "Al-Qasim"
+		dynasty = "Midrarid"
+		adm = 1
+		dip = 3
+		mil = 0
 	}
 }
 1444.11.11 = {

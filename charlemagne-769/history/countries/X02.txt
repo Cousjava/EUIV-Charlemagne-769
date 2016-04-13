@@ -1,21 +1,33 @@
-# Shantideva
+# Bhaumakara
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = bengali
-religion = hinduism
-capital = 564
-1418.1.1 = {
+technology_group = western
+primary_culture = oriya
+religion = buddhism
+capital = 552
+1405.1.1 = {
 	monarch = {
-		name = "Viradeva"
-		dynasty = "Shantideva"
+		name = "Sivakaradeva"
+		dynasty = "Bhaumakara"
+		adm = 1
+		dip = 1
+		mil = 6
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Subhakaradeva"
+		monarch_name = "Subhakaradeva"
+		dynasty = "Bhaumakara"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
 		adm = 4
-		dip = 4
-		mil = 1
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 7
-	add_prestige = 11
+	add_treasury = 6
+	add_prestige = 7
 }

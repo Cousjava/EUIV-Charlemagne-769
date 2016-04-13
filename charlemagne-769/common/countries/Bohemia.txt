@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Vojen" "Unislav" "Nezamysl" "Kresomysl" "Strojmir" "Mnata" "Premysl" "Albert" "Albrecht" "Ales" 
+	"Unislav" "Vojen" "Mnata" "Strojmir" "Kresomysl" "Nezamysl" "Premysl" "Albert" "Albrecht" "Ales" 
 	"Arnost" "Bavor" "Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" 
 	"Budivoj" "Castolov" "Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" 
 	"Havel" "Heralt" "Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" 
@@ -43,12 +43,12 @@ leader_names = {
 	"Tobiás" "Václav" "Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" 
 	"Vsebor" "Závis" "Zbynek" "Zdík" "Zdirad" "Zikmund" }
 monarch_names = {
-	"Vojen #0" = 9
 	"Unislav #0" = 9
-	"Nezamysl #1" = 9
-	"Kresomysl #0" = 9
-	"Strojmir #0" = 9
+	"Vojen #0" = 9
 	"Mnata #0" = 9
+	"Strojmir #0" = 9
+	"Kresomysl #0" = 9
+	"Nezamysl #1" = 9
 	"Premysl #1" = 9
 	"Albert #0" = 0
 	"Albrecht #0" = 0

@@ -10,9 +10,9 @@ capital = 161
 	monarch = {
 		name = "Vakrim"
 		dynasty = "Ukil"
-		adm = 2
-		dip = 4
-		mil = 5
+		adm = 1
+		dip = 2
+		mil = 6
 	}
 }
 1444.11.11 = {

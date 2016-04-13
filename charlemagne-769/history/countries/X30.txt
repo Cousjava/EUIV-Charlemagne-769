@@ -1,17 +1,29 @@
-# Rajrappa
-government = theocratic_government
+# Munda
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = bengali
-religion = jain
-capital = 2096
-1395.1.1 = {
+religion = hinduism
+capital = 560
+1405.1.1 = {
 	monarch = {
-		name = "Devarshi"
-		dynasty = "Rajrappa"
-		adm = 1
-		dip = 5
+		name = "Pasna"
+		dynasty = "Munda"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Kramaditya"
+		monarch_name = "Kramaditya"
+		dynasty = "Munda"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 3
 		mil = 1
 	}
 }

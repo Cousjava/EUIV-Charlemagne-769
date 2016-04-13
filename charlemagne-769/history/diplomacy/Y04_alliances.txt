@@ -1,0 +1,12 @@
+vassal = {
+	first = Y04
+	second = TRA
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = Y04
+	second = Y05
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

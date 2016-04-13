@@ -1,18 +1,18 @@
-# Ingria
+# Latgale
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = estonian
+technology_group = muslim
+primary_culture = latvian
 religion = animism
-capital = 33
-1413.1.1 = {
+capital = 273
+1412.1.1 = {
 	monarch = {
-		name = "Ahti"
-		dynasty = "Ingeri"
-		adm = 2
-		dip = 1
-		mil = 4
+		name = "Pukuveras"
+		dynasty = "Ugandi"
+		adm = 1
+		dip = 6
+		mil = 1
 	}
 }
 1444.11.11 = {

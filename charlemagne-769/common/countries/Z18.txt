@@ -35,9 +35,9 @@ historical_units = {
 
 leader_names = {
 
-	"Offa" "Ecgfrith" "Eadburh" "Æthelswith" "Æthelburh" "Ælfflæd" "Thingfrith" "Heardberht" "Æthelbald" "Eanwulf" 
-	"Ceolwald" "Ceolred" "Coenred" "Æthelred" "Osmod" "Alweo" "Wulfhere" "Peada" "Penda" "Eowa" 
-	"Pybba" "Creoda" "Cynewald" "Cnebba" "Icel" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" 
+	"Æthelswith" "Æthelburh" "Ælfflæd" "Eadburh" "Ecgfrith" "Offa" "Icel" "Cnebba" "Cynewald" "Creoda" 
+	"Pybba" "Eowa" "Penda" "Peada" "Wulfhere" "Alweo" "Osmod" "Æthelred" "Coenred" "Ceolred" 
+	"Ceolwald" "Eanwulf" "Æthelbald" "Heardberht" "Thingfrith" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" 
 	"Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" 
 	"Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" 
 	"Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" 
@@ -54,31 +54,31 @@ leader_names = {
 	"Ælle" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" 
 	"Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Offa #1" = 18
-	"Ecgfrith #0" = 18
-	"Eadburh #0" = -19
 	"Æthelswith #0" = -19
 	"Æthelburh #0" = -19
 	"Ælfflæd #0" = -19
-	"Thingfrith #0" = 18
-	"Heardberht #0" = 18
-	"Æthelbald #0" = 18
-	"Eanwulf #0" = 18
-	"Ceolwald #0" = 18
-	"Ceolred #0" = 18
-	"Coenred #0" = 18
-	"Æthelred #0" = 18
-	"Osmod #0" = 18
-	"Alweo #0" = 18
-	"Wulfhere #0" = 18
-	"Peada #0" = 18
-	"Penda #0" = 18
-	"Eowa #0" = 18
-	"Pybba #0" = 18
-	"Creoda #0" = 18
-	"Cynewald #0" = 18
-	"Cnebba #0" = 18
+	"Eadburh #0" = -19
+	"Ecgfrith #0" = 18
+	"Offa #1" = 18
 	"Icel #0" = 18
+	"Cnebba #0" = 18
+	"Cynewald #0" = 18
+	"Creoda #0" = 18
+	"Pybba #0" = 18
+	"Eowa #0" = 18
+	"Penda #0" = 18
+	"Peada #0" = 18
+	"Wulfhere #0" = 18
+	"Alweo #0" = 18
+	"Osmod #0" = 18
+	"Æthelred #0" = 18
+	"Coenred #0" = 18
+	"Ceolred #0" = 18
+	"Ceolwald #0" = 18
+	"Eanwulf #0" = 18
+	"Æthelbald #0" = 18
+	"Heardberht #0" = 18
+	"Thingfrith #0" = 18
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0

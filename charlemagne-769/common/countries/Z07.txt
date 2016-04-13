@@ -33,9 +33,9 @@ historical_units = {
 
 leader_names = {
 
-	"Muirgius" "Máel-Cothaid" "Fothad" "Diarmait" "Fínsnechta" "Tadg" "Tommaltach" "Flaithrí" "Murgal" "Tipraite" 
-	"Dub-Díbeirgg" "Fagartach" "Artgal" "Cináed" "Colla" "Áed" "Dub-Indrecht" "Fergus" "Cathal" "Muiredach" 
-	"Domnall" "Indrechtach" "Cellach" "Rogallach" "Uatu" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
+	"Fínsnechta" "Diarmait" "Fothad" "Máel-Cothaid" "Muirgius" "Áed" "Colla" "Cináed" "Artgal" "Fagartach" 
+	"Dub-Díbeirgg" "Tipraite" "Murgal" "Flaithrí" "Tommaltach" "Tadg" "Muiredach" "Fergus" "Uatu" "Rogallach" 
+	"Cathal" "Cellach" "Domnall" "Indrechtach" "Dub-Indrecht" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
 	"Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" 
 	"Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" 
 	"Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" 
@@ -85,31 +85,31 @@ leader_names = {
 	"Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" 
 	"Ultán" }
 monarch_names = {
-	"Muirgius #0" = 51
-	"Máel-Cothaid #0" = 51
-	"Fothad #0" = 51
-	"Diarmait #0" = 51
 	"Fínsnechta #0" = 51
-	"Tadg #0" = 51
-	"Tommaltach #0" = 51
-	"Flaithrí #0" = 51
-	"Murgal #0" = 51
-	"Tipraite #0" = 51
-	"Dub-Díbeirgg #0" = 51
-	"Fagartach #0" = 51
-	"Artgal #0" = 51
-	"Cináed #0" = 51
-	"Colla #0" = 51
+	"Diarmait #0" = 51
+	"Fothad #0" = 51
+	"Máel-Cothaid #0" = 51
+	"Muirgius #0" = 51
 	"Áed #0" = 153
-	"Dub-Indrecht #0" = 51
-	"Fergus #0" = 153
-	"Cathal #0" = 102
+	"Colla #0" = 51
+	"Cináed #0" = 51
+	"Artgal #0" = 51
+	"Fagartach #0" = 51
+	"Dub-Díbeirgg #0" = 51
+	"Tipraite #0" = 51
+	"Murgal #0" = 51
+	"Flaithrí #0" = 51
+	"Tommaltach #0" = 51
+	"Tadg #0" = 51
 	"Muiredach #0" = 153
+	"Fergus #0" = 153
+	"Uatu #0" = 51
+	"Rogallach #0" = 51
+	"Cathal #0" = 102
+	"Cellach #0" = 51
 	"Domnall #0" = 102
 	"Indrechtach #0" = 51
-	"Cellach #0" = 51
-	"Rogallach #0" = 51
-	"Uatu #0" = 51
+	"Dub-Indrecht #0" = 51
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

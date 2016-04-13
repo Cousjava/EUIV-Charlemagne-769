@@ -1,18 +1,17 @@
-# Kiev
+# Severia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = volhynian
+primary_culture = severian
 religion = animism
-capital = 280
-1425.1.1 = {
+capital = 289
+1408.1.1 = {
 	monarch = {
-		name = "Dobrava"
-		dynasty = "Turov"
-		female = yes
-		adm = 6
-		dip = 0
+		name = "Sviatoslav"
+		dynasty = "Seversky"
+		adm = 1
+		dip = 3
 		mil = 1
 	}
 }

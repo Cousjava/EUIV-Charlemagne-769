@@ -1,179 +1,117 @@
-# Lesser Poland
+# Magyar
 graphical_culture = easterngfx
-color = { 245 163 176 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	diplomatic_ideas
-	economic_ideas
-	spy_ideas
-	administrative_ideas
-	religious_ideas
-}
+color = { 187 70 70 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	russian_lancer
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
-}
 
 
 
 leader_names = {
 
-	"Siemowit" "Aleksander" "Andrzej" "Bartosz" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" 
-	"Bozydar" "Borzywoj" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" 
-	"Domawuj" "Dytryk" "Eustachy" "Gaudenty" "Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" 
-	"Imram" "Izbor" "Józef" "Jacek" "Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" 
-	"Janusz" "Jaroslaw" "Jerzy" "Karol" "Kazimierz" "Konrad" "Krystyn" "Krzeslaw" "Lambert" "Leszek" 
-	"Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" "Mieszko" "Mikolaj" "Milobrat" "Milosz" 
-	"Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Pelka" "Piotr" "Piskla" 
-	"Prendota" "Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" "Sieciech" "Siemomysl" "Skarbimir" "Snowid" 
-	"Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Swietoslaw" "Szczesny" 
-	"Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" "Wawrzyniec" "Wielislaw" "Wieslaw" "Wincenty" 
-	"Wit" "Witosz" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" "Zelibrat" 
-	"Zygmunt" }
+	"Elek" "Dezsõ" "Jenö" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Alajos" 
+	"Ambrus" "András" "Antal" "Attila" "Bálint" "Béla" "Balázs" "Benedek" "Bernát" "Bertók" 
+	"Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" "Domoszló" 
+	"Donát" "Elemér" "Endre" "Ernõ" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" "Gáspár" 
+	"Géza" "Gazsi" "Gellért" "Gergely" "György" "Gyula" "Imre" "István" "Izsák" "Jákob" 
+	"János" "József" "Jenõ" "Kálmán" "Károly" "Konrád" "Kornél" "Kristóf" "László" "Lázár" 
+	"Lõrinc" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Móric" 
+	"Mózes" "Mihály" "Miklós" "Nándor" "Orbán" "Oszkár" "Pál" "Péter" "Sámuel" "Sándor" 
+	"Salamon" "Saul" "Soma" "Szilveszter" "Tádor" "Tacsony" "Tamás" "Tibor" "Tivadar" "Vazul" 
+	"Vencel" "Vilmos" "Zoltán" "Zsigmond" "Zsolt" }
 monarch_names = {
-	"Siemowit #1" = 12
-	"Aleksander #0" = 0
-	"Andrzej #0" = 0
-	"Bartosz #0" = 0
-	"Bezprym #0" = 0
-	"Boguchwal #0" = 0
-	"Bogumil #0" = 0
-	"Boleslaw #0" = 0
-	"Boncza #0" = 0
-	"Borzyslaw #0" = 0
-	"Bozydar #0" = 0
-	"Borzywoj #0" = 0
-	"Budziwuj #0" = 0
-	"Czcibor #0" = 0
-	"Czyrzniech #0" = 0
-	"Dalimir #0" = 0
-	"Dobieslaw #0" = 0
-	"Dobrogost #0" = 0
-	"Dobromir #0" = 0
-	"Doman #0" = 0
-	"Domawuj #0" = 0
-	"Dytryk #0" = 0
-	"Eustachy #0" = 0
-	"Gaudenty #0" = 0
-	"Gierolt #0" = 0
-	"Gniewomir #0" = 0
-	"Gniewosz #0" = 0
-	"Gosciwuj #0" = 0
-	"Goszczon #0" = 0
-	"Henryk #0" = 0
-	"Imram #0" = 0
-	"Izbor #0" = 0
-	"Józef #0" = 0
-	"Jacek #0" = 0
-	"Jaksa #0" = 0
-	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Jan #0" = 0
-	"Janislaw #0" = 0
-	"Janko #0" = 0
-	"Janusz #0" = 0
-	"Jaroslaw #0" = 0
-	"Jerzy #0" = 0
-	"Karol #0" = 0
-	"Kazimierz #0" = 0
-	"Konrad #0" = 0
-	"Krystyn #0" = 0
-	"Krzeslaw #0" = 0
-	"Lambert #0" = 0
-	"Leszek #0" = 0
-	"Maciej #0" = 0
-	"Macko #0" = 0
-	"Malowuj #0" = 0
-	"Marcin #0" = 0
-	"Maslaw #0" = 0
-	"Mateusz #0" = 0
-	"Mieszko #0" = 0
-	"Mikolaj #0" = 0
-	"Milobrat #0" = 0
-	"Milosz #0" = 0
-	"Miroslaw #0" = 0
-	"Msciwoj #0" = 0
-	"Mszczuj #0" = 0
-	"Nadbor #0" = 0
-	"Niezamysl #0" = 0
-	"Odon #0" = 0
-	"Pawel #0" = 0
-	"Pelka #0" = 0
-	"Piotr #0" = 0
-	"Piskla #0" = 0
-	"Prendota #0" = 0
-	"Przemyslaw #0" = 0
-	"Przybor #0" = 0
-	"Sambor #0" = 0
-	"Sedziej #0" = 0
-	"Sedzimir #0" = 0
-	"Sieciech #0" = 0
-	"Siemomysl #0" = 0
-	"Skarbimir #0" = 0
-	"Snowid #0" = 0
-	"Spytko #0" = 0
-	"Stanislaw #0" = 0
-	"Stefan #0" = 0
-	"Stoigniew #0" = 0
-	"Strasz #0" = 0
-	"Sulislaw #0" = 0
-	"Sulistryj #0" = 0
-	"Swietopelk #0" = 0
-	"Swietoslaw #0" = 0
-	"Szczesny #0" = 0
-	"Tomasz #0" = 0
-	"Trojden #0" = 0
-	"Twardomir #0" = 0
-	"Usciech #0" = 0
-	"Waclaw #0" = 0
-	"Wanko #0" = 0
-	"Wawrzyniec #0" = 0
-	"Wielislaw #0" = 0
-	"Wieslaw #0" = 0
-	"Wincenty #0" = 0
-	"Wit #0" = 0
-	"Witosz #0" = 0
-	"Wladyslaw #0" = 0
-	"Wojciech #0" = 0
-	"Wojuta #0" = 0
-	"Wszebor #0" = 0
-	"Zbigniew #0" = 0
-	"Zbyszko #0" = 0
-	"Zegota #0" = 0
-	"Zelibrat #0" = 0
-	"Zygmunt #0" = 0
-}
-ship_names = {
-	"Arka Noego"
-        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
-        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
-        Fortuna
-        Gryf Gwiazda Gnieznienskie
-	Inoworclawskie
-	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
-        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
-        "Maly Bialy Orzel" Malborskie Mazowieckie
-        Niewrazliwy "Nowy Czarny Orzel"
-        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
-	"Rycerz Swiety Jerzy" Rawskie Ruskie
-        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
-        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
-        Zwyciestwo "Zólty Lew"
+	"Elek #0" = 10
+	"Dezsõ #0" = 10
+	"Jenö #1" = 10
+	"Ábel #0" = 0
+	"Ádárn #0" = 0
+	"Ágoston #0" = 0
+	"Álmos #0" = 0
+	"Árpád #0" = 0
+	"Õdön #0" = 0
+	"Alajos #0" = 0
+	"Ambrus #0" = 0
+	"András #0" = 0
+	"Antal #0" = 0
+	"Attila #0" = 0
+	"Bálint #0" = 0
+	"Béla #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bertók #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Csaba #0" = 0
+	"Csongor #0" = 0
+	"Dénes #0" = 0
+	"Dömötör #0" = 0
+	"Domoszló #0" = 0
+	"Donát #0" = 0
+	"Elemér #0" = 0
+	"Endre #0" = 0
+	"Ernõ #0" = 0
+	"Fulöp #0" = 0
+	"Ferenc #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Géza #0" = 0
+	"Gazsi #0" = 0
+	"Gellért #0" = 0
+	"Gergely #0" = 0
+	"György #0" = 0
+	"Gyula #0" = 0
+	"Imre #0" = 0
+	"István #0" = 0
+	"Izsák #0" = 0
+	"Jákob #0" = 0
+	"János #0" = 0
+	"József #0" = 0
+	"Jenõ #0" = 0
+	"Kálmán #0" = 0
+	"Károly #0" = 0
+	"Konrád #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"László #0" = 0
+	"Lázár #0" = 0
+	"Lõrinc #0" = 0
+	"Lajos #0" = 0
+	"Lampert #0" = 0
+	"Levente #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Márton #0" = 0
+	"Máté #0" = 0
+	"Mátyás #0" = 0
+	"Móric #0" = 0
+	"Mózes #0" = 0
+	"Mihály #0" = 0
+	"Miklós #0" = 0
+	"Nándor #0" = 0
+	"Orbán #0" = 0
+	"Oszkár #0" = 0
+	"Pál #0" = 0
+	"Péter #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Salamon #0" = 0
+	"Saul #0" = 0
+	"Soma #0" = 0
+	"Szilveszter #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tibor #0" = 0
+	"Tivadar #0" = 0
+	"Vazul #0" = 0
+	"Vencel #0" = 0
+	"Vilmos #0" = 0
+	"Zoltán #0" = 0
+	"Zsigmond #0" = 0
+	"Zsolt #0" = 0
 }
 

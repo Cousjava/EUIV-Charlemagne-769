@@ -1,117 +1,97 @@
-# Magyar
+# Radimichia
 graphical_culture = easterngfx
-color = { 187 70 70 }
+color = { 226 241 182 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
 
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
 
 
 
 leader_names = {
 
-	"Dezsõ" "Jenö" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Alajos" "Ambrus" 
-	"András" "Antal" "Attila" "Bálint" "Béla" "Balázs" "Benedek" "Bernát" "Bertók" "Bertalan" 
-	"Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" "Domoszló" "Donát" 
-	"Elek" "Elemér" "Endre" "Ernõ" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" "Gáspár" 
-	"Géza" "Gazsi" "Gellért" "Gergely" "György" "Gyula" "Imre" "István" "Izsák" "Jákob" 
-	"János" "József" "Jenõ" "Kálmán" "Károly" "Konrád" "Kornél" "Kristóf" "László" "Lázár" 
-	"Lõrinc" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Móric" 
-	"Mózes" "Mihály" "Miklós" "Nándor" "Orbán" "Oszkár" "Pál" "Péter" "Sámuel" "Sándor" 
-	"Salamon" "Saul" "Soma" "Szilveszter" "Tádor" "Tacsony" "Tamás" "Tibor" "Tivadar" "Vazul" 
-	"Vencel" "Vilmos" "Zoltán" "Zsigmond" "Zsolt" }
+	"Stanislav" "Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" 
+	"Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Sudislav" 
+	"Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" "Voislav" "Volodar" 
+	"Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 monarch_names = {
-	"Dezsõ #0" = 10
-	"Jenö #1" = 10
-	"Ábel #0" = 0
-	"Ádárn #0" = 0
-	"Ágoston #0" = 0
-	"Álmos #0" = 0
-	"Árpád #0" = 0
-	"Õdön #0" = 0
-	"Alajos #0" = 0
-	"Ambrus #0" = 0
-	"András #0" = 0
-	"Antal #0" = 0
-	"Attila #0" = 0
-	"Bálint #0" = 0
-	"Béla #0" = 0
-	"Balázs #0" = 0
-	"Benedek #0" = 0
-	"Bernát #0" = 0
-	"Bertók #0" = 0
-	"Bertalan #0" = 0
-	"Boldizsár #0" = 0
-	"Bonuslo #0" = 0
-	"Borisz #0" = 0
-	"Csák #0" = 0
-	"Csaba #0" = 0
-	"Csongor #0" = 0
-	"Dénes #0" = 0
-	"Dömötör #0" = 0
-	"Domoszló #0" = 0
-	"Donát #0" = 0
-	"Elek #0" = 0
-	"Elemér #0" = 0
-	"Endre #0" = 0
-	"Ernõ #0" = 0
-	"Fulöp #0" = 0
-	"Ferenc #0" = 0
-	"Frigyes #0" = 0
-	"Gábor #0" = 0
-	"Gábriel #0" = 0
-	"Gáspár #0" = 0
-	"Géza #0" = 0
-	"Gazsi #0" = 0
-	"Gellért #0" = 0
-	"Gergely #0" = 0
-	"György #0" = 0
-	"Gyula #0" = 0
-	"Imre #0" = 0
-	"István #0" = 0
-	"Izsák #0" = 0
-	"Jákob #0" = 0
-	"János #0" = 0
-	"József #0" = 0
-	"Jenõ #0" = 0
-	"Kálmán #0" = 0
-	"Károly #0" = 0
-	"Konrád #0" = 0
-	"Kornél #0" = 0
-	"Kristóf #0" = 0
-	"László #0" = 0
-	"Lázár #0" = 0
-	"Lõrinc #0" = 0
-	"Lajos #0" = 0
-	"Lampert #0" = 0
-	"Levente #0" = 0
-	"Lukács #0" = 0
-	"Márk #0" = 0
-	"Márton #0" = 0
-	"Máté #0" = 0
-	"Mátyás #0" = 0
-	"Móric #0" = 0
-	"Mózes #0" = 0
-	"Mihály #0" = 0
-	"Miklós #0" = 0
-	"Nándor #0" = 0
-	"Orbán #0" = 0
-	"Oszkár #0" = 0
-	"Pál #0" = 0
-	"Péter #0" = 0
-	"Sámuel #0" = 0
-	"Sándor #0" = 0
-	"Salamon #0" = 0
-	"Saul #0" = 0
-	"Soma #0" = 0
-	"Szilveszter #0" = 0
-	"Tádor #0" = 0
-	"Tacsony #0" = 0
-	"Tamás #0" = 0
-	"Tibor #0" = 0
-	"Tivadar #0" = 0
-	"Vazul #0" = 0
-	"Vencel #0" = 0
-	"Vilmos #0" = 0
-	"Zoltán #0" = 0
-	"Zsigmond #0" = 0
-	"Zsolt #0" = 0
+	"Stanislav #1" = 5
+	"Briachislav #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Gleb #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Iziaslav #0" = 0
+	"Lev #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
 }
 

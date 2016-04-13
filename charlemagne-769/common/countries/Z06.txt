@@ -33,8 +33,8 @@ historical_units = {
 
 leader_names = {
 
-	"Sellachán" "Cernach" "Dub-Dothra" "Dúnchad" "Báethine" "Máenach" "Crimthann" "Scandlán" "Áed" "Fergnae" 
-	"Fergus" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" 
+	"Sellachán" "Cernach" "Fergus" "Fergnae" "Áed" "Scandlán" "Crimthann" "Báethine" "Máenach" "Dúnchad" 
+	"Dub-Dothra" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" 
 	"Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" 
 	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
 	"Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Artbran" 
@@ -86,15 +86,15 @@ leader_names = {
 monarch_names = {
 	"Sellachán #0" = 50
 	"Cernach #0" = 50
-	"Dub-Dothra #0" = 50
-	"Dúnchad #0" = 50
+	"Fergus #0" = 50
+	"Fergnae #0" = 50
+	"Áed #0" = 50
+	"Scandlán #0" = 50
+	"Crimthann #0" = 50
 	"Báethine #0" = 50
 	"Máenach #0" = 50
-	"Crimthann #0" = 50
-	"Scandlán #0" = 50
-	"Áed #0" = 50
-	"Fergnae #0" = 50
-	"Fergus #0" = 50
+	"Dúnchad #0" = 50
+	"Dub-Dothra #0" = 50
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

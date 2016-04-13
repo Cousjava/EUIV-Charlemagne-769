@@ -10,9 +10,9 @@ capital = 60
 	monarch = {
 		name = "Witosz"
 		dynasty = "of the Slezanie"
-		adm = 3
-		dip = 3
-		mil = 4
+		adm = 1
+		dip = 4
+		mil = 0
 	}
 }
 1444.11.11 = {

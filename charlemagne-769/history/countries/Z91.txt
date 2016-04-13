@@ -1,21 +1,21 @@
-# Romny
+# Bjarmia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = finnish
+primary_culture = samoyed
 religion = animism
-capital = 1958
+capital = 313
 1408.1.1 = {
 	monarch = {
-		name = "Oiva"
-		dynasty = "Vepsä"
-		adm = 4
-		dip = 1
+		name = "Kako"
+		dynasty = "Hasabid"
+		adm = 1
+		dip = 3
 		mil = 1
 	}
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 3
+	add_treasury = 6
+	add_prestige = 5
 }

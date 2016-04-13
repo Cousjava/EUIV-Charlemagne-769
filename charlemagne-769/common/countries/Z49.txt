@@ -1,15 +1,15 @@
-# Aslamid
-graphical_culture = muslimgfx
-color = { 182 98 5 }
+# Asturias
+graphical_culture = westerngfx
+color = { 233 188 91 }
 historical_idea_groups = {
-	exploration_ideas
-	trade_ideas
 	religious_ideas
-	expansion_ideas
+	exploration_ideas
+	defensive_ideas
 	naval_ideas
 	economic_ideas
-	innovativeness_ideas
 	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
 }
 
 historical_units = {
@@ -32,98 +32,69 @@ historical_units = {
 
 leader_names = {
 
-	"Jalid" "Abdallah" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" 
-	"Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" 
-	"Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" 
-	"Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
-	"Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" 
-	"Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" 
-	"Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Airmanagildo" "Veremondo" "Mauregato" "Ermenisinda" "Aurelio" "Petro" "Adelfonso" "Froila" "Pelagio" "Fafila" 
+	"Agila" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Diaco" "Friedenando" "Friednand" "Garçi" 
+	"Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" "Liuvericho" "Lupo" "Monnio" "Nunno" "Oliba" 
+	"Ordonno" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Wifredo" 
+	"Wimarano" "Witiza" }
 monarch_names = {
-	"Jalid #0" = 7
-	"Abdallah #1" = 7
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
+	"Airmanagildo #0" = 5
+	"Veremondo #0" = 5
+	"Mauregato #0" = 5
+	"Ermenisinda #0" = -6
+	"Aurelio #1" = 5
+	"Petro #0" = 5
+	"Adelfonso #1" = 5
+	"Froila #1" = 5
+	"Pelagio #1" = 0
+	"Fafila #1" = 0
+	"Agila #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
 }
 ship_names = {
-	Anunciada
-	Bérrio "Boa Viagem" "Bom Jesus" "Bom Jesus do Carmo" "Bom Jesus de Marzagão" "Bom Jesus da Vidigueira" Bretão
-	Cambaia Chagas "Correio d'Ásia"
-	El-Rei Enxobregas "Espírito Santo" Estrela
-	"Flor do Mar"
-	Garça
-	"Imaculada Conceição"
-	Jóia
-	"Monte Carvalho"
-	"Nazaré" "Nossa Senhora" "N. Sra. da Aparecida" "N. Sra. da Atalaia" "N. Sra. da Batalha" "N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Candalaria" "N. Sra. da Caridade" "N.Sra. da Conceição" "N. Sra. da Consolação" "N. Sra. da Esperança" "N. Sra. da Glória" "N. Sra. da Graça" "N. Sra. da Guia" "N. Sra. d'Ajuda Lusitana" "N. Sra. da Luz" "N. Sra. da Nazaré" "N. Sra. da Oliveira" "N. Sra. da Palma" "N. Sra. da Penha de França" "N. Sra. da Quietação" "N. Sra. da Salvação" "N. Sra. da Saúde" "N. Sra. da Visitação" "N. Sra. da Vitória" "N. Sra. das Ondas" "N. Sra. das Portas do Céu" "N. Sra. das Relíquias" "N. Sra. de Belém" "N. Sra. de Guadalupe" "N. Sra. do Castelo" "N. Sra. do Livramento" "N. Sra. do Loreto" "N. Sra do Paraíso" "N. Sra. do Pilar" "N. Sra. do Rosário" "N. Sra. dos Prazeres" "N. Sra. dos Ramos"
-	"Princesa do Céu"
-	Raínha "Reis Magos"
-	"Sacramento" "Santa Ana" "Santa Catarina" "Santa Cruz" "Santa Fé" "Santa Helena" "Santa Joana" "Santa Madre de Deus" "S. Maria de Sabóia" "Santo Milagre" "Santiago Maior" "Santíssima Trindade" "Santíssimo Sacramento" "Santo Alberto" "Santo António" "Santo Espírito" "Santo Inácio" "São Bartolomeu" "São Bento" "São Bernardo" "São Carlos" "São Cristovão" "São Domingos" "São Filipe" "São Francisco" "São Francisco de Borja" "São Gabriel" "São Gonçalo" "São João" "São João de Deus" "São Jorge" "S. José" "São Julião" "São Lourenço" "São Lucas" "São Luís" "São Mateus" "São Paulo" "São Pedro" "São Rafael" "São Roque" "São Salvador" "São Tomé" "São Valentim" "S. António de Lisboa" "S. Catarina de Ribamar" "S. Francisco de Assis" "S. Francisco Xavier" "S. João Baptista" "S. João Evangelista" "S. Pedro de Rates" "S. Pedro da Ribeira" "S. Salvador do Mundo" "S. Teresa de Jesus" "S. Tomé da Cantuária"
-	Taforeia Trindade
-	Visitação
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
 }
 

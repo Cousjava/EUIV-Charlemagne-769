@@ -35,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Niketas" "Nikephoros" "Eudokimos" "Anthousa" "Anthimos" "Konstantinos" "Leon" "Christophoros" "Augustus" "Tiberius" 
+	"Anthimos" "Anthousa" "Eudokimos" "Nikephoros" "Niketas" "Christophoros" "Leon" "Konstantinos" "Augustus" "Tiberius" 
 	"Caligula" "Claudius" "Nero" "Galba" "Otho" "Vitellius" "Vespasian" "Titus" "Domitian" "Nerva" 
 	"Trajan" "Hadrian" "Antoninus" "Lucius" "Marcus" "Commodus" "Pertinax" "Julian" "Septimius" "Geta" 
 	"Caracalla" "Macrinus" "Heliogabalus" "Alexander" "Maximinus" "Gordian" "Pupienus" "Balbinus" "Philip" "Decius" 
@@ -58,14 +58,14 @@ leader_names = {
 	"Theocharistos" "Theodoros" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Traianos" 
 	"Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" }
 monarch_names = {
-	"Niketas #0" = 22
-	"Nikephoros #0" = 22
-	"Eudokimos #0" = 22
-	"Anthousa #0" = -23
 	"Anthimos #0" = 22
-	"Konstantinos #3" = 22
-	"Leon #3" = 45
+	"Anthousa #0" = -23
+	"Eudokimos #0" = 22
+	"Nikephoros #0" = 22
+	"Niketas #0" = 22
 	"Christophoros #0" = 22
+	"Leon #3" = 45
+	"Konstantinos #3" = 22
 	"Augustus #1" = 0
 	"Tiberius #1" = 0
 	"Caligula #1" = 0

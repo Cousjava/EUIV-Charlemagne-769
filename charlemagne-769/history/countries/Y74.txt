@@ -1,30 +1,30 @@
-# Gondar
-government = feudal_monarchy
+# Damot
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = amhara
 religion = coptic
-capital = 1224
-1403.1.1 = {
+capital = 2762
+1418.1.1 = {
 	monarch = {
-		name = "Ogbae"
-		dynasty = "Zagwe"
+		name = "Afework"
+		dynasty = "Na'akuelo"
 		adm = 2
-		dip = 3
+		dip = 4
 		mil = 2
 	}
 }
-1420.1.1 = {
+1435.1.1 = {
 	heir = {
-		name = "Dahnay"
-		monarch_name = "Dahnay"
-		dynasty = "Zagwe"
-		birth_date = 1420.1.1
-		death_date = 1500.1.1
-		adm = 4
-		dip = 5
-		mil = 3
+		name = "Hackeem"
+		monarch_name = "Hackeem"
+		dynasty = "Na'akuelo"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

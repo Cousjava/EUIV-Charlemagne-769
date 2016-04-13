@@ -1,6 +1,6 @@
-# Ifrinid
+# Malzuzi
 graphical_culture = muslimgfx
-color = { 41 188 75 }
+color = { 63 175 117 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -30,7 +30,7 @@ historical_units = {
 
 leader_names = {
 
-	"Abu Qurra" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
+	"Hatim" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
 	"Abidin" "Adal" "Adam" "Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" 
 	"Afalawas" "Afalku" "Afer" "Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" 
 	"Aghali" "Aghecher" "Aghilas" "Agwillul" "Ahamatu" "Aheyyad" "Ahmad" "Ajdir" "Ajeddig" "Akaday" 
@@ -59,7 +59,7 @@ leader_names = {
 	"Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" "Yuva" "Z'effun" "Zafir" 
 	"Zalelsan" "Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
 monarch_names = {
-	"Abu Qurra #1" = 28
+	"Hatim #1" = 28
 	"Abakada #0" = 0
 	"Abazza #0" = 0
 	"Abbas #0" = 0

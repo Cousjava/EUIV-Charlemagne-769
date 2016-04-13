@@ -33,8 +33,8 @@ historical_units = {
 
 leader_names = {
 
-	"Rhydderch" "Owain" "Cynloyp" "Cinhil" "Cluim" "Dumnagual" "Teudebur" "Beli" "Elfin" "Guret" 
-	"Custennin" "Neithon" "Guipno" "Tutagual" "Clinoch" "Cinuit" "Ceretic Guletic" "Rhodri" "Adda" "Adgar" 
+	"Rhydderch" "Owain" "Cluim" "Cinhil" "Cynloyp" "Ceretic Guletic" "Cinuit" "Dumnagual" "Clinoch" "Tutagual" 
+	"Guipno" "Neithon" "Beli" "Custennin" "Guret" "Elfin" "Teudebur" "Rhodri" "Adda" "Adgar" 
 	"Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" "Anarawd" "Andreas" 
 	"Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" "Arthfoddw" "Arthwr" 
 	"Arthws" "Arthwys" "Asa" "Asaph" "Awst" "Bangar" "Bedwyr" "Berthgwyn" "Berthwallt" "Bleddyn" 
@@ -65,21 +65,21 @@ leader_names = {
 monarch_names = {
 	"Rhydderch #1" = 58
 	"Owain #2" = 58
-	"Cynloyp #1" = 29
-	"Cinhil #1" = 29
 	"Cluim #1" = 29
-	"Dumnagual #3" = 87
-	"Teudebur #1" = 29
-	"Beli #2" = 58
-	"Elfin #1" = 29
-	"Guret #1" = 29
-	"Custennin #1" = 29
-	"Neithon #1" = 29
-	"Guipno #0" = 29
-	"Tutagual #1" = 29
-	"Clinoch #1" = 29
-	"Cinuit #1" = 29
+	"Cinhil #1" = 29
+	"Cynloyp #1" = 29
 	"Ceretic Guletic #1" = 29
+	"Cinuit #1" = 29
+	"Dumnagual #3" = 87
+	"Clinoch #1" = 29
+	"Tutagual #1" = 29
+	"Guipno #0" = 29
+	"Neithon #1" = 29
+	"Beli #2" = 58
+	"Custennin #1" = 29
+	"Guret #1" = 29
+	"Elfin #1" = 29
+	"Teudebur #1" = 29
 	"Rhodri #1" = 0
 	"Adda #0" = 0
 	"Adgar #0" = 0

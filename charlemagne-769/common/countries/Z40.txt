@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Custentin" "Gestin" "Iudon" "Concar" "Gradlon" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" 
+	"Gestin" "Custentin" "Gradlon" "Concar" "Iudon" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" 
 	"Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" "Anauguethen" 
 	"Anauguoret" "Anauhocar" "Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" "Arthel" "Arthguiu" 
 	"Arthmael" "Arthueu" "Arthuiu" "Arthur" "Austol" "Baldoen" "Bastian" "Beli" "Beltram" "Benabic" 
@@ -77,11 +77,11 @@ leader_names = {
 	"Tiernuallon" "Treveur" "Tristan" "Tuduallon" "Tudur" "Tugdual" "Ungust" "Urbcen" "Urbien" "Urblon" 
 	"Urvod" "Uther" "Vincenne" }
 monarch_names = {
-	"Custentin #0" = 42
 	"Gestin #0" = 42
-	"Iudon #0" = 42
-	"Concar #0" = 42
+	"Custentin #0" = 42
 	"Gradlon #0" = 42
+	"Concar #0" = 42
+	"Iudon #0" = 42
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0

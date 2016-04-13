@@ -2,7 +2,7 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = breton
 religion = catholic
 capital = 233
@@ -10,9 +10,9 @@ capital = 233
 	monarch = {
 		name = "Cawrdolli"
 		dynasty = "Cerneu"
-		adm = 2
-		dip = 3
-		mil = 1
+		adm = 1
+		dip = 1
+		mil = 3
 	}
 }
 1400.1.1 = {
@@ -22,9 +22,9 @@ capital = 233
 		dynasty = "Cerneu"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 2
+		adm = 3
 		dip = 2
-		mil = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

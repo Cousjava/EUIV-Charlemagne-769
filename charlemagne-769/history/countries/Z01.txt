@@ -4,15 +4,15 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
+religion = animism
 capital = 371
 1417.1.1 = {
 	monarch = {
 		name = "Froði"
 		dynasty = "Drake"
-		adm = 3
+		adm = 4
 		dip = 2
-		mil = 1
+		mil = 0
 	}
 }
 1444.11.11 = {

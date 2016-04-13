@@ -7,9 +7,9 @@ color = { 110 110 160 }
 
 leader_names = {
 
-	"Karl" "Amaudru" "Karloman" "Landrada" "Remigius" "Grifo" "Pepin" "Gisela" "Adelais" "Chrothais" 
-	"Childebrand" "Pipin" "Chiltrudis" "Drogo" "Aldana" "Theodald" "Waltrude" "Hugh" "Godefroi" "Martin" 
-	"Grimoald" "Arnulf" "Chlodulf" "Chrothechildis" "Walacho" "Wandregisel" "Ansegisel" "Arnold" "Clovis" "Théoderic" 
+	"Amaudru" "Karl" "Pepin" "Gisela" "Grifo" "Remigius" "Landrada" "Karloman" "Arnold" "Arnulf" 
+	"Ansegisel" "Wandregisel" "Walacho" "Chrothechildis" "Chlodulf" "Drogo" "Grimoald" "Martin" "Godefroi" "Hugh" 
+	"Waltrude" "Theodald" "Chiltrudis" "Pipin" "Childebrand" "Chrothais" "Adelais" "Aldana" "Clovis" "Théoderic" 
 	"Théodebert" "Théodebald" "Clotaire" "Sigebert" "Childebert" "Dagobert" "Childébert" "Chilpéric" "Childéric" "Abrahil" 
 	"Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" "Agiulf" "Ailbert" 
 	"Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Ascaric" "Audovald" "Austregisel" 
@@ -31,34 +31,34 @@ leader_names = {
 	"Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" 
 	"Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
-	"Karl #0" = 72
 	"Amaudru #0" = -25
-	"Karloman #1" = 48
-	"Landrada #0" = -25
-	"Remigius #0" = 24
-	"Grifo #0" = 48
+	"Karl #0" = 72
 	"Pepin #0" = 120
 	"Gisela #0" = -25
-	"Adelais #0" = -25
-	"Chrothais #0" = -25
-	"Childebrand #0" = 24
-	"Pipin #0" = 24
-	"Chiltrudis #0" = -25
-	"Drogo #0" = 48
-	"Aldana #0" = -25
-	"Theodald #0" = 24
-	"Waltrude #0" = -25
-	"Hugh #0" = 24
-	"Godefroi #0" = 24
-	"Martin #0" = 24
-	"Grimoald #0" = 24
-	"Arnulf #0" = 48
-	"Chlodulf #0" = 24
-	"Chrothechildis #0" = -25
-	"Walacho #0" = 24
-	"Wandregisel #0" = 24
-	"Ansegisel #0" = 24
+	"Grifo #0" = 48
+	"Remigius #0" = 24
+	"Landrada #0" = -25
+	"Karloman #1" = 48
 	"Arnold #0" = 24
+	"Arnulf #0" = 48
+	"Ansegisel #0" = 24
+	"Wandregisel #0" = 24
+	"Walacho #0" = 24
+	"Chrothechildis #0" = -25
+	"Chlodulf #0" = 24
+	"Drogo #0" = 48
+	"Grimoald #0" = 24
+	"Martin #0" = 24
+	"Godefroi #0" = 24
+	"Hugh #0" = 24
+	"Waltrude #0" = -25
+	"Theodald #0" = 24
+	"Chiltrudis #0" = -25
+	"Pipin #0" = 24
+	"Childebrand #0" = 24
+	"Chrothais #0" = -25
+	"Adelais #0" = -25
+	"Aldana #0" = -25
 	"Clovis #3" = 0
 	"Théoderic #3" = 0
 	"Théodebert #2" = 0

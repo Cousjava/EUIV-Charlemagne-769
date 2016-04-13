@@ -1,33 +1,21 @@
-# Kalinga Ganga
+# Guhilot
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = oriya
+technology_group = western
+primary_culture = rajput
 religion = hinduism
-capital = 549
-1395.1.1 = {
+capital = 2058
+1409.1.1 = {
 	monarch = {
-		name = "Rajendravarma"
-		dynasty = "Kalinga Ganga"
-		adm = 1
+		name = "Khuman"
+		dynasty = "Guhilot"
+		adm = 0
 		dip = 2
-		mil = 2
-	}
-}
-1415.1.1 = {
-	heir = {
-		name = "Anantavarma"
-		monarch_name = "Anantavarma II"
-		dynasty = "Kalinga Ganga"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 6
-		dip = 0
-		mil = 0
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 31
+	add_prestige = 7
 }

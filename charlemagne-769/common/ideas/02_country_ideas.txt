@@ -8,8 +8,6 @@
 
 ENG_ideas = {
 	trigger = {
-		NOT = { tag = NOL }
-		NOT = {	tag = Z27 }
 		OR = {
 			tag = ENG
 			tag = GBR
@@ -126,7 +124,7 @@ POL_ideas = {
 			tag = POL
 			tag = PLC
 			AND = {
-				#religion_group = christian
+				religion_group = christian
 				primary_culture = polish
 			}
 		}
@@ -172,10 +170,7 @@ SCO_Ideas = {
 			tag = SCO
 			AND = {
 				religion_group = christian
-				OR = {
-					primary_culture = scottish
-					primary_culture = pictish	
-				}
+				primary_culture = scottish
 			}
 		}
 	}
@@ -245,7 +240,7 @@ MAM_ideas = {
 	trigger = {
 		OR = {
 			tag = MAM
-			primary_culture = egyptian_arabic
+			primary_culture = al_misr_arabic
 			dynasty = mamluk
 		}
 		religion_group = muslim
@@ -266,132 +261,5 @@ TUR_ideas = {
 GRA_ideas = {
 	trigger = {
 		primary_culture = andalucian
-	}
-}
-
-WLS_ideas = {
-	trigger = {
-		OR = {
-			tag = WLS
-			primary_culture = welsh
-		}
-	}
-}
-
-BRI_ideas = {
-	trigger = {
-		OR = {
-			tag = BRI
-			primary_culture = breton
-		}
-	}
-}
-
-FIN_ideas = {
-	trigger = {
-		OR = {
-			tag = FIN
-			primary_culture = finnish
-		}
-	}
-}
-
-LIT_ideas = {
-	trigger = {
-		OR = {
-			tag = LIT
-			primary_culture = lithuanian
-		}
-	}
-}
-
-SMI_ideas = {
-	trigger = {
-		OR = {
-			tag = E01
-			tag = SMI
-			primary_culture = lappish
-			primary_culture = sami
-		}
-	}
-}
-
-PRM_ideas = {
-	trigger = {
-		OR = {
-			tag = PRM
-			primary_culture = komi
-			primary_culture = uralic
-		}
-	}
-}
-
-PUN_ideas = {
-	trigger = {
-		OR = {
-			tag = PUN
-			primary_culture = punjabi
-		}
-	}
-}
-
-CEY_ideas = {
-	trigger = {
-		OR = {
-			tag = CEY
-			primary_culture = sinhalese
-		}
-	}
-}
-
-ORI_ideas = {
-	trigger = {
-		OR = {
-			tag = ORI
-			primary_culture = oriya
-		}
-	}
-}
-
-BNG_ideas = {
-	trigger = {
-		OR = {
-			tag = BNG
-			primary_culture = bengali
-		}
-	}
-
-}
-
-ASS_ideas = {
-	trigger = {
-		OR = {
-			tag = ASS
-			primary_culture = assamese
-		}
-	}
-
-}
-
-GRA_ideas = {
-	trigger = {
-		NOT = { dynasty= "Umayyad" }
-		religion_group = muslim
-		OR = {
-			tag = GRA
-			tag = ADU
-			primary_culture = visigothic
-			primary_culture = andalusian
-		}
-	
-	}
-}
-
-NOL_ideas = {
-	trigger = {
-		OR = {
-			tag = NOL
-			tag = Z27
-		}
 	}
 }

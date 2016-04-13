@@ -1,18 +1,18 @@
-# Idjil
+# Ouadane
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = animism
+religion = shamanism
 capital = 1127
-1408.1.1 = {
+1417.1.1 = {
 	monarch = {
-		name = "Awzal"
-		dynasty = "Idjili"
+		name = "Ugdada"
+		dynasty = "Ofodike"
 		adm = 2
-		dip = 3
-		mil = 3
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

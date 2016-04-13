@@ -1,18 +1,18 @@
-# Sorbia
+# Pruthenia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = pommeranian
+primary_culture = old_prussian
 religion = animism
-capital = 50
-1425.1.1 = {
+capital = 1841
+1408.1.1 = {
 	monarch = {
-		name = "Milyduch"
-		dynasty = "z Luzyc"
+		name = "Bezprzym"
+		dynasty = "Wilks"
 		adm = 3
-		dip = 4
-		mil = 2
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

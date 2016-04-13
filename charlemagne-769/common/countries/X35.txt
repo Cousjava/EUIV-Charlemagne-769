@@ -1,24 +1,24 @@
-# Trinkitat
+# Aydhab
 graphical_culture = muslimgfx
-color = { 141 55 35 }
+color = { 125 120 65 }
 
 
 
 
 leader_names = {
 
-	"Panigiros" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
+	"Kuriakos" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
 	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
 	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
 	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
-	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
-	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" 
-	"Merkourios" "Michaêl" "Michaêlkouda" "Mouses" "Orna" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" "Petros" 
+	"Kalinikos" "Kollouthos" "Krisanthos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" "Mariankouda" 
+	"Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" "Merkourios" 
+	"Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" "Petros" 
 	"Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" "Sergios" 
 	"Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" "Theodote" 
 	"Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
 monarch_names = {
-	"Panigiros #0" = 10
+	"Kuriakos #0" = 10
 	"Aarôn #0" = 0
 	"Aberikos #0" = 0
 	"Abraam #0" = 0
@@ -61,7 +61,6 @@ monarch_names = {
 	"Kalinikos #0" = 0
 	"Kollouthos #0" = 0
 	"Krisanthos #0" = 0
-	"Kuriakos #0" = 0
 	"Kurillos #0" = 0
 	"Lazaros #0" = 0
 	"Leon #0" = 0
@@ -83,6 +82,7 @@ monarch_names = {
 	"Michaêlkouda #0" = 0
 	"Mouses #0" = 0
 	"Orna #0" = 0
+	"Panigiros #0" = 0
 	"Papasinen #0" = 0
 	"Papasinkouda #0" = 0
 	"Patrikios #0" = 0

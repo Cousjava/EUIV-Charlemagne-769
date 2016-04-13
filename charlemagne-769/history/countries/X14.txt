@@ -1,21 +1,21 @@
-# Bhar
+# Kalachuri
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = avadhi
 religion = hinduism
-capital = 555
-1395.1.1 = {
+capital = 523
+1385.1.1 = {
 	monarch = {
-		name = "Jhetpala"
-		dynasty = "Bhar"
-		adm = 3
-		dip = 3
-		mil = 5
+		name = "Rajaputra"
+		dynasty = "Kalachuri"
+		adm = 4
+		dip = 0
+		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

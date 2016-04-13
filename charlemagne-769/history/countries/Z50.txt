@@ -1,21 +1,33 @@
-# Asturias
+# Lombardy
 government = feudal_monarchy
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = visigothic
+primary_culture = lombard
 religion = catholic
-capital = 207
-1390.1.1 = {
+capital = 104
+1392.1.1 = {
 	monarch = {
-		name = "Aurelio"
-		dynasty = "de Cantabria"
+		name = "Desiderius"
+		dynasty = "Alachisling"
+		adm = 0
+		dip = 2
+		mil = 3
+	}
+}
+1434.1.1 = {
+	heir = {
+		name = "Adelchis"
+		monarch_name = "Adelchis"
+		dynasty = "Alachisling"
+		birth_date = 1434.1.1
+		death_date = 1514.1.1
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 3
 	}
 }
 1444.11.11 = {
 	add_treasury = 8
-	add_prestige = 13
+	add_prestige = 7
 }

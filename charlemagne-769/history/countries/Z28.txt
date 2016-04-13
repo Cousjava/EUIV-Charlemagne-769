@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = welsh
 religion = catholic
 capital = 249
@@ -10,8 +10,8 @@ capital = 249
 	monarch = {
 		name = "Owain II"
 		dynasty = "Alt Clut"
-		adm = 0
-		dip = 0
+		adm = 1
+		dip = 6
 		mil = 3
 	}
 }

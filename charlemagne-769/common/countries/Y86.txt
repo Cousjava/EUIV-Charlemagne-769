@@ -1,4 +1,4 @@
-# Idjil
+# Ouadane
 graphical_culture = muslimgfx
 color = { 130 180 61 }
 historical_idea_groups = {
@@ -25,35 +25,35 @@ historical_units = {
 
 leader_names = {
 
-	"Awzal" "Abakada" "Abazza" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abidin" "Adal" "Adam" 
+	"Ugdada" "Abakada" "Abazza" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abidin" "Adal" "Adam" 
 	"Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" "Afalawas" "Afalku" "Afer" 
 	"Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" "Aghali" "Aghecher" "Aghilas" 
 	"Agwillul" "Ahamatu" "Aheyyad" "Ajdir" "Ajeddig" "Akaday" "Akateiaji" "Akli" "Akorakor" "Aksel" 
 	"Aksil" "Akutla" "Akzer" "Al'a'addin" "Alyamas" "Amawal" "Amayas" "Amaz'uz'" "Ambay" "Amdegh" 
 	"Amellal" "Amennay" "Ameska" "Amessan" "Amin" "Amma" "Ammuc" "Amray" "Amri" "Amud" 
 	"Anaba" "Annaber" "Antalas" "Anwa" "Aras" "Asad" "Asaru" "Asirem" "Aszellay" "Atissi" 
-	"Awdia" "Awgustin" "Awinagh" "Awlagh" "Aylal" "Ayt'ere" "Az'ar" "Az'regh" "Azenkwed" "Azim" 
-	"Azrur" "Badda" "Badis" "Bagay" "Barakat" "Beddis" "Berkan" "Bezz'i" "Br'ir'uc" "Bukkus" 
-	"Buwayh" "Buxtuc" "Capussa" "Cucung" "Dali" "Fahd" "Fath" "Fella" "Firhun" "Firmus" 
-	"Frawsen" "Gaia" "Galussa" "Gauda" "Gaya" "Ghani" "Ghanim" "Ghaysan" "Ghumer" "Gildun" 
-	"Gulusa" "H'emmu" "Haidar" "Hamad" "Hashim" "Hiba" "Hiempsal" "Himmi" "Hotha" "Hussamaddin" 
-	"Ibiza" "Ibrahim" "Iccaam" "Ifni" "Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" 
-	"Ilyas" "Immeghar" "Immel" "Irgen" "Is'mail" "Isalcas" "Ishaq" "Isli" "Issam" "It'ij" 
-	"Itber" "Itri" "Ixfensen" "Ixzi" "Izri" "Jaffar" "Jamal" "Kadidu" "Kamal" "Karidenna" 
-	"Kawsen" "Kenan" "Keraja" "Khalid" "Khanchla" "Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" 
-	"Lewnis" "Luki" "Madidu" "Magsen" "Mahtar" "Malik" "Marwan" "Masgaba" "Masgava" "Masinissa" 
-	"Masmud" "Masnsen" "Massinissa" "Massiva" "Massnsen" "Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" 
-	"Mazigh" "Medjan" "Mellal" "Mennad" "Menzu" "Meq'wran" "Mez'yan" "Mezwar" "Micipsa" "Misagenes" 
-	"Misibsen" "Mu'izz" "Muh'end" "Mukhtar" "Mula" "Murad" "Musa" "Mustafa" "Muzaffaraddin" "N'Guna" 
-	"Nasr" "Nazar" "Niptasan" "Nizamaddin" "Ptolemee" "Qutaiba" "Rashid" "Sa'id" "Salah" "Salla" 
-	"Salomon" "Sammer" "Sayyid" "Seghada" "Sekla" "Shamsaddin" "Sifaks" "Sifal" "Sinbad" "Sisso" 
-	"Stembanos" "Suggut" "Sultan" "T'ar'iq" "Tabat" "Tacfin" "Taffounnout" "Tahir" "Takfarinas" "Tanan" 
-	"Tariq" "Tegama" "Thabitah" "Tifan" "Tiljad" "Ugdada" "Ugwistan" "Umar" "Uqess'un" "Uregh" 
+	"Awdia" "Awgustin" "Awinagh" "Awlagh" "Awzal" "Aylal" "Ayt'ere" "Az'ar" "Az'regh" "Azenkwed" 
+	"Azim" "Azrur" "Badda" "Badis" "Bagay" "Barakat" "Beddis" "Berkan" "Bezz'i" "Br'ir'uc" 
+	"Bukkus" "Buwayh" "Buxtuc" "Capussa" "Cucung" "Dali" "Fahd" "Fath" "Fella" "Firhun" 
+	"Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" "Gaya" "Ghani" "Ghanim" "Ghaysan" "Ghumer" 
+	"Gildun" "Gulusa" "H'emmu" "Haidar" "Hamad" "Hashim" "Hiba" "Hiempsal" "Himmi" "Hotha" 
+	"Hussamaddin" "Ibiza" "Ibrahim" "Iccaam" "Ifni" "Ifser" "Ighlaf" "Igider" "Igmi" "Iher" 
+	"Iken" "Ilyas" "Immeghar" "Immel" "Irgen" "Is'mail" "Isalcas" "Ishaq" "Isli" "Issam" 
+	"It'ij" "Itber" "Itri" "Ixfensen" "Ixzi" "Izri" "Jaffar" "Jamal" "Kadidu" "Kamal" 
+	"Karidenna" "Kawsen" "Kenan" "Keraja" "Khalid" "Khanchla" "Khenchela" "Khidr" "Kussil" "Lacumaces" 
+	"Laweye" "Lewnis" "Luki" "Madidu" "Magsen" "Mahtar" "Malik" "Marwan" "Masgaba" "Masgava" 
+	"Masinissa" "Masmud" "Masnsen" "Massinissa" "Massiva" "Massnsen" "Mastan" "Mastanabal" "Matiya" "Maysar" 
+	"Maziba" "Mazigh" "Medjan" "Mellal" "Mennad" "Menzu" "Meq'wran" "Mez'yan" "Mezwar" "Micipsa" 
+	"Misagenes" "Misibsen" "Mu'izz" "Muh'end" "Mukhtar" "Mula" "Murad" "Musa" "Mustafa" "Muzaffaraddin" 
+	"N'Guna" "Nasr" "Nazar" "Niptasan" "Nizamaddin" "Ptolemee" "Qutaiba" "Rashid" "Sa'id" "Salah" 
+	"Salla" "Salomon" "Sammer" "Sayyid" "Seghada" "Sekla" "Shamsaddin" "Sifaks" "Sifal" "Sinbad" 
+	"Sisso" "Stembanos" "Suggut" "Sultan" "T'ar'iq" "Tabat" "Tacfin" "Taffounnout" "Tahir" "Takfarinas" 
+	"Tanan" "Tariq" "Tegama" "Thabitah" "Tifan" "Tiljad" "Ugwistan" "Umar" "Uqess'un" "Uregh" 
 	"Urtilian" "Urz'ig" "Uzmir" "Uzza" "Wahab" "Watt'as" "Xamida" "Yabdas" "Yaghmurasen" "Yahya" 
 	"Yattuy" "Yeften" "Yeh'lem" "Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" 
 	"Yuva" "Z'effun" "Zafir" "Zalelsan" "Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
 monarch_names = {
-	"Awzal #0" = 27
+	"Ugdada #0" = 27
 	"Abakada #0" = 0
 	"Abazza #0" = 0
 	"Abdul-Azeem #0" = 0
@@ -127,6 +127,7 @@ monarch_names = {
 	"Awgustin #0" = 0
 	"Awinagh #0" = 0
 	"Awlagh #0" = 0
+	"Awzal #0" = 0
 	"Aylal #0" = 0
 	"Ayt'ere #0" = 0
 	"Az'ar #0" = 0
@@ -288,7 +289,6 @@ monarch_names = {
 	"Thabitah #0" = 0
 	"Tifan #0" = 0
 	"Tiljad #0" = 0
-	"Ugdada #0" = 0
 	"Ugwistan #0" = 0
 	"Umar #0" = 0
 	"Uqess'un #0" = 0

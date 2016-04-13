@@ -4,15 +4,15 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = old_saxon
-religion = shamanism
+religion = animism
 capital = 57
 1425.1.1 = {
 	monarch = {
 		name = "Bruno"
 		dynasty = "Ludolfinger"
-		adm = 1
-		dip = 2
-		mil = 3
+		adm = 2
+		dip = 5
+		mil = 5
 	}
 }
 1444.11.11 = {

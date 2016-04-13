@@ -35,9 +35,9 @@ historical_units = {
 
 leader_names = {
 
-	"Ecgberht" "Eadburh" "Eadberht" "Wihtgils" "Seaxburh" "Æthelberht" "Eardwulf" "Wihtræd" "Ælfric" "Oswine" 
-	"Eadric" "Hlothere" "Æthelred" "Eormenred" "Eorcenberht" "Æthelwald" "Æthelburh" "Eadbald" "Eormenric" "Octa" 
-	"Oisc" "Hengest" "Horsa" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" 
+	"Eadberht" "Eadburh" "Ecgberht" "Wihtgils" "Hengest" "Horsa" "Oisc" "Octa" "Eormenric" "Æthelberht" 
+	"Eadbald" "Æthelburh" "Æthelwald" "Eorcenberht" "Eormenred" "Æthelred" "Hlothere" "Eadric" "Oswine" "Ælfric" 
+	"Wihtræd" "Eardwulf" "Seaxburh" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" 
 	"Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" 
 	"Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadfrith" 
 	"Eadgar" "Eadmund" "Eadmær" "Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" 
@@ -53,29 +53,29 @@ leader_names = {
 	"Ælfweard" "Ælfwig" "Ælfwine" "Ælle" "Æthelbald" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" 
 	"Æthelsige" "Æthelstan" "Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Rædwald" }
 monarch_names = {
-	"Ecgberht #2" = 35
-	"Eadburh #0" = -18
 	"Eadberht #2" = 53
+	"Eadburh #0" = -18
+	"Ecgberht #2" = 35
 	"Wihtgils #0" = 17
-	"Seaxburh #0" = -18
-	"Æthelberht #1" = 53
-	"Eardwulf #1" = 17
-	"Wihtræd #0" = 17
-	"Ælfric #0" = 17
-	"Oswine #0" = 17
-	"Eadric #0" = 17
-	"Hlothere #0" = 17
-	"Æthelred #0" = 17
-	"Eormenred #1" = 17
-	"Eorcenberht #0" = 17
-	"Æthelwald #1" = 17
-	"Æthelburh #0" = -18
-	"Eadbald #1" = 17
-	"Eormenric #1" = 17
-	"Octa #1" = 17
-	"Oisc #1" = 17
 	"Hengest #1" = 17
 	"Horsa #1" = 17
+	"Oisc #1" = 17
+	"Octa #1" = 17
+	"Eormenric #1" = 17
+	"Æthelberht #1" = 53
+	"Eadbald #1" = 17
+	"Æthelburh #0" = -18
+	"Æthelwald #0" = 17
+	"Eorcenberht #1" = 17
+	"Eormenred #0" = 17
+	"Æthelred #0" = 17
+	"Hlothere #0" = 17
+	"Eadric #0" = 17
+	"Oswine #0" = 17
+	"Ælfric #0" = 17
+	"Wihtræd #0" = 17
+	"Eardwulf #1" = 17
+	"Seaxburh #0" = -18
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0

@@ -33,9 +33,9 @@ historical_units = {
 
 leader_names = {
 
-	"Boand" "Óengus" "Áed" "Fergus" "Eochaid" "Donncoirce" "Caustantín" "Tadg" "Conall" "Diarmait" 
-	"Indrechtach" "Alpín" "Dúnchad" "Béc" "Fiannamail" "Domnall" "Máel-Dúin" "Cormac" "Domangart" "Báetán" 
-	"Conaing" "Áedán" "Loarn" "Comgall" "Gabrán" "Connad" "Ferchar" "Ainbcellach" "Selbach" "Dúngal" 
+	"Óengus" "Boand" "Conall" "Tadg" "Caustantín" "Donncoirce" "Eochaid" "Fergus" "Áed" "Áedán" 
+	"Conaing" "Domnall" "Báetán" "Dúnchad" "Domangart" "Cormac" "Máel-Dúin" "Fiannamail" "Béc" "Alpín" 
+	"Indrechtach" "Diarmait" "Loarn" "Comgall" "Gabrán" "Connad" "Ferchar" "Ainbcellach" "Selbach" "Dúngal" 
 	"Muiredach" "Eógan" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áengus" 
 	"Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" 
 	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
@@ -85,28 +85,28 @@ leader_names = {
 	"Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" 
 	"Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Boand #0" = -52
 	"Óengus #0" = 51
-	"Áed #1" = 51
-	"Fergus #1" = 51
-	"Eochaid #3" = 205
-	"Donncoirce #0" = 51
-	"Caustantín #0" = 51
-	"Tadg #0" = 51
+	"Boand #0" = -52
 	"Conall #2" = 154
-	"Diarmait #1" = 51
-	"Indrechtach #1" = 51
-	"Alpín #1" = 51
-	"Dúnchad #2" = 102
-	"Béc #1" = 51
-	"Fiannamail #1" = 51
-	"Domnall #2" = 102
-	"Máel-Dúin #1" = 51
-	"Cormac #0" = 51
-	"Domangart #2" = 51
-	"Báetán #0" = 51
-	"Conaing #0" = 51
+	"Tadg #0" = 51
+	"Caustantín #0" = 51
+	"Donncoirce #0" = 51
+	"Eochaid #3" = 205
+	"Fergus #1" = 51
+	"Áed #1" = 51
 	"Áedán #2" = 51
+	"Conaing #0" = 51
+	"Domnall #2" = 102
+	"Báetán #0" = 51
+	"Dúnchad #2" = 102
+	"Domangart #2" = 51
+	"Cormac #0" = 51
+	"Máel-Dúin #1" = 51
+	"Fiannamail #1" = 51
+	"Béc #1" = 51
+	"Alpín #1" = 51
+	"Indrechtach #1" = 51
+	"Diarmait #1" = 51
 	"Loarn #1" = 0
 	"Comgall #1" = 0
 	"Gabrán #1" = 0

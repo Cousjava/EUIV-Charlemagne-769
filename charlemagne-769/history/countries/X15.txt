@@ -1,21 +1,33 @@
-# Kalachuri
+# Pala
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = avadhi
-religion = hinduism
-capital = 523
-1385.1.1 = {
+technology_group = western
+primary_culture = bengali
+religion = buddhism
+capital = 563
+1428.1.1 = {
 	monarch = {
-		name = "Rajaputra"
-		dynasty = "Kalachuri"
-		adm = 2
-		dip = 1
-		mil = 2
+		name = "Dharmapala"
+		dynasty = "Pala"
+		adm = 3
+		dip = 2
+		mil = 6
+	}
+}
+1432.1.1 = {
+	heir = {
+		name = "Vakapala"
+		monarch_name = "Vakapala"
+		dynasty = "Pala"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 4
+		dip = 2
+		mil = 5
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 10
+	add_prestige = 23
 }

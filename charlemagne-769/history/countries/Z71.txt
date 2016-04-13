@@ -1,18 +1,18 @@
-# Járnberaland
+# Vermaland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = ottoman
+technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 8
-1410.1.1 = {
+religion = animism
+capital = 5
+1416.1.1 = {
 	monarch = {
-		name = "Þorbjörn"
-		dynasty = "Hylling"
-		adm = 4
-		dip = 2
-		mil = 2
+		name = "Haukr"
+		dynasty = "Vansö"
+		adm = 3
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

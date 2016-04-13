@@ -4,15 +4,15 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
+religion = animism
 capital = 370
 1420.1.1 = {
 	monarch = {
 		name = "Eirikr"
 		dynasty = "av Island"
-		adm = 5
+		adm = 1
 		dip = 2
-		mil = 2
+		mil = 5
 	}
 }
 1444.11.11 = {

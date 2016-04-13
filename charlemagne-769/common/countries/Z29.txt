@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Elidyr" "Gwriad" "Dingad" "Senyllt" "Neithon" "Rhun" "Tudwal" "Anllech" "Cynin" "Merfyn" 
+	"Gwriad" "Elidyr" "Dingad" "Senyllt" "Neithon" "Rhun" "Tudwal" "Anllech" "Cynin" "Merfyn" 
 	"Anarawd" "Sandde" "Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" 
 	"Alured" "Alwyn" "Andreas" "Aneurin" "Anlaff" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
 	"Arthfoddw" "Arthwr" "Arthws" "Arthwys" "Asa" "Asaph" "Awst" "Bangar" "Bedwyr" "Beli" 
@@ -62,8 +62,8 @@ leader_names = {
 	"Teilo" "Teithfalch" "Teudebur" "Tewdos" "Tewdrig" "Tewdwr" "Tomos" "Trahaearn" "Tudur" "Tudwallon" 
 	"Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ynyr" "Ysfael" }
 monarch_names = {
-	"Elidyr #1" = 28
 	"Gwriad #0" = 28
+	"Elidyr #1" = 28
 	"Dingad #1" = 0
 	"Senyllt #1" = 0
 	"Neithon #1" = 0

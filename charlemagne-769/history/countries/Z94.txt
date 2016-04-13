@@ -1,18 +1,18 @@
-# Mari
+# Chud
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = mordvin
+primary_culture = finnish
 religion = animism
-capital = 1083
+capital = 2749
 1408.1.1 = {
 	monarch = {
-		name = "Paksyut"
-		dynasty = "Varakid"
-		adm = 1
-		dip = 4
-		mil = 2
+		name = "Aimo"
+		dynasty = "Tšuudit"
+		adm = 2
+		dip = 2
+		mil = 6
 	}
 }
 1444.11.11 = {

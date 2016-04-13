@@ -17,6 +17,6 @@ germanic = {
 	}
 	frisian = {
 		primary = NED
-		dynasty_names = { }
+		dynasty_names = { "Folcwalding" }
 	}
 }

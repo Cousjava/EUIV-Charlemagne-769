@@ -1,21 +1,33 @@
-# Abyssinia
-government = feudal_monarchy
-government_rank = 2
+# Azd Umanid
+government = iqta
+government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = amhara
-religion = coptic
-capital = 2787
-1393.1.1 = {
+technology_group = western
+primary_culture = bedouin_arabic
+religion = ibadi
+capital = 399
+1386.1.1 = {
 	monarch = {
-		name = "Oda Gosh"
-		dynasty = "Solomonid"
+		name = "al-Julanda"
+		dynasty = "Azd Umanid"
 		adm = 3
-		dip = 4
-		mil = 3
+		dip = 6
+		mil = 2
+	}
+}
+1409.1.1 = {
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Azd Umanid"
+		birth_date = 1409.1.1
+		death_date = 1489.1.1
+		adm = 3
+		dip = 0
+		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 38
+	add_treasury = 6
+	add_prestige = 5
 }

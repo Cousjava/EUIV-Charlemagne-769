@@ -1,13 +1,13 @@
-# Munda
+# Rajrappa
 graphical_culture = indiangfx
-color = { 38 148 21 }
+color = { 28 138 31 }
 
 
 
 
 leader_names = {
 
-	"Kramaditya" "Pasna" "Amritnarayan" "Balabhata" "Balinarayan" "Ballalsen" "Basudevnayaran" "Bhagadatta" "Bhairabendranarayan" "Bhatta" 
+	"Jinabhata" "Devarshi" "Amritnarayan" "Balabhata" "Balinarayan" "Ballalsen" "Basudevnayaran" "Bhagadatta" "Bhairabendranarayan" "Bhatta" 
 	"Bhavashankari" "Bhimsingha" "Birnayaran" "Chandrasen" "Chandranarayan" "Chaturanan" "Chilarai" "Danujmadhava" "Dasharathadeva" "Devakhadga" 
 	"Devapala" "Devendranarayan" "Dhairjendranayaran" "Dharendranarayan" "Dharmapala" "Dhirsingha" "Gajnarayan" "Gopala" "Govindachandra" "Govindapala" 
 	"Hajo" "Harendranarayan" "Haridevnarayan" "Hariyamandal" "Hemantasen" "Indranarayan" "Jadu" "Jagaddipendranarayan" "Jatakhadga" "Jayanarayan" 
@@ -25,8 +25,8 @@ leader_names = {
 	"Khsetravridha" "Maharshi" "Mahendra" "Maurayadhwaj" "Narayana" "Pulindaka" "Pusyamitra" "Sahtiya" "Susarman" "Vajramitra" 
 	"Vasudeva" "Vasujyeshtha" "Vasumitra" }
 monarch_names = {
-	"Kramaditya #0" = 17
-	"Pasna #0" = 17
+	"Jinabhata #0" = 17
+	"Devarshi #0" = 17
 	"Amritnarayan #0" = 0
 	"Balabhata #0" = 0
 	"Balinarayan #0" = 0

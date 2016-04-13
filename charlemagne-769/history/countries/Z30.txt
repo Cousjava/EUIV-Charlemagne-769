@@ -2,7 +2,7 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = welsh
 religion = catholic
 capital = 242
@@ -10,9 +10,9 @@ capital = 242
 	monarch = {
 		name = "Caradog"
 		dynasty = "Rhos"
-		adm = 2
-		dip = 6
-		mil = 2
+		adm = 1
+		dip = 3
+		mil = 3
 	}
 }
 1425.1.1 = {
@@ -22,9 +22,9 @@ capital = 242
 		dynasty = "Rhos"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 1
-		dip = 4
-		mil = 4
+		adm = 2
+		dip = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

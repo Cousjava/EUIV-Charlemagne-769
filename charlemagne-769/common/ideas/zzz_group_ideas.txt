@@ -1,13 +1,18 @@
 dravidian_ideas = {
 	trigger = {
 		culture_group = dravidian
-		religion = hinduism
-		religion = jain
+		OR = {
+			religion = hinduism
+			religion = jain
+		}
 	}
 }
 
 anatolian_beyliks_ideas = {
 	trigger = {
+		government = monarchy
+		religion_group = muslim
+		culture = turkish
 		OR = {
 			dynasty = "Candar"
 			dynasty = "Dulkadir"
@@ -20,7 +25,20 @@ anatolian_beyliks_ideas = {
 			dynasty = "Tekke"
 			dynasty = "Germiyan"
 			dynasty = "Ortokids"
-			dynasty = "Addauid"
 		}
+	}
+}
+
+native_ideas = {
+	trigger = {
+		OR = {
+			government = native_council
+			technology_group = high_american
+		}
+		NOT = { primary_culture = tupinamba }
+		NOT = { primary_culture = guajiro }
+		NOT = { TAG = SAL }
+		NOT = { TAG = HDA }
+		NOT = { TAG = CNK }
 	}
 }

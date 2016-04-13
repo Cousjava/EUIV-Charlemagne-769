@@ -1,18 +1,18 @@
-# Seville
+# Toledo
 government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 224
-1432.4.26 = {
+capital = 219
+1422.1.1 = {
 	monarch = {
-		name = "Hisham"
+		name = "Abd-al-Rahman"
 		dynasty = "Umayyad"
-		adm = 2
-		dip = 4
-		mil = 3
+		adm = 1
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {

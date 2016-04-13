@@ -2,7 +2,7 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = frankish
 religion = catholic
 capital = 192
@@ -11,8 +11,8 @@ capital = 192
 		name = "Theoderic"
 		dynasty = "Nibelunging"
 		adm = 2
-		dip = 3
-		mil = 4
+		dip = 2
+		mil = 0
 	}
 }
 1444.11.11 = {

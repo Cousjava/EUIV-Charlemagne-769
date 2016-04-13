@@ -32,7 +32,7 @@ historical_units = {
 
 leader_names = {
 
-	"Lupo" "Alperto" "Tachiperto" "Tachiperga" "Walperto" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" 
+	"Tachiperga" "Tachiperto" "Alperto" "Lupo" "Walperto" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" 
 	"Agilof" "Agilulf" "Agiprand" "Ago" "Ahthari" "Aimeric" "Aistulf" "Aiulf" "Ajo" "Alahis" 
 	"Alboin" "Aldihoc" "Alo" "Altpert" "Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" 
 	"Arechis" "Ariald" "Aribert" "Arichis" "Aripert" "Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" 
@@ -50,10 +50,10 @@ leader_names = {
 	"Theudoald" "Thrasimund" "Unichis" "Unigild" "Unulf" "Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" 
 	"Waldipert" "Walthari" "Wechthari" "Wido" "Zotto" "Zuchilo" }
 monarch_names = {
-	"Lupo #0" = 17
-	"Alperto #1" = 17
-	"Tachiperto #0" = 17
 	"Tachiperga #0" = -18
+	"Tachiperto #0" = 17
+	"Alperto #1" = 17
+	"Lupo #0" = 17
 	"Walperto #1" = 17
 	"Adalgis #0" = 0
 	"Adaloald #0" = 0

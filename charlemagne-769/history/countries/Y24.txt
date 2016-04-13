@@ -1,21 +1,21 @@
-# Azov
+# Vyatich
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = khazar
-religion = tengri_pagan_reformed
-capital = 286
-1392.1.1 = {
+primary_culture = ilmenian
+religion = animism
+capital = 294
+1408.1.1 = {
 	monarch = {
-		name = "Simsam"
-		dynasty = "Bukhal"
+		name = "Volodar"
+		dynasty = "Vyatich"
 		adm = 3
-		dip = 0
-		mil = 2
+		dip = 1
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 11
+	add_prestige = 5
 }

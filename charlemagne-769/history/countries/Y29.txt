@@ -1,17 +1,17 @@
-# Mordva
+# Murom
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = mordvin
 religion = animism
-capital = 302
+capital = 307
 1408.1.1 = {
 	monarch = {
-		name = "Uzhara"
-		dynasty = "Mordvanid"
+		name = "Varaka"
+		dynasty = "Muromid"
 		adm = 3
-		dip = 2
+		dip = 5
 		mil = 2
 	}
 }

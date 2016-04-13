@@ -1,18 +1,18 @@
-# Yatvingia
+# Greater Poland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = lithuanian
+primary_culture = polish
 religion = animism
-capital = 1937
+capital = 43
 1408.1.1 = {
 	monarch = {
-		name = "Arunas"
-		dynasty = "of Gardinas"
+		name = "Dobieslaw"
+		dynasty = "Choscisko"
 		adm = 2
-		dip = 2
-		mil = 2
+		dip = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

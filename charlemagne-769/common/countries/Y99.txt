@@ -7,8 +7,8 @@ color = { 150 60 30 }
 
 leader_names = {
 
-	"Kehar" "Majam-Rao" "Mangal-Rao" "Bhati" "Baland" "Salivahan" "Gaj" "Rajh" "Subahu" "Bahubal" 
-	"Jaisimha" "Achalraj" "Achalraja" "Adhandev" "Adityadeva" "Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" 
+	"Kehar" "Jaisimha" "Bahubal" "Subahu" "Rajh" "Gaj" "Salivahan" "Baland" "Bhati" "Mangal-Rao" 
+	"Majam-Rao" "Achalraj" "Achalraja" "Adhandev" "Adityadeva" "Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" 
 	"Anupapala" "Anuppal" "Apara Gangeya" "Arjunpal" "Arjunpala" "Arjunavarman" "Bacchdev" "Bachraj" "Baghpal" "Baghpala" 
 	"Bahadur-Singh" "Beejpal" "Beejpala" "Bhaadar" "Bhilpala" "Bhoj" "Bhoja" "Bhojavarman" "Bhopal" "Bhumpal" 
 	"Bhumpala" "Birpal" "Birpala" "Bisaldeva" "Brahmadeva" "Brahmapala" "Brahmdevpal" "Chand" "Devapala" "Devavarman" 
@@ -48,16 +48,16 @@ leader_names = {
 	"Viryarama" "Xemraja" "Yograj" }
 monarch_names = {
 	"Kehar #1" = 39
-	"Majam-Rao #1" = 39
-	"Mangal-Rao #1" = 39
-	"Bhati #1" = 39
-	"Baland #1" = 39
-	"Salivahan #1" = 39
-	"Gaj #1" = 39
-	"Rajh #1" = 39
-	"Subahu #1" = 39
-	"Bahubal #1" = 39
 	"Jaisimha #1" = 39
+	"Bahubal #1" = 39
+	"Subahu #1" = 39
+	"Rajh #1" = 39
+	"Gaj #1" = 39
+	"Salivahan #1" = 39
+	"Baland #1" = 39
+	"Bhati #1" = 39
+	"Mangal-Rao #1" = 39
+	"Majam-Rao #1" = 39
 	"Achalraj #0" = 0
 	"Achalraja #0" = 0
 	"Adhandev #0" = 0

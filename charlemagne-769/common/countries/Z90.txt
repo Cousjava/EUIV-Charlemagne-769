@@ -1,51 +1,52 @@
-# Käkisalmi
+# Romny
 graphical_culture = easterngfx
-color = { 185 70 70 }
+color = { 128 143 83 }
 historical_idea_groups = {
+	religious_ideas
 	trade_ideas
 	defensive_ideas
+	administrative_ideas
 	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
 	spy_ideas
-	religious_ideas
+	quantity_ideas
+	economic_ideas
 }
 
 historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Ukko" "Ahma" "Aatos" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" "Hannu" 
+	"Oiva" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" "Hannu" 
 	"Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" 
-	"Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" 
-	"Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" 
-	"Toivo" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
+	"Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Onni" "Otso" "Pyry" "Päiviö" 
+	"Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" "Toivo" 
+	"Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
 	"Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" 
 	"Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" "Kauro" 
 	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Ukko #0" = 8
-	"Ahma #0" = 8
+	"Oiva #0" = 8
 	"Aatos #0" = 0
+	"Ahma #0" = 0
 	"Aimo #0" = 0
 	"Armas #0" = 0
 	"Arvo #0" = 0
@@ -69,7 +70,6 @@ monarch_names = {
 	"Mielitty #0" = 0
 	"Miemo #0" = 0
 	"Mikko #0" = 0
-	"Oiva #0" = 0
 	"Onni #0" = 0
 	"Otso #0" = 0
 	"Pyry #0" = 0
@@ -84,6 +84,7 @@ monarch_names = {
 	"Tapani #0" = 0
 	"Terho #0" = 0
 	"Toivo #0" = 0
+	"Ukko #0" = 0
 	"Uoti #0" = 0
 	"Urho #0" = 0
 	"Väinö #0" = 0
@@ -122,19 +123,9 @@ monarch_names = {
 	"Tohmas #0" = 0
 }
 ship_names = {
-	Agricola Aura
-	Borgå "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	Cherdyn Pelym Kudym-Osha Shudeg
+	Voleg Rateg Koleg Uzheg
+	Baseg Yus Pokcha Vychegda Sysola
+	Iskor Kama Vishera Kolva Yazva Uros Vilgort
 }
 

@@ -1,18 +1,18 @@
-# Massat
-government = tribal_despotism
+# Figuig
+government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
 religion = ibadi
-capital = 2469
-1410.1.1 = {
+capital = 349
+1407.1.1 = {
 	monarch = {
-		name = "Hamad"
-		dynasty = "Hamadid"
-		adm = 5
+		name = "Abdul-Rahman"
+		dynasty = "Rahmanid"
+		adm = 4
 		dip = 2
-		mil = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

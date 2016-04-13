@@ -1,18 +1,30 @@
-# Figuig
+# Atlas Mnt
 government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
 religion = ibadi
-capital = 349
-1407.1.1 = {
+capital = 2463
+1403.1.1 = {
 	monarch = {
 		name = "Abdul-Rahman"
-		dynasty = "Rahmanid"
-		adm = 1
-		dip = 5
-		mil = 3
+		dynasty = "Rustamid"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+1425.1.1 = {
+	heir = {
+		name = "Wahab"
+		monarch_name = "Wahab"
+		dynasty = "Rustamid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 2
+		mil = 5
 	}
 }
 1444.11.11 = {

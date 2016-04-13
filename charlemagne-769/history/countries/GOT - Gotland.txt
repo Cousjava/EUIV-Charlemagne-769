@@ -4,15 +4,15 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
+religion = animism
 capital = 25
 1406.1.1 = {
 	monarch = {
 		name = "Þorfinn"
 		dynasty = "Gute"
 		adm = 3
-		dip = 0
-		mil = 2
+		dip = 2
+		mil = 3
 	}
 }
 1436.1.1 = {
@@ -22,9 +22,9 @@ capital = 25
 		dynasty = "Gute"
 		birth_date = 1436.1.1
 		death_date = 1516.1.1
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 2
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

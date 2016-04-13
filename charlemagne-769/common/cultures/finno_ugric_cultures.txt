@@ -1,15 +1,7 @@
 finno_ugric = {
-	lappish = {
-		primary = E01
-		dynasty_names = { "Guoládat" "Gájka" "Kaise" "Saiva" }
-	}
 	komi = {
-		primary = PRM
-		dynasty_names = { "Permyakid" "Yugra" }
-	}
-	samoyed = {
 		primary = FIN
-		dynasty_names = { "Sarakid" "Hasabid" }
+		dynasty_names = { "Permyakid" "Yugra" }
 	}
 	mordvin = {
 		primary = FIN

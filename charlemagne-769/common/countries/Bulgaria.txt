@@ -34,8 +34,8 @@ historical_units = {
 
 leader_names = {
 
-	"Krum" "Omortag" "Toktu" "Telerig" "Kardam" "Irkhan" "Bayan" "Kermek" "Sevar" "Bozok" 
-	"Kormesiy" "Ajjar" "Tervel" "Kuber" "Kotrag" "Batbayan" "Asparukh" "Kubrat" "Kormisosh" "Vinekh" 
+	"Omortag" "Krum" "Irkhan" "Kardam" "Telerig" "Toktu" "Kubrat" "Asparukh" "Batbayan" "Kotrag" 
+	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Kormisosh" "Vinekh" 
 	"Telets" "Sabin" "Umor" "Pagan" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Balamber" 
 	"Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" "Boyan" "Bulger" "Buzan" "Chepa" 
 	"Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" "Ellak" "Elemag" "Ernakh" 
@@ -48,24 +48,24 @@ leader_names = {
 	"Tokhtaman" "Tsog" "Tsul" "Tuk" "Uturgur" "Vakrim" "Venda" "Vetam" "Yani" "Yavantey" 
 	"Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Batir" }
 monarch_names = {
-	"Krum #0" = 13
 	"Omortag #0" = 13
-	"Toktu #1" = 27
-	"Telerig #1" = 13
-	"Kardam #0" = 13
+	"Krum #0" = 13
 	"Irkhan #0" = 13
-	"Bayan #0" = 13
-	"Kermek #0" = 13
-	"Sevar #1" = 27
-	"Bozok #0" = -14
-	"Kormesiy #1" = 13
-	"Ajjar #1" = 13
-	"Tervel #1" = 13
-	"Kuber #0" = 13
-	"Kotrag #0" = 13
-	"Batbayan #1" = 13
-	"Asparukh #1" = 13
+	"Kardam #0" = 13
+	"Telerig #1" = 13
+	"Toktu #1" = 27
 	"Kubrat #1" = 13
+	"Asparukh #1" = 13
+	"Batbayan #1" = 13
+	"Kotrag #0" = 13
+	"Kuber #0" = 13
+	"Tervel #1" = 13
+	"Ajjar #1" = 13
+	"Sevar #1" = 27
+	"Kormesiy #1" = 13
+	"Bozok #0" = -14
+	"Kermek #0" = 13
+	"Bayan #0" = 13
 	"Kormisosh #1" = 0
 	"Vinekh #1" = 0
 	"Telets #1" = 0

@@ -1,29 +1,29 @@
-# Kola
+# Karelia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = lappish
+primary_culture = finnish
 religion = animism
-capital = 1777
-1405.1.1 = {
+capital = 1776
+1399.1.1 = {
 	monarch = {
-		name = "Baeivi"
-		dynasty = "Guoládat"
-		adm = 1
-		dip = 6
-		mil = 1
+		name = "Lemetti"
+		dynasty = "Karjalainen"
+		adm = 0
+		dip = 0
+		mil = 3
 	}
 }
-1425.1.1 = {
+1426.1.1 = {
 	heir = {
-		name = "Mohkku"
-		monarch_name = "Mohkku"
-		dynasty = "Guoládat"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 4
-		dip = 0
+		name = "Ihala"
+		monarch_name = "Ihala"
+		dynasty = "Karjalainen"
+		birth_date = 1426.1.1
+		death_date = 1506.1.1
+		adm = 5
+		dip = 2
 		mil = 1
 	}
 }

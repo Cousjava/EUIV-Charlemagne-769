@@ -1,33 +1,33 @@
-# Songhay
-government = tribal_despotism
+# Mandesh
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = mali
-religion = animism
-capital = 1133
-1395.1.1 = {
+technology_group = western
+primary_culture = afghani
+religion = buddhism
+capital = 449
+1384.5.22 = {
 	monarch = {
-		name = "Zakoi"
-		dynasty = "Zuwa"
-		adm = 3
-		dip = 2
+		name = "Šarvin"
+		dynasty = "Bamiyan"
+		adm = 2
+		dip = 1
 		mil = 1
 	}
 }
-1415.1.1 = {
+1411.5.22 = {
 	heir = {
-		name = "Takoi"
-		monarch_name = "Takoi"
-		dynasty = "Zuwa"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 5
-		dip = 2
-		mil = 3
+		name = "Merzuban"
+		monarch_name = "Merzuban"
+		dynasty = "Bamiyan"
+		birth_date = 1411.5.22
+		death_date = 1491.5.22
+		adm = 2
+		dip = 6
+		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 7
+	add_treasury = 4
+	add_prestige = 3
 }

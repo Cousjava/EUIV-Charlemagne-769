@@ -1,161 +1,130 @@
-# Derbent
-graphical_culture = easterngfx
-color = { 203 76 76 }
+# Sulamid
+graphical_culture = muslimgfx
+color = { 71 150 32 }
 historical_idea_groups = {
 	defensive_ideas
+	religious_ideas
 	offensive_ideas
 	trade_ideas
 	spy_ideas
 	diplomatic_ideas
+	innovativeness_ideas
 	economic_ideas
-	religious_ideas
-	quantity_ideas
 }
 
 historical_units = {
-	eastern_medieval_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
 }
 
 
 
 leader_names = {
 
-	"Stepanos" "Varaz-Trdat" "Nerseh" "Gagik" "Vardan" "Juansher" "Spram" "Varaz-Peroz" "Varaz-Grigor" "Varazman" 
-	"Aramayel" "Vard" "Armayel" "Mihran" "Varaz-Bagour" "Vachagan" "Vache" "Urnayr" "Mirhavan" "Satoy" 
-	"Asay" "Aswagen" "Abas" "Abirad" "Aboughamr" "Aboulgharib" "Aleksandr" "Artashes" "Artashir" "Artavazd" 
-	"Arsen" "Arshak" "Ashot" "Athom" "Atrnerseh" "Avag" "Avedis" "Bagour" "Bagrat" "Bedros" 
-	"Boghos" "Davit" "Eshkhan" "Gevorg" "Gosdantin" "Grigor" "Gurgen" "Hagop" "Hamazasp" "Hethum" 
-	"Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" 
-	"Manuel" "Margos" "Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mushel" "Mzhezh" "Oshin" 
-	"Roupen" "Sahag" "Sarkis" "Sevag" "Shahanshah" "Smbat" "Tachat" "Taniel" "Tatoul" "Tigran" 
-	"Tornik" "Tovmas" "Thoros" "Trdat" "Vagharshak" "Vahag" "Vahan" "Vahram" "Vakhtank" "Varazdat" 
-	"Vartan" "Vassak" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+	"Abdallah" "Yusuf" "Ahmad" "Yazid" "Rashid" "Khalid" "Zafir" "Asid" "Abu-Bakr" "Aarif" 
+	"Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" "Akin" "Ali" "Alim" 
+	"Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" 
+	"Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" 
+	"Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Mukhtar" "Murad" 
+	"Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" 
+	"Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" 
+	"Ya'qub" "Youkhanna" "Zeyd" }
 monarch_names = {
-	"Stepanos #1" = 21
-	"Varaz-Trdat #1" = 21
-	"Nerseh #1" = 10
-	"Gagik #1" = 10
-	"Vardan #2" = 31
-	"Juansher #1" = 10
-	"Spram #0" = -11
-	"Varaz-Peroz #1" = 10
-	"Varaz-Grigor #1" = 10
-	"Varazman #0" = 21
-	"Aramayel #0" = 10
-	"Vard #1" = 21
-	"Armayel #0" = 10
-	"Mihran #0" = 10
-	"Varaz-Bagour #0" = 10
-	"Vachagan #3" = 0
-	"Vache #2" = 0
-	"Urnayr #1" = 0
-	"Mirhavan #1" = 0
-	"Satoy #1" = 0
-	"Asay #1" = 0
-	"Aswagen #1" = 0
-	"Abas #0" = 0
-	"Abirad #0" = 0
-	"Aboughamr #0" = 0
-	"Aboulgharib #0" = 0
-	"Aleksandr #0" = 0
-	"Artashes #0" = 0
-	"Artashir #0" = 0
-	"Artavazd #0" = 0
-	"Arsen #0" = 0
-	"Arshak #0" = 0
-	"Ashot #0" = 0
-	"Athom #0" = 0
-	"Atrnerseh #0" = 0
-	"Avag #0" = 0
-	"Avedis #0" = 0
-	"Bagour #0" = 0
-	"Bagrat #0" = 0
-	"Bedros #0" = 0
-	"Boghos #0" = 0
-	"Davit #0" = 0
-	"Eshkhan #0" = 0
-	"Gevorg #0" = 0
-	"Gosdantin #0" = 0
-	"Grigor #0" = 0
-	"Gurgen #0" = 0
-	"Hagop #0" = 0
-	"Hamazasp #0" = 0
-	"Hethum #0" = 0
-	"Hovhannes #0" = 0
-	"Hovsep #0" = 0
-	"Ishkhan #0" = 0
-	"Ivane #0" = 0
-	"Kapriel #0" = 0
-	"Khachik #0" = 0
-	"Khosrov #0" = 0
-	"Levon #0" = 0
-	"Malkhas #0" = 0
-	"Mamigon #0" = 0
-	"Manuel #0" = 0
-	"Margos #0" = 0
-	"Melek #0" = 0
-	"Mihrdat #0" = 0
-	"Mikayel #0" = 0
-	"Mleh #0" = 0
-	"Mushegh #0" = 0
-	"Mushel #0" = 0
-	"Mzhezh #0" = 0
-	"Oshin #0" = 0
-	"Roupen #0" = 0
-	"Sahag #0" = 0
-	"Sarkis #0" = 0
-	"Sevag #0" = 0
-	"Shahanshah #0" = 0
-	"Smbat #0" = 0
-	"Tachat #0" = 0
-	"Taniel #0" = 0
-	"Tatoul #0" = 0
-	"Tigran #0" = 0
-	"Tornik #0" = 0
-	"Tovmas #0" = 0
-	"Thoros #0" = 0
-	"Trdat #0" = 0
-	"Vagharshak #0" = 0
-	"Vahag #0" = 0
-	"Vahan #0" = 0
-	"Vahram #0" = 0
-	"Vakhtank #0" = 0
-	"Varazdat #0" = 0
-	"Vartan #0" = 0
-	"Vassak #0" = 0
-	"Vesd #0" = 0
-	"Vrtanes #0" = 0
-	"Zakare #0" = 0
-	"Zarmihr #0" = 0
+	"Abdallah #0" = 8
+	"Yusuf #0" = 8
+	"Ahmad #0" = 8
+	"Yazid #1" = 8
+	"Rashid #0" = 8
+	"Khalid #0" = 8
+	"Zafir #1" = 8
+	"Asid #1" = 8
+	"Abu-Bakr #0" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Abdul #0" = 0
+	"Abdullah #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Ali #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Hasan #0" = 0
+	"Husam #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mahmud #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Muhammad #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Zeyd #0" = 0
 }
 ship_names = {
-	Aragveti Anacopia Artaani Abkhazeti
-	Bichvinta Batomi
-	Dmanisi Demetre
-	Ereti
-	Geguti Gelati
-	Kutatsi Kharnabuji Kura
-	Lasharisjvari Lore
-	Mtkvari
-	Narikala
-	Ruisi Racha
-	Seti Svaneti
-	Tamar Tbilisi Telavi Tbilisi Tashiri
-	Urbnisi
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
 }
 

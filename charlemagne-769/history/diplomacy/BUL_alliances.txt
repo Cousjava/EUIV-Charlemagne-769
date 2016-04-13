@@ -6,19 +6,19 @@ vassal = {
 }
 vassal = {
 	first = BUL
-	second = Y10
+	second = Y08
 	start_date = 1444.11.11
 	end_date = 1900.1.1
 }
 vassal = {
 	first = BUL
-	second = Y11
+	second = MOL
 	start_date = 1444.11.11
 	end_date = 1900.1.1
 }
 vassal = {
 	first = BUL
-	second = Y12
+	second = Y09
 	start_date = 1444.11.11
 	end_date = 1900.1.1
 }

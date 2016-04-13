@@ -1,35 +1,40 @@
-# Pallava
+# Pandya
 graphical_culture = indiangfx
-color = { 200 120 120 }
+color = { 180 80 130 }
 
 
 
 
 leader_names = {
 
-	"Tantivarman" "Nantivarman" "Amarapuyankan" "Aparâcita" "Aparâcitavarman" "Appûtaiyân" "Arikêcari" "Ariñcaya" "Arulmolitêvar" "Arulmolivarman" 
-	"Atirâcêntira" "Atitta" "Avaniyâlappirantâr" "Avraaham" "Brahmamârâyar" "Cadayan" "Cankili" "Cataiyavarman" "Catturukâlamakalâtittan" "Cayantavarman" 
-	"Celiyancentan" "Cekarâcacêkaran" "Cevakattevan" "Ceyavîra" "Chaacko" "Chaandy" "Cimmavisnu" "Cinkapâku" "Civakkoluntân" "Cuntara" 
-	"Câramutaiyân" "Câttanân" "Cîvallapa" "Cîvallapan" "Daniyel" "Eappen" "Eccavarâkan" "Eisow" "Impânâyarpattan" "Irattapadikonda" 
-	"Irâcacimman" "Irâcakecaripanmar" "Irâcarâca" "Irâcâcekara" "Irâcâtirâca" "Irâcâtirâcatevar" "Irâcâtitta" "Irâcêntira" "Ittac" "Iyob" 
-	"Kadarangkonda" "Kanakacûriya" "Kantarâtitta" "Karaikkiyemarrayilaiyân" "Karunandadakkan" "Karunandan" "Katunkon" "Kilân" "Kirâmarâcapattan" "Kontân" 
-	"Kossy" "Kotukulapattan" "Kulacêkara" "Kulacêkaran" "Kulôttunka" "Kunapûsana" "Kunavîra" "Kurian" "Kutameratiruvatikal" "Kôpperuñcimman" 
-	"Lukose" "Makêntiravarman" "Manappâkkîlan" "Manavâlapperumâl" "Munnûrruvappattan" "Mâmpâkkamutaiyân" "Mânaticcuran" "Mârapanmar" "Mâravarman" "Mârkantaiyan" 
-	"Markose" "Mâtevapattan" "Mâtevipattan" "Naracimmavarman" "Nirupatunkavarman" "Niyâyaparipâlapattan" "Nârpattennâyirapattan" "Nâtittañcâttan" "Pantâram" "Parakesaripanmar" 
-	"Paramêsvaravarman" "Paranirupacinkam" "Pararâcacêkaran" "Parâkkirama" "Parânkucan" "Parântaka" "Pathrose" "Pañcavan" "Paulose" "Periyapillai" 
-	"Perumâl" "Peruñcintevar" "Piramârâyan" "Piyliypaos" "Puvirâca" "Pâkkilân" "Pâlarâvâyan" "Ranatitta" "Ranatîran" "Ravivarman" 
+	"Irâcacimman" "Parântaka" "Katunkon" "Mâravarman" "Celiyancentan" "Cayantavarman" "Arikêcari" "Ranatîran" "Amarapuyankan" "Aparâcita" 
+	"Aparâcitavarman" "Appûtaiyân" "Ariñcaya" "Arulmolitêvar" "Arulmolivarman" "Atirâcêntira" "Atitta" "Avaniyâlappirantâr" "Avraaham" "Brahmamârâyar" 
+	"Cadayan" "Cankili" "Cataiyavarman" "Catturukâlamakalâtittan" "Cekarâcacêkaran" "Cevakattevan" "Ceyavîra" "Chaacko" "Chaandy" "Cimmavisnu" 
+	"Cinkapâku" "Civakkoluntân" "Cuntara" "Câramutaiyân" "Câttanân" "Cîvallapa" "Cîvallapan" "Daniyel" "Eappen" "Eccavarâkan" 
+	"Eisow" "Impânâyarpattan" "Irattapadikonda" "Irâcakecaripanmar" "Irâcarâca" "Irâcâcekara" "Irâcâtirâca" "Irâcâtirâcatevar" "Irâcâtitta" "Irâcêntira" 
+	"Ittac" "Iyob" "Kadarangkonda" "Kanakacûriya" "Kantarâtitta" "Karaikkiyemarrayilaiyân" "Karunandadakkan" "Karunandan" "Kilân" "Kirâmarâcapattan" 
+	"Kontân" "Kossy" "Kotukulapattan" "Kulacêkara" "Kulacêkaran" "Kulôttunka" "Kunapûsana" "Kunavîra" "Kurian" "Kutameratiruvatikal" 
+	"Kôpperuñcimman" "Lukose" "Makêntiravarman" "Manappâkkîlan" "Manavâlapperumâl" "Munnûrruvappattan" "Mâmpâkkamutaiyân" "Mânaticcuran" "Mârapanmar" "Mârkantaiyan" 
+	"Markose" "Mâtevapattan" "Mâtevipattan" "Nantivarman" "Naracimmavarman" "Nirupatunkavarman" "Niyâyaparipâlapattan" "Nârpattennâyirapattan" "Nâtittañcâttan" "Pantâram" 
+	"Parakesaripanmar" "Paramêsvaravarman" "Paranirupacinkam" "Pararâcacêkaran" "Parâkkirama" "Parânkucan" "Pathrose" "Pañcavan" "Paulose" "Periyapillai" 
+	"Perumâl" "Peruñcintevar" "Piramârâyan" "Piyliypaos" "Puvirâca" "Pâkkilân" "Pâlarâvâyan" "Ranatitta" "Ravivarman" "Tantivarman" 
 	"Tennavan" "Thoma" "Tiruccirrampalapattan" "Tirunattapperumâl" "Tirupuvanavîratevar" "Tripuvanacakkaravattikal" "Uravâkkinân" "Utaiya" "Uttama" "Varakunan" 
 	"Varakunavarman" "Varôtaya" "Varughese" "Vellantânkinân" "Vicayâlaya" "Vicayâraka" "Vicayâtitta" "Vikkirama" "Vikramâtittâ" "Viranârâyanapattan" 
 	"Virâcakecaripanmar" "Vîracêkara" "Vîrakêcari" "Vîrarâcêntira" "Vîrôtaya" "Yohannaan" "Yosef" "Zacharria" "Âccinataratippan" "Ânûrrenmanpiccan" 
 	"Âyirattalipattan" }
 monarch_names = {
-	"Tantivarman #0" = 15
-	"Nantivarman #1" = 15
+	"Irâcacimman #0" = 30
+	"Parântaka #1" = 15
+	"Katunkon #0" = 15
+	"Mâravarman #0" = 15
+	"Celiyancentan #0" = 15
+	"Cayantavarman #0" = 15
+	"Arikêcari #0" = 15
+	"Ranatîran #0" = 15
 	"Amarapuyankan #0" = 0
 	"Aparâcita #0" = 0
 	"Aparâcitavarman #0" = 0
 	"Appûtaiyân #0" = 0
-	"Arikêcari #0" = 0
 	"Ariñcaya #0" = 0
 	"Arulmolitêvar #0" = 0
 	"Arulmolivarman #0" = 0
@@ -42,8 +47,6 @@ monarch_names = {
 	"Cankili #0" = 0
 	"Cataiyavarman #0" = 0
 	"Catturukâlamakalâtittan #0" = 0
-	"Cayantavarman #0" = 0
-	"Celiyancentan #0" = 0
 	"Cekarâcacêkaran #0" = 0
 	"Cevakattevan #0" = 0
 	"Ceyavîra #0" = 0
@@ -63,7 +66,6 @@ monarch_names = {
 	"Eisow #0" = 0
 	"Impânâyarpattan #0" = 0
 	"Irattapadikonda #0" = 0
-	"Irâcacimman #0" = 0
 	"Irâcakecaripanmar #0" = 0
 	"Irâcarâca #0" = 0
 	"Irâcâcekara #0" = 0
@@ -79,7 +81,6 @@ monarch_names = {
 	"Karaikkiyemarrayilaiyân #0" = 0
 	"Karunandadakkan #0" = 0
 	"Karunandan #0" = 0
-	"Katunkon #0" = 0
 	"Kilân #0" = 0
 	"Kirâmarâcapattan #0" = 0
 	"Kontân #0" = 0
@@ -101,11 +102,11 @@ monarch_names = {
 	"Mâmpâkkamutaiyân #0" = 0
 	"Mânaticcuran #0" = 0
 	"Mârapanmar #0" = 0
-	"Mâravarman #0" = 0
 	"Mârkantaiyan #0" = 0
 	"Markose #0" = 0
 	"Mâtevapattan #0" = 0
 	"Mâtevipattan #0" = 0
+	"Nantivarman #0" = 0
 	"Naracimmavarman #0" = 0
 	"Nirupatunkavarman #0" = 0
 	"Niyâyaparipâlapattan #0" = 0
@@ -118,7 +119,6 @@ monarch_names = {
 	"Pararâcacêkaran #0" = 0
 	"Parâkkirama #0" = 0
 	"Parânkucan #0" = 0
-	"Parântaka #0" = 0
 	"Pathrose #0" = 0
 	"Pañcavan #0" = 0
 	"Paulose #0" = 0
@@ -131,8 +131,8 @@ monarch_names = {
 	"Pâkkilân #0" = 0
 	"Pâlarâvâyan #0" = 0
 	"Ranatitta #0" = 0
-	"Ranatîran #0" = 0
 	"Ravivarman #0" = 0
+	"Tantivarman #0" = 0
 	"Tennavan #0" = 0
 	"Thoma #0" = 0
 	"Tiruccirrampalapattan #0" = 0

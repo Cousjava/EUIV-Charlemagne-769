@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = welsh
 religion = catholic
 capital = 247
@@ -10,9 +10,9 @@ capital = 247
 	monarch = {
 		name = "Elidyr"
 		dynasty = "Manaw"
-		adm = 1
-		dip = 1
-		mil = 2
+		adm = 2
+		dip = 4
+		mil = 1
 	}
 }
 1435.1.1 = {
@@ -22,9 +22,9 @@ capital = 247
 		dynasty = "Manaw"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 3
-		dip = 3
-		mil = 4
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

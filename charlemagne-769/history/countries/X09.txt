@@ -1,33 +1,21 @@
-# Taghlibid
+# Kindah
 government = iqta
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 2231
-1405.1.1 = {
+capital = 506
+1405.4.4 = {
 	monarch = {
-		name = "Hisam"
-		dynasty = "Taghlibid"
-		adm = 3
-		dip = 1
+		name = "Ubayd"
+		dynasty = "Kindah"
+		adm = 1
+		dip = 4
 		mil = 2
 	}
 }
-1407.1.1 = {
-	heir = {
-		name = "Sufyah"
-		monarch_name = "Sufyah"
-		dynasty = "Taghlibid"
-		birth_date = 1407.1.1
-		death_date = 1487.1.1
-		adm = 2
-		dip = 5
-		mil = 1
-	}
-}
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 7
+	add_treasury = 6
+	add_prestige = 5
 }

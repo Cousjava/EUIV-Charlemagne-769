@@ -35,8 +35,8 @@ historical_units = {
 
 leader_names = {
 
-	"Uhtred" "Ealdred" "Æthelmund" "Æthelric" "Eanberht" "Ingeld" "Osred" "Æthelmod" "Æthelweard" "Æthelheard" 
-	"Oshere" "Eafe" "Oswald" "Osric" "Eanhere" "Eanfrith" "Osmod" "Gloyw" "Gwydolin" "Gwydol" 
+	"Æthelric" "Æthelmund" "Ealdred" "Uhtred" "Oswald" "Osmod" "Oshere" "Eanfrith" "Eanhere" "Osric" 
+	"Eafe" "Æthelheard" "Æthelweard" "Æthelmod" "Osred" "Ingeld" "Eanberht" "Gloyw" "Gwydolin" "Gwydol" 
 	"Pasgen" "Cadeyrn" "Cadell" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" 
 	"Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" 
 	"Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" 
@@ -54,23 +54,23 @@ leader_names = {
 	"Æthelhere" "Æthelmær" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" 
 	"Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Uhtred #1" = 18
-	"Ealdred #0" = 18
-	"Æthelmund #0" = 18
 	"Æthelric #0" = 36
-	"Eanberht #0" = 18
-	"Ingeld #0" = 18
-	"Osred #0" = 18
-	"Æthelmod #0" = 18
-	"Æthelweard #0" = 18
-	"Æthelheard #0" = 18
-	"Oshere #0" = 36
-	"Eafe #0" = -19
+	"Æthelmund #0" = 18
+	"Ealdred #0" = 18
+	"Uhtred #1" = 18
 	"Oswald #0" = 36
-	"Osric #0" = 18
-	"Eanhere #0" = 18
-	"Eanfrith #0" = 18
 	"Osmod #0" = 18
+	"Oshere #0" = 36
+	"Eanfrith #0" = 18
+	"Eanhere #0" = 18
+	"Osric #0" = 18
+	"Eafe #0" = -19
+	"Æthelheard #0" = 18
+	"Æthelweard #0" = 18
+	"Æthelmod #0" = 18
+	"Osred #0" = 18
+	"Ingeld #0" = 18
+	"Eanberht #0" = 18
 	"Gloyw #1" = 0
 	"Gwydolin #1" = 0
 	"Gwydol #1" = 0

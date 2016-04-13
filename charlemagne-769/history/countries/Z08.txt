@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = irish
 religion = catholic
 capital = 373
@@ -10,9 +10,9 @@ capital = 373
 	monarch = {
 		name = "Donnachad"
 		dynasty = "Ua Néill Noígiallaich"
-		adm = 2
-		dip = 2
-		mil = 3
+		adm = 3
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

@@ -1,6 +1,6 @@
-# Livonia
+# Estonia
 graphical_culture = easterngfx
-color = { 110 50 50 }
+color = { 150 75 75 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,22 +34,22 @@ historical_units = {
 
 leader_names = {
 
-	"Ihanus" "Aare" "Agul" "Ahas" "Aho" "Ahti" "Ahvo" "Alar" "Alo" "Alur" 
+	"Kaupo" "Aare" "Agul" "Ahas" "Aho" "Ahti" "Ahvo" "Alar" "Alo" "Alur" 
 	"Aopelg" "Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" 
 	"Hain" "Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" 
 	"Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" 
 	"Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" 
-	"Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" 
-	"Kiur" "Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" 
-	"Lättelemb" "Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" 
-	"Niglas" "Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" 
-	"Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" 
-	"Tarva" "Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" 
-	"Tõivulemb" "Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" 
-	"Veli" "Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" 
-	"Väino" "Värvo" "Õigemeel" "Ülo" }
+	"Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaur" "Kiur" 
+	"Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
+	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" "Niglas" 
+	"Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" "Päevalemb" 
+	"Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" "Tarva" 
+	"Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" "Tõivulemb" 
+	"Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" "Veli" 
+	"Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" "Väino" 
+	"Värvo" "Õigemeel" "Ülo" }
 monarch_names = {
-	"Ihanus #1" = 14
+	"Kaupo #1" = 14
 	"Aare #0" = 0
 	"Agul #0" = 0
 	"Ahas #0" = 0
@@ -107,7 +107,6 @@ monarch_names = {
 	"Kaomeel #0" = 0
 	"Karuvald #0" = 0
 	"Kaugemeel #0" = 0
-	"Kaupo #0" = 0
 	"Kaur #0" = 0
 	"Kiur #0" = 0
 	"Kiurupelg #0" = 0

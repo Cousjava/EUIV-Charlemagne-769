@@ -1,21 +1,33 @@
-# Bana
+# Karkota
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = oriya
+technology_group = western
+primary_culture = panjabi
 religion = hinduism
-capital = 2098
-1415.1.1 = {
+capital = 508
+1393.1.1 = {
 	monarch = {
-		name = "Nandivarman"
-		dynasty = "Bana"
-		adm = 1
-		dip = 4
+		name = "Jayapida"
+		dynasty = "Karkota"
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+1417.1.1 = {
+	heir = {
+		name = "Lalitapida"
+		monarch_name = "Lalitapida"
+		dynasty = "Karkota"
+		birth_date = 1417.1.1
+		death_date = 1497.1.1
+		adm = 3
+		dip = 1
 		mil = 2
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 8
+	add_prestige = 36
 }

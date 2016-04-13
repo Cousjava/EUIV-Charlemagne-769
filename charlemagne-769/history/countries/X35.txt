@@ -10,9 +10,9 @@ capital = 2324
 	monarch = {
 		name = "Kuriakos"
 		dynasty = "Bigawi"
-		adm = 2
-		dip = 2
-		mil = 3
+		adm = 3
+		dip = 1
+		mil = 4
 	}
 }
 1444.11.11 = {

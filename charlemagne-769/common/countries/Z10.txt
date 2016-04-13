@@ -33,8 +33,8 @@ historical_units = {
 
 leader_names = {
 
-	"Tóim Snáma" "Fáelán" "Fergal" "Anmchad" "Forbasach" "Ailill" "Fland" "Cú Cherca" "Tuaim Snámha" "Congaile" 
-	"Crundmaíl" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" "Áeducán" "Áedán" 
+	"Fergal" "Fáelán" "Tóim Snáma" "Crundmaíl" "Congaile" "Tuaim Snámha" "Cú Cherca" "Fland" "Ailill" "Forbasach" 
+	"Anmchad" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" "Áeducán" "Áedán" 
 	"Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" 
 	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
 	"Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Artbran" 
@@ -85,17 +85,17 @@ leader_names = {
 	"Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" 
 	"Ultán" }
 monarch_names = {
-	"Tóim Snáma #0" = 51
-	"Fáelán #0" = 102
 	"Fergal #0" = 51
-	"Anmchad #0" = 51
-	"Forbasach #0" = 51
-	"Ailill #0" = 51
-	"Fland #0" = 51
-	"Cú Cherca #0" = 51
-	"Tuaim Snámha #0" = 51
-	"Congaile #0" = 51
+	"Fáelán #0" = 102
+	"Tóim Snáma #0" = 51
 	"Crundmaíl #0" = 51
+	"Congaile #0" = 51
+	"Tuaim Snámha #0" = 51
+	"Cú Cherca #0" = 51
+	"Fland #0" = 51
+	"Ailill #0" = 51
+	"Forbasach #0" = 51
+	"Anmchad #0" = 51
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

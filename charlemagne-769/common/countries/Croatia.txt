@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Klonimir" "Borna" "Budimir" "Viseslav" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
+	"Borna" "Klonimir" "Viseslav" "Budimir" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
 	"Branimir" "Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Dragomir" "Drzislav" "Dujam" "Duym" 
 	"Filip" "Gaspar" "Gheorghe" "Grigorii" "Hranislav" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" 
 	"Jitej" "Karlo" "Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" 
@@ -42,10 +42,10 @@ leader_names = {
 	"Seslav" "Slavich" "Stanislav" "Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" 
 	"Vid" "Vitomir" "Vlaicu" "Vukan" "Zvonimir" }
 monarch_names = {
-	"Klonimir #0" = 7
 	"Borna #0" = 7
-	"Budimir #1" = 7
+	"Klonimir #0" = 7
 	"Viseslav #0" = 7
+	"Budimir #1" = 7
 	"Adam #0" = 0
 	"Andrija #0" = 0
 	"Bartol #0" = 0

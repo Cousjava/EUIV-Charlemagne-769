@@ -1,33 +1,33 @@
-# Kutch
-government = feudal_monarchy
-government_rank = 1
+# Kimak
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = gujarati
-religion = jain
-capital = 503
-1425.1.1 = {
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+capital = 2354
+1395.1.1 = {
 	monarch = {
-		name = "Barappa"
-		dynasty = "Sankhyavat"
+		name = "Törtogul"
+		dynasty = "Kimak"
 		adm = 1
-		dip = 0
-		mil = 2
+		dip = 3
+		mil = 0
 	}
 }
-1443.1.1 = {
+1420.1.1 = {
 	heir = {
-		name = "Dabir"
-		monarch_name = "Dabir"
-		dynasty = "Sankhyavat"
-		birth_date = 1443.1.1
-		death_date = 1523.1.1
-		adm = 4
+		name = "Ituk"
+		monarch_name = "Ituk"
+		dynasty = "Kimak"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 3
 		dip = 4
-		mil = 4
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	add_treasury = 10
+	add_prestige = 12
 }

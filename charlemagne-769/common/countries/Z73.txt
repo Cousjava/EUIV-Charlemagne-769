@@ -1,6 +1,6 @@
-# Austergautland
+# Vestergautland
 graphical_culture = westerngfx
-color = { 44 20 169 }
+color = { 46 30 205 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -33,23 +33,24 @@ historical_units = {
 
 leader_names = {
 
-	"Högne" "Hjörvardr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" 
-	"Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" 
-	"Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" 
-	"Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" 
-	"Froði" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" 
-	"Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" 
-	"Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" 
+	"Hrafn" "Tjudmund" "Oddr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" 
+	"Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" 
+	"Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" 
+	"Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" 
+	"Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" 
+	"Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" 
+	"Hemming" "Holmger" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" 
 	"Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" 
-	"Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" 
-	"Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" 
-	"Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" 
-	"Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" 
-	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" 
-	"Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Ofeig" "Olafr" 
+	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" 
+	"Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" 
+	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" 
+	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
+	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Högne #0" = 14
-	"Hjörvardr #1" = 14
+	"Hrafn #0" = 14
+	"Tjudmund #0" = 14
+	"Oddr #1" = 14
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -109,7 +110,6 @@ monarch_names = {
 	"Helgi #0" = 0
 	"Hemming #0" = 0
 	"Holmger #0" = 0
-	"Hrafn #0" = 0
 	"Hrolfr #0" = 0
 	"Hrane #0" = 0
 	"Hæsteinn #0" = 0
@@ -136,7 +136,6 @@ monarch_names = {
 	"Mats #0" = 0
 	"Nils #0" = 0
 	"Niklas #0" = 0
-	"Oddr #0" = 0
 	"Ofeig #0" = 0
 	"Olafr #0" = 0
 	"Ormr #0" = 0
@@ -163,7 +162,6 @@ monarch_names = {
 	"Sæmundr #0" = 0
 	"Sölvi #0" = 0
 	"Sörkver #0" = 0
-	"Tjudmund #0" = 0
 	"Toke #0" = 0
 	"Tolir #0" = 0
 	"Þorbjörn #0" = 0

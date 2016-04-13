@@ -1,6 +1,6 @@
-# Volhynia
+# Dregovichia
 graphical_culture = easterngfx
-color = { 204 155 121 }
+color = { 132 160 94 }
 historical_idea_groups = {
 	defensive_ideas
 	trade_ideas
@@ -35,19 +35,17 @@ historical_units = {
 
 leader_names = {
 
-	"Briachislav" "Cumne" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" 
-	"Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" 
-	"Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" "Voislav" 
-	"Volodar" "Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" 
-	"Yevstafiy" }
+	"Igor" "Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Iliya" "Iziaslav" "Lev" "Mitrofan" 
+	"Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Sudislav" 
+	"Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" "Voislav" "Volodar" 
+	"Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
 monarch_names = {
-	"Briachislav #1" = 5
-	"Cumne #0" = -6
+	"Igor #1" = 10
+	"Briachislav #0" = 0
 	"Demid #0" = 0
 	"Dobrynia #0" = 0
 	"Fedot #0" = 0
 	"Gleb #0" = 0
-	"Igor #0" = 0
 	"Iliya #0" = 0
 	"Iziaslav #0" = 0
 	"Lev #0" = 0

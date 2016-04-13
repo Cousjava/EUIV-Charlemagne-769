@@ -11,7 +11,7 @@ capital = 1951
 		name = "Yani"
 		dynasty = "Yantsukh"
 		adm = 3
-		dip = 2
+		dip = 6
 		mil = 2
 	}
 }

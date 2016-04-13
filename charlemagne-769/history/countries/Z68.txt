@@ -1,18 +1,18 @@
-# Herjadal
+# Helsingland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = ottoman
+technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 10
-1412.1.1 = {
+religion = animism
+capital = 9
+1425.1.1 = {
 	monarch = {
-		name = "Sigtrygg"
-		dynasty = "Herja"
-		adm = 1
-		dip = 5
-		mil = 4
+		name = "Ragnarr"
+		dynasty = "Refr"
+		adm = 4
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

@@ -32,8 +32,8 @@ historical_units = {
 
 leader_names = {
 
-	"Kayghalagh" "Yabghu" "Yani" "Yugurtu" "Ispor" "Khatir" "Gostum" "Zabergan" "Alzek" "Dukum" 
-	"Yilig" "Almish" "Alp" "Anzi" "Apskhih" "Araslan" "Asparukh" "Bagha" "Baghatur" "Balambär" 
+	"Yabghu" "Kayghalagh" "Gostum" "Khatir" "Ispor" "Yugurtu" "Yani" "Yilig" "Dukum" "Alzek" 
+	"Zabergan" "Almish" "Alp" "Anzi" "Apskhih" "Araslan" "Asparukh" "Bagha" "Baghatur" "Balambär" 
 	"Barjik" "Bars" "Barsbek" "Bashtwa" "Bastu" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" 
 	"Belkermak" "Bezmer" "Bihor" "Boyan" "Bugha" "Bughra" "Bulan" "Bulger" "Bulçan" "Busir" 
 	"Buzan" "Buzer" "Bälgiçi" "Böri" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" 
@@ -50,17 +50,17 @@ leader_names = {
 	"Täbär" "Tähtaman" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yavantey" "Yençepi" 
 	"Yerneslu" "Yeçtirek" "Zenti" "Çat" "Çat'n" "Çorpan" "Ötemis" }
 monarch_names = {
-	"Kayghalagh #0" = 17
 	"Yabghu #0" = 17
-	"Yani #1" = 17
-	"Yugurtu #0" = 17
-	"Ispor #0" = 17
-	"Khatir #0" = 17
+	"Kayghalagh #0" = 17
 	"Gostum #0" = 17
-	"Zabergan #1" = 17
-	"Alzek #1" = 17
-	"Dukum #1" = 17
+	"Khatir #0" = 17
+	"Ispor #0" = 17
+	"Yugurtu #0" = 17
+	"Yani #1" = 17
 	"Yilig #1" = 17
+	"Dukum #1" = 17
+	"Alzek #1" = 17
+	"Zabergan #1" = 17
 	"Almish #0" = 0
 	"Alp #0" = 0
 	"Anzi #0" = 0

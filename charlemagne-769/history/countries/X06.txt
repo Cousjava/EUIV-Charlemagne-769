@@ -1,21 +1,21 @@
-# Kimak
-government = tribal_despotism
+# Uzur
+government = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = cuman
-religion = tengri_pagan_reformed
-capital = 2354
-1395.1.1 = {
+technology_group = nomad_group
+primary_culture = uyghur
+religion = manichean
+capital = 718
+1414.6.12 = {
 	monarch = {
-		name = "Törtogul"
-		dynasty = "Kimak"
-		adm = 1
-		dip = 1
-		mil = 1
+		name = "Üge"
+		dynasty = "Uzur"
+		adm = 6
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 8
+	add_prestige = 7
 }

@@ -1,33 +1,33 @@
-# Dregovichia
-government = tribal_despotism
-government_rank = 1
+# Khazaria
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = ilmenian
-religion = animism
-capital = 278
-1413.1.1 = {
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
+capital = 464
+1391.1.1 = {
 	monarch = {
-		name = "Igor"
-		dynasty = "Dregovich"
-		adm = 4
-		dip = 2
-		mil = 3
+		name = "Baghatur"
+		dynasty = "Ashina"
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 }
-1439.1.1 = {
+1409.1.1 = {
 	heir = {
-		name = "Igor"
-		monarch_name = "Igor II"
-		dynasty = "Dregovich"
-		birth_date = 1439.1.1
-		death_date = 1519.1.1
+		name = "Bulan"
+		monarch_name = "Bulan"
+		dynasty = "Ashina"
+		birth_date = 1409.1.1
+		death_date = 1489.1.1
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 6
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 10
+	add_prestige = 68
 }

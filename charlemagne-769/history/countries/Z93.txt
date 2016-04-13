@@ -1,16 +1,17 @@
-# Ugra
+# Mari
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = samoyed
+primary_culture = mordvin
 religion = animism
+capital = 1083
 1408.1.1 = {
 	monarch = {
-		name = "Alik"
-		dynasty = "Sarakid"
-		adm = 4
-		dip = 0
+		name = "Paksyut"
+		dynasty = "Varakid"
+		adm = 3
+		dip = 2
 		mil = 3
 	}
 }

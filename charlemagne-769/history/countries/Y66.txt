@@ -1,21 +1,21 @@
-# Shirazid
+# Arwadid
 government = iqta
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 1211
-1423.1.1 = {
+capital = 390
+1393.1.1 = {
 	monarch = {
-		name = "Talut"
-		dynasty = "Shirazid"
+		name = "Yazid"
+		dynasty = "Arwadid"
 		adm = 2
-		dip = 1
-		mil = 0
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

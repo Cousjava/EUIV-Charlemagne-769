@@ -1,21 +1,21 @@
-# Kartli
-government = feudal_monarchy
+# Hashimid
+government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = georgian
-religion = orthodox
-capital = 423
-1375.1.1 = {
+primary_culture = bedouin_arabic
+religion = shiite
+capital = 384
+1378.1.1 = {
 	monarch = {
-		name = "Nerse"
-		dynasty = "Nersiani"
-		adm = 3
+		name = "Hasan"
+		dynasty = "Hashimid"
+		adm = 2
 		dip = 2
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 11
 }

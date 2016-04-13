@@ -1,33 +1,21 @@
-# Uqaylid
+# Damascus
 government = iqta
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 2305
-1400.1.1 = {
+capital = 382
+1415.1.1 = {
 	monarch = {
-		name = "Bakkar"
-		dynasty = "Uqaylid"
-		adm = 3
-		dip = 1
-		mil = 2
-	}
-}
-1430.1.1 = {
-	heir = {
-		name = "Amir"
-		monarch_name = "Amir"
-		dynasty = "Uqaylid"
-		birth_date = 1430.1.1
-		death_date = 1510.1.1
-		adm = 3
-		dip = 3
-		mil = 1
+		name = "Al-Fadl"
+		dynasty = "Abbasid"
+		adm = 4
+		dip = 0
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 20
+	add_treasury = 6
+	add_prestige = 34
 }

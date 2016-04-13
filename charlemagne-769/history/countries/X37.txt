@@ -1,18 +1,18 @@
-# Trinkitat
+# Suakin
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = nubian
 religion = coptic
-capital = 1230
-1421.1.1 = {
+capital = 1232
+1417.1.1 = {
 	monarch = {
-		name = "Panigiros"
-		dynasty = "Beniamer"
-		adm = 4
+		name = "Papasinen"
+		dynasty = "Amarrar"
+		adm = 2
 		dip = 1
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {

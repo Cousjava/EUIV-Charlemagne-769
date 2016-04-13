@@ -10,9 +10,9 @@ capital = 1858
 	monarch = {
 		name = "Przemysl"
 		dynasty = "z Kessini"
-		adm = 1
-		dip = 3
-		mil = 0
+		adm = 3
+		dip = 6
+		mil = 1
 	}
 }
 1444.11.11 = {

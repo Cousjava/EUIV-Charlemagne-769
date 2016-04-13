@@ -1,33 +1,21 @@
-# Khazaria
-government = tribal_despotism
-government_rank = 2
+# Karadakhu
+government = steppe_horde
+government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = nomad_group
 primary_culture = khazar
 religion = tengri_pagan_reformed
-capital = 464
-1391.1.1 = {
+capital = 2409
+1408.1.1 = {
 	monarch = {
-		name = "Baghatur"
-		dynasty = "Ashina"
-		adm = 1
-		dip = 1
-		mil = 0
-	}
-}
-1423.1.1 = {
-	heir = {
-		name = "Kibar"
-		monarch_name = "Kibar"
-		dynasty = "Ashina"
-		birth_date = 1423.1.1
-		death_date = 1503.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		name = "Sartäç"
+		dynasty = "Karadakhu"
+		adm = 0
+		dip = 5
+		mil = 3
 	}
 }
 1444.11.11 = {
 	add_treasury = 8
-	add_prestige = 64
+	add_prestige = 8
 }

@@ -1,6 +1,6 @@
-# Jamtaland
+# Herjadal
 graphical_culture = westerngfx
-color = { 45 85 255 }
+color = { 40 76 225 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Steinn" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
+	"Sigtrygg" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
 	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
 	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
 	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
@@ -44,12 +44,12 @@ leader_names = {
 	"Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
 	"Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" 
 	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" 
-	"Sigtrygg" "Sigurðr" "Starkaðr" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" 
+	"Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" 
 	"Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" 
 	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
 	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Steinn #0" = 14
+	"Sigtrygg #0" = 14
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -149,9 +149,9 @@ monarch_names = {
 	"Skuli #0" = 0
 	"Snorri #0" = 0
 	"Sigbjörn #0" = 0
-	"Sigtrygg #0" = 0
 	"Sigurðr #0" = 0
 	"Starkaðr #0" = 0
+	"Steinn #0" = 0
 	"Sturla #0" = 0
 	"Styrbjörn #0" = 0
 	"Styrkar #0" = 0

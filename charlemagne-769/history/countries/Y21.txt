@@ -1,21 +1,21 @@
-# Radimichia
-government = tribal_despotism
+# Bukhal
+government = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = severian
-religion = animism
-capital = 293
-1408.1.1 = {
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
+capital = 2447
+1392.1.1 = {
 	monarch = {
-		name = "Stanislav"
-		dynasty = "Radimich"
-		adm = 3
-		dip = 4
-		mil = 2
+		name = "Simsam"
+		dynasty = "Bukhal"
+		adm = 0
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	add_treasury = 8
+	add_prestige = 13
 }

@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Rhys" "Brochfael" "Gwriad" "Ithel" "Morgan" "Einudd" "Eudaf" "Macsen" "Annwn Dynod" "Tudwal" 
+	"Gwriad" "Brochfael" "Rhys" "Morgan" "Ithel" "Einudd" "Eudaf" "Macsen" "Annwn Dynod" "Tudwal" 
 	"Dyfnwal" "Ynyr" "Caradog" "Meurig" "Erbic" "Erb" "Nynniaw" "Llywarch" "Tewdrig" "Arthwys" 
 	"Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" 
 	"Anarawd" "Andreas" "Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
@@ -62,11 +62,11 @@ leader_names = {
 	"Taliesin" "Tegonwy" "Tegwyd" "Teilo" "Teithfalch" "Teudebur" "Tewdos" "Tewdwr" "Tomos" "Trahaearn" 
 	"Tudur" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ysfael" }
 monarch_names = {
-	"Rhys #1" = 28
-	"Brochfael #0" = 28
 	"Gwriad #0" = 28
-	"Ithel #1" = 28
+	"Brochfael #0" = 28
+	"Rhys #1" = 28
 	"Morgan #1" = 28
+	"Ithel #1" = 28
 	"Einudd #1" = 0
 	"Eudaf #1" = 0
 	"Macsen #1" = 0

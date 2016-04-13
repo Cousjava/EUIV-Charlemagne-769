@@ -33,10 +33,10 @@ historical_units = {
 
 leader_names = {
 
-	"Crundmáel" "Domnall" "Selbach" "Dúngalach" "Aigile" "Snédgus" "Donngus" "Indrechtach" "Crimthann" "Conall" 
-	"Dub-dá-Crích" "Eochaid" "Flann" "Fáelgus" "Cormac" "Nad-Fraích" "Tnúthgal" "Colmán" "Rechtabra" "Ailill" 
-	"Colgú" "Dúnchad" "Máenach" "Sechnussach" "Dub-Indrecht" "Fogartach" "Faílbe Fland" "Fíngen" "Áed Dub" "Furudrán" 
-	"Eógan" "Bressal" "Feidelmid" "Óengus" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" 
+	"Selbach" "Domnall" "Crundmáel" "Crimthann" "Indrechtach" "Donngus" "Snédgus" "Aigile" "Dúngalach" "Óengus" 
+	"Eochaid" "Feidelmid" "Bressal" "Ailill" "Eógan" "Áed Dub" "Furudrán" "Fíngen" "Faílbe Fland" "Fogartach" 
+	"Dub-Indrecht" "Sechnussach" "Máenach" "Dúnchad" "Colgú" "Rechtabra" "Colmán" "Tnúthgal" "Nad-Fraích" "Cormac" 
+	"Fáelgus" "Flann" "Dub-dá-Crích" "Conall" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" 
 	"Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" 
 	"Ailgel" "Áilgenán" "Ailgus" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" 
 	"Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" 
@@ -85,40 +85,40 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Crundmáel #0" = 103
-	"Domnall #0" = 51
 	"Selbach #0" = 51
-	"Dúngalach #0" = 51
-	"Aigile #0" = 51
-	"Snédgus #0" = 103
-	"Donngus #0" = 51
-	"Indrechtach #0" = 51
+	"Domnall #0" = 51
+	"Crundmáel #0" = 103
 	"Crimthann #0" = 103
-	"Conall #0" = 51
-	"Dub-dá-Crích #0" = 51
+	"Indrechtach #0" = 51
+	"Donngus #0" = 51
+	"Snédgus #0" = 103
+	"Aigile #0" = 51
+	"Dúngalach #0" = 51
+	"Óengus #0" = 51
 	"Eochaid #0" = 155
-	"Flann #0" = 51
-	"Fáelgus #0" = 51
-	"Cormac #0" = 51
-	"Nad-Fraích #0" = 51
-	"Tnúthgal #0" = 51
-	"Colmán #0" = 103
-	"Rechtabra #0" = 51
+	"Feidelmid #0" = 51
+	"Bressal #0" = 51
 	"Ailill #0" = 103
-	"Colgú #0" = 51
-	"Dúnchad #0" = 51
-	"Máenach #0" = 51
-	"Sechnussach #0" = 51
-	"Dub-Indrecht #0" = 51
-	"Fogartach #0" = 51
-	"Faílbe Fland #0" = 51
-	"Fíngen #0" = 51
+	"Eógan #0" = 51
 	"Áed Dub #0" = 51
 	"Furudrán #0" = 51
-	"Eógan #0" = 51
-	"Bressal #0" = 51
-	"Feidelmid #0" = 51
-	"Óengus #0" = 51
+	"Fíngen #0" = 51
+	"Faílbe Fland #0" = 51
+	"Fogartach #0" = 51
+	"Dub-Indrecht #0" = 51
+	"Sechnussach #0" = 51
+	"Máenach #0" = 51
+	"Dúnchad #0" = 51
+	"Colgú #0" = 51
+	"Rechtabra #0" = 51
+	"Colmán #0" = 103
+	"Tnúthgal #0" = 51
+	"Nad-Fraích #0" = 51
+	"Cormac #0" = 51
+	"Fáelgus #0" = 51
+	"Flann #0" = 51
+	"Dub-dá-Crích #0" = 51
+	"Conall #0" = 51
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

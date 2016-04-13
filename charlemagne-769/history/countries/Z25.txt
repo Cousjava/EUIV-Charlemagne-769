@@ -2,7 +2,7 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = pictish
 religion = catholic
 capital = 251
@@ -10,9 +10,9 @@ capital = 251
 	monarch = {
 		name = "Urguist"
 		dynasty = "Circinn"
-		adm = 5
+		adm = 6
 		dip = 2
-		mil = 4
+		mil = 3
 	}
 }
 1444.11.11 = {

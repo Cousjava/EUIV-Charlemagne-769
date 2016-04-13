@@ -1,32 +1,42 @@
-# Bhaumakara
+# Kalinga Ganga
 graphical_culture = indiangfx
-color = { 115 190 30 }
+color = { 70 220 115 }
 
 
 
 
 leader_names = {
 
-	"Sivakaradeva" "Subhakaradeva" "Ksemankaradeva" "Anangabhima" "Anantasaktivarman" "Anantavarman" "Apsaradeva" "Arthapatiraja" "Ayasobhita" "Balabhadra" 
-	"Barjena" "Betta" "Bhanu" "Bhavadattavarman" "Bhimaratha" "Bhimasena" "Bhramarbara" "Bhupendra" "Bhupendravarman" "Chandravarman" 
-	"Charamparaja" "Damodara" "Danai" "Danarnava" "Dayita" "Dayitavarman" "Devananda" "Devendravarman" "Dharmaraja" "Dharmarstha" 
-	"Dhruvananda" "Dibyasingha" "Digbhanja" "Durgaraja" "Durjaya" "Durjayabhanja" "Gangadhara" "Gandhata" "Gangakavilasa" "Gayada" 
-	"Gopinatha" "Gunamaharnava" "Gunarnava" "Gundama" "Hamvira" "Harekrushna" "Hastivarman" "Hemantavarman" "Indranatha" "Indravarman" 
-	"Jahangir" "Janmejaya" "Jayananda" "Jayaraja" "Jayasimha" "Jayasthambha" "Jayavarma" "Jayavarmadeva" "Kakharua" "Kalaha" 
-	"Kalahastambha" "Kalasa" "Kalua" "Kalyankalasa" "Kamarnava" "Kanchana" "Kanchanastambha" "Kapilendra" "Kapilendradeva" "Karnadeva" 
-	"Khadaga" "Kotta" "Kottabhanja" "Kulastambha" "Lakshmikaradeva" "Madhavaraja" "Madhavavarman" "Madhukamarnava" "Mahendraditya" "Mahendravarman" 
+	"Devandravarma" "Anantavarma" "Rajendravarma" "Indravarma" "Maharajendravarma" "Mahasmantavarma" "Hastivarma" "Mitravarma" "Danavarna" "Gunavarma" 
+	"Devendravarma" "Nandavarma" "Anangabhima" "Anantasaktivarman" "Anantavarman" "Apsaradeva" "Arthapatiraja" "Ayasobhita" "Balabhadra" "Barjena" 
+	"Betta" "Bhanu" "Bhavadattavarman" "Bhimaratha" "Bhimasena" "Bhramarbara" "Bhupendra" "Bhupendravarman" "Chandravarman" "Charamparaja" 
+	"Damodara" "Danai" "Danarnava" "Dayita" "Dayitavarman" "Devananda" "Devendravarman" "Dharmaraja" "Dharmarstha" "Dhruvananda" 
+	"Dibyasingha" "Digbhanja" "Durgaraja" "Durjaya" "Durjayabhanja" "Gangadhara" "Gandhata" "Gangakavilasa" "Gayada" "Gopinatha" 
+	"Gunamaharnava" "Gunarnava" "Gundama" "Hamvira" "Harekrushna" "Hastivarman" "Hemantavarman" "Indranatha" "Indravarman" "Jahangir" 
+	"Janmejaya" "Jayananda" "Jayaraja" "Jayasimha" "Jayasthambha" "Jayavarma" "Jayavarmadeva" "Kakharua" "Kalaha" "Kalahastambha" 
+	"Kalasa" "Kalua" "Kalyankalasa" "Kamarnava" "Kanchana" "Kanchanastambha" "Kapilendra" "Kapilendradeva" "Karnadeva" "Khadaga" 
+	"Kotta" "Kottabhanja" "Ksemankaradeva" "Kulastambha" "Lakshmikaradeva" "Madhavaraja" "Madhavavarman" "Madhukamarnava" "Mahendraditya" "Mahendravarman" 
 	"Mahinda" "Manamatra" "Matradhyarya" "Mukunda" "Nahusa" "Nandaprabhanjana" "Nandaprabhanjanavarman" "Nandavarman" "Narasimha" "Narendra" 
 	"Netta" "Nettabhanja" "Padmanava" "Paramananda" "Prasannamatra" "Prataparudra" "Pravaraja" "Prithivarman" "Prithivimaharaja" "Prithvibhanja" 
 	"Prithvidena" "Pulindasena" "Puranjaya" "Purushottama" "Rajabhanja" "Rajaraja" "Ramachandra" "Ramachandradeva" "Ranabhanja" "Ranabhita" 
 	"Ranadurjaya" "Ranga" "Rangabhanja" "Sailobhava" "Sainyabita" "Saktivarman" "Samantavarman" "Sambhuyasa" "Sankaravarman" "Santikaradeva" 
-	"Sarabha" "Satru" "Satrubhanja" "Satyavarman" "Sila" "Silabhanja" "Sivananda" "Skandavarman" "Sobhanaraja" "Solyana" 
-	"Sudevaraja" "Suravala" "Teja" "Tejavarsha" "Tustikara" "Udaya" "Udayavarsha" "Udita" "Udyotakesari" "Umavarman" 
-	"Unmattasimha" "Utidavarsha" "Vaaraharaja" "Vajrahasta" "Vidhyadhara" "Vidhyadharabhanja" "Vijaya" "Vinayaditya" "Vinita" "Vishakavarman" 
-	"Vrishadhvaja" "Vyaghraraja" "Yayati" }
+	"Sarabha" "Satru" "Satrubhanja" "Satyavarman" "Sila" "Silabhanja" "Sivakaradeva" "Sivananda" "Skandavarman" "Sobhanaraja" 
+	"Solyana" "Subhakaradeva" "Sudevaraja" "Suravala" "Teja" "Tejavarsha" "Tustikara" "Udaya" "Udayavarsha" "Udita" 
+	"Udyotakesari" "Umavarman" "Unmattasimha" "Utidavarsha" "Vaaraharaja" "Vajrahasta" "Vidhyadhara" "Vidhyadharabhanja" "Vijaya" "Vinayaditya" 
+	"Vinita" "Vishakavarman" "Vrishadhvaja" "Vyaghraraja" "Yayati" }
 monarch_names = {
-	"Sivakaradeva #1" = 32
-	"Subhakaradeva #0" = 16
-	"Ksemankaradeva #1" = 16
+	"Devandravarma #0" = 17
+	"Anantavarma #1" = 35
+	"Rajendravarma #1" = 17
+	"Indravarma #4" = 70
+	"Maharajendravarma #1" = 17
+	"Mahasmantavarma #1" = 17
+	"Hastivarma #1" = 17
+	"Mitravarma #1" = 17
+	"Danavarna #0" = 17
+	"Gunavarma #1" = 17
+	"Devendravarma #2" = 35
+	"Nandavarma #1" = 17
 	"Anangabhima #0" = 0
 	"Anantasaktivarman #0" = 0
 	"Anantavarman #0" = 0
@@ -97,6 +107,7 @@ monarch_names = {
 	"Khadaga #0" = 0
 	"Kotta #0" = 0
 	"Kottabhanja #0" = 0
+	"Ksemankaradeva #0" = 0
 	"Kulastambha #0" = 0
 	"Lakshmikaradeva #0" = 0
 	"Madhavaraja #0" = 0
@@ -150,10 +161,12 @@ monarch_names = {
 	"Satyavarman #0" = 0
 	"Sila #0" = 0
 	"Silabhanja #0" = 0
+	"Sivakaradeva #0" = 0
 	"Sivananda #0" = 0
 	"Skandavarman #0" = 0
 	"Sobhanaraja #0" = 0
 	"Solyana #0" = 0
+	"Subhakaradeva #0" = 0
 	"Sudevaraja #0" = 0
 	"Suravala #0" = 0
 	"Teja #0" = 0

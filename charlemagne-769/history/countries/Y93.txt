@@ -1,21 +1,21 @@
-# Ruddha
+# Rashtrakuta
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = marathi
 religion = hinduism
-capital = 517
-1405.1.1 = {
+capital = 526
+1355.1.1 = {
 	monarch = {
-		name = "Aniruddha"
-		dynasty = "Ruddha"
-		adm = 2
-		dip = 1
+		name = "Nandaraja"
+		dynasty = "Rashtrakuta"
+		adm = 3
+		dip = 4
 		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 7
 }

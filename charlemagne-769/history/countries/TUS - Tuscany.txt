@@ -2,7 +2,7 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = lombard
 religion = catholic
 capital = 115
@@ -10,9 +10,9 @@ capital = 115
 	monarch = {
 		name = "Alperto"
 		dynasty = "Walpertingi"
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 0
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {

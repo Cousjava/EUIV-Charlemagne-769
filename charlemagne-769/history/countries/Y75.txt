@@ -1,30 +1,30 @@
-# Gojjam
+# Shewa
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = amhara
 religion = coptic
-capital = 1223
-1408.1.1 = {
+capital = 1213
+1413.1.1 = {
 	monarch = {
-		name = "Aman"
-		dynasty = "Desta"
-		adm = 2
-		dip = 0
-		mil = 4
-	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Gebereal"
-		monarch_name = "Gebereal"
-		dynasty = "Desta"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 4
+		name = "Mekonnen"
+		dynasty = "Shamumun"
+		adm = 3
 		dip = 2
 		mil = 1
+	}
+}
+1430.1.1 = {
+	heir = {
+		name = "Semer"
+		monarch_name = "Semer"
+		dynasty = "Shamumun"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 4
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

@@ -35,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Ealhred" "Osred" "Ealhmund" "Eanwine" "Beornholm" "Bofa" "Blæcman" "Eadric" "Æthelwald" "Arncytel" 
+	"Ealhmund" "Osred" "Ealhred" "Eadric" "Blæcman" "Bofa" "Beornholm" "Eanwine" "Æthelwald" "Arncytel" 
 	"Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" 
 	"Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" 
 	"Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" 
@@ -53,14 +53,14 @@ leader_names = {
 	"Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" 
 	"Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Ealhred #1" = 17
-	"Osred #0" = 17
 	"Ealhmund #0" = 17
-	"Eanwine #0" = 17
-	"Beornholm #0" = 17
-	"Bofa #0" = 17
-	"Blæcman #0" = 17
+	"Osred #0" = 17
+	"Ealhred #1" = 17
 	"Eadric #0" = 17
+	"Blæcman #0" = 17
+	"Bofa #0" = 17
+	"Beornholm #0" = 17
+	"Eanwine #0" = 17
 	"Æthelwald #1" = 0
 	"Arncytel #0" = 0
 	"Balthere #0" = 0

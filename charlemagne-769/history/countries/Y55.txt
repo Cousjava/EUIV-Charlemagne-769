@@ -1,18 +1,18 @@
-# Ifrinid
+# Malzuzi
 government = iqta
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
 religion = ibadi
-capital = 336
+capital = 354
 1395.1.1 = {
 	monarch = {
-		name = "Abu Qurra"
-		dynasty = "Ifrinid"
-		adm = 1
-		dip = 2
-		mil = 5
+		name = "Hatim"
+		dynasty = "Malzuzi"
+		adm = 2
+		dip = 4
+		mil = 4
 	}
 }
 1444.11.11 = {

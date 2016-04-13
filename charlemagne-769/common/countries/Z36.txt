@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Thuringus" "Ado" "Hetan" "Gozbert" "Hruodis" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" 
+	"Ado" "Thuringus" "Hruodis" "Hetan" "Gozbert" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" 
 	"Adalgrim" "Aegidius" "Ageric" "Agilbert" "Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" 
 	"Arcambald" "Aregisel" "Arnegisel" "Arnulf" "Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" 
 	"Avremar" "Badegisel" "Balduin" "Barnard" "Berald" "Bernard" "Berneri" "Bero" "Berold" "Berthefried" 
@@ -55,11 +55,11 @@ leader_names = {
 	"Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" "Trutgaud" "Vuitard" "Vulfari" "Vulframn" 
 	"Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
-	"Thuringus #1" = 21
 	"Ado #0" = 21
+	"Thuringus #1" = 21
+	"Hruodis #1" = 21
 	"Hetan #2" = 43
 	"Gozbert #1" = 21
-	"Hruodis #1" = 21
 	"Abrahil #0" = 0
 	"Abram #0" = 0
 	"Adalbald #0" = 0

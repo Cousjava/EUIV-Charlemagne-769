@@ -1,6 +1,6 @@
-# Satakunta
+# Pohjanmaa
 graphical_culture = easterngfx
-color = { 131 108 26 }
+color = { 152 66 66 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,17 +34,17 @@ historical_units = {
 
 leader_names = {
 
-	"Terho" "Ihala" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" 
-	"Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" 
-	"Kolli" "Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" 
-	"Pyry" "Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" 
-	"Toivo" "Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" 
-	"Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" 
-	"Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" 
-	"Kauro" "Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
+	"Kaleva" "Haapa" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Hannu" 
+	"Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kalevi" "Kettu" "Kolli" "Lalli" 
+	"Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" "Päiviö" 
+	"Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" "Toivo" 
+	"Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
+	"Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" 
+	"Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" "Kauro" 
+	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Terho #0" = 8
-	"Ihala #1" = 8
+	"Kaleva #0" = 8
+	"Haapa #0" = 8
 	"Aatos #0" = 0
 	"Ahma #0" = 0
 	"Aimo #0" = 0
@@ -52,7 +52,6 @@ monarch_names = {
 	"Arvo #0" = 0
 	"Asikko #0" = 0
 	"Ensio #0" = 0
-	"Haapa #0" = 0
 	"Hannu #0" = 0
 	"Havu #0" = 0
 	"Hintsa #0" = 0
@@ -60,7 +59,6 @@ monarch_names = {
 	"Into #0" = 0
 	"Jalo #0" = 0
 	"Jurva #0" = 0
-	"Kaleva #0" = 0
 	"Kalevi #0" = 0
 	"Kettu #0" = 0
 	"Kolli #0" = 0
@@ -83,6 +81,7 @@ monarch_names = {
 	"Seppo #0" = 0
 	"Susi #0" = 0
 	"Tapani #0" = 0
+	"Terho #0" = 0
 	"Toivo #0" = 0
 	"Ukko #0" = 0
 	"Uoti #0" = 0

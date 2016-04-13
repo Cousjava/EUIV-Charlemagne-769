@@ -33,8 +33,8 @@ historical_units = {
 
 leader_names = {
 
-	"Iudon" "Maredudd" "Rhain" "Owain" "Tewdos" "Tewdwr" "Elwystyl" "Awst" "Cadwgan" "Cathen" 
-	"Gwlyddien" "Nowy" "Arthwr" "Pedr" "Cyngar" "Gwerthefyr" "Aergul" "Adda" "Adgar" "Adran" 
+	"Iudon" "Owain" "Rhain" "Maredudd" "Aergul" "Gwerthefyr" "Cyngar" "Pedr" "Arthwr" "Nowy" 
+	"Gwlyddien" "Cathen" "Cadwgan" "Awst" "Elwystyl" "Tewdwr" "Tewdos" "Adda" "Adgar" "Adran" 
 	"Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" "Anarawd" "Andreas" "Aneurin" 
 	"Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" "Arthfoddw" "Arthws" "Arthwys" 
 	"Asa" "Asaph" "Bangar" "Bedwyr" "Beli" "Berthgwyn" "Berthwallt" "Bleddyn" "Bledrig" "Bleiddud" 
@@ -64,22 +64,22 @@ leader_names = {
 	"Ysfael" }
 monarch_names = {
 	"Iudon #0" = 29
-	"Maredudd #0" = 29
-	"Rhain #0" = 58
 	"Owain #0" = 29
-	"Tewdos #0" = 29
-	"Tewdwr #0" = 29
-	"Elwystyl #0" = 29
-	"Awst #0" = 29
-	"Cadwgan #0" = 29
-	"Cathen #0" = 29
-	"Gwlyddien #0" = 29
-	"Nowy #0" = 29
-	"Arthwr #0" = 29
-	"Pedr #0" = 29
-	"Cyngar #0" = 29
-	"Gwerthefyr #0" = 29
+	"Rhain #0" = 58
+	"Maredudd #0" = 29
 	"Aergul #0" = 29
+	"Gwerthefyr #0" = 29
+	"Cyngar #0" = 29
+	"Pedr #0" = 29
+	"Arthwr #0" = 29
+	"Nowy #0" = 29
+	"Gwlyddien #0" = 29
+	"Cathen #0" = 29
+	"Cadwgan #0" = 29
+	"Awst #0" = 29
+	"Elwystyl #0" = 29
+	"Tewdwr #0" = 29
+	"Tewdos #0" = 29
 	"Adda #0" = 0
 	"Adgar #0" = 0
 	"Adran #0" = 0

@@ -10,9 +10,9 @@ capital = 65
 	monarch = {
 		name = "Tassilo III"
 		dynasty = "Agilolfing"
-		adm = 0
-		dip = 4
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 1442.1.1 = {

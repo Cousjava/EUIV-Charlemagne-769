@@ -7,7 +7,7 @@ color = { 172 112 112 }
 
 leader_names = {
 
-	"Gisela" "Hesso" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
+	"Hesso" "Gisela" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
 	"Aelle" "Albrecht" "Alebrand" "Altfrid" "Ansgar" "Arnd" "Arnold" "Asig" "Balduin" "Balthasar" 
 	"Banzleib" "Beneke" "Benno" "Bernd" "Bernhard" "Bertold" "Bertram" "Boddic" "Brun" "Bruno" 
 	"Burchard" "Cissa" "Claus" "Cobbo" "Cord" "Cyprian" "Dago" "Dedo" "Dethard" "Detleff" 
@@ -24,8 +24,8 @@ leader_names = {
 	"Wichbert" "Wichmann" "Wicho" "Widukind" "Wigebert" "Wilbrand" "Willichin" "Withgils" "Witikind" "Witta" 
 	"Wlencing" "Wolter" "Wulff" }
 monarch_names = {
-	"Gisela #0" = -17
 	"Hesso #1" = 32
+	"Gisela #0" = -17
 	"Abo #0" = 0
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0

@@ -1,21 +1,21 @@
-# Yadava
+# Bhar
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = avadhi
 religion = hinduism
-capital = 524
-1410.1.1 = {
+capital = 555
+1395.1.1 = {
 	monarch = {
-		name = "Kamal"
-		dynasty = "Yadava"
+		name = "Jhetpala"
+		dynasty = "Bhar"
 		adm = 4
-		dip = 3
-		mil = 3
+		dip = 4
+		mil = 6
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

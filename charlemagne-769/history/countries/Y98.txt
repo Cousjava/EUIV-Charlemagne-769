@@ -1,21 +1,21 @@
-# Bhatti
+# Maru
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = rajput
 religion = hinduism
-capital = 513
-1390.1.1 = {
+capital = 514
+1365.1.1 = {
 	monarch = {
-		name = "Kehar"
-		dynasty = "Bhatti"
-		adm = 5
-		dip = 0
-		mil = 4
+		name = "Jhota"
+		dynasty = "Pratihara"
+		adm = 2
+		dip = 6
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 30
+	add_prestige = 76
 }

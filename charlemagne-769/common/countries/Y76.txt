@@ -1,144 +1,104 @@
-# Yugra
-graphical_culture = easterngfx
-color = { 208 208 244 }
-historical_idea_groups = {
-	religious_ideas
-	trade_ideas
-	defensive_ideas
-	administrative_ideas
-	offensive_ideas
-	spy_ideas
-	quantity_ideas
-	economic_ideas
-}
+# Gondar
+graphical_culture = muslimgfx
+color = { 215 119 45 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
-}
 
 
 
 leader_names = {
 
-	"Nalka" "Setyamka" "Andyamo" "Arnaz" "Arti" "Artis" "Arvo" "Aymort" "Azeg" "Biur" 
-	"Biyar" "Burmort" "Chichayka" "Chuga" "Dergun" "Deryab" "Dobrinya" "Dokya" "Dondy" "Gazheg" 
-	"Hulyen" "Inzhay" "Irter" "Lyneg" "Lysko" "Kezhapa" "Kezhay" "Kezhedey" "Kezhevat" "Kichay" 
-	"Koksha" "Kuaz" "Kudym-Osh" "Kya" "Kyldysin" "Malyaka" "Malyy" "Meltsayka" "Mosheg" "Nuyaksha" 
-	"Nuyanza" "Nuyat" "Nydog" "Nylog" "Odeg" "Onika" "Osh" "Oshmar" "Oshypel" "Ovtay" 
-	"Ozheg" "Ozhmeg" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" "Pokshayka" "Putyayka" "Pyera" 
-	"Rateg" "Rayda" "Sarin" "Sektev" "Shindyay" "Shypicha" "Shyrpuzh" "Spira" "Syrka" "Tikshayka" 
-	"Tuhan" "Tyueykezhut" "Tyutyuk" "Tugan" "Turush" "Uchva" "Varaka" "Vechkas" "Velmayka" "Virdyan" 
-	"Viryas" "Viryay" "Vokan" "Yirkap" "Ylvan" "Zarny" "Zhebeg" "Zhuneg" "Zyryan" }
+	"Assefa" "Dahnay" "Ogbae" "Amare" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
+	"Abebe" "Afework" "Aman" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" 
+	"Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
+	"Gebereal" "Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" 
+	"Iskander" "Iyasu" "Jima" "Kafa" "Kaleb" "Kelile" "Kelyle" "Kifle" "Lebna" "Lema" 
+	"Loua" "Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Negasi" "Negus" 
+	"Ogbai" "Oromo" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tamirat" "Tariku" "Taye" 
+	"Tefere" "Teferi" "Teka" "Tekle" "Tengene" "Teruworq" "Tesfaye" "Tessema" "Tewodros" "Yacob" 
+	"Yohannas" "Yonas" "Zula" }
 monarch_names = {
-	"Nalka #1" = 9
-	"Setyamka #0" = 9
-	"Andyamo #0" = 0
-	"Arnaz #0" = 0
-	"Arti #0" = 0
-	"Artis #0" = 0
-	"Arvo #0" = 0
-	"Aymort #0" = 0
-	"Azeg #0" = 0
-	"Biur #0" = 0
-	"Biyar #0" = 0
-	"Burmort #0" = 0
-	"Chichayka #0" = 0
-	"Chuga #0" = 0
-	"Dergun #0" = 0
-	"Deryab #0" = 0
-	"Dobrinya #0" = 0
-	"Dokya #0" = 0
-	"Dondy #0" = 0
-	"Gazheg #0" = 0
-	"Hulyen #0" = 0
-	"Inzhay #0" = 0
-	"Irter #0" = 0
-	"Lyneg #0" = 0
-	"Lysko #0" = 0
-	"Kezhapa #0" = 0
-	"Kezhay #0" = 0
-	"Kezhedey #0" = 0
-	"Kezhevat #0" = 0
-	"Kichay #0" = 0
-	"Koksha #0" = 0
-	"Kuaz #0" = 0
-	"Kudym-Osh #0" = 0
-	"Kya #0" = 0
-	"Kyldysin #0" = 0
-	"Malyaka #0" = 0
-	"Malyy #0" = 0
-	"Meltsayka #0" = 0
-	"Mosheg #0" = 0
-	"Nuyaksha #0" = 0
-	"Nuyanza #0" = 0
-	"Nuyat #0" = 0
-	"Nydog #0" = 0
-	"Nylog #0" = 0
-	"Odeg #0" = 0
-	"Onika #0" = 0
-	"Osh #0" = 0
-	"Oshmar #0" = 0
-	"Oshypel #0" = 0
-	"Ovtay #0" = 0
-	"Ozheg #0" = 0
-	"Ozhmeg #0" = 0
-	"Pakstyan #0" = 0
-	"Paksyay #0" = 0
-	"Paksyut #0" = 0
-	"Parush #0" = 0
-	"Pivtsay #0" = 0
-	"Pokshayka #0" = 0
-	"Putyayka #0" = 0
-	"Pyera #0" = 0
-	"Rateg #0" = 0
-	"Rayda #0" = 0
-	"Sarin #0" = 0
-	"Sektev #0" = 0
-	"Shindyay #0" = 0
-	"Shypicha #0" = 0
-	"Shyrpuzh #0" = 0
-	"Spira #0" = 0
-	"Syrka #0" = 0
-	"Tikshayka #0" = 0
-	"Tuhan #0" = 0
-	"Tyueykezhut #0" = 0
-	"Tyutyuk #0" = 0
-	"Tugan #0" = 0
-	"Turush #0" = 0
-	"Uchva #0" = 0
-	"Varaka #0" = 0
-	"Vechkas #0" = 0
-	"Velmayka #0" = 0
-	"Virdyan #0" = 0
-	"Viryas #0" = 0
-	"Viryay #0" = 0
-	"Vokan #0" = 0
-	"Yirkap #0" = 0
-	"Ylvan #0" = 0
-	"Zarny #0" = 0
-	"Zhebeg #0" = 0
-	"Zhuneg #0" = 0
-	"Zyryan #0" = 0
-}
-ship_names = {
-	Cherdyn Pelym Kudym-Osha Shudeg
-	Voleg Rateg Koleg Uzheg
-	Baseg Yus Pokcha Vychegda Sysola
-	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+	"Assefa #0" = 9
+	"Dahnay #0" = 9
+	"Ogbae #1" = 9
+	"Amare #0" = 0
+	"Desta #0" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Iskinder #0" = 0
+	"Abai #0" = 0
+	"Abebe #0" = 0
+	"Afework #0" = 0
+	"Aman #0" = 0
+	"Atoberhan #0" = 0
+	"Azmera #0" = 0
+	"Bekele #0" = 0
+	"Benaim #0" = 0
+	"Berhanu #0" = 0
+	"Berhanua #0" = 0
+	"Berihun #0" = 0
+	"Berta #0" = 0
+	"Bworo #0" = 0
+	"Daniachew #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Ezana #0" = 0
+	"Fasilidas #0" = 0
+	"Fethee #0" = 0
+	"Gabra #0" = 0
+	"Gebereal #0" = 0
+	"Gebre #0" = 0
+	"Gondar #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hagos #0" = 0
+	"Hakeem #0" = 0
+	"Hakiem #0" = 0
+	"Hakim #0" = 0
+	"Hakym #0" = 0
+	"Iskander #0" = 0
+	"Iyasu #0" = 0
+	"Jima #0" = 0
+	"Kafa #0" = 0
+	"Kaleb #0" = 0
+	"Kelile #0" = 0
+	"Kelyle #0" = 0
+	"Kifle #0" = 0
+	"Lebna #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Melaku #0" = 0
+	"Mengesha #0" = 0
+	"Merille #0" = 0
+	"Miruts #0" = 0
+	"Negash #0" = 0
+	"Negasi #0" = 0
+	"Negus #0" = 0
+	"Ogbai #0" = 0
+	"Oromo #0" = 0
+	"Rahad #0" = 0
+	"Selassie #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Sisay #0" = 0
+	"Tamirat #0" = 0
+	"Tariku #0" = 0
+	"Taye #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+	"Teka #0" = 0
+	"Tekle #0" = 0
+	"Tengene #0" = 0
+	"Teruworq #0" = 0
+	"Tesfaye #0" = 0
+	"Tessema #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+	"Yonas #0" = 0
+	"Zula #0" = 0
 }
 

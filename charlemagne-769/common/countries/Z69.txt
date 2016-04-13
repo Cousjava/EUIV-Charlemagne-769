@@ -1,6 +1,6 @@
-# Helsingland
+# Sviþjod
 graphical_culture = westerngfx
-color = { 5 55 155 }
+color = { 20 20 145 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -33,28 +33,34 @@ historical_units = {
 
 leader_names = {
 
-	"Ragnarr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
-	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
-	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
-	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
-	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" 
-	"Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" 
-	"Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" 
-	"Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
-	"Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" 
-	"Ormr" "Ottarr" "Refr" "Refil" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" "Sigtrygg" 
-	"Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" 
-	"Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" 
-	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
-	"Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Ragnarr" "Sigurdr" "Ingild" "Anundr" "Ingjald" "Olafr" "Valdar" "Randver" "Ale" "Alfr" 
+	"Alfgeir" "Anders" "Anlaufr" "Arnbjörn" "Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" 
+	"Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" 
+	"Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" 
+	"Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Geirr" 
+	"Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" 
+	"Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" 
+	"Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingemar" "Ivar" "Jedvard" "Jon" 
+	"Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Mats" 
+	"Nils" "Niklas" "Oddr" "Ofeig" "Ormr" "Ottarr" "Refr" "Refil" "Rikulfr" "Rögnvaldr" 
+	"Skuli" "Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" 
+	"Sumarliði" "Suni" "Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" 
+	"Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" 
+	"Tyke" "Ulfr" "Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
 	"Ragnarr #0" = 14
+	"Sigurdr #1" = 14
+	"Ingild #0" = -15
+	"Anundr #1" = 14
+	"Ingjald #1" = 14
+	"Olafr #1" = 14
+	"Valdar #1" = 14
+	"Randver #1" = 14
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
 	"Anders #0" = 0
 	"Anlaufr #0" = 0
-	"Anundr #0" = 0
 	"Arnbjörn #0" = 0
 	"Arngrimr #0" = 0
 	"Arni #0" = 0
@@ -119,7 +125,6 @@ monarch_names = {
 	"Hysing #0" = 0
 	"Ingólfr #0" = 0
 	"Ingemar #0" = 0
-	"Ingjald #0" = 0
 	"Ivar #0" = 0
 	"Jedvard #0" = 0
 	"Jon #0" = 0
@@ -137,7 +142,6 @@ monarch_names = {
 	"Niklas #0" = 0
 	"Oddr #0" = 0
 	"Ofeig #0" = 0
-	"Olafr #0" = 0
 	"Ormr #0" = 0
 	"Ottarr #0" = 0
 	"Refr #0" = 0

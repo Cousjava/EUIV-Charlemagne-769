@@ -1,31 +1,31 @@
-# Turtam
+# Bharuka
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = tocharian
 religion = buddhism
-capital = 713
-1423.1.1 = {
+capital = 2124
+1418.1.1 = {
 	monarch = {
-		name = "Saru"
-		dynasty = "Turtam"
-		adm = 2
+		name = "Ksmate"
+		dynasty = "Bharuka"
+		adm = 1
 		dip = 2
-		mil = 1
+		mil = 5
 	}
 }
 1420.1.1 = {
 	heir = {
-		name = "Tamcina"
-		monarch_name = "Tamcina"
-		dynasty = "Turtam"
+		name = "Tarma"
+		monarch_name = "Tarma"
+		dynasty = "Bharuka"
 		birth_date = 1420.1.1
 		death_date = 1500.1.1
 		female = yes
 		adm = 4
-		dip = 4
-		mil = 1
+		dip = 1
+		mil = 0
 	}
 }
 1444.11.11 = {

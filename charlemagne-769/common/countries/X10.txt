@@ -1,36 +1,41 @@
-# Yadava
+# Ayudha
 graphical_culture = indiangfx
-color = { 150 45 10 }
+color = { 205 60 10 }
 
 
 
 
 leader_names = {
 
-	"Kamal" "Achalraj" "Achalraja" "Adhandev" "Adityadeva" "Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" 
-	"Anupapala" "Anuppal" "Apara Gangeya" "Arjunpal" "Arjunpala" "Arjunavarman" "Bacchdev" "Bachraj" "Baghpal" "Baghpala" 
-	"Bahadur-Singh" "Beejpal" "Beejpala" "Bhaadar" "Bhilpala" "Bhoj" "Bhoja" "Bhojavarman" "Bhopal" "Bhumpal" 
-	"Bhumpala" "Birpal" "Birpala" "Bisaldeva" "Brahmadeva" "Brahmapala" "Brahmdevpal" "Chand" "Devapala" "Devavarman" 
-	"Dhanga" "Dhangadeva" "Dharmapala" "Dhaulshaya" "Dilipapala" "Dilippal" "Doth" "Draupad" "Draupada" "Dugarendra" 
-	"Gambhir" "Ganapatideva" "Gandadeva" "Gangeya" "Ghatamdeva" "Gopal" "Gopala" "Govindachandra" "Govindapala" "Govindaraja" 
-	"Govindraj" "Hamir" "Hammiravarman" "Harpal" "Harsa" "Harshapala" "Hirapal" "Hirapala" "Indrapal" "Indrapala" 
-	"Ishtpala" "Jaganpal" "Jaganpala" "Jagatpal" "Jagatpala" "Jagdev" "Jagdeva" "Jaidas" "Jaipal" "Jaitugideva" 
-	"Jasapala" "Jaspal" "Jatanpal" "Jatanpala" "Jayapala" "Jayasakti" "Jayasimha" "Jayavarman" "Jhetpal" "Jhetpala" 
-	"Junpala" "Kailaspal" "Kailaspala" "Kalkurna" "Kalyanachandra" "Kakhopal" "Kakhopala" "Kanhad" "Kanvarpal" "Kanvarpala" 
-	"Karnpal" "Keeratdeva" "Khadag" "Khetrapal" "Khetrapala" "Kiratpal" "Kiratpala" "Krishnray" "Krsnapa" "Kumarapala" 
-	"Kunwar" "Kunwarpal" "Ladahachandra" "Lakshmandeva" "Lokpala" "Madanapala" "Madanavarman" "Maharana" "Mahendrapal" "Mahendrapala" 
-	"Mahipal" "Mahipala" "Mahipata" "Mahlakadeva" "Mandandeva" "Mangaldeva" "Margdeva" "Mihira" "Nagapala" "Nagdeo" 
-	"Nannuka" "Naravarman" "Narayanapala" "Narpal" "Nayapala" "Nihaal" "Nihalray" "Paramardideva" "Pavak" "Peepalraj" 
-	"Popatraj" "Pritampal" "Pritampala" "Prithipala" "Prithvi" "Prithvipal" "Prithviraj" "Prithviraja" "Prithvivarman" "Rahila" 
-	"Rajapala" "Rajyapala" "Ramabhadra" "Ramachandra" "Rampal" "Rampala" "Rana" "Rangraj" "Rangraja" "Ratnapala" 
-	"Rijhpala" "Roshandeva" "Salivaahan" "Sallaksanavarman" "Saugandeva" "Shurapala" "Sisupal" "Sisupala" "Sohanpal" "Somasi" 
-	"Someshvara" "Sonpal" "Sonpala" "Srichandra" "Subhatavarman" "Sukhinpal" "Sukhinpala" "Sulakshanpal" "Sultanpal" "Sultanpala" 
-	"Surajpal" "Surajpala" "Traillokyachandra" "Tejapala" "Tejpal" "Tolpal" "Trailokyavarman" "Trilochanpala" "Udayaditya" "Udaysangh" 
-	"Uddharandeva" "Vachhal" "Vakpati" "Vapyata" "Varshapala" "Varshpal" "Vasudev" "Vidurathpal" "Vidurathpala" "Vidyadhara" 
-	"Vigrahapala" "Vigraharaja" "Vihangpal" "Vijayapala" "Vijayasakti" "Vinayakapala" "Vindhyavarman" "Viramdeva" "Viravarman" "Virsinghadeva" 
-	"Yasovarman" }
+	"Cakrayudha" "Indrayudha" "Vajrayudha" "Yasovarman" "Ama" "Dundaka" "Achalraj" "Achalraja" "Adhandev" "Adityadeva" 
+	"Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" "Anupapala" "Anuppal" "Apara Gangeya" "Arjunpal" "Arjunpala" 
+	"Arjunavarman" "Bacchdev" "Bachraj" "Baghpal" "Baghpala" "Bahadur-Singh" "Beejpal" "Beejpala" "Bhaadar" "Bhilpala" 
+	"Bhoj" "Bhoja" "Bhojavarman" "Bhopal" "Bhumpal" "Bhumpala" "Birpal" "Birpala" "Bisaldeva" "Brahmadeva" 
+	"Brahmapala" "Brahmdevpal" "Chand" "Devapala" "Devavarman" "Dhanga" "Dhangadeva" "Dharmapala" "Dhaulshaya" "Dilipapala" 
+	"Dilippal" "Doth" "Draupad" "Draupada" "Dugarendra" "Gambhir" "Ganapatideva" "Gandadeva" "Gangeya" "Ghatamdeva" 
+	"Gopal" "Gopala" "Govindachandra" "Govindapala" "Govindaraja" "Govindraj" "Hamir" "Hammiravarman" "Harpal" "Harsa" 
+	"Harshapala" "Hirapal" "Hirapala" "Indrapal" "Indrapala" "Ishtpala" "Jaganpal" "Jaganpala" "Jagatpal" "Jagatpala" 
+	"Jagdev" "Jagdeva" "Jaidas" "Jaipal" "Jaitugideva" "Jasapala" "Jaspal" "Jatanpal" "Jatanpala" "Jayapala" 
+	"Jayasakti" "Jayasimha" "Jayavarman" "Jhetpal" "Jhetpala" "Junpala" "Kailaspal" "Kailaspala" "Kalkurna" "Kalyanachandra" 
+	"Kakhopal" "Kakhopala" "Kamal" "Kanhad" "Kanvarpal" "Kanvarpala" "Karnpal" "Keeratdeva" "Khadag" "Khetrapal" 
+	"Khetrapala" "Kiratpal" "Kiratpala" "Krishnray" "Krsnapa" "Kumarapala" "Kunwar" "Kunwarpal" "Ladahachandra" "Lakshmandeva" 
+	"Lokpala" "Madanapala" "Madanavarman" "Maharana" "Mahendrapal" "Mahendrapala" "Mahipal" "Mahipala" "Mahipata" "Mahlakadeva" 
+	"Mandandeva" "Mangaldeva" "Margdeva" "Mihira" "Nagapala" "Nagdeo" "Nannuka" "Naravarman" "Narayanapala" "Narpal" 
+	"Nayapala" "Nihaal" "Nihalray" "Paramardideva" "Pavak" "Peepalraj" "Popatraj" "Pritampal" "Pritampala" "Prithipala" 
+	"Prithvi" "Prithvipal" "Prithviraj" "Prithviraja" "Prithvivarman" "Rahila" "Rajapala" "Rajyapala" "Ramabhadra" "Ramachandra" 
+	"Rampal" "Rampala" "Rana" "Rangraj" "Rangraja" "Ratnapala" "Rijhpala" "Roshandeva" "Salivaahan" "Sallaksanavarman" 
+	"Saugandeva" "Shurapala" "Sisupal" "Sisupala" "Sohanpal" "Somasi" "Someshvara" "Sonpal" "Sonpala" "Srichandra" 
+	"Subhatavarman" "Sukhinpal" "Sukhinpala" "Sulakshanpal" "Sultanpal" "Sultanpala" "Surajpal" "Surajpala" "Traillokyachandra" "Tejapala" 
+	"Tejpal" "Tolpal" "Trailokyavarman" "Trilochanpala" "Udayaditya" "Udaysangh" "Uddharandeva" "Vachhal" "Vakpati" "Vapyata" 
+	"Varshapala" "Varshpal" "Vasudev" "Vidurathpal" "Vidurathpala" "Vidyadhara" "Vigrahapala" "Vigraharaja" "Vihangpal" "Vijayapala" 
+	"Vijayasakti" "Vinayakapala" "Vindhyavarman" "Viramdeva" "Viravarman" "Virsinghadeva" }
 monarch_names = {
-	"Kamal #1" = 22
+	"Cakrayudha #0" = 22
+	"Indrayudha #0" = 22
+	"Vajrayudha #1" = 22
+	"Yasovarman #1" = 0
+	"Ama #1" = 0
+	"Dundaka #1" = 0
 	"Achalraj #0" = 0
 	"Achalraja #0" = 0
 	"Adhandev #0" = 0
@@ -127,6 +132,7 @@ monarch_names = {
 	"Kalyanachandra #0" = 0
 	"Kakhopal #0" = 0
 	"Kakhopala #0" = 0
+	"Kamal #0" = 0
 	"Kanhad #0" = 0
 	"Kanvarpal #0" = 0
 	"Kanvarpala #0" = 0
@@ -240,6 +246,5 @@ monarch_names = {
 	"Viramdeva #0" = 0
 	"Viravarman #0" = 0
 	"Virsinghadeva #0" = 0
-	"Yasovarman #0" = 0
 }
 

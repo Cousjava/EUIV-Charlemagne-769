@@ -1,6 +1,6 @@
-# Savo
+# Käkisalmi
 graphical_culture = easterngfx
-color = { 120 10 10 }
+color = { 185 70 70 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,19 +34,18 @@ historical_units = {
 
 leader_names = {
 
-	"Sampo" "Uoti" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" 
-	"Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" 
-	"Kolli" "Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" 
-	"Pyry" "Päiviö" "Pentti" "Reko" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" 
-	"Toivo" "Ukko" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
+	"Ukko" "Ahma" "Aatos" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" "Hannu" 
+	"Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" 
+	"Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" 
+	"Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" 
+	"Toivo" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
 	"Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" 
 	"Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" "Kauro" 
 	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Sampo #0" = 8
-	"Uoti #0" = 8
+	"Ukko #0" = 8
+	"Ahma #0" = 8
 	"Aatos #0" = 0
-	"Ahma #0" = 0
 	"Aimo #0" = 0
 	"Armas #0" = 0
 	"Arvo #0" = 0
@@ -77,6 +76,7 @@ monarch_names = {
 	"Päiviö #0" = 0
 	"Pentti #0" = 0
 	"Reko #0" = 0
+	"Sampo #0" = 0
 	"Satajalka #0" = 0
 	"Satatieto #0" = 0
 	"Seppo #0" = 0
@@ -84,7 +84,7 @@ monarch_names = {
 	"Tapani #0" = 0
 	"Terho #0" = 0
 	"Toivo #0" = 0
-	"Ukko #0" = 0
+	"Uoti #0" = 0
 	"Urho #0" = 0
 	"Väinö #0" = 0
 	"Valta #0" = 0

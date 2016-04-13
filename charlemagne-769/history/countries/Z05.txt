@@ -4,25 +4,25 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
+religion = animism
 capital = 12
 1365.6.12 = {
 	monarch = {
 		name = "Haraldr"
 		dynasty = "Skjöldung"
-		adm = 2
-		dip = 5
+		adm = 1
+		dip = 3
 		mil = 4
 	}
 }
-1408.1.1 = {
+1405.1.1 = {
 	heir = {
-		name = "Hrörekr"
-		monarch_name = "Hrörekr II"
+		name = "Þrándr"
+		monarch_name = "Þrándr"
 		dynasty = "Skjöldung"
-		birth_date = 1408.1.1
-		death_date = 1488.1.1
-		adm = 4
+		birth_date = 1405.1.1
+		death_date = 1485.1.1
+		adm = 3
 		dip = 1
 		mil = 3
 	}

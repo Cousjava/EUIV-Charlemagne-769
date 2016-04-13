@@ -1,33 +1,33 @@
-# Africa
+# Addauid
 government = iqta
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = bedouin_arabic
+primary_culture = al_suryah_arabic
 religion = sunni
-capital = 341
-1410.1.1 = {
+capital = 2313
+1408.1.1 = {
 	monarch = {
-		name = "Umar"
-		dynasty = "Muhallabid"
-		adm = 6
-		dip = 3
-		mil = 4
+		name = "Hasan"
+		dynasty = "Addauid"
+		adm = 4
+		dip = 2
+		mil = 3
 	}
 }
-1385.1.1 = {
+1425.1.1 = {
 	heir = {
-		name = "Hafs"
-		monarch_name = "Hafs"
-		dynasty = "Muhallabid"
-		birth_date = 1385.1.1
-		death_date = 1465.1.1
+		name = "Abd al-Kadir"
+		monarch_name = "Abd al-Kadir"
+		dynasty = "Addauid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
 		adm = 1
-		dip = 4
-		mil = 4
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 9
-	add_prestige = 14
+	add_treasury = 7
+	add_prestige = 5
 }

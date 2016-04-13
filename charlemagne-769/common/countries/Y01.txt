@@ -1,15 +1,15 @@
-# Lithuania
+# Kuyavia
 graphical_culture = easterngfx
-color = { 81 0 0 }
+color = { 115 30 50 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
 	diplomatic_ideas
-	spy_ideas
 	economic_ideas
+	spy_ideas
 	administrative_ideas
-	quantity_ideas
+	religious_ideas
 }
 
 historical_units = {
@@ -34,103 +34,146 @@ historical_units = {
 
 leader_names = {
 
-	"Cirulis" "Algirdas" "Antanas" "Antavas" "Aras" "Arunas" "Azuolas" "Budrys" "Bukantas" "Butavas" 
-	"Butigeidis" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" "Gediminas" 
-	"Gedivilas" "Gintaras" "Gintautas" "Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" "Kantibutas" "Karijotas" 
-	"Kesgaila" "Kestutis" "Korigaila" "Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" 
-	"Mindaugas" "Minigaila" "Mantvydas" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" 
-	"Ringaudas" "Sarunas" "Skirgaila" "Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" "Traidenis" "Treniotas" 
-	"Vainius" "Vaisvilkas" "Valimantas" "Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" 
-	"Vytenis" "Zivinbudas" "Zygimantas" }
+	"Witosz" "Aleksander" "Andrzej" "Bartosz" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" 
+	"Bozydar" "Borzywoj" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" 
+	"Domawuj" "Dytryk" "Eustachy" "Gaudenty" "Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" 
+	"Imram" "Izbor" "Józef" "Jacek" "Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" 
+	"Janusz" "Jaroslaw" "Jerzy" "Karol" "Kazimierz" "Konrad" "Krystyn" "Krzeslaw" "Lambert" "Leszek" 
+	"Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" "Mieszko" "Mikolaj" "Milobrat" "Milosz" 
+	"Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Pelka" "Piotr" "Piskla" 
+	"Prendota" "Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" "Sieciech" "Siemomysl" "Siemowit" "Skarbimir" 
+	"Snowid" "Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Swietoslaw" 
+	"Szczesny" "Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" "Wawrzyniec" "Wielislaw" "Wieslaw" 
+	"Wincenty" "Wit" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" "Zelibrat" 
+	"Zygmunt" }
 monarch_names = {
-	"Cirulis #1" = 8
-	"Algirdas #0" = 0
-	"Antanas #0" = 0
-	"Antavas #0" = 0
-	"Aras #0" = 0
-	"Arunas #0" = 0
-	"Azuolas #0" = 0
-	"Budrys #0" = 0
-	"Bukantas #0" = 0
-	"Butavas #0" = 0
-	"Butigeidis #0" = 0
-	"Butvydas #0" = 0
-	"Daugvilas #0" = 0
-	"Daumantas #0" = 0
-	"Dausprungas #0" = 0
-	"Dravenis #0" = 0
-	"Erdenis #0" = 0
-	"Erdvilas #0" = 0
-	"Gedigaudas #0" = 0
-	"Gediminas #0" = 0
-	"Gedivilas #0" = 0
-	"Gintaras #0" = 0
-	"Gintautas #0" = 0
-	"Girdenis #0" = 0
-	"Irmantas #0" = 0
-	"Jaunutis #0" = 0
-	"Jogaila #0" = 0
-	"Jovirdas #0" = 0
-	"Kantibutas #0" = 0
-	"Karijotas #0" = 0
-	"Kesgaila #0" = 0
-	"Kestutis #0" = 0
-	"Korigaila #0" = 0
-	"Korybutas #0" = 0
-	"Lasukas #0" = 0
-	"Lingvenis #0" = 0
-	"Liudas #0" = 0
-	"Lubartas #0" = 0
-	"Lutuveras #0" = 0
-	"Merkelis #0" = 0
-	"Mindaugas #0" = 0
-	"Minigaila #0" = 0
-	"Mantvydas #0" = 0
-	"Movkoldas #0" = 0
-	"Narimantas #0" = 0
-	"Povilas #0" = 0
-	"Pukuveras #0" = 0
-	"Rimantas #0" = 0
-	"Rimgaila #0" = 0
-	"Rimvydas #0" = 0
-	"Ringaudas #0" = 0
-	"Sarunas #0" = 0
-	"Skirgaila #0" = 0
-	"Songaila #0" = 0
-	"Svarnas #0" = 0
-	"Svitrigaila #0" = 0
-	"Tarvydas #0" = 0
-	"Tovtivilas #0" = 0
-	"Traidenis #0" = 0
-	"Treniotas #0" = 0
-	"Vainius #0" = 0
-	"Vaisvilkas #0" = 0
-	"Valimantas #0" = 0
-	"Vidmantas #0" = 0
-	"Vingoldas #0" = 0
-	"Virmantas #0" = 0
-	"Visvaldis #0" = 0
-	"Vizgirdas #0" = 0
-	"Vykintas #0" = 0
-	"Vytautas #0" = 0
-	"Vytenis #0" = 0
-	"Zivinbudas #0" = 0
-	"Zygimantas #0" = 0
+	"Witosz #1" = 12
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Bartosz #0" = 0
+	"Bezprym #0" = 0
+	"Boguchwal #0" = 0
+	"Bogumil #0" = 0
+	"Boleslaw #0" = 0
+	"Boncza #0" = 0
+	"Borzyslaw #0" = 0
+	"Bozydar #0" = 0
+	"Borzywoj #0" = 0
+	"Budziwuj #0" = 0
+	"Czcibor #0" = 0
+	"Czyrzniech #0" = 0
+	"Dalimir #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobrogost #0" = 0
+	"Dobromir #0" = 0
+	"Doman #0" = 0
+	"Domawuj #0" = 0
+	"Dytryk #0" = 0
+	"Eustachy #0" = 0
+	"Gaudenty #0" = 0
+	"Gierolt #0" = 0
+	"Gniewomir #0" = 0
+	"Gniewosz #0" = 0
+	"Gosciwuj #0" = 0
+	"Goszczon #0" = 0
+	"Henryk #0" = 0
+	"Imram #0" = 0
+	"Izbor #0" = 0
+	"Józef #0" = 0
+	"Jacek #0" = 0
+	"Jaksa #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Jan #0" = 0
+	"Janislaw #0" = 0
+	"Janko #0" = 0
+	"Janusz #0" = 0
+	"Jaroslaw #0" = 0
+	"Jerzy #0" = 0
+	"Karol #0" = 0
+	"Kazimierz #0" = 0
+	"Konrad #0" = 0
+	"Krystyn #0" = 0
+	"Krzeslaw #0" = 0
+	"Lambert #0" = 0
+	"Leszek #0" = 0
+	"Maciej #0" = 0
+	"Macko #0" = 0
+	"Malowuj #0" = 0
+	"Marcin #0" = 0
+	"Maslaw #0" = 0
+	"Mateusz #0" = 0
+	"Mieszko #0" = 0
+	"Mikolaj #0" = 0
+	"Milobrat #0" = 0
+	"Milosz #0" = 0
+	"Miroslaw #0" = 0
+	"Msciwoj #0" = 0
+	"Mszczuj #0" = 0
+	"Nadbor #0" = 0
+	"Niezamysl #0" = 0
+	"Odon #0" = 0
+	"Pawel #0" = 0
+	"Pelka #0" = 0
+	"Piotr #0" = 0
+	"Piskla #0" = 0
+	"Prendota #0" = 0
+	"Przemyslaw #0" = 0
+	"Przybor #0" = 0
+	"Sambor #0" = 0
+	"Sedziej #0" = 0
+	"Sedzimir #0" = 0
+	"Sieciech #0" = 0
+	"Siemomysl #0" = 0
+	"Siemowit #0" = 0
+	"Skarbimir #0" = 0
+	"Snowid #0" = 0
+	"Spytko #0" = 0
+	"Stanislaw #0" = 0
+	"Stefan #0" = 0
+	"Stoigniew #0" = 0
+	"Strasz #0" = 0
+	"Sulislaw #0" = 0
+	"Sulistryj #0" = 0
+	"Swietopelk #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczesny #0" = 0
+	"Tomasz #0" = 0
+	"Trojden #0" = 0
+	"Twardomir #0" = 0
+	"Usciech #0" = 0
+	"Waclaw #0" = 0
+	"Wanko #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wielislaw #0" = 0
+	"Wieslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wit #0" = 0
+	"Wladyslaw #0" = 0
+	"Wojciech #0" = 0
+	"Wojuta #0" = 0
+	"Wszebor #0" = 0
+	"Zbigniew #0" = 0
+	"Zbyszko #0" = 0
+	"Zegota #0" = 0
+	"Zelibrat #0" = 0
+	"Zygmunt #0" = 0
 }
 ship_names = {
-	Alytus
-	Birzai
-	Druskininkai
-	Gardinas
-	Jonava
-	Kaunas Kretinga Kreva
-	Lazdijai
-	Naugardukas
-	Palanga
-	Raseiniai
-	Siauliai Sventoji
-	Taurage Telsiai Trakai
-	Utena
-	Vilkmerge
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
 }
 

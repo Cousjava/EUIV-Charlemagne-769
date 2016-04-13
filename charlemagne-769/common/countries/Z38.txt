@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Erispoë" "Budic" "Melliau" "Deniel" "Riwallon" "Guérech" "Adoyre" "Adrien" "Aedan" "Agustin" 
+	"Erispoë" "Melliau" "Budic" "Riwallon" "Guérech" "Deniel" "Adoyre" "Adrien" "Aedan" "Agustin" 
 	"Alan" "Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" 
 	"Anauguethen" "Anauguoret" "Anauhocar" "Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" "Arthel" 
 	"Arthguiu" "Arthmael" "Arthueu" "Arthuiu" "Arthur" "Austol" "Baldoen" "Bastian" "Beli" "Beltram" 
@@ -78,11 +78,11 @@ leader_names = {
 	"Urvod" "Uther" "Vincenne" }
 monarch_names = {
 	"Erispoë #0" = 84
-	"Budic #0" = 42
 	"Melliau #0" = 42
-	"Deniel #0" = 42
+	"Budic #0" = 42
 	"Riwallon #0" = 84
 	"Guérech #0" = 42
+	"Deniel #0" = 42
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0

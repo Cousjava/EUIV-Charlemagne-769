@@ -1,21 +1,21 @@
-# Guhilot
+# Bhatti
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = rajput
 religion = hinduism
-capital = 2058
-1409.1.1 = {
+capital = 513
+1390.1.1 = {
 	monarch = {
-		name = "Khuman"
-		dynasty = "Guhilot"
+		name = "Kehar"
+		dynasty = "Bhatti"
 		adm = 2
-		dip = 5
+		dip = 0
 		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 30
 }

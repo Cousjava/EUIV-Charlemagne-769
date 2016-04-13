@@ -1,6 +1,6 @@
-# Lemdiyya
+# Azimid
 graphical_culture = muslimgfx
-color = { 51 198 85 }
+color = { 32 150 63 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -30,7 +30,7 @@ historical_units = {
 
 leader_names = {
 
-	"Kamal" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
+	"Azim" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
 	"Abidin" "Adal" "Adam" "Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" 
 	"Afalawas" "Afalku" "Afer" "Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" 
 	"Aghali" "Aghecher" "Aghilas" "Agwillul" "Ahamatu" "Aheyyad" "Ahmad" "Ajdir" "Ajeddig" "Akaday" 
@@ -38,14 +38,14 @@ leader_names = {
 	"Amawal" "Amayas" "Amaz'uz'" "Ambay" "Amdegh" "Amellal" "Amennay" "Ameska" "Amessan" "Amin" 
 	"Amma" "Ammuc" "Amray" "Amri" "Amud" "Anaba" "Annaber" "Antalas" "Anwa" "Aras" 
 	"Asad" "Asaru" "Asirem" "Aszellay" "Atissi" "Awdia" "Awgustin" "Awinagh" "Awlagh" "Awzal" 
-	"Aylal" "Ayt'ere" "Az'ar" "Az'regh" "Azenkwed" "Azim" "Azrur" "Badda" "Badis" "Bagay" 
-	"Barakat" "Beddis" "Berkan" "Bezz'i" "Br'ir'uc" "Bukkus" "Buwayh" "Buxtuc" "Capussa" "Cucung" 
-	"Dali" "Fahd" "Fath" "Fella" "Firhun" "Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" 
-	"Gaya" "Ghani" "Ghanim" "Ghaysan" "Ghumer" "Gildun" "Gulusa" "H'emmu" "Haidar" "Hamad" 
-	"Hashim" "Hiba" "Hiempsal" "Himmi" "Hotha" "Hussamaddin" "Ibiza" "Ibrahim" "Iccaam" "Ifni" 
-	"Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" "Ilyas" "Immeghar" "Immel" "Irgen" 
-	"Is'mail" "Isalcas" "Ishaq" "Isli" "Issam" "It'ij" "Itber" "Itri" "Ixfensen" "Ixzi" 
-	"Izri" "Jaffar" "Jamal" "Kadidu" "Karidenna" "Kawsen" "Kenan" "Keraja" "Khalid" "Khanchla" 
+	"Aylal" "Ayt'ere" "Az'ar" "Az'regh" "Azenkwed" "Azrur" "Badda" "Badis" "Bagay" "Barakat" 
+	"Beddis" "Berkan" "Bezz'i" "Br'ir'uc" "Bukkus" "Buwayh" "Buxtuc" "Capussa" "Cucung" "Dali" 
+	"Fahd" "Fath" "Fella" "Firhun" "Firmus" "Frawsen" "Gaia" "Galussa" "Gauda" "Gaya" 
+	"Ghani" "Ghanim" "Ghaysan" "Ghumer" "Gildun" "Gulusa" "H'emmu" "Haidar" "Hamad" "Hashim" 
+	"Hiba" "Hiempsal" "Himmi" "Hotha" "Hussamaddin" "Ibiza" "Ibrahim" "Iccaam" "Ifni" "Ifser" 
+	"Ighlaf" "Igider" "Igmi" "Iher" "Iken" "Ilyas" "Immeghar" "Immel" "Irgen" "Is'mail" 
+	"Isalcas" "Ishaq" "Isli" "Issam" "It'ij" "Itber" "Itri" "Ixfensen" "Ixzi" "Izri" 
+	"Jaffar" "Jamal" "Kadidu" "Kamal" "Karidenna" "Kawsen" "Kenan" "Keraja" "Khalid" "Khanchla" 
 	"Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" "Lewnis" "Luki" "Madidu" "Magsen" "Mahtar" 
 	"Malik" "Marwan" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" "Massinissa" "Massiva" "Massnsen" 
 	"Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Mazigh" "Medjan" "Mellal" "Mennad" "Menzu" 
@@ -59,7 +59,7 @@ leader_names = {
 	"Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" "Yuva" "Z'effun" "Zafir" "Zalelsan" 
 	"Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
 monarch_names = {
-	"Kamal #0" = 28
+	"Azim #1" = 28
 	"Abakada #0" = 0
 	"Abazza #0" = 0
 	"Abbas #0" = 0
@@ -144,7 +144,6 @@ monarch_names = {
 	"Az'ar #0" = 0
 	"Az'regh #0" = 0
 	"Azenkwed #0" = 0
-	"Azim #0" = 0
 	"Azrur #0" = 0
 	"Badda #0" = 0
 	"Badis #0" = 0
@@ -213,6 +212,7 @@ monarch_names = {
 	"Jaffar #0" = 0
 	"Jamal #0" = 0
 	"Kadidu #0" = 0
+	"Kamal #0" = 0
 	"Karidenna #0" = 0
 	"Kawsen #0" = 0
 	"Kenan #0" = 0

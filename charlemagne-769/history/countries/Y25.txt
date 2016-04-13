@@ -1,18 +1,18 @@
-# Alania
+# Rostov
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = alan
-religion = tengri_pagan_reformed
-capital = 2197
-1395.1.1 = {
+primary_culture = mordvin
+religion = animism
+capital = 308
+1408.1.1 = {
 	monarch = {
-		name = "Buriberdi"
-		dynasty = "Zmbalani"
-		adm = 3
-		dip = 1
-		mil = 2
+		name = "Kardaz"
+		dynasty = "Kardazid"
+		adm = 2
+		dip = 0
+		mil = 3
 	}
 }
 1444.11.11 = {

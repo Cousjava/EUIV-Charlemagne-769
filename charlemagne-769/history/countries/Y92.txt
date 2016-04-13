@@ -1,21 +1,21 @@
-# Rashtrakuta
+# Vemulavada Chalukya
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = marathi
+technology_group = western
+primary_culture = kannada
 religion = hinduism
-capital = 526
-1355.1.1 = {
+capital = 542
+1405.1.1 = {
 	monarch = {
-		name = "Nandaraja"
-		dynasty = "Rashtrakuta"
-		adm = 0
-		dip = 3
+		name = "Vinayaditya Yuddhamalla"
+		dynasty = "Vemulavada Chalukya"
+		adm = 2
+		dip = 2
 		mil = 4
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 23
 }

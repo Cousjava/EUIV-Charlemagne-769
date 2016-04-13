@@ -34,8 +34,8 @@ historical_units = {
 
 leader_names = {
 
-	"Berdic" "Guihomarch" "Salomon" "Gradlon" "Urbien" "Deniel" "Raulhon" "Agatha" "Iehan" "Alan" 
-	"Iudicael" "Hoël" "Teudric" "Teudur" "Budic" "Emyric" "Guérech" "Iehan Riotham" "Aldrien" "Adoyre" 
+	"Guihomarch" "Berdic" "Urbien" "Gradlon" "Salomon" "Aldrien" "Iehan Riotham" "Budic" "Guérech" "Emyric" 
+	"Hoël" "Teudur" "Teudric" "Alan" "Iudicael" "Iehan" "Deniel" "Raulhon" "Agatha" "Adoyre" 
 	"Adrien" "Aedan" "Agustin" "Alar" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" 
 	"Anaugen" "Anauguethen" "Anauguoret" "Anauhocar" "Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" 
 	"Arthel" "Arthguiu" "Arthmael" "Arthueu" "Arthuiu" "Arthur" "Austol" "Baldoen" "Bastian" "Beli" 
@@ -77,25 +77,25 @@ leader_names = {
 	"Tibault" "Tiernan" "Tiernmael" "Tiernoc" "Tiernualloc" "Tiernuallon" "Treveur" "Tristan" "Tuduallon" "Tudur" 
 	"Tugdual" "Ungust" "Urbcen" "Urblon" "Urvod" "Uther" "Vincenne" }
 monarch_names = {
-	"Berdic #0" = 42
 	"Guihomarch #0" = 42
-	"Salomon #0" = 128
-	"Gradlon #0" = 42
+	"Berdic #0" = 42
 	"Urbien #0" = 42
+	"Gradlon #0" = 42
+	"Salomon #0" = 128
+	"Aldrien #0" = 42
+	"Iehan Riotham #0" = 42
+	"Budic #0" = 170
+	"Guérech #0" = 85
+	"Emyric #0" = 42
+	"Hoël #0" = 128
+	"Teudur #0" = 42
+	"Teudric #0" = 42
+	"Alan #0" = 85
+	"Iudicael #0" = 42
+	"Iehan #0" = 42
 	"Deniel #0" = 85
 	"Raulhon #0" = 42
 	"Agatha #0" = -43
-	"Iehan #0" = 42
-	"Alan #0" = 85
-	"Iudicael #0" = 42
-	"Hoël #0" = 128
-	"Teudric #0" = 42
-	"Teudur #0" = 42
-	"Budic #0" = 170
-	"Emyric #0" = 42
-	"Guérech #0" = 85
-	"Iehan Riotham #0" = 42
-	"Aldrien #0" = 42
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0

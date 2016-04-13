@@ -33,9 +33,9 @@ historical_units = {
 
 leader_names = {
 
-	"Liutfrid" "Ruadbert" "Regarde" "Hnabi" "Erbio" "Tassilo" "Theodo" "Imma" "Lantfrid" "Uta" 
-	"Odilo" "Guntrud" "Theodorata" "Theobald" "Suanachildis" "Huoching" "Hugbert" "Grimoald" "Theodbert" "Gotfrid" 
-	"Lantpert" "Garibald" "Ramhilde" "Theodelinda" "Grifo" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" 
+	"Imma" "Theodo" "Tassilo" "Erbio" "Regarde" "Hnabi" "Ruadbert" "Liutfrid" "Garibald" "Theodelinda" 
+	"Ramhilde" "Lantpert" "Gotfrid" "Theodbert" "Theobald" "Grimoald" "Lantfrid" "Hugbert" "Huoching" "Suanachildis" 
+	"Guntrud" "Theodorata" "Odilo" "Uta" "Grifo" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" 
 	"Adolf" "Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" 
 	"Arnold" "Arnulf" "Augustin" "Baldarich" "Baldewin" "Baldomar" "Baldur" "Berengar" "Bernhard" "Berthold" 
 	"Burchard" "Christopher" "Dieter" "Dietmar" "Dietpold" "Dietrich" "Dietwin" "Eberhard" "Eginolf" "Ehrenfried" 
@@ -50,30 +50,30 @@ leader_names = {
 	"Sigismund" "Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Ulrich" "Viktor" "Waldemar" 
 	"Walram" "Walther" "Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wilhelm" "Wolfgang" "Wolfram" }
 monarch_names = {
-	"Liutfrid #0" = 17
-	"Ruadbert #0" = 17
+	"Imma #0" = -18
+	"Theodo #2" = 51
+	"Tassilo #3" = 51
+	"Erbio #0" = 17
 	"Regarde #0" = -18
 	"Hnabi #0" = 17
-	"Erbio #0" = 17
-	"Tassilo #3" = 51
-	"Theodo #2" = 51
-	"Imma #0" = -18
+	"Ruadbert #0" = 17
+	"Liutfrid #0" = 17
+	"Garibald #2" = 34
+	"Theodelinda #0" = -18
+	"Ramhilde #0" = -18
+	"Lantpert #1" = 17
+	"Gotfrid #0" = 17
+	"Theodbert #1" = 17
+	"Theobald #1" = 34
+	"Grimoald #1" = 17
 	"Lantfrid #0" = 34
-	"Uta #0" = -18
-	"Odilo #1" = 17
+	"Hugbert #1" = 17
+	"Huoching #0" = 17
+	"Suanachildis #0" = -18
 	"Guntrud #0" = -18
 	"Theodorata #0" = -18
-	"Theobald #1" = 34
-	"Suanachildis #0" = -18
-	"Huoching #0" = 17
-	"Hugbert #1" = 17
-	"Grimoald #1" = 17
-	"Theodbert #1" = 17
-	"Gotfrid #0" = 17
-	"Lantpert #1" = 17
-	"Garibald #2" = 34
-	"Ramhilde #0" = -18
-	"Theodelinda #0" = -18
+	"Odilo #1" = 17
+	"Uta #0" = -18
 	"Grifo #1" = 0
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0

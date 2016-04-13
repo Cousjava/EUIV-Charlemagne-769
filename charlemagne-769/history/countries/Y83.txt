@@ -1,17 +1,29 @@
-# Araouane
+# Taghaza
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = animism
+religion = shamanism
 capital = 1128
-1425.1.1 = {
+1393.1.1 = {
 	monarch = {
-		name = "Gulusa"
-		dynasty = "Masuna"
+		name = "Akateiaji"
+		dynasty = "Cabaonid"
 		adm = 3
 		dip = 2
+		mil = 5
+	}
+}
+1423.1.1 = {
+	heir = {
+		name = "Lacumaces"
+		monarch_name = "Lacumaces"
+		dynasty = "Cabaonid"
+		birth_date = 1423.1.1
+		death_date = 1503.1.1
+		adm = 2
+		dip = 1
 		mil = 3
 	}
 }

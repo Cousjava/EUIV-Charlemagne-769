@@ -1,21 +1,21 @@
-# Gahirawar
+# Yadava
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = avadhi
 religion = hinduism
-capital = 559
+capital = 524
 1410.1.1 = {
 	monarch = {
-		name = "Jayasimha"
-		dynasty = "Gahirawar"
-		adm = 2
-		dip = 1
-		mil = 2
+		name = "Kamal"
+		dynasty = "Yadava"
+		adm = 1
+		dip = 3
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 15
+	add_prestige = 5
 }

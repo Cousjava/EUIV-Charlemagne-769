@@ -1,21 +1,21 @@
-# Karvuna
-government = feudal_monarchy
+# Cieszyn
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = bolghar
-religion = tengri_pagan_reformed
-capital = 159
-1425.1.2 = {
+technology_group = muslim
+primary_culture = polish
+religion = animism
+capital = 263
+1408.1.1 = {
 	monarch = {
-		name = "Krum"
-		dynasty = "Dulo"
-		adm = 5
+		name = "Milzas"
+		dynasty = "of the Golensizi"
+		adm = 1
 		dip = 3
-		mil = 6
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 7
-	add_prestige = 82
+	add_treasury = 4
+	add_prestige = 3
 }

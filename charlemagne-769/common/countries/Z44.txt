@@ -1,30 +1,27 @@
-# Upper Burgundy
-graphical_culture = westerngfx
-color = { 159 20 58 }
+# Umayyad
+graphical_culture = muslimgfx
+color = { 31 138 40 }
 historical_idea_groups = {
-	defensive_ideas
-	administrative_ideas
-	trade_ideas
-	exploration_ideas
 	religious_ideas
-	diplomatic_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
 	economic_ideas
-	innovativeness_ideas
 	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
 }
 
 historical_units = {
-	halberd_infantry
+	western_medieval_infantry
 	western_medieval_knights
 	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	french_caracolle
-	anglofrench_line
-	french_dragoon
-	french_bluecoat
-	french_cuirassier
-	french_impulse
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square
@@ -35,244 +32,116 @@ historical_units = {
 
 leader_names = {
 
-	"Hugh" "Petronilla" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" 
-	"Agilbert" "Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" 
-	"Arnulf" "Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" 
-	"Barnard" "Berald" "Bernard" "Berneri" "Bero" "Berold" "Berthefried" "Bertlin" "Bertram" "Bertrand" 
-	"Burchard" "Karloman" "Ceslin" "Chararic" "Charibert" "Childebert" "Childeric" "Chilperic" "Chlodomer" "Chlothar" 
-	"Chramnesind" "Clodio" "Clodion" "Clovis" "Creat" "Dagaric" "Dagobert" "Drogo" "Eberulf" "Ebregisel" 
-	"Engilbert" "Euric" "Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" "Frobert" "Frotari" 
-	"Frothard" "Frothari" "Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" "Gaucelm" "Gaudulf" 
-	"Gaujoin" "Gausbert" "Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" "Gerbert" "Gerhard" 
-	"Gerold" "Gislari" "Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" "Guadulf" "Gualtari" 
-	"Gualter" "Guillabert" "Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" "Hildebald" "Hildebold" 
-	"Hildegaud" "Hildevold" "Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" "Karl" "Lambert" 
-	"Lantbert" "Leudast" "Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" "Marell" 
-	"Martin" "Maurifi" "Meginhard" "Merogais" "Merovech" "Munderic" "Niebelung" "Odelric" "Odolric" "Otbert" 
-	"Otgeri" "Otker" "Pepin" "Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" 
-	"Ragnachar" "Ragnald" "Ragno" "Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" 
-	"Rignomer" "Roland" "Robert" "Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" 
-	"Siclevold" "Sigebald" "Sigebert" "Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" 
-	"Tancred" "Tassilo" "Teotbert" "Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" 
-	"Theuderic" "Theudoald" "Theutbald" "Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" 
-	"Wilbert" "Willichar" "Wolfari" }
+	"Abdallah" "al-Qasim" "Abd-al-Rahman" "Hisham" "Umayyah" "Abdul-al-As" "Affan" "al-Hakim" "Abu-Sufyan" "Uthan" 
+	"Muawiyah" "Yazid" "Marwan" "Abu-al-Malik" "Abdul-Aziz" "al-Himar" "al-Walid" "Sulayman" "Umar" "Mu'awiyah" 
+	"Ibrahim" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" 
+	"Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" 
+	"Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Idris" "Is'mail" "Isa" "Jabir" 
+	"Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" 
+	"Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" 
+	"Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Talib" "Ubayd" "Uways" 
+	"Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
 monarch_names = {
-	"Hugh #1" = 42
-	"Petronilla #0" = -22
-	"Abrahil #0" = 0
-	"Abram #0" = 0
-	"Adalbald #0" = 0
-	"Adalbert #0" = 0
-	"Adalgari #0" = 0
-	"Adalgrim #0" = 0
-	"Aegidius #0" = 0
-	"Ageric #0" = 0
-	"Agilbert #0" = 0
-	"Agiulf #0" = 0
-	"Ailbert #0" = 0
-	"Albric #0" = 0
-	"Aldedramn #0" = 0
-	"Andica #0" = 0
-	"Ansovald #0" = 0
-	"Arcambald #0" = 0
-	"Aregisel #0" = 0
-	"Arnegisel #0" = 0
-	"Arnulf #0" = 0
-	"Ascaric #0" = 0
-	"Audovald #0" = 0
-	"Austregisel #0" = 0
-	"Autbert #0" = 0
-	"Autgari #0" = 0
-	"Autgeri #0" = 0
-	"Avremar #0" = 0
-	"Badegisel #0" = 0
-	"Balduin #0" = 0
-	"Barnard #0" = 0
-	"Berald #0" = 0
-	"Bernard #0" = 0
-	"Berneri #0" = 0
-	"Bero #0" = 0
-	"Berold #0" = 0
-	"Berthefried #0" = 0
-	"Bertlin #0" = 0
-	"Bertram #0" = 0
-	"Bertrand #0" = 0
-	"Burchard #0" = 0
-	"Karloman #0" = 0
-	"Ceslin #0" = 0
-	"Chararic #0" = 0
-	"Charibert #0" = 0
-	"Childebert #0" = 0
-	"Childeric #0" = 0
-	"Chilperic #0" = 0
-	"Chlodomer #0" = 0
-	"Chlothar #0" = 0
-	"Chramnesind #0" = 0
-	"Clodio #0" = 0
-	"Clodion #0" = 0
-	"Clovis #0" = 0
-	"Creat #0" = 0
-	"Dagaric #0" = 0
-	"Dagobert #0" = 0
-	"Drogo #0" = 0
-	"Eberulf #0" = 0
-	"Ebregisel #0" = 0
-	"Engilbert #0" = 0
-	"Euric #0" = 0
-	"Everard #0" = 0
-	"Faroard #0" = 0
-	"Faroin #0" = 0
-	"Feremund #0" = 0
-	"Feroard #0" = 0
-	"Foroen #0" = 0
-	"Frobert #0" = 0
-	"Frotari #0" = 0
-	"Frothard #0" = 0
-	"Frothari #0" = 0
-	"Frotlaic #0" = 0
-	"Fulcari #0" = 0
-	"Fulcrad #0" = 0
-	"Galteri #0" = 0
-	"Gararic #0" = 0
-	"Garivald #0" = 0
-	"Gaucelm #0" = 0
-	"Gaudulf #0" = 0
-	"Gaujoin #0" = 0
-	"Gausbert #0" = 0
-	"Gausbold #0" = 0
-	"Gautmar #0" = 0
-	"Gauzbert #0" = 0
-	"Gedalbert #0" = 0
-	"Gedalca #0" = 0
-	"Genobaud #0" = 0
-	"Gerbert #0" = 0
-	"Gerhard #0" = 0
-	"Gerold #0" = 0
-	"Gislari #0" = 0
-	"Gislevert #0" = 0
-	"Gocelm #0" = 0
-	"Godalbert #0" = 0
-	"Godomar #0" = 0
-	"Gozhelm #0" = 0
-	"Grimald #0" = 0
-	"Guadulf #0" = 0
-	"Gualtari #0" = 0
-	"Gualter #0" = 0
-	"Guillabert #0" = 0
-	"Guitard #0" = 0
-	"Gundobad #0" = 0
-	"Gunthar #0" = 0
-	"Guntram #0" = 0
-	"Haldemar #0" = 0
-	"Hartmut #0" = 0
-	"Hildebald #0" = 0
-	"Hildebold #0" = 0
-	"Hildegaud #0" = 0
-	"Hildevold #0" = 0
-	"Hildoin #0" = 0
-	"Hucbert #0" = 0
-	"Hugbert #0" = 0
-	"Imnachar #0" = 0
-	"Ingalbert #0" = 0
-	"Ingomer #0" = 0
-	"Karl #0" = 0
-	"Lambert #0" = 0
-	"Lantbert #0" = 0
-	"Leudast #0" = 0
-	"Lothar #0" = 0
-	"Magnachar #0" = 0
-	"Magneric #0" = 0
-	"Mainard #0" = 0
-	"Mallobaudes #0" = 0
-	"Marachar #0" = 0
-	"Marcomer #0" = 0
-	"Marell #0" = 0
-	"Martin #0" = 0
-	"Maurifi #0" = 0
-	"Meginhard #0" = 0
-	"Merogais #0" = 0
-	"Merovech #0" = 0
-	"Munderic #0" = 0
-	"Niebelung #0" = 0
-	"Odelric #0" = 0
-	"Odolric #0" = 0
-	"Otbert #0" = 0
-	"Otgeri #0" = 0
-	"Otker #0" = 0
-	"Pepin #0" = 0
-	"Pharamond #0" = 0
-	"Pippin #0" = 0
-	"Radulf #0" = 0
-	"Ragambald #0" = 0
-	"Ragena #0" = 0
-	"Ragenard #0" = 0
-	"Raginari #0" = 0
-	"Ragnachar #0" = 0
-	"Ragnald #0" = 0
-	"Ragno #0" = 0
-	"Raimbold #0" = 0
-	"Rainald #0" = 0
-	"Ramnulf #0" = 0
-	"Rathar #0" = 0
-	"Raynold #0" = 0
-	"Reginari #0" = 0
-	"Ricchar #0" = 0
-	"Rignomer #0" = 0
-	"Roland #0" = 0
-	"Robert #0" = 0
-	"Rotbert #0" = 0
-	"Segoin #0" = 0
-	"Seguin #0" = 0
-	"Sicbald #0" = 0
-	"Sichar #0" = 0
-	"Sicland #0" = 0
-	"Sicleard #0" = 0
-	"Siclevold #0" = 0
-	"Sigebald #0" = 0
-	"Sigebert #0" = 0
-	"Sigeric #0" = 0
-	"Sigismund #0" = 0
-	"Sigobert #0" = 0
-	"Sinop #0" = 0
-	"Sunnegisil #0" = 0
-	"Sunno #0" = 0
-	"Tancrad #0" = 0
-	"Tancred #0" = 0
-	"Tassilo #0" = 0
-	"Teotbert #0" = 0
-	"Tetbert #0" = 0
-	"Teutbald #0" = 0
-	"Teutbert #0" = 0
-	"Theoderic #0" = 0
-	"Theoric #0" = 0
-	"Theudebald #0" = 0
-	"Theudemeres #0" = 0
-	"Theuderic #0" = 0
-	"Theudoald #0" = 0
-	"Theutbald #0" = 0
-	"Trutgaud #0" = 0
-	"Vuitard #0" = 0
-	"Vulfari #0" = 0
-	"Vulframn #0" = 0
-	"Vulvari #0" = 0
-	"Waltgaud #0" = 0
-	"Werinbert #0" = 0
-	"Wilbert #0" = 0
-	"Willichar #0" = 0
-	"Wolfari #0" = 0
+	"Abdallah #0" = 9
+	"al-Qasim #0" = 9
+	"Abd-al-Rahman #1" = 19
+	"Hisham #0" = 19
+	"Umayyah #0" = 9
+	"Abdul-al-As #0" = 9
+	"Affan #0" = 9
+	"al-Hakim #0" = 9
+	"Abu-Sufyan #0" = 9
+	"Uthan #0" = 9
+	"Muawiyah #0" = 19
+	"Yazid #0" = 28
+	"Marwan #0" = 19
+	"Abu-al-Malik #0" = 9
+	"Abdul-Aziz #0" = 9
+	"al-Himar #0" = 9
+	"al-Walid #0" = 19
+	"Sulayman #0" = 9
+	"Umar #0" = 9
+	"Mu'awiyah #0" = 9
+	"Ibrahim #0" = 9
+	"Abu-Bakr #0" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Abdul #0" = 0
+	"Abdullah #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Ali #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Hasan #0" = 0
+	"Husam #0" = 0
+	"Hussayn #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mahmud #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Muhammad #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
 }
 ship_names = {
-	Armançon Arroux
-	Bourgogne Brugge
-	Cambrai "Castrum Divionense" Childebert "Childebert II" Chilperic Citeaux Chlothar Cluny Comtesse "Côte-d'Or" 
-	Dijon "Duc de Bourgogne" Duchesse 
-	Gebicca Giselher Godegisel Godomar Gunderic Gundobad Gundomar "Gundomar II" Gunther Guntram
-	"Jean sans Peur"
-	"Marie de Bourgogne"
-	"Philippe le Bon" "Philippe le Hardi"
-	"Richard de Bourgogne"
-	Saône Sigismund
-	Theudebert "Theuderic II"
-	Vézelay
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
 }
 

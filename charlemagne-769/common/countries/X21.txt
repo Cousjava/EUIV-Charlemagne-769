@@ -1,61 +1,76 @@
-# Mlechchha
+# Madra
 graphical_culture = indiangfx
-color = { 6 127 80 }
+color = { 180 110 41 }
 
 
 
 
 leader_names = {
 
-	"Balavarman" "Salambha" "Harshadeva" "Vajradeva" "Kumarastambha" "Palakastambha" "Vijayasthamba" "Salasthamba" "Pushyavarman" "Samudravarman" 
-	"Kalyanavarman" "Ganapativarman" "Mahendravarman" "Narayanavarman" "Bhutivarman" "Chandramukhavarman" "Sthitavarman" "Susthitavarman" "Supratisthitavarman" "Bhaskaravarman" 
-	"Bhaskarvarman" "Bhattamahabahu" "Birapala" "Brahmapala" "Dharmapala" "Gopala" "Harjjaravarman" "Harshapala" "Harshavarman" "Indrapala" 
-	"Jayamala" "Jayapala" "Kumarapala" "Pralambha" "Purandelapala" "Ratnadhwajpala" "Ratnapala" "Timgyadeva" "Tyagasimha" "Ummoka" 
-	"Vanamalavarmadeva" "Vigrahastambha" "Vijaya" "Virabahu" }
+	"Sher" "Ajit" "Amar" "Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" 
+	"Bhaimani" "Budh" "Chand" "Charat" "Damodar" "Dasu" "Datu" "Dayaram" "Didar" "Farid" 
+	"Fateh" "Gobind" "Gurdita" "Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" 
+	"Kalyan" "Kapur" "Kehar" "Kharak" "Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" 
+	"Mohri" "Nanak" "Narayan" "Nodha" "Partap" "Pheru" "Prithichand" "Prithvi" "Ram Rai" "Ranjit" 
+	"Ranjor" "Sahdev" "Shamsher" "Srichand" "Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" }
 monarch_names = {
-	"Balavarman #2" = 5
-	"Salambha #0" = 5
-	"Harshadeva #1" = 5
-	"Vajradeva #1" = 5
-	"Kumarastambha #1" = 5
-	"Palakastambha #1" = 5
-	"Vijayasthamba #1" = 5
-	"Salasthamba #1" = 5
-	"Pushyavarman #1" = 0
-	"Samudravarman #1" = 0
-	"Kalyanavarman #1" = 0
-	"Ganapativarman #1" = 0
-	"Mahendravarman #1" = 0
-	"Narayanavarman #1" = 0
-	"Bhutivarman #1" = 0
-	"Chandramukhavarman #1" = 0
-	"Sthitavarman #1" = 0
-	"Susthitavarman #1" = 0
-	"Supratisthitavarman #1" = 0
-	"Bhaskaravarman #1" = 0
-	"Bhaskarvarman #0" = 0
-	"Bhattamahabahu #0" = 0
-	"Birapala #0" = 0
-	"Brahmapala #0" = 0
-	"Dharmapala #0" = 0
-	"Gopala #0" = 0
-	"Harjjaravarman #0" = 0
-	"Harshapala #0" = 0
-	"Harshavarman #0" = 0
-	"Indrapala #0" = 0
-	"Jayamala #0" = 0
-	"Jayapala #0" = 0
-	"Kumarapala #0" = 0
-	"Pralambha #0" = 0
-	"Purandelapala #0" = 0
-	"Ratnadhwajpala #0" = 0
-	"Ratnapala #0" = 0
-	"Timgyadeva #0" = 0
-	"Tyagasimha #0" = 0
-	"Ummoka #0" = 0
-	"Vanamalavarmadeva #0" = 0
-	"Vigrahastambha #0" = 0
-	"Vijaya #0" = 0
-	"Virabahu #0" = 0
+	"Sher #1" = 6
+	"Ajit #0" = 0
+	"Amar #0" = 0
+	"Amar Dasi #0" = 0
+	"Amir #0" = 0
+	"Angad #0" = 0
+	"Arjun #0" = 0
+	"Atar #0" = 0
+	"Basawa #0" = 0
+	"Bhagwant #0" = 0
+	"Bhaimani #0" = 0
+	"Budh #0" = 0
+	"Chand #0" = 0
+	"Charat #0" = 0
+	"Damodar #0" = 0
+	"Dasu #0" = 0
+	"Datu #0" = 0
+	"Dayaram #0" = 0
+	"Didar #0" = 0
+	"Farid #0" = 0
+	"Fateh #0" = 0
+	"Gobind #0" = 0
+	"Gurdita #0" = 0
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Har Krishan #0" = 0
+	"Har Rai #0" = 0
+	"Jai Ram #0" = 0
+	"Jetha #0" = 0
+	"Jujhar #0" = 0
+	"Kalyan #0" = 0
+	"Kapur #0" = 0
+	"Kehar #0" = 0
+	"Kharak #0" = 0
+	"Khushal #0" = 0
+	"Lahna #0" = 0
+	"Lakhmichand #0" = 0
+	"Laxman #0" = 0
+	"Mahadev #0" = 0
+	"Mohan #0" = 0
+	"Mohri #0" = 0
+	"Nanak #0" = 0
+	"Narayan #0" = 0
+	"Nodha #0" = 0
+	"Partap #0" = 0
+	"Pheru #0" = 0
+	"Prithichand #0" = 0
+	"Prithvi #0" = 0
+	"Ram Rai #0" = 0
+	"Ranjit #0" = 0
+	"Ranjor #0" = 0
+	"Sahdev #0" = 0
+	"Shamsher #0" = 0
+	"Srichand #0" = 0
+	"Tegh Bahadur #0" = 0
+	"Tej Bhan #0" = 0
+	"Thakur #0" = 0
+	"Zorawar #0" = 0
 }
 

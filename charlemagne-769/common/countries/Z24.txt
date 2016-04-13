@@ -33,9 +33,9 @@ historical_units = {
 
 leader_names = {
 
-	"Telurg" "Ciniod" "Elpin" "Tarla" "Canuall" "Uthoil" "Brude" "Uuirp" "Aniel" "Ceother" 
-	"Ganant" "Uuredach" "Canutulachama" "Uipoig" "Breth" "Buthut" "Ru" "Argentocoxos" "Uuroid" "Galam" 
-	"Lutrin" "Drosten" "Mor" "Drest" "Caltram" "Murtolic" "Manath" "Uudrost" "Girom" "Naiton" 
+	"Telurg" "Uthoil" "Canuall" "Tarla" "Elpin" "Ciniod" "Argentocoxos" "Ru" "Buthut" "Ganant" 
+	"Breth" "Uipoig" "Canutulachama" "Uuredach" "Ceother" "Aniel" "Uuirp" "Brude" "Drest" "Naiton" 
+	"Girom" "Uudrost" "Galam" "Manath" "Murtolic" "Caltram" "Mor" "Drosten" "Lutrin" "Uuroid" 
 	"Bridei" "Telurgan" "Taran" "Unuist" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allcallorred" "Allisander" 
 	"Ardle" "Auust" "Bili" "Bran" "Briog" "Broichan" "Canu" "Canan" "Caradaig" "Caruorst" 
 	"Castant" "Castantin" "Crup" "Dabuut" "Deocillimon" "Deoord" "Domelch" "Eddarrnonn" "Enuidaig" "Erpin" 
@@ -44,35 +44,35 @@ leader_names = {
 	"Rudri" "Uist" "Uuochu" "Uoret" "Unen" "Urguist" "Usuullt" "Uuen" "Uuid" }
 monarch_names = {
 	"Telurg #4" = 49
-	"Ciniod #2" = 9
-	"Elpin #1" = 9
-	"Tarla #0" = 9
-	"Canuall #0" = 9
 	"Uthoil #0" = 9
-	"Brude #0" = 9
-	"Uuirp #0" = 9
-	"Aniel #0" = 19
-	"Ceother #0" = 9
-	"Ganant #6" = 29
-	"Uuredach #1" = 19
-	"Canutulachama #1" = 9
-	"Uipoig #1" = 9
-	"Breth #1" = 9
-	"Buthut #1" = 9
-	"Ru #1" = 9
+	"Canuall #0" = 9
+	"Tarla #0" = 9
+	"Elpin #1" = 9
+	"Ciniod #2" = 9
 	"Argentocoxos #1" = 9
-	"Uuroid #0" = 9
-	"Galam #2" = 29
-	"Lutrin #0" = 9
-	"Drosten #0" = 9
-	"Mor #0" = -10
+	"Ru #1" = 9
+	"Buthut #1" = 9
+	"Ganant #6" = 29
+	"Breth #1" = 9
+	"Uipoig #1" = 9
+	"Canutulachama #1" = 9
+	"Uuredach #1" = 19
+	"Ceother #0" = 9
+	"Aniel #0" = 19
+	"Uuirp #0" = 9
+	"Brude #0" = 9
 	"Drest #7" = 49
-	"Caltram #1" = 9
-	"Murtolic #0" = 9
-	"Manath #0" = 9
-	"Uudrost #0" = 9
-	"Girom #0" = 9
 	"Naiton #3" = 9
+	"Girom #0" = 9
+	"Uudrost #0" = 9
+	"Galam #2" = 29
+	"Manath #0" = 9
+	"Murtolic #0" = 9
+	"Caltram #1" = 9
+	"Mor #0" = -10
+	"Drosten #0" = 9
+	"Lutrin #0" = 9
+	"Uuroid #0" = 9
 	"Bridei #5" = 0
 	"Telurgan #2" = 0
 	"Taran #1" = 0

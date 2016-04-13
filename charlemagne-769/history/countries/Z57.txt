@@ -1,18 +1,30 @@
-# Alfheimr
+# Oppland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 16
-1405.1.1 = {
+religion = animism
+capital = 22
+1415.1.1 = {
 	monarch = {
-		name = "Alfr"
-		dynasty = "av Alfheim"
-		adm = 3
+		name = "Öysteinn"
+		dynasty = "Yngling"
+		adm = 0
 		dip = 2
-		mil = 3
+		mil = 1
+	}
+}
+1420.1.1 = {
+	heir = {
+		name = "Guðröðr"
+		monarch_name = "Guðröðr"
+		dynasty = "Yngling"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

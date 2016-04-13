@@ -7,7 +7,7 @@ color = { 120 25 25 }
 
 leader_names = {
 
-	"Theoderic" "Wichimann" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
+	"Wichimann" "Theoderic" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
 	"Aelle" "Albrecht" "Alebrand" "Altfrid" "Ansgar" "Arnd" "Arnold" "Asig" "Balduin" "Balthasar" 
 	"Banzleib" "Beneke" "Benno" "Bernd" "Bernhard" "Bertold" "Bertram" "Boddic" "Brun" "Bruno" 
 	"Burchard" "Cissa" "Claus" "Cobbo" "Cord" "Cyprian" "Dago" "Dedo" "Dethard" "Detleff" 
@@ -24,8 +24,8 @@ leader_names = {
 	"Wichmann" "Wicho" "Widukind" "Wigebert" "Wilbrand" "Willichin" "Withgils" "Witikind" "Witta" "Wlencing" 
 	"Wolter" "Wulff" }
 monarch_names = {
-	"Theoderic #1" = 16
 	"Wichimann #0" = 16
+	"Theoderic #1" = 16
 	"Abo #0" = 0
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0

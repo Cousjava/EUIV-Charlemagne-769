@@ -1,30 +1,30 @@
-# Pallava
+# Pandya
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = tamil
 religion = hinduism
-capital = 543
-1395.1.1 = {
+capital = 536
+1408.1.1 = {
 	monarch = {
-		name = "Nantivarman"
-		dynasty = "Pallava"
-		adm = 1
-		dip = 0
-		mil = 1
+		name = "Parântaka"
+		dynasty = "Pandya"
+		adm = 3
+		dip = 4
+		mil = 3
 	}
 }
-1415.1.1 = {
+1425.1.1 = {
 	heir = {
-		name = "Tantivarman"
-		monarch_name = "Tantivarman"
-		dynasty = "Pallava"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 3
-		dip = 0
-		mil = 1
+		name = "Irâcacimman"
+		monarch_name = "Irâcacimman"
+		dynasty = "Pandya"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {

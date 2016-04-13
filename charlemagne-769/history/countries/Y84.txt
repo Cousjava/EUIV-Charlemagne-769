@@ -1,18 +1,18 @@
-# Sijilmasa
-government = iqta
+# Araouane
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = ibadi
-capital = 346
-1400.1.1 = {
+religion = shamanism
+capital = 1128
+1425.1.1 = {
 	monarch = {
-		name = "Al-Qasim"
-		dynasty = "Midrarid"
-		adm = 2
+		name = "Gulusa"
+		dynasty = "Masuna"
+		adm = 3
 		dip = 2
-		mil = 1
+		mil = 2
 	}
 }
 1444.11.11 = {

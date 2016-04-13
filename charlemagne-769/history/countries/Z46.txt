@@ -1,21 +1,21 @@
-# Saadid
+# Seville
 government = iqta
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 214
-1415.1.1 = {
+capital = 224
+1432.4.26 = {
 	monarch = {
-		name = "Husayn"
-		dynasty = "Saadid"
-		adm = 1
-		dip = 1
-		mil = 0
+		name = "Hisham"
+		dynasty = "Umayyad"
+		adm = 3
+		dip = 2
+		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 121
 }

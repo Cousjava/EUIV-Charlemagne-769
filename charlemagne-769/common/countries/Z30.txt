@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Hywel" "Caradog" "Meirchion" "Rhufon" "Einion" "lfdyfwn" "Cadwal" "Cynlas" "Owain" "Cunedda" 
+	"Hywel" "Caradog" "Owain" "Cynlas" "Einion" "Cadwal" "lfdyfwn" "Rhufon" "Meirchion" "Cunedda" 
 	"Cadwallon" "Maelgwn" "Rhun" "Beli" "Iago" "Cadfan" "Cadwaladr" "Ifwr" "Idwal" "Rhodri" 
 	"Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" 
 	"Anarawd" "Andreas" "Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
@@ -64,13 +64,13 @@ leader_names = {
 monarch_names = {
 	"Hywel #0" = 57
 	"Caradog #1" = 28
-	"Meirchion #0" = 28
-	"Rhufon #0" = 28
-	"Einion #1" = 57
-	"lfdyfwn #0" = 28
-	"Cadwal #0" = 28
-	"Cynlas #0" = 28
 	"Owain #0" = 28
+	"Cynlas #0" = 28
+	"Einion #1" = 57
+	"Cadwal #0" = 28
+	"lfdyfwn #0" = 28
+	"Rhufon #0" = 28
+	"Meirchion #0" = 28
 	"Cunedda #1" = 0
 	"Cadwallon #2" = 0
 	"Maelgwn #1" = 0

@@ -1,21 +1,33 @@
-# Sulamid
+# Abbasid
 government = iqta
-government_rank = 1
+government_rank = 3
 mercantilism = 0.1
 technology_group = western
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 378
-1395.1.1 = {
+capital = 2310
+1389.1.1 = {
 	monarch = {
-		name = "Yazid"
-		dynasty = "Sulamid"
-		adm = 3
+		name = "Al-Mansur"
+		dynasty = "Abbasid"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+1410.1.1 = {
+	heir = {
+		name = "Al-Mahdi"
+		monarch_name = "Al-Mahdi"
+		dynasty = "Abbasid"
+		birth_date = 1410.1.1
+		death_date = 1490.1.1
+		adm = 0
 		dip = 4
-		mil = 2
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 18
+	add_treasury = 14
+	add_prestige = 36
 }

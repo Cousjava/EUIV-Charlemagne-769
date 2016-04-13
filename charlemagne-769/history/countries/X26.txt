@@ -1,33 +1,21 @@
-# Nandin
+# Kalat
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = afghani
 religion = buddhism
-capital = 451
-1386.7.11 = {
+capital = 577
+1416.3.7 = {
 	monarch = {
-		name = "Bo-Fuzun"
-		dynasty = "Nandin"
-		adm = 1
-		dip = 3
-		mil = 2
-	}
-}
-1417.9.25 = {
-	heir = {
-		name = "Naz'aktar"
-		monarch_name = "Naz'aktar"
-		dynasty = "Nandin"
-		birth_date = 1417.9.25
-		death_date = 1497.9.25
+		name = "Nihaal"
+		dynasty = "Kaikanite"
 		adm = 2
-		dip = 6
-		mil = 2
+		dip = 2
+		mil = 1
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 7
+	add_treasury = 4
+	add_prestige = 2
 }

@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Castantin" "Unuist" "Urguist" "Telurg" "Drest" "Bridei" "Telurgan" "Uuirp" "Maelchon" "Ganant" 
+	"Unuist" "Castantin" "Telurg" "Drest" "Urguist" "Telurgan" "Bridei" "Uuirp" "Maelchon" "Ganant" 
 	"Naiton" "Ciniod" "Taran" "Elpin" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allcallorred" "Allisander" 
 	"Aniel" "Ardle" "Auust" "Bili" "Bran" "Breth" "Briog" "Broichan" "Brude" "Caltram" 
 	"Canu" "Canuall" "Canan" "Caradaig" "Caruorst" "Castant" "Crup" "Dabuut" "Deocillimon" "Deoord" 
@@ -43,13 +43,13 @@ leader_names = {
 	"Rudri" "Tarla" "Uipoig" "Uist" "Uuochu" "Uoret" "Unen" "Usuullt" "Uthoil" "Uudrost" 
 	"Uuen" "Uuid" "Uuredach" "Uuroid" }
 monarch_names = {
-	"Castantin #0" = 9
 	"Unuist #1" = 18
-	"Urguist #1" = 18
+	"Castantin #0" = 9
 	"Telurg #1" = 18
 	"Drest #2" = 9
-	"Bridei #5" = 9
+	"Urguist #1" = 18
 	"Telurgan #2" = 9
+	"Bridei #5" = 9
 	"Uuirp #1" = 0
 	"Maelchon #1" = 0
 	"Ganant #3" = 0

@@ -1,21 +1,33 @@
-# Kirghiz
-government = tribal_despotism
+# Chawda
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = kirgiz
-religion = manichean
-capital = 2433
-1407.4.15 = {
+technology_group = western
+primary_culture = gujarati
+religion = jain
+capital = 521
+1395.1.1 = {
 	monarch = {
-		name = "Seitek"
-		dynasty = "Tiele"
-		adm = 3
+		name = "Vanaraja"
+		dynasty = "Chawda"
+		adm = 2
 		dip = 4
+		mil = 0
+	}
+}
+1435.1.1 = {
+	heir = {
+		name = "Yogaraja"
+		monarch_name = "Yogaraja"
+		dynasty = "Chawda"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 3
 		mil = 3
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

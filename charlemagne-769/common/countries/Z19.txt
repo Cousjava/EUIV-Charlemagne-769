@@ -35,10 +35,10 @@ historical_units = {
 
 leader_names = {
 
-	"Ecgberht" "Ealhmund" "Cyneheard" "Cynewulf" "Beorhtric" "Eafa" "Eoppa" "Sigeberht" "Cynric" "Cuthred" 
-	"Æthelheard" "Beorhtwulf" "Ine" "Æthelred" "Ingild" "Sigeheard" "Cædwalla" "Mul" "Centwine" "Coenred" 
-	"Æscwine" "Coenheard" "Ceolwald" "Cenfus" "Coenberht" "Coenferth" "Cutha" "Cynewald" "Cedda" "Coenwalh" 
-	"Cuthgils" "Cynegils" "Cwichelm" "Ceolwulf" "Ceol" "Cuthwine" "Ceawlin" "Cerdic" "Creoda" "Arncytel" 
+	"Ecgberht" "Beorhtric" "Cynewulf" "Cyneheard" "Ealhmund" "Creoda" "Cerdic" "Cynric" "Cuthred" "Cutha" 
+	"Ceawlin" "Cuthwine" "Ceol" "Ceolwulf" "Cwichelm" "Cynegils" "Cuthgils" "Coenwalh" "Æthelheard" "Cedda" 
+	"Sigeberht" "Cynewald" "Coenferth" "Coenberht" "Cenfus" "Ceolwald" "Æscwine" "Coenred" "Coenheard" "Centwine" 
+	"Mul" "Cædwalla" "Sigeheard" "Ingild" "Æthelred" "Ine" "Beorhtwulf" "Eoppa" "Eafa" "Arncytel" 
 	"Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" 
 	"Burgheard" "Byrhtnoth" "Cearl" "Cenræd" "Cenwulf" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cytelbearn" 
 	"Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" "Eadweald" 
@@ -56,44 +56,44 @@ leader_names = {
 	"Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
 	"Ecgberht #0" = 20
-	"Ealhmund #0" = 20
-	"Cyneheard #0" = 40
-	"Cynewulf #1" = 40
 	"Beorhtric #0" = 40
-	"Eafa #0" = 20
-	"Eoppa #0" = 20
-	"Sigeberht #0" = 40
+	"Cynewulf #1" = 40
+	"Cyneheard #0" = 40
+	"Ealhmund #0" = 20
+	"Creoda #0" = 20
+	"Cerdic #0" = 20
 	"Cynric #0" = 80
 	"Cuthred #0" = 60
-	"Æthelheard #0" = 40
-	"Beorhtwulf #0" = 20
-	"Ine #0" = 20
-	"Æthelred #0" = 20
-	"Ingild #0" = 20
-	"Sigeheard #0" = 20
-	"Cædwalla #0" = 20
-	"Mul #0" = 20
-	"Centwine #0" = 20
-	"Coenred #0" = 20
-	"Æscwine #0" = 20
-	"Coenheard #0" = 20
-	"Ceolwald #0" = 20
-	"Cenfus #0" = 20
-	"Coenberht #0" = 20
-	"Coenferth #0" = 20
 	"Cutha #0" = 40
-	"Cynewald #0" = 20
-	"Cedda #0" = 20
-	"Coenwalh #0" = 20
-	"Cuthgils #0" = 20
-	"Cynegils #0" = 20
-	"Cwichelm #0" = 20
-	"Ceolwulf #0" = 20
-	"Ceol #0" = 20
-	"Cuthwine #0" = 20
 	"Ceawlin #0" = 20
-	"Cerdic #0" = 20
-	"Creoda #0" = 20
+	"Cuthwine #0" = 20
+	"Ceol #0" = 20
+	"Ceolwulf #0" = 20
+	"Cwichelm #0" = 20
+	"Cynegils #0" = 20
+	"Cuthgils #0" = 20
+	"Coenwalh #0" = 20
+	"Æthelheard #0" = 40
+	"Cedda #0" = 20
+	"Sigeberht #0" = 40
+	"Cynewald #0" = 20
+	"Coenferth #0" = 20
+	"Coenberht #0" = 20
+	"Cenfus #0" = 20
+	"Ceolwald #0" = 20
+	"Æscwine #0" = 20
+	"Coenred #0" = 20
+	"Coenheard #0" = 20
+	"Centwine #0" = 20
+	"Mul #0" = 20
+	"Cædwalla #0" = 20
+	"Sigeheard #0" = 20
+	"Ingild #0" = 20
+	"Æthelred #0" = 20
+	"Ine #0" = 20
+	"Beorhtwulf #0" = 20
+	"Eoppa #0" = 20
+	"Eafa #0" = 20
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0

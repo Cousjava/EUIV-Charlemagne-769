@@ -1,33 +1,21 @@
-# Middle Francia
+# Alemannia
 government = feudal_monarchy
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = frankish
+primary_culture = german
 religion = catholic
-capital = 186
-1426.1.1 = {
+capital = 73
+1395.1.1 = {
 	monarch = {
-		name = "Karloman"
-		dynasty = "Karling"
-		adm = 0
-		dip = 2
-		mil = 2
-	}
-}
-1443.11.4 = {
-	heir = {
-		name = "Pepin"
-		monarch_name = "Pepin"
-		dynasty = "Karling"
-		birth_date = 1443.11.4
-		death_date = 1523.11.4
-		adm = 4
+		name = "Hnabi"
+		dynasty = "Agilolfing"
+		adm = 2
 		dip = 4
 		mil = 4
 	}
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 25
+	add_treasury = 6
+	add_prestige = 61
 }

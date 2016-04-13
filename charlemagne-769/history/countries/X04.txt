@@ -1,21 +1,33 @@
-# Altay
-government = tribal_despotism
-government_rank = 1
+# Uyghur
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
+technology_group = nomad_group
 primary_culture = uyghur
 religion = manichean
-capital = 714
-1416.8.1 = {
+capital = 2190
+1420.1.1 = {
 	monarch = {
-		name = "Kozel"
-		dynasty = "Akhun"
+		name = "Tengri Bögü"
+		dynasty = "Yaghlakar"
 		adm = 2
 		dip = 4
-		mil = 2
+		mil = 1
+	}
+}
+1440.1.1 = {
+	heir = {
+		name = "Bönek"
+		monarch_name = "Bönek"
+		dynasty = "Yaghlakar"
+		birth_date = 1440.1.1
+		death_date = 1520.1.1
+		adm = 3
+		dip = 3
+		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 6
+	add_treasury = 10
+	add_prestige = 22
 }

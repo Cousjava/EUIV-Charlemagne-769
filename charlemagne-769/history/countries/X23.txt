@@ -1,33 +1,33 @@
-# Sravasti
+# Vidisa
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = avadhi
 religion = hinduism
-capital = 2055
-1395.1.1 = {
+capital = 740
+1415.1.1 = {
 	monarch = {
-		name = "Jayaditya"
-		dynasty = "Malayaketu"
-		adm = 3
+		name = "Jejja"
+		dynasty = "Rashtrakuta"
+		adm = 6
 		dip = 3
-		mil = 6
+		mil = 3
 	}
 }
-1435.1.1 = {
+1444.1.1 = {
 	heir = {
-		name = "Jayaditya"
-		monarch_name = "Jayaditya"
-		dynasty = "Malayaketu"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 2
+		name = "Karkaraja"
+		monarch_name = "Karkaraja"
+		dynasty = "Rashtrakuta"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
 		dip = 4
-		mil = 3
+		mil = 4
 	}
 }
 1444.11.11 = {
 	add_treasury = 4
-	add_prestige = 3
+	add_prestige = 4
 }

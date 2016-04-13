@@ -1,15 +1,15 @@
-# Mochkava
+# Meshchera
 graphical_culture = easterngfx
-color = { 207 222 123 }
+color = { 110 115 45 }
 historical_idea_groups = {
 	defensive_ideas
 	trade_ideas
 	offensive_ideas
-	naval_ideas
 	spy_ideas
-	economic_ideas
-	religious_ideas
+	naval_ideas
+	administrative_ideas
 	quality_ideas
+	diplomatic_ideas
 }
 
 historical_units = {
@@ -35,15 +35,15 @@ historical_units = {
 
 leader_names = {
 
-	"Inzhay" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Deryab" "Dobrinya" "Erziya" "Kezhapa" "Kezhay" 
-	"Kezhedey" "Kezhevat" "Kichay" "Kubrat" "Malyaka" "Malyy" "Meltsayka" "Mordvinko" "Moksha" "Nalka" 
-	"Nuyaksha" "Nuyanza" "Nuyat" "Ovtay" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" "Pokshayka" 
+	"Parush" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Deryab" "Dobrinya" "Erziya" "Inzhay" "Kezhapa" 
+	"Kezhay" "Kezhedey" "Kezhevat" "Kichay" "Kubrat" "Malyaka" "Malyy" "Meltsayka" "Mordvinko" "Moksha" 
+	"Nalka" "Nuyaksha" "Nuyanza" "Nuyat" "Ovtay" "Pakstyan" "Paksyay" "Paksyut" "Pivtsay" "Pokshayka" 
 	"Putyayka" "Setyamka" "Shindyay" "Shoksha" "Syrka" "Tikshayka" "Tyueykezhut" "Uchva" "Varaka" "Vechkas" 
 	"Velmayka" "Virdyan" "Viryas" "Viryay" "Atyamas" "Azyren" "Chipaz" "Kardaz" "Kinyak" "Koshel" 
 	"Murunza" "Naruchad" "Nishkepaz" "Orunza" "Puresh" "Purysho" "Saksa" "Shkay" "Surt" "Tul" 
 	"Tunya" "Tutyra" "Tylmache" "Tylze" "Tyushten" "Tyushtya" "Uzhara" "Varmanpaz" }
 monarch_names = {
-	"Inzhay #1" = 7
+	"Parush #1" = 7
 	"Andyamo #0" = 0
 	"Chichayka #0" = 0
 	"Chumbulat #0" = 0
@@ -51,6 +51,7 @@ monarch_names = {
 	"Deryab #0" = 0
 	"Dobrinya #0" = 0
 	"Erziya #0" = 0
+	"Inzhay #0" = 0
 	"Kezhapa #0" = 0
 	"Kezhay #0" = 0
 	"Kezhedey #0" = 0
@@ -70,7 +71,6 @@ monarch_names = {
 	"Pakstyan #0" = 0
 	"Paksyay #0" = 0
 	"Paksyut #0" = 0
-	"Parush #0" = 0
 	"Pivtsay #0" = 0
 	"Pokshayka #0" = 0
 	"Putyayka #0" = 0
@@ -113,9 +113,16 @@ monarch_names = {
 	"Varmanpaz #0" = 0
 }
 ship_names = {
-	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"
-	Rurik "Ivan Kalita" Moscha Volga Schorna Coluna
-	Cortiza Mosnisk Olescho Piersek Troitzkoy Wolok
-	Klin Iausa
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
 }
 

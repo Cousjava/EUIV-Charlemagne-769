@@ -1,33 +1,21 @@
-# Tomara
+# Maldives
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = rajput
-religion = hinduism
-capital = 522
-1380.1.1 = {
+technology_group = western
+primary_culture = sinhala
+religion = buddhism
+capital = 1248
+1435.1.1 = {
 	monarch = {
-		name = "Vasudev"
-		dynasty = "Tomara"
-		adm = 2
-		dip = 2
+		name = "Aditya"
+		dynasty = "Adityavansha"
+		adm = 3
+		dip = 3
 		mil = 3
 	}
 }
-1410.1.1 = {
-	heir = {
-		name = "Gangeya"
-		monarch_name = "Gangeya"
-		dynasty = "Tomara"
-		birth_date = 1410.1.1
-		death_date = 1490.1.1
-		adm = 4
-		dip = 0
-		mil = 4
-	}
-}
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 7
+	add_treasury = 4
+	add_prestige = 2
 }

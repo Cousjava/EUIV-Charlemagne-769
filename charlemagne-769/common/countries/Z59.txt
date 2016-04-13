@@ -1,6 +1,6 @@
-# Hordaland
+# Nidaros
 graphical_culture = westerngfx
-color = { 60 157 209 }
+color = { 20 155 255 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,12 +34,12 @@ historical_units = {
 
 leader_names = {
 
-	"Hrafn" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
+	"Grimr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
 	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
 	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
 	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
-	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" 
-	"Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" 
+	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Guðfrið" "Guðmundr" 
+	"Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" "Hrafn" 
 	"Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingemar" 
 	"Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" 
 	"Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" "Ormr" 
@@ -49,7 +49,7 @@ leader_names = {
 	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
 	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Hrafn #0" = 14
+	"Grimr #0" = 14
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -97,7 +97,6 @@ monarch_names = {
 	"Gnupa #0" = 0
 	"Gorm #0" = 0
 	"Greger #0" = 0
-	"Grimr #0" = 0
 	"Guðfrið #0" = 0
 	"Guðmundr #0" = 0
 	"Guðröðr #0" = 0
@@ -109,6 +108,7 @@ monarch_names = {
 	"Helgi #0" = 0
 	"Hemming #0" = 0
 	"Holmger #0" = 0
+	"Hrafn #0" = 0
 	"Hrolfr #0" = 0
 	"Hrane #0" = 0
 	"Hæsteinn #0" = 0

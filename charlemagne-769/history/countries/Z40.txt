@@ -1,30 +1,30 @@
-# Léon
+# Kernev
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = breton
 religion = catholic
 capital = 170
 1415.1.1 = {
 	monarch = {
-		name = "Morvan"
-		dynasty = "Leon"
-		adm = 2
-		dip = 1
-		mil = 0
+		name = "Custentin"
+		dynasty = "de Cornouaille"
+		adm = 4
+		dip = 0
+		mil = 2
 	}
 }
-1440.1.1 = {
+1444.1.1 = {
 	heir = {
-		name = "Concar"
-		monarch_name = "Concar"
-		dynasty = "Leon"
-		birth_date = 1440.1.1
-		death_date = 1520.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		name = "Gestin"
+		monarch_name = "Gestin"
+		dynasty = "de Cornouaille"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
 	}
 }
 1444.11.11 = {

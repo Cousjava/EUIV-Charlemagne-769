@@ -1,6 +1,6 @@
-# Rogaland
+# Alfheimr
 graphical_culture = westerngfx
-color = { 10 110 255 }
+color = { 25 175 255 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Geir" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
+	"Alfhildr" "Alfr" "Ale" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
 	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
 	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
 	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
@@ -49,9 +49,9 @@ leader_names = {
 	"Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
 	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Geir #0" = 14
+	"Alfhildr #0" = -15
+	"Alfr #0" = 14
 	"Ale #0" = 0
-	"Alfr #0" = 0
 	"Alfgeir #0" = 0
 	"Anders #0" = 0
 	"Anlaufr #0" = 0

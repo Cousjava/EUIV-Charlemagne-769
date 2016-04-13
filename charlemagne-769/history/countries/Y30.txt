@@ -1,18 +1,30 @@
-# Meshchera
+# Cheremisa
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = mordvin
 religion = animism
-capital = 301
+capital = 1304
 1408.1.1 = {
 	monarch = {
-		name = "Parush"
-		dynasty = "Mescheravid"
-		adm = 1
+		name = "Varaka"
+		dynasty = "Cheremisid"
+		adm = 2
 		dip = 3
-		mil = 4
+		mil = 1
+	}
+}
+1435.1.1 = {
+	heir = {
+		name = "Nuyat"
+		monarch_name = "Nuyat"
+		dynasty = "Cheremisid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {

@@ -32,7 +32,7 @@ historical_units = {
 
 leader_names = {
 
-	"Giovanni" "Maurizio" "Leone" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
+	"Maurizio" "Giovanni" "Leone" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
 	"Abelino" "Achille" "Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" 
 	"Aimone" "Alamanno" "Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" 
 	"Aleardo" "Aleramo" "Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" 
@@ -65,8 +65,8 @@ leader_names = {
 	"Tommaso" "Torgodorio" "Torquato" "Ubaldo" "Uberto" "Ugo" "Ugoccione" "Ugolino" "Umberto" "Urbano" 
 	"Valentino" "Valerio" "Vincentello" "Vincenzo" "Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
-	"Giovanni #0" = 32
 	"Maurizio #1" = 65
+	"Giovanni #0" = 32
 	"Leone #0" = 32
 	"Orso #1" = 0
 	"Teodato #1" = 0

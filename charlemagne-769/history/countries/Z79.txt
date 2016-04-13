@@ -1,21 +1,21 @@
-# Pruthenia
+# Curonia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = old_prussian
+primary_culture = latvian
 religion = animism
-capital = 1841
+capital = 39
 1408.1.1 = {
 	monarch = {
-		name = "Bezprzym"
-		dynasty = "Wilks"
-		adm = 2
-		dip = 0
-		mil = 3
+		name = "Ankad"
+		dynasty = "Penikis"
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

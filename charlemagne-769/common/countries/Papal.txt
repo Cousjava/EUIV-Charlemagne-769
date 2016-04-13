@@ -31,14 +31,14 @@ historical_units = {
 
 leader_names = {
 
-	"Stephen" "Peter" "Linus" "Anacletus" "Clement" "Evaristus" "Alexander" "Sixtus" "Telesphorus" "Hyginus" 
-	"Pius" "Anicetus" "Soter" "Eleutherius" "Victor" "Zephyrinus" "Callixtus" "Urban" "Pontian" "Anterus" 
-	"Fabian" "Cornelius" "Lucius" "Dionysius" "Felix" "Eutychian" "Caius" "Marcellinus" "Marcellus" "Eusebius" 
-	"Miltiades" "Sylvester" "Mark" "Julius" "Liberius" "Damasus" "Siricius" "Anastasius" "Innocent" "Zosimus" 
-	"Boniface" "Celestine" "Leo" "Hilarius" "Simplicius" "Gelasius" "Symmachus" "Hormisadas" "John" "Agapetus" 
-	"Silverius" "Vigilius" "Pelagius" "Benedict" "Gregory" "Sabinian" "Adeodatus" "Honorius" "Severinus" "Theodore" 
-	"Martin" "Eugene" "Vitalian" "Donus" "Agatho" "Conon" "Sergius" "Sisinnius" "Constantine" "Zachary" 
-	"Paul" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" "Adalberto" "Adelfo" "Adelmio" "Adelmo" 
+	"Stephanus" "Petrus" "Linus" "Anacletus" "Clemens" "Evaristus" "Alexander" "Sixtus" "Telesphorus" "Hyginus" 
+	"Pius" "Anicetus" "Soterius" "Eleutherius" "Victor" "Zephyrinus" "Callistus" "Urbanus" "Pontianus" "Anterus" 
+	"Fabianus" "Cornelius" "Lucius" "Dionysius" "Felix" "Eutychianus" "Caius" "Marcellinus" "Marcellus" "Eusebius" 
+	"Miltiades" "Silvester" "Marcus" "Iulius" "Liberius" "Damasus" "Siricius" "Anastasius" "Innocentius" "Zosimus" 
+	"Bonifatius" "Caelestinus" "Leo" "Hilarius" "Simplicius" "Gelasius" "Symmachus" "Hormisdas" "Ioannes" "Agapetus" 
+	"Silverius" "Vigilius" "Pelagius" "Benedictus" "Gregorius" "Sabinianus" "Adeodatus" "Honorius" "Severinus" "Theodorus" 
+	"Martinus" "Eugenius" "Vitalianus" "Donus" "Agatho" "Conon" "Sergius" "Sisinnius" "Constantinus" "Zacharias" 
+	"Paulus" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" "Adalberto" "Adelfo" "Adelmio" "Adelmo" 
 	"Adone" "Adriano" "Agapito" "Agostino" "Aimone" "Alamanno" "Alarico" "Albano" "Alberico" "Alberto" 
 	"Albino" "Alboino" "Alcide" "Aldobrandino" "Aleardo" "Aleramo" "Alessandro" "Alessio" "Alighiero" "Alvise" 
 	"Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Annibale" "Anselmo" "Antonino" "Antonio" "Antoniotto" 
@@ -71,11 +71,11 @@ leader_names = {
 	"Uberto" "Ugo" "Ugoccione" "Ugolino" "Umberto" "Urbano" "Valentino" "Valerio" "Vincentello" "Vincenzo" 
 	"Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
-	"Stephen #3" = 39
-	"Peter #1" = 0
+	"Stephanus #3" = 39
+	"Petrus #1" = 0
 	"Linus #1" = 0
 	"Anacletus #1" = 0
-	"Clement #1" = 0
+	"Clemens #1" = 0
 	"Evaristus #1" = 0
 	"Alexander #1" = 0
 	"Sixtus #3" = 0
@@ -83,65 +83,65 @@ monarch_names = {
 	"Hyginus #1" = 0
 	"Pius #1" = 0
 	"Anicetus #1" = 0
-	"Soter #1" = 0
+	"Soterius #1" = 0
 	"Eleutherius #1" = 0
 	"Victor #1" = 0
 	"Zephyrinus #1" = 0
-	"Callixtus #1" = 0
-	"Urban #1" = 0
-	"Pontian #1" = 0
+	"Callistus #1" = 0
+	"Urbanus #1" = 0
+	"Pontianus #1" = 0
 	"Anterus #1" = 0
-	"Fabian #1" = 0
+	"Fabianus #1" = 0
 	"Cornelius #1" = 0
 	"Lucius #1" = 0
 	"Dionysius #1" = 0
 	"Felix #3" = 0
-	"Eutychian #1" = 0
+	"Eutychianus #1" = 0
 	"Caius #1" = 0
 	"Marcellinus #1" = 0
 	"Marcellus #1" = 0
 	"Eusebius #1" = 0
 	"Miltiades #1" = 0
-	"Sylvester #1" = 0
-	"Mark #1" = 0
-	"Julius #1" = 0
+	"Silvester #1" = 0
+	"Marcus #1" = 0
+	"Iulius #1" = 0
 	"Liberius #1" = 0
 	"Damasus #1" = 0
 	"Siricius #1" = 0
 	"Anastasius #2" = 0
-	"Innocent #1" = 0
+	"Innocentius #1" = 0
 	"Zosimus #1" = 0
-	"Boniface #5" = 0
-	"Celestine #1" = 0
+	"Bonifatius #5" = 0
+	"Caelestinus #1" = 0
 	"Leo #2" = 0
 	"Hilarius #1" = 0
 	"Simplicius #1" = 0
 	"Gelasius #1" = 0
 	"Symmachus #1" = 0
-	"Hormisadas #1" = 0
-	"John #7" = 0
+	"Hormisdas #1" = 0
+	"Ioannes #7" = 0
 	"Agapetus #1" = 0
 	"Silverius #1" = 0
 	"Vigilius #1" = 0
 	"Pelagius #2" = 0
-	"Benedict #2" = 0
-	"Gregory #3" = 0
-	"Sabinian #1" = 0
+	"Benedictus #2" = 0
+	"Gregorius #3" = 0
+	"Sabinianus #1" = 0
 	"Adeodatus #2" = 0
 	"Honorius #1" = 0
 	"Severinus #1" = 0
-	"Theodore #1" = 0
-	"Martin #1" = 0
-	"Eugene #1" = 0
-	"Vitalian #1" = 0
+	"Theodorus #1" = 0
+	"Martinus #1" = 0
+	"Eugenius #1" = 0
+	"Vitalianus #1" = 0
 	"Donus #1" = 0
 	"Agatho #1" = 0
 	"Conon #1" = 0
 	"Sergius #1" = 0
 	"Sisinnius #1" = 0
-	"Constantine #1" = 0
-	"Zachary #1" = 0
-	"Paul #1" = 0
+	"Constantinus #1" = 0
+	"Zacharias #1" = 0
+	"Paulus #1" = 0
 	"Abbondanzio #0" = 0
 	"Abbondio #0" = 0
 	"Abelardo #0" = 0

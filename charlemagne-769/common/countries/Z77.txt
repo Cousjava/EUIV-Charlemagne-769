@@ -1,6 +1,6 @@
-# Dymin
+# Sorbia
 graphical_culture = easterngfx
-color = { 202 202 202 }
+color = { 121 121 121 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Sobieslav" "Aleksander" "Andrzej" "Antoni" "Aron" "Barnim" "Bartosz" "Bedrich" "Bezprzym" "Blazej" 
+	"Milyduch" "Aleksander" "Andrzej" "Antoni" "Aron" "Barnim" "Bartosz" "Bedrich" "Bezprzym" "Blazej" 
 	"Bogislaw" "Bohdan" "Bohumir" "Boleslaw" "Boriwoj" "Bozydar" "Branimir" "Branislav" "Bretislav" "Casimir" 
 	"Ctibor" "Dobieslaw" "Dobromil" "Drosuk" "Dytryk" "Frantisek" "Gawel" "Grzegorz" "Havel" "Jacenty" 
 	"Jakub" "Jakusz" "Janusz" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" "Jirí" 
@@ -41,11 +41,12 @@ leader_names = {
 	"Kresimir" "Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Ludvik" "Marek" "Marian" 
 	"Mateusz" "Mieszko" "Mikolás" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Msciwoj" "Oldrich" "Ondrej" 
 	"Otokar" "Patryk" "Pawel" "Piotr" "Prendota" "Przemysl" "Przybyslaw" "Radomil" "Radomir" "Radoslav" 
-	"Rostislav" "Ryszard" "Sambor" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" "Szczesny" "Szymon" 
-	"Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" 
-	"Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+	"Rostislav" "Ryszard" "Sambor" "Sobieslav" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" "Szczesny" 
+	"Szymon" "Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" 
+	"Wenceslaw" "Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" 
+	"Zygmunt" }
 monarch_names = {
-	"Sobieslav #0" = 12
+	"Milyduch #1" = 12
 	"Aleksander #0" = 0
 	"Andrzej #0" = 0
 	"Antoni #0" = 0
@@ -128,6 +129,7 @@ monarch_names = {
 	"Rostislav #0" = 0
 	"Ryszard #0" = 0
 	"Sambor #0" = 0
+	"Sobieslav #0" = 0
 	"Stanislaw #0" = 0
 	"Strasz #0" = 0
 	"Swietopelk #0" = 0

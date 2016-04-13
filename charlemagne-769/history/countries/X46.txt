@@ -1,33 +1,34 @@
-# Krorän
+# Kashgar
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = tocharian
+primary_culture = sogdian
 religion = buddhism
-1417.1.1 = {
+capital = 739
+1407.1.1 = {
 	monarch = {
-		name = "Siddharthe"
-		dynasty = "Krorän"
+		name = "Chakar"
+		dynasty = "Kasyar"
 		adm = 4
-		dip = 6
+		dip = 4
+		mil = 6
+	}
+}
+1415.1.1 = {
+	heir = {
+		name = "Ranisa"
+		monarch_name = "Ranisa"
+		dynasty = "Kasyar"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		female = yes
+		adm = 5
+		dip = 2
 		mil = 2
 	}
 }
-1423.1.1 = {
-	heir = {
-		name = "Maya"
-		monarch_name = "Maya"
-		dynasty = "Krorän"
-		birth_date = 1423.1.1
-		death_date = 1503.1.1
-		female = yes
-		adm = 4
-		dip = 0
-		mil = 3
-	}
-}
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 13
+	add_treasury = 4
+	add_prestige = 3
 }

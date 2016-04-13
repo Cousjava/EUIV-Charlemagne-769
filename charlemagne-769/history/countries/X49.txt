@@ -1,34 +1,34 @@
-# Bharuka
+# Kuci
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = tocharian
 religion = buddhism
-capital = 2124
-1418.1.1 = {
+capital = 2121
+1414.1.1 = {
 	monarch = {
-		name = "Ksmate"
-		dynasty = "Bharuka"
-		adm = 1
-		dip = 4
+		name = "Dharmawarme"
+		dynasty = "Kuci"
+		adm = 5
+		dip = 2
 		mil = 2
 	}
 }
-1420.1.1 = {
+1425.1.1 = {
 	heir = {
-		name = "Tarma"
-		monarch_name = "Tarma"
-		dynasty = "Bharuka"
-		birth_date = 1420.1.1
-		death_date = 1500.1.1
+		name = "Räknaska"
+		monarch_name = "Räknaska"
+		dynasty = "Kuci"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
 		female = yes
 		adm = 2
-		dip = 2
-		mil = 1
+		dip = 3
+		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 4
-	add_prestige = 3
+	add_prestige = 5
 }

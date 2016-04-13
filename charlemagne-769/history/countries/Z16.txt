@@ -2,7 +2,7 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
+technology_group = western
 primary_culture = welsh
 religion = catholic
 capital = 241
@@ -10,9 +10,9 @@ capital = 241
 	monarch = {
 		name = "Maredudd"
 		dynasty = "Dyfed"
-		adm = 4
-		dip = 3
-		mil = 3
+		adm = 0
+		dip = 4
+		mil = 2
 	}
 }
 1430.1.1 = {
@@ -22,8 +22,8 @@ capital = 241
 		dynasty = "Dyfed"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 3
-		dip = 1
+		adm = 2
+		dip = 3
 		mil = 4
 	}
 }

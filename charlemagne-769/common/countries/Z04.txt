@@ -33,9 +33,9 @@ historical_units = {
 
 leader_names = {
 
-	"Tommaltach" "Fiachnae" "Eochaid" "Forgg" "Dallan" "Dubthach" "Miennach" "Lugaid" "Óengus Finn" "Fergus Dubdétach" 
-	"Imchad" "Findchad" "Érimón" "Fíatach Finn" "Cathal" "Muiredach" "Áed Róin" "Bécc Bairrche" "Óengus" "Blathmac" 
-	"Máel-Cobo" "Fiachnae Dubtuinne" "Demmán" "Cairell Coscrach" "Muiredach Muinderg" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
+	"Eochaid" "Tommaltach" "Fiachnae" "Fíatach Finn" "Érimón" "Findchad" "Imchad" "Fergus Dubdétach" "Óengus Finn" "Lugaid" 
+	"Miennach" "Dubthach" "Dallan" "Forgg" "Muiredach Muinderg" "Cairell Coscrach" "Demmán" "Fiachnae Dubtuinne" "Máel-Cobo" "Blathmac" 
+	"Óengus" "Bécc Bairrche" "Áed Róin" "Muiredach" "Cathal" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
 	"Áed" "Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" 
 	"Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" 
 	"Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" 
@@ -85,31 +85,31 @@ leader_names = {
 	"Tomás" "Torccán" "Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" 
 	"Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
+	"Eochaid #0" = 51
 	"Tommaltach #0" = 51
 	"Fiachnae #0" = 51
-	"Eochaid #0" = 51
-	"Forgg #0" = 51
-	"Dallan #0" = 51
-	"Dubthach #0" = 51
-	"Miennach #0" = 51
-	"Lugaid #0" = 51
-	"Óengus Finn #0" = 51
-	"Fergus Dubdétach #0" = 51
-	"Imchad #0" = 51
-	"Findchad #0" = 51
-	"Érimón #0" = 51
 	"Fíatach Finn #0" = 51
-	"Cathal #0" = 51
-	"Muiredach #0" = 51
-	"Áed Róin #0" = 51
-	"Bécc Bairrche #0" = 51
-	"Óengus #0" = 51
-	"Blathmac #0" = 51
-	"Máel-Cobo #0" = 51
-	"Fiachnae Dubtuinne #0" = 51
-	"Demmán #0" = 51
-	"Cairell Coscrach #0" = 51
+	"Érimón #0" = 51
+	"Findchad #0" = 51
+	"Imchad #0" = 51
+	"Fergus Dubdétach #0" = 51
+	"Óengus Finn #0" = 51
+	"Lugaid #0" = 51
+	"Miennach #0" = 51
+	"Dubthach #0" = 51
+	"Dallan #0" = 51
+	"Forgg #0" = 51
 	"Muiredach Muinderg #0" = 51
+	"Cairell Coscrach #0" = 51
+	"Demmán #0" = 51
+	"Fiachnae Dubtuinne #0" = 51
+	"Máel-Cobo #0" = 51
+	"Blathmac #0" = 51
+	"Óengus #0" = 51
+	"Bécc Bairrche #0" = 51
+	"Áed Róin #0" = 51
+	"Muiredach #0" = 51
+	"Cathal #0" = 51
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0

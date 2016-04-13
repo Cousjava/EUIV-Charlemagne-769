@@ -1,117 +1,117 @@
-# Chrobatia
+# Tarján
 graphical_culture = easterngfx
-color = { 156 15 15 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
-	religious_ideas
-}
+color = { 255 176 112 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	germanized_pike
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-}
 
 
 
 leader_names = {
 
-	"Sebeslav" "Tvrdoslav" "Hranislav" "Dragomir" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
-	"Branimir" "Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Drzislav" "Dujam" "Duym" "Filip" 
-	"Gaspar" "Gheorghe" "Grigorii" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" "Jitej" "Karlo" 
-	"Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Milman" "Mislav" 
-	"Mutimir" "Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Ratimir" "Seslav" "Slavich" "Stanislav" 
-	"Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Vlaicu" "Vukan" 
-	"Zvonimir" }
+	"Tibor" "Tarján" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Alajos" "Ambrus" 
+	"András" "Antal" "Attila" "Bálint" "Béla" "Balázs" "Benedek" "Bernát" "Bertók" "Bertalan" 
+	"Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" "Dezsõ" "Domoszló" 
+	"Donát" "Elek" "Elemér" "Endre" "Ernõ" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" 
+	"Gáspár" "Géza" "Gazsi" "Gellért" "Gergely" "György" "Gyula" "Imre" "István" "Izsák" 
+	"Jákob" "János" "József" "Jenõ" "Kálmán" "Károly" "Konrád" "Kornél" "Kristóf" "László" 
+	"Lázár" "Lõrinc" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" 
+	"Móric" "Mózes" "Mihály" "Miklós" "Nándor" "Orbán" "Oszkár" "Pál" "Péter" "Sámuel" 
+	"Sándor" "Salamon" "Saul" "Soma" "Szilveszter" "Tádor" "Tacsony" "Tamás" "Tivadar" "Vazul" 
+	"Vencel" "Vilmos" "Zoltán" "Zsigmond" "Zsolt" }
 monarch_names = {
-	"Sebeslav #0" = 7
-	"Tvrdoslav #1" = 7
-	"Hranislav #0" = 7
-	"Dragomir #0" = 7
-	"Adam #0" = 0
-	"Andrija #0" = 0
-	"Bartol #0" = 0
-	"Besar #0" = 0
-	"Bojan #0" = 0
-	"Boris #0" = 0
-	"Branimir #0" = 0
-	"Castimir #0" = 0
-	"Danail #0" = 0
-	"Dmitar #0" = 0
-	"Dobromir #0" = 0
-	"Dragan #0" = 0
-	"Drzislav #0" = 0
-	"Dujam #0" = 0
-	"Duym #0" = 0
-	"Filip #0" = 0
-	"Gaspar #0" = 0
-	"Gheorghe #0" = 0
-	"Grigorii #0" = 0
-	"Hrvoje #0" = 0
-	"Igor #0" = 0
-	"Ioan #0" = 0
-	"Ivan #0" = 0
-	"Ivanis #0" = 0
-	"Jitej #0" = 0
-	"Karlo #0" = 0
-	"Koloman #0" = 0
-	"Kresimir #0" = 0
-	"Ladislav #0" = 0
-	"Ljudevit #0" = 0
-	"Ljutomisl #0" = 0
-	"Lovro #0" = 0
-	"Matej #0" = 0
-	"Mihajlo #0" = 0
-	"Milman #0" = 0
-	"Mislav #0" = 0
-	"Mutimir #0" = 0
-	"Nikolitza #0" = 0
-	"Ognjen #0" = 0
-	"Petar #0" = 0
-	"Prohor #0" = 0
-	"Radomir #0" = 0
-	"Ratimir #0" = 0
-	"Seslav #0" = 0
-	"Slavich #0" = 0
-	"Stanislav #0" = 0
-	"Stjepan #0" = 0
-	"Sulvan #0" = 0
-	"Teodor #0" = 0
-	"Tomislav #0" = 0
-	"Tvrtko #0" = 0
-	"Ulfo #0" = 0
-	"Vid #0" = 0
-	"Vitomir #0" = 0
-	"Vlaicu #0" = 0
-	"Vukan #0" = 0
-	"Zvonimir #0" = 0
-}
-ship_names = {
-	Aranybulla 
-	Arpad
-	Magyar
-	Sigismund
-	"Szent Istvan kiraly"
-	"Hunyadi Matyas"
-	"Karoly Robert"
-	"Nagy Lajos"
-	Laszlo
-	Kalman
+	"Tibor #0" = 10
+	"Tarján #1" = 10
+	"Ábel #0" = 0
+	"Ádárn #0" = 0
+	"Ágoston #0" = 0
+	"Álmos #0" = 0
+	"Árpád #0" = 0
+	"Õdön #0" = 0
+	"Alajos #0" = 0
+	"Ambrus #0" = 0
+	"András #0" = 0
+	"Antal #0" = 0
+	"Attila #0" = 0
+	"Bálint #0" = 0
+	"Béla #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bertók #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Csaba #0" = 0
+	"Csongor #0" = 0
+	"Dénes #0" = 0
+	"Dömötör #0" = 0
+	"Dezsõ #0" = 0
+	"Domoszló #0" = 0
+	"Donát #0" = 0
+	"Elek #0" = 0
+	"Elemér #0" = 0
+	"Endre #0" = 0
+	"Ernõ #0" = 0
+	"Fulöp #0" = 0
+	"Ferenc #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Géza #0" = 0
+	"Gazsi #0" = 0
+	"Gellért #0" = 0
+	"Gergely #0" = 0
+	"György #0" = 0
+	"Gyula #0" = 0
+	"Imre #0" = 0
+	"István #0" = 0
+	"Izsák #0" = 0
+	"Jákob #0" = 0
+	"János #0" = 0
+	"József #0" = 0
+	"Jenõ #0" = 0
+	"Kálmán #0" = 0
+	"Károly #0" = 0
+	"Konrád #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"László #0" = 0
+	"Lázár #0" = 0
+	"Lõrinc #0" = 0
+	"Lajos #0" = 0
+	"Lampert #0" = 0
+	"Levente #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Márton #0" = 0
+	"Máté #0" = 0
+	"Mátyás #0" = 0
+	"Móric #0" = 0
+	"Mózes #0" = 0
+	"Mihály #0" = 0
+	"Miklós #0" = 0
+	"Nándor #0" = 0
+	"Orbán #0" = 0
+	"Oszkár #0" = 0
+	"Pál #0" = 0
+	"Péter #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Salamon #0" = 0
+	"Saul #0" = 0
+	"Soma #0" = 0
+	"Szilveszter #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tivadar #0" = 0
+	"Vazul #0" = 0
+	"Vencel #0" = 0
+	"Vilmos #0" = 0
+	"Zoltán #0" = 0
+	"Zsigmond #0" = 0
+	"Zsolt #0" = 0
 }
 

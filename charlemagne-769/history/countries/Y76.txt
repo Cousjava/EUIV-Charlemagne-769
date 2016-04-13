@@ -1,30 +1,30 @@
-# Yugra
-government = tribal_despotism
+# Gondar
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = khanty
-religion = animism
-capital = 1078
-1405.1.1 = {
+primary_culture = amhara
+religion = coptic
+capital = 1224
+1403.1.1 = {
 	monarch = {
-		name = "Nalka"
-		dynasty = "Yugra"
-		adm = 4
-		dip = 3
-		mil = 1
+		name = "Ogbae"
+		dynasty = "Zagwe"
+		adm = 3
+		dip = 5
+		mil = 2
 	}
 }
-1427.1.1 = {
+1420.1.1 = {
 	heir = {
-		name = "Setyamka"
-		monarch_name = "Setyamka"
-		dynasty = "Yugra"
-		birth_date = 1427.1.1
-		death_date = 1507.1.1
-		adm = 1
-		dip = 4
-		mil = 2
+		name = "Dahnay"
+		monarch_name = "Dahnay"
+		dynasty = "Zagwe"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 4
+		dip = 1
+		mil = 3
 	}
 }
 1444.11.11 = {

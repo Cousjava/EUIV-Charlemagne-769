@@ -1,33 +1,33 @@
-# Austergautland
+# Vestergautland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = ottoman
+technology_group = muslim
 primary_culture = norse
-religion = shamanism
-capital = 2
-1397.10.1 = {
+religion = animism
+capital = 7
+1406.1.1 = {
 	monarch = {
-		name = "Hjörvardr"
-		dynasty = "Ulfing"
-		adm = 4
-		dip = 3
+		name = "Oddr"
+		dynasty = "Gautske"
+		adm = 2
+		dip = 4
 		mil = 1
 	}
 }
-1435.1.1 = {
+1425.1.1 = {
 	heir = {
-		name = "Högne"
-		monarch_name = "Högne"
-		dynasty = "Ulfing"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 3
+		name = "Hrafn"
+		monarch_name = "Hrafn"
+		dynasty = "Gautske"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
 		dip = 2
 		mil = 2
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

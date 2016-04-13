@@ -1,21 +1,33 @@
-# Lesser Poland
-government = tribal_despotism
-government_rank = 1
+# Magyar
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = polish
-religion = animism
-capital = 2960
-1408.1.1 = {
+technology_group = nomad_group
+primary_culture = hungarian
+religion = tengri_pagan_reformed
+capital = 2406
+1416.1.1 = {
 	monarch = {
-		name = "Siemowit"
-		dynasty = "Lechowicz"
+		name = "Jenö"
+		dynasty = "Jenö"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+1433.1.1 = {
+	heir = {
+		name = "Dezsõ"
+		monarch_name = "Dezsõ"
+		dynasty = "Jenö"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
 		adm = 3
-		dip = 2
+		dip = 3
 		mil = 3
 	}
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 6
+	add_treasury = 10
+	add_prestige = 13
 }

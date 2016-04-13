@@ -1,0 +1,18 @@
+union = {
+	first = Y46
+	second = ARM
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+union = {
+	first = Y46
+	second = Y47
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+union = {
+	first = Y46
+	second = Y48
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

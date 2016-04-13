@@ -1,33 +1,21 @@
-# Cedi
+# Bana
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = avadhi
+technology_group = western
+primary_culture = oriya
 religion = hinduism
-capital = 550
-1395.1.1 = {
+capital = 2098
+1415.1.1 = {
 	monarch = {
-		name = "Sankaragana"
-		dynasty = "Cedi"
-		adm = 1
-		dip = 3
-		mil = 2
-	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Krishnaraja"
-		monarch_name = "Krishnaraja"
-		dynasty = "Cedi"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 0
-		dip = 3
-		mil = 3
+		name = "Nandivarman"
+		dynasty = "Bana"
+		adm = 2
+		dip = 1
+		mil = 1
 	}
 }
 1444.11.11 = {
 	add_treasury = 6
-	add_prestige = 13
+	add_prestige = 5
 }

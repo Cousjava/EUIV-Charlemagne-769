@@ -1,15 +1,15 @@
-# Lombardy
+# Benevento
 graphical_culture = westerngfx
-color = { 244 227 160 }
+color = { 209 170 75 }
 historical_idea_groups = {
-	defensive_ideas
+	naval_ideas
 	trade_ideas
 	economic_ideas
+	defensive_ideas
 	diplomatic_ideas
-	innovativeness_ideas
 	spy_ideas
-	naval_ideas
-	offensive_ideas
+	religious_ideas
+	administrative_ideas
 }
 
 historical_units = {
@@ -17,6 +17,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 	italian_condotta
+	spanish_tercio
 	austrian_tercio
 	austrian_grenzer
 	austrian_hussar
@@ -32,66 +33,62 @@ historical_units = {
 
 leader_names = {
 
-	"Adelperga" "Desiderius" "Adelchis" "Liutperga" "Gerberga" "Anselperga" "Dauferada" "Erminolf" "Alahis" "Alboin" 
-	"Cleph" "Authari" "Agilulf" "Adaloald" "Arioald" "Rothari" "Rodoald" "Aripert" "Godepert" "Pectarit" 
-	"Grimoald" "Garibald" "Cunipert" "Liutpert" "Raginpert" "Ansprand" "Liutprand" "Hildeprand" "Ratchis" "Aistulf" 
-	"Adalgis" "Adhemar" "Ado" "Agelmund" "Agilof" "Agiprand" "Ago" "Ahthari" "Aimeric" "Aiulf" 
-	"Ajo" "Aldihoc" "Alo" "Altpert" "Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ardoin" "Arechis" 
-	"Ariald" "Aribert" "Arichis" "Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" "Audelahis" 
-	"Audoin" "Aunepert" "Ausfrid" "Berin" "Bernard" "Birinus" "Corvulus" "Daufer" "Donnolo" "Erchempert" 
-	"Erchinoald" "Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Gisulf" "Godehoc" "Godescalc" 
-	"Grasulf" "Guaifer" "Guaimar" "Gumpert" "Gundo" "Gundoald" "Hermenfred" "Hilderic" "Hildigis" "Hilmagis" 
-	"Hrodgaud" "Hucpert" "Ibor" "Ildiches" "Indulf" "Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" 
-	"Laiamicho" "Laidulf" "Lambert" "Landari" "Landenulf" "Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" 
-	"Liutbrand" "Liutward" "Lupus" "Maginulf" "Manso" "Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" 
-	"Orson" "Pandenulf" "Pandulf" "Pemmo" "Penno" "Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" 
-	"Radgis" "Radwald" "Reccared" "Risiulf" "Rochus" "Rodgand" "Rodolf" "Rodwald" "Romuald" "Saxo" 
-	"Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" "Taso" "Theodelap" 
-	"Theoderich" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" "Unulf" 
-	"Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" "Wechthari" "Wido" "Zotto" 
+	"Ilderic" "Grimoald" "Romoald" "Arechis" "Audoin" "Grasulf" "Alboin" "Rodelinda" "Gisulf" "Zotto" 
+	"Masane" "Taso" "Cacco" "Aiulf" "Radoald" "Appa" "Geila" "Ago" "Lupus" "Arnefrit" 
+	"Romuald" "Garibald" "Theodrada" "Liutprand" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" "Agilof" 
+	"Agilulf" "Agiprand" "Ahthari" "Aimeric" "Aistulf" "Ajo" "Alahis" "Aldihoc" "Alo" "Altpert" 
+	"Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" "Ariald" "Aribert" "Arichis" "Aripert" 
+	"Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" "Audelahis" "Aunepert" "Ausfrid" "Authari" 
+	"Berin" "Bernard" "Birinus" "Cleph" "Corvulus" "Daufer" "Desiderius" "Donnolo" "Erchempert" "Erchinoald" 
+	"Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Godehoc" "Godepert" "Godescalc" "Guaifer" 
+	"Guaimar" "Gumpert" "Gundo" "Gundoald" "Hermenfred" "Hildeprand" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" 
+	"Hucpert" "Ibor" "Ildiches" "Indulf" "Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" 
+	"Laidulf" "Lambert" "Landari" "Landenulf" "Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" 
+	"Liutpert" "Liutward" "Maginulf" "Manso" "Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" 
+	"Pandenulf" "Pandulf" "Pemmo" "Penno" "Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" 
+	"Radwald" "Raginpert" "Ratchis" "Reccared" "Risiulf" "Rochus" "Rodgand" "Rodoald" "Rodolf" "Rodwald" 
+	"Rothari" "Saxo" "Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" 
+	"Theodelap" "Theoderich" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" 
+	"Unulf" "Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" "Wechthari" "Wido" 
 	"Zuchilo" }
 monarch_names = {
-	"Adelperga #0" = -19
-	"Desiderius #1" = 18
-	"Adelchis #0" = 18
-	"Liutperga #0" = -19
-	"Gerberga #0" = -19
-	"Anselperga #0" = -19
-	"Dauferada #0" = -19
-	"Erminolf #0" = 18
-	"Alahis #1" = 18
-	"Alboin #1" = 0
-	"Cleph #1" = 0
-	"Authari #1" = 0
-	"Agilulf #1" = 0
-	"Adaloald #1" = 0
-	"Arioald #1" = 0
-	"Rothari #1" = 0
-	"Rodoald #1" = 0
-	"Aripert #2" = 0
-	"Godepert #1" = 0
-	"Pectarit #1" = 0
-	"Grimoald #1" = 0
-	"Garibald #1" = 0
-	"Cunipert #1" = 0
-	"Liutpert #1" = 0
-	"Raginpert #1" = 0
-	"Ansprand #1" = 0
-	"Liutprand #1" = 0
-	"Hildeprand #1" = 0
-	"Ratchis #1" = 0
-	"Aistulf #1" = 0
+	"Ilderic #0" = 18
+	"Grimoald #2" = 54
+	"Romoald #0" = 18
+	"Arechis #2" = 36
+	"Audoin #0" = 18
+	"Grasulf #0" = 36
+	"Alboin #0" = 18
+	"Rodelinda #0" = -19
+	"Gisulf #2" = 72
+	"Zotto #1" = 18
+	"Masane #0" = -19
+	"Taso #0" = 18
+	"Cacco #0" = 18
+	"Aiulf #1" = 18
+	"Radoald #1" = 18
+	"Appa #0" = -19
+	"Geila #0" = -19
+	"Ago #0" = 18
+	"Lupus #0" = 18
+	"Arnefrit #0" = 18
+	"Romuald #2" = 36
+	"Garibald #0" = 18
+	"Theodrada #0" = -19
+	"Liutprand #1" = 18
 	"Adalgis #0" = 0
+	"Adaloald #0" = 0
 	"Adhemar #0" = 0
 	"Ado #0" = 0
 	"Agelmund #0" = 0
 	"Agilof #0" = 0
+	"Agilulf #0" = 0
 	"Agiprand #0" = 0
-	"Ago #0" = 0
 	"Ahthari #0" = 0
 	"Aimeric #0" = 0
-	"Aiulf #0" = 0
+	"Aistulf #0" = 0
 	"Ajo #0" = 0
+	"Alahis #0" = 0
 	"Aldihoc #0" = 0
 	"Alo #0" = 0
 	"Altpert #0" = 0
@@ -99,11 +96,12 @@ monarch_names = {
 	"Anselm #0" = 0
 	"Ansfrid #0" = 0
 	"Ansfrith #0" = 0
+	"Ansprand #0" = 0
 	"Ardoin #0" = 0
-	"Arechis #0" = 0
 	"Ariald #0" = 0
 	"Aribert #0" = 0
 	"Arichis #0" = 0
+	"Aripert #0" = 0
 	"Ariulf #0" = 0
 	"Arnefrith #0" = 0
 	"Arnifrid #0" = 0
@@ -111,14 +109,16 @@ monarch_names = {
 	"Atenulf #0" = 0
 	"Atto #0" = 0
 	"Audelahis #0" = 0
-	"Audoin #0" = 0
 	"Aunepert #0" = 0
 	"Ausfrid #0" = 0
+	"Authari #0" = 0
 	"Berin #0" = 0
 	"Bernard #0" = 0
 	"Birinus #0" = 0
+	"Cleph #0" = 0
 	"Corvulus #0" = 0
 	"Daufer #0" = 0
+	"Desiderius #0" = 0
 	"Donnolo #0" = 0
 	"Erchempert #0" = 0
 	"Erchinoald #0" = 0
@@ -128,16 +128,16 @@ monarch_names = {
 	"Faroald #0" = 0
 	"Ferdulf #0" = 0
 	"Gacco #0" = 0
-	"Gisulf #0" = 0
 	"Godehoc #0" = 0
+	"Godepert #0" = 0
 	"Godescalc #0" = 0
-	"Grasulf #0" = 0
 	"Guaifer #0" = 0
 	"Guaimar #0" = 0
 	"Gumpert #0" = 0
 	"Gundo #0" = 0
 	"Gundoald #0" = 0
 	"Hermenfred #0" = 0
+	"Hildeprand #0" = 0
 	"Hilderic #0" = 0
 	"Hildigis #0" = 0
 	"Hilmagis #0" = 0
@@ -162,8 +162,8 @@ monarch_names = {
 	"Laudari #0" = 0
 	"Liutbald #0" = 0
 	"Liutbrand #0" = 0
+	"Liutpert #0" = 0
 	"Liutward #0" = 0
-	"Lupus #0" = 0
 	"Maginulf #0" = 0
 	"Manso #0" = 0
 	"Munichis #0" = 0
@@ -183,13 +183,16 @@ monarch_names = {
 	"Radelgar #0" = 0
 	"Radgis #0" = 0
 	"Radwald #0" = 0
+	"Raginpert #0" = 0
+	"Ratchis #0" = 0
 	"Reccared #0" = 0
 	"Risiulf #0" = 0
 	"Rochus #0" = 0
 	"Rodgand #0" = 0
+	"Rodoald #0" = 0
 	"Rodolf #0" = 0
 	"Rodwald #0" = 0
-	"Romuald #0" = 0
+	"Rothari #0" = 0
 	"Saxo #0" = 0
 	"Sico #0" = 0
 	"Siconulf #0" = 0
@@ -199,7 +202,6 @@ monarch_names = {
 	"Sikard #0" = 0
 	"Sinibald #0" = 0
 	"Taino #0" = 0
-	"Taso #0" = 0
 	"Theodelap #0" = 0
 	"Theoderich #0" = 0
 	"Theodicius #0" = 0
@@ -220,17 +222,20 @@ monarch_names = {
 	"Walthari #0" = 0
 	"Wechthari #0" = 0
 	"Wido #0" = 0
-	"Zotto #0" = 0
 	"Zuchilo #0" = 0
 }
 ship_names = {
-	Medea Vulcano Gloria Minerva Laatea
-	Diligenza Vittoria Eolo Concordia Forza 
-	Fama Sirena Falcon Ercole Idra "San Andrea"
-	"San Zaccaria" "San Spiridon" "San Gaetano"
-	"Fortuna Guerriera" Terror Aquileta Constanza
-	"Regina del Mar" "San Nicolo" Nettuno Rosa
-	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
-	"Amazzone Guerriera"
+	Agatobles Altavilla Apollo Archimede Audaze Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna "Federigo Barbarossa" Folgorante Fulminante
+	Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari"
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Tancredi Veloce
 }
 

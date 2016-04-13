@@ -10,8 +10,8 @@ capital = 1744
 	monarch = {
 		name = "Roding"
 		dynasty = "Roding"
-		adm = 3
-		dip = 1
+		adm = 2
+		dip = 3
 		mil = 2
 	}
 }
