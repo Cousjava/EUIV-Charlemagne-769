@@ -1,0 +1,37 @@
+# Pecheneg
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = pecheneg
+religion = manichean
+clear_scripted_personalities = yes
+capital = 476
+1437.1.1 = {
+	monarch = {
+		name = "Kostas"
+		birth_date = 1417.1.1
+		dynasty = "Havuksingila"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = careful_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Tyrach"
+		monarch_name = "Tyrach"
+		dynasty = "Havuksingila"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 476
+	add_treasury = 10
+	add_prestige = 13
+}

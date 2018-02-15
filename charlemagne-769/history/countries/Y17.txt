@@ -1,33 +1,26 @@
-# Dregovichia
+# Kryvia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = eastern
 primary_culture = ilmenian
 religion = animism
-capital = 278
-1413.1.1 = {
+clear_scripted_personalities = yes
+capital = 293
+1425.1.1 = {
 	monarch = {
-		name = "Igor"
-		dynasty = "Dregovich"
-		adm = 0
+		name = "Svetozar"
+		birth_date = 1425.1.1
+		dynasty = "Kryvich"
+		adm = 1
 		dip = 3
 		mil = 3
 	}
-}
-1439.1.1 = {
-	heir = {
-		name = "Igor"
-		monarch_name = "Igor II"
-		dynasty = "Dregovich"
-		birth_date = 1439.1.1
-		death_date = 1519.1.1
-		adm = 3
-		dip = 3
-		mil = 3
-	}
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = naive_personality
 }
 1444.11.11 = {
+	capital = 293
 	add_treasury = 6
 	add_prestige = 5
 }

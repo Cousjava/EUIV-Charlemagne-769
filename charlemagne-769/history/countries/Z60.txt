@@ -1,21 +1,36 @@
-# Heidmark
+# Gudbrandsdal
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
+clear_scripted_personalities = yes
 capital = 22
-1415.1.1 = {
+1439.1.1 = {
 	monarch = {
-		name = "Þorsteinn"
-		dynasty = "Hede"
-		adm = 5
-		dip = 1
-		mil = 3
+		name = "Öysteinn"
+		birth_date = 1415.1.1
+		dynasty = "Yngling"
+		adm = 4
+		dip = 2
+		mil = 2
 	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Guðröðr"
+		monarch_name = "Guðröðr"
+		dynasty = "Yngling"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
+	capital = 22
 	add_treasury = 4
-	add_prestige = 2
+	add_prestige = 3
 }

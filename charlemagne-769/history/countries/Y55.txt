@@ -1,21 +1,25 @@
-# Malzuzi
-government = iqta
+# Damashq
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = berber
-religion = ibadi
-capital = 354
-1395.1.1 = {
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 382
+1441.1.1 = {
 	monarch = {
-		name = "Hatim"
-		dynasty = "Malzuzi"
-		adm = 1
-		dip = 2
-		mil = 3
+		name = "Al-Fadl"
+		birth_date = 1415.1.1
+		dynasty = "Abbasid"
+		adm = 5
+		dip = 4
+		mil = 1
 	}
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
+	capital = 382
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 33
 }

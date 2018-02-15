@@ -5,17 +5,19 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = breton
 religion = catholic
+clear_scripted_personalities = yes
 capital = 169
-1395.1.1 = {
+1415.1.1 = {
 	monarch = {
 		name = "Budic"
+		birth_date = 1395.1.1
 		dynasty = "de Poher"
-		adm = 1
+		adm = 6
 		dip = 2
-		mil = 1
+		mil = 2
 	}
-}
-1415.1.1 = {
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 	heir = {
 		name = "Melliau"
 		monarch_name = "Melliau"
@@ -24,10 +26,12 @@ capital = 169
 		death_date = 1495.1.1
 		adm = 1
 		dip = 2
-		mil = 1
+		mil = 4
 	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
+	capital = 169
 	add_treasury = 4
 	add_prestige = 2
 }

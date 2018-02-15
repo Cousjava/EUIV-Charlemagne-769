@@ -1,117 +1,143 @@
-# Nubia
+# Bozok
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 145 130 60 }
+color = { 229 215 73 }
 
 
 
 
 leader_names = {
 
-	"Maththias" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
-	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
-	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
-	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
-	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
-	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Mêlênkouda" "Mena" "Menankouda" "Merkourios" 
-	"Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" "Petros" 
-	"Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" "Sergios" 
-	"Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" "Theodote" 
-	"Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
+	"Baytas" "Tunga" "Dilek" "Çagri" "Çaka" "Afsin" "Ahmet" "Aksonqor" "Alaeddin" "Alkan" 
+	"Alp Arslan" "Alp Yurek" "Alptigin" "Artuk" "Ayaz" "Aydin" "Aydogan" "Aydogdu" "Aytekin" "Böru" 
+	"Bulend" "Bahadir" "Balaban" "Basbuga" "Batuhan" "Baturay" "Baybars" "Bayezid" "Belek" "Berkan" 
+	"Berkiyaruk" "Bozan" "Bugra" "Burak" "Cuneyd" "Dundar" "Danismend" "Davud" "Demir" "Dogan" 
+	"Dogukan" "Dukak" "Erdem" "Ertan" "Ertekin" "Ertugrul" "Gunduz" "Hizir" "Ibrahim" "Ilgazi" 
+	"Inal" "Iskender" "Kurboga" "Kaikaus" "Kaikhusraw" "Kaiqobad" "Kara" "Karatay" "Kasim" "Kaya" 
+	"Kaytun" "Kemal" "Kiliç" "Korkut" "Kutalmis" "Kutay" "Kutlug" "Mursel" "Mehmed" "Meliksah" 
+	"Mengucek" "Mesud" "Murad" "Mustafa" "Orhan" "Osman" "Porsuk" "Rustem" "Ramazan" "Ridvan" 
+	"Söbuk" "Sökmen" "Sönmez" "Suleyman" "Saim" "Saltuk" "Saruca" "Savtekin" "Savur" "Sehinsah" 
+	"Selçuk" "Selim" "Sencer" "Sinan" "Tanrivermis" "Tekin" "Timurtas" "Togay" "Togtekin" "Toktamis" 
+	"Tolun" "Toruntay" "Tugrul" "Turgut" "Turhan" "Tutus" "Uluç" "Umur" "Yakut" "Yaman" 
+	"Yinal" "Yunus" }
 monarch_names = {
-	"Maththias #0" = 10
-	"Aarôn #0" = 0
-	"Aberikos #0" = 0
-	"Abraam #0" = 0
-	"Añgelos #0" = 0
-	"Andreas #0" = 0
-	"Athanasios #0" = 0
-	"Balô #0" = 0
-	"Bartholomaios #0" = 0
-	"Birêl #0" = 0
-	"Chael #0" = 0
-	"Christophoros #0" = 0
-	"Dauid #0" = 0
-	"Dimetheos #0" = 0
-	"Dioskoros #0" = 0
-	"Diônisios #0" = 0
-	"Eliezer #0" = 0
-	"Eionkouda #0" = 0
-	"Emmanouel #0" = 0
-	"Enôch #0" = 0
-	"Ephannê #0" = 0
-	"Epimachos #0" = 0
-	"Epiphanios #0" = 0
-	"Gabriel #0" = 0
-	"Gabrielkouda #0" = 0
-	"Gabrielophorou #0" = 0
-	"Gennatios #0" = 0
-	"Geôrgios #0" = 0
-	"Hêlias #0" = 0
-	"Hoase #0" = 0
-	"Hoassi #0" = 0
-	"Hoasse #0" = 0
-	"Iacob #0" = 0
-	"Ieremias #0" = 0
-	"Iêsous #0" = 0
-	"Iêsousinkouda #0" = 0
-	"Iôannou #0" = 0
-	"Iôannês #0" = 0
-	"Iordanes #0" = 0
-	"Ioseph #0" = 0
-	"Kalinikos #0" = 0
-	"Kollouthos #0" = 0
-	"Krisanthos #0" = 0
-	"Kuriakos #0" = 0
-	"Kurillos #0" = 0
-	"Lazaros #0" = 0
-	"Leon #0" = 0
-	"Leontios #0" = 0
-	"Makarios #0" = 0
-	"Mariana #0" = 0
-	"Mariankouda #0" = 0
-	"Marianos #0" = 0
-	"Marios #0" = 0
-	"Markos #0" = 0
-	"Marturophoros #0" = 0
-	"Mašanñal #0" = 0
-	"Mêlênkouda #0" = 0
-	"Mena #0" = 0
-	"Menankouda #0" = 0
-	"Merkourios #0" = 0
-	"Michaêl #0" = 0
-	"Michaêlkouda #0" = 0
-	"Mouses #0" = 0
-	"Orna #0" = 0
-	"Panigiros #0" = 0
-	"Papasinen #0" = 0
-	"Papasinkouda #0" = 0
-	"Patrikios #0" = 0
-	"Paulos #0" = 0
-	"Petros #0" = 0
-	"Petrou #0" = 0
-	"Philotheos #0" = 0
-	"Philemon #0" = 0
-	"Prochoros #0" = 0
-	"Raphael #0" = 0
-	"Raphaelkouda #0" = 0
-	"Samson #0" = 0
-	"Senouthios #0" = 0
-	"Sentiko #0" = 0
-	"Sergios #0" = 0
-	"Simeoni #0" = 0
-	"Soizuros #0" = 0
-	"Solomôn #0" = 0
-	"Sotinkouda #0" = 0
-	"Stephanos #0" = 0
-	"Stephanou #0" = 0
-	"Thadeosi #0" = 0
-	"Theodôros #0" = 0
-	"Theodosios #0" = 0
-	"Theodote #0" = 0
-	"Thoma #0" = 0
-	"Tophêna #0" = 0
-	"Tirsakouni #0" = 0
-	"Zacharias #0" = 0
-	"Zosima #0" = 0
+	"Baytas #0" = 1
+	"Tunga #0" = 1
+	"Dilek #0" = -1
+	"Çagri #0" = 0
+	"Çaka #0" = 0
+	"Afsin #0" = 0
+	"Ahmet #0" = 0
+	"Aksonqor #0" = 0
+	"Alaeddin #0" = 0
+	"Alkan #0" = 0
+	"Alp Arslan #0" = 0
+	"Alp Yurek #0" = 0
+	"Alptigin #0" = 0
+	"Artuk #0" = 0
+	"Ayaz #0" = 0
+	"Aydin #0" = 0
+	"Aydogan #0" = 0
+	"Aydogdu #0" = 0
+	"Aytekin #0" = 0
+	"Böru #0" = 0
+	"Bulend #0" = 0
+	"Bahadir #0" = 0
+	"Balaban #0" = 0
+	"Basbuga #0" = 0
+	"Batuhan #0" = 0
+	"Baturay #0" = 0
+	"Baybars #0" = 0
+	"Bayezid #0" = 0
+	"Belek #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Burak #0" = 0
+	"Cuneyd #0" = 0
+	"Dundar #0" = 0
+	"Danismend #0" = 0
+	"Davud #0" = 0
+	"Demir #0" = 0
+	"Dogan #0" = 0
+	"Dogukan #0" = 0
+	"Dukak #0" = 0
+	"Erdem #0" = 0
+	"Ertan #0" = 0
+	"Ertekin #0" = 0
+	"Ertugrul #0" = 0
+	"Gunduz #0" = 0
+	"Hizir #0" = 0
+	"Ibrahim #0" = 0
+	"Ilgazi #0" = 0
+	"Inal #0" = 0
+	"Iskender #0" = 0
+	"Kurboga #0" = 0
+	"Kaikaus #0" = 0
+	"Kaikhusraw #0" = 0
+	"Kaiqobad #0" = 0
+	"Kara #0" = 0
+	"Karatay #0" = 0
+	"Kasim #0" = 0
+	"Kaya #0" = 0
+	"Kaytun #0" = 0
+	"Kemal #0" = 0
+	"Kiliç #0" = 0
+	"Korkut #0" = 0
+	"Kutalmis #0" = 0
+	"Kutay #0" = 0
+	"Kutlug #0" = 0
+	"Mursel #0" = 0
+	"Mehmed #0" = 0
+	"Meliksah #0" = 0
+	"Mengucek #0" = 0
+	"Mesud #0" = 0
+	"Murad #0" = 0
+	"Mustafa #0" = 0
+	"Orhan #0" = 0
+	"Osman #0" = 0
+	"Porsuk #0" = 0
+	"Rustem #0" = 0
+	"Ramazan #0" = 0
+	"Ridvan #0" = 0
+	"Söbuk #0" = 0
+	"Sökmen #0" = 0
+	"Sönmez #0" = 0
+	"Suleyman #0" = 0
+	"Saim #0" = 0
+	"Saltuk #0" = 0
+	"Saruca #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selçuk #0" = 0
+	"Selim #0" = 0
+	"Sencer #0" = 0
+	"Sinan #0" = 0
+	"Tanrivermis #0" = 0
+	"Tekin #0" = 0
+	"Timurtas #0" = 0
+	"Togay #0" = 0
+	"Togtekin #0" = 0
+	"Toktamis #0" = 0
+	"Tolun #0" = 0
+	"Toruntay #0" = 0
+	"Tugrul #0" = 0
+	"Turgut #0" = 0
+	"Turhan #0" = 0
+	"Tutus #0" = 0
+	"Uluç #0" = 0
+	"Umur #0" = 0
+	"Yakut #0" = 0
+	"Yaman #0" = 0
+	"Yinal #0" = 0
+	"Yunus #0" = 0
+
+
+	"Çiçek #0" = -1
+	"Lale #0" = -1
+	"Irge #0" = -1
+	"Umay #0" = -1
 }
 

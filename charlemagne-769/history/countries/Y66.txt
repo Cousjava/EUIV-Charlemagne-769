@@ -1,21 +1,25 @@
-# Arwadid
-government = iqta
+# Hamzahbid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = bedouin_arabic
+technology_group = muslim
+primary_culture = persian
 religion = sunni
-capital = 390
-1393.1.1 = {
+clear_scripted_personalities = yes
+capital = 4289
+1444.1.1 = {
 	monarch = {
-		name = "Yazid"
-		dynasty = "Arwadid"
-		adm = 2
-		dip = 3
-		mil = 6
+		name = "Umarah"
+		birth_date = 1413.1.1
+		dynasty = "Hamzahbid"
+		adm = 3
+		dip = 2
+		mil = 4
 	}
+	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
+	capital = 4289
 	add_treasury = 6
 	add_prestige = 4
 }

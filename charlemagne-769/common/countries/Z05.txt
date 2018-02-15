@@ -1,4 +1,5 @@
 # Sjælland
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 206 57 57 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Þorolfr" "Hrörekr" "Þrándr" "Haraldr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" 
+	"Hrörekr" "Haraldr" "Þorolfr" "Þrándr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" 
 	"Arnbjörn" "Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" 
 	"Bertil" "Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" 
 	"Dyre" "Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" 
@@ -48,10 +49,10 @@ leader_names = {
 	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
 	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Þorolfr #0" = 14
-	"Hrörekr #1" = 29
-	"Þrándr #0" = 14
-	"Haraldr #1" = 14
+	"Hrörekr #1" = 21
+	"Haraldr #1" = 18
+	"Þorolfr #0" = 1
+	"Þrándr #0" = 1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -183,6 +184,13 @@ monarch_names = {
 	"Yngvar #0" = 0
 	"Örvar #0" = 0
 	"Öysteinn #0" = 0
+
+
+	"Grima #0" = -1
+	"Karin #0" = -1
+	"Freyja #0" = -1
+	"Gunnhildr #0" = -1
+	"Ylva #0" = -1
 }
 ship_names = {
 	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 

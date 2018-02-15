@@ -1,0 +1,25 @@
+# Qinghai
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tangut
+religion = confucianism
+clear_scripted_personalities = yes
+capital = 706
+1437.1.1 = {
+	monarch = {
+		name = "Chaoguang"
+		birth_date = 1416.1.1
+		dynasty = "Tuoba"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 706
+	add_treasury = 6
+	add_prestige = 6
+}

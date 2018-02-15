@@ -1,4 +1,5 @@
 # Mercia
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 241 47 15 }
 historical_idea_groups = {
@@ -35,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Æthelswith" "Æthelburh" "Ælfflæd" "Eadburh" "Ecgfrith" "Offa" "Icel" "Cnebba" "Cynewald" "Creoda" 
+	"Icel" "Offa" "Ecgfrith" "Eadburh" "Ælfflæd" "Æthelburh" "Æthelswith" "Cnebba" "Cynewald" "Creoda" 
 	"Pybba" "Eowa" "Penda" "Peada" "Wulfhere" "Alweo" "Osmod" "Æthelred" "Coenred" "Ceolred" 
 	"Ceolwald" "Eanwulf" "Æthelbald" "Heardberht" "Thingfrith" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" 
 	"Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" 
@@ -54,31 +55,31 @@ leader_names = {
 	"Ælle" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" 
 	"Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Æthelswith #0" = -19
-	"Æthelburh #0" = -19
-	"Ælfflæd #0" = -19
-	"Eadburh #0" = -19
-	"Ecgfrith #0" = 18
+	"Icel #1" = 18
 	"Offa #1" = 18
-	"Icel #0" = 18
-	"Cnebba #0" = 18
-	"Cynewald #0" = 18
-	"Creoda #0" = 18
-	"Pybba #0" = 18
-	"Eowa #0" = 18
-	"Penda #0" = 18
-	"Peada #0" = 18
-	"Wulfhere #0" = 18
-	"Alweo #0" = 18
-	"Osmod #0" = 18
-	"Æthelred #0" = 18
-	"Coenred #0" = 18
-	"Ceolred #0" = 18
-	"Ceolwald #0" = 18
-	"Eanwulf #0" = 18
-	"Æthelbald #0" = 18
-	"Heardberht #0" = 18
-	"Thingfrith #0" = 18
+	"Ecgfrith #0" = 1
+	"Eadburh #0" = -1
+	"Ælfflæd #0" = -1
+	"Æthelburh #0" = -1
+	"Æthelswith #0" = -1
+	"Cnebba #1" = 18
+	"Cynewald #1" = 18
+	"Creoda #1" = 18
+	"Pybba #1" = 18
+	"Eowa #0" = 1
+	"Penda #1" = 18
+	"Peada #1" = 18
+	"Wulfhere #1" = 18
+	"Alweo #0" = 1
+	"Osmod #0" = 1
+	"Æthelred #1" = 18
+	"Coenred #1" = 18
+	"Ceolred #1" = 18
+	"Ceolwald #1" = 18
+	"Eanwulf #0" = 1
+	"Æthelbald #1" = 18
+	"Heardberht #0" = 1
+	"Thingfrith #0" = 1
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -233,6 +234,9 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Judith #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

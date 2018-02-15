@@ -1,0 +1,36 @@
+# Karlukid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = karluk
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2126
+1441.1.1 = {
+	monarch = {
+		name = "Khiliji"
+		birth_date = 1400.1.1
+		dynasty = "Karlukid"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Pulad"
+		monarch_name = "Pulad"
+		dynasty = "Karlukid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2126
+	add_treasury = 10
+	add_prestige = 12
+}

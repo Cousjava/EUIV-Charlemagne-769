@@ -1,6 +1,6 @@
 altaic = {
 	khitan = {
 		primary = KHA
-		dynasty_names = { "Saua" "Wuge" }
+		dynasty_names = { }
 	}
 }

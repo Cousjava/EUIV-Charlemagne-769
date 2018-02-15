@@ -1,21 +1,25 @@
-# Hashimid
-government = iqta
+# Burtasid
+government = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = bedouin_arabic
-religion = shiite
-capital = 384
-1378.1.1 = {
+technology_group = nomad_group
+primary_culture = alan
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2417
+1444.1.1 = {
 	monarch = {
-		name = "Hasan"
-		dynasty = "Hashimid"
-		adm = 4
-		dip = 0
+		name = "Basil"
+		birth_date = 1413.7.23
+		dynasty = "Burtasid"
+		adm = 1
+		dip = 2
 		mil = 3
 	}
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 11
+	capital = 2417
+	add_treasury = 10
+	add_prestige = 52
 }

@@ -1,0 +1,36 @@
+# Damot
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 2762
+1438.1.1 = {
+	monarch = {
+		name = "Afework"
+		birth_date = 1418.1.1
+		dynasty = "Na'akuelo"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Hackeem"
+		monarch_name = "Hackeem"
+		dynasty = "Na'akuelo"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = calm_personality
+}
+1444.11.11 = {
+	capital = 2762
+	add_treasury = 6
+	add_prestige = 5
+}

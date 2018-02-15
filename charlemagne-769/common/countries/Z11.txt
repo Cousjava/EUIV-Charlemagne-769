@@ -1,4 +1,5 @@
 # Tuadhmhumhain
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 90 221 111 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Cobthach" "Congal" "Máel-Dúin" "Maithne" "Dauí Iarlaithe" "Crimthann" "Áed Bennán" "Cummine" "Conaing" "Áed" 
+	"Maithne" "Máel-Dúin" "Cobthach" "Congal" "Dauí Iarlaithe" "Crimthann" "Áed Bennán" "Cummine" "Conaing" "Áed" 
 	"Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" 
 	"Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" 
 	"Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" "Amalgaid" 
@@ -84,16 +85,16 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Cobthach #0" = 101
-	"Congal #0" = 50
-	"Máel-Dúin #0" = 50
-	"Maithne #0" = 50
-	"Dauí Iarlaithe #0" = 50
-	"Crimthann #0" = 50
-	"Áed Bennán #0" = 50
-	"Cummine #0" = 50
-	"Conaing #0" = 50
-	"Áed #0" = 50
+	"Maithne #0" = 1
+	"Máel-Dúin #0" = 1
+	"Cobthach #0" = 1
+	"Congal #0" = 1
+	"Dauí Iarlaithe #0" = 1
+	"Crimthann #0" = 1
+	"Áed Bennán #0" = 1
+	"Cummine #0" = 1
+	"Conaing #0" = 1
+	"Áed #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -581,6 +582,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Étaín #0" = -1
+	"Martha #0" = -1
+	"Sétach #0" = -1
+	"Lígach #0" = -1
+	"Euginia #0" = -1
 }
 ship_names = {
 	Aoife

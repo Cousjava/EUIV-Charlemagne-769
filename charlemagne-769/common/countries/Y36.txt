@@ -1,149 +1,79 @@
-# Bashkiria
+# Bukhal
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 209 174 79 }
+color = { 190 195 157 }
 
 
 
 
 leader_names = {
 
-	"Ipek" "Oshi" "Taridin" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Asparukh" "Balamber" 
-	"Bars" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" "Belkermak" "Bezmer" "Boyan" "Bulger" 
-	"Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" "Ellak" 
-	"Elemag" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" 
-	"Islivan" "Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" 
-	"Khudbard" "Kordil" "Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kurt" 
-	"Kutrigur" "Kuvrat" "Labertam" "Magotin" "Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" 
-	"Omurtag" "Onegavon" "Organ" "Organa" "Ornag" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" 
-	"Rassate" "Rugila" "Sabin" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" 
-	"Sondoke" "Tähtaman" "Tarasiy" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timëreç" "Timërpälat" 
-	"Tingiz" "Tiradin" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" "Umor" "Uturgur" "Vakrim" 
-	"Venda" "Vetam" "Vinekh" "Yani" "Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" 
-	"Tukiy" "Aydar" "Irkhan" "Batir" }
+	"Çorpan" "Parsbit" "Täbär" "Simsam" "Bälgiçi" "Kayghalagh" "Bulçan" "Irbis" "Khalga" "Alp" 
+	"Araslan" "Bagha" "Baghatur" "Barjik" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" 
+	"Bulan" "Busir" "Buzer" "Çat" "Çat'n" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" 
+	"Khatir" "Khuterkin" "Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mänäs" "Mënümarót" "Ötemis" 
+	"Papaçyz" "Samsam" "Sartäç" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yavantey" 
+	"Yençepi" "Yerneslu" "Yeçtirek" "Yilig" }
 monarch_names = {
-	"Ipek #0" = -14
-	"Oshi #0" = 13
-	"Taridin #1" = 13
-	"Almish #0" = 0
-	"Alzek #0" = 0
-	"Anzi #0" = 0
-	"Apskhih #0" = 0
+	"Çorpan #1" = 18
+	"Parsbit #0" = -1
+	"Täbär #0" = 1
+	"Simsam #1" = 18
+	"Bälgiçi #0" = 1
+	"Kayghalagh #0" = 1
+	"Bulçan #0" = 1
+	"Irbis #1" = 0
+	"Khalga #1" = 0
+	"Alp #0" = 0
 	"Araslan #0" = 0
-	"Asparukh #0" = 0
-	"Balamber #0" = 0
-	"Bars #0" = 0
-	"Bataul #0" = 0
-	"Batbayan #0" = 0
-	"Batoya #0" = 0
-	"Batulia #0" = 0
-	"Bayan #0" = 0
-	"Belkermak #0" = 0
-	"Bezmer #0" = 0
-	"Boyan #0" = 0
-	"Bulger #0" = 0
-	"Buzan #0" = 0
-	"Chepa #0" = 0
-	"Chinialush #0" = 0
-	"Dengizikh #0" = 0
-	"Dizeng #0" = 0
-	"Dometa #0" = 0
-	"Dristar #0" = 0
-	"Drong #0" = 0
-	"Dukum #0" = 0
-	"Ellak #0" = 0
-	"Elemag #0" = 0
-	"Ernakh #0" = 0
-	"Eskhakh #0" = 0
-	"Goleda #0" = 0
-	"Gostun #0" = 0
-	"Guar #0" = 0
-	"Hudbad #0" = 0
-	"Iani #0" = 0
-	"Irnek #0" = 0
-	"Isbul #0" = 0
-	"Islivan #0" = 0
-	"Isperikh #0" = 0
-	"Ispor #0" = 0
-	"Kälaç #0" = 0
-	"Kano #0" = 0
-	"Karan #0" = 0
-	"Karaton #0" = 0
-	"Kardam #0" = 0
-	"Kharaton #0" = 0
-	"Khinialon #0" = 0
-	"Khudbard #0" = 0
-	"Kordil #0" = 0
-	"Kormesiy #0" = 0
-	"Kormisosh #0" = 0
-	"Kotrag #0" = 0
-	"Krovat #0" = 0
-	"Krum #0" = 0
-	"Kuber #0" = 0
-	"Kubrat #0" = 0
-	"Kurt #0" = 0
-	"Kutrigur #0" = 0
-	"Kuvrat #0" = 0
-	"Labertam #0" = 0
-	"Magotin #0" = 0
-	"Malamir #0" = 0
-	"Mugel #0" = 0
-	"Odolgan #0" = 0
-	"Okhsi #0" = 0
-	"Okhsun #0" = 0
-	"Okors #0" = 0
-	"Omurtag #0" = 0
-	"Onegavon #0" = 0
-	"Organ #0" = 0
-	"Organa #0" = 0
-	"Ornag #0" = 0
-	"Ostro #0" = 0
-	"Pagan #0" = 0
-	"Pakhtiyar #0" = 0
-	"Paväl #0" = 0
-	"Praksa #0" = 0
-	"Rassate #0" = 0
-	"Rugila #0" = 0
-	"Sabin #0" = 0
-	"Sandil #0" = 0
-	"Sandilkh #0" = 0
-	"Sarkhan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Busir #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
 	"Sartäç #0" = 0
-	"Savin #0" = 0
-	"Sevar #0" = 0
-	"Shilki #0" = 0
-	"Sondoke #0" = 0
-	"Tähtaman #0" = 0
-	"Tarasiy #0" = 0
-	"Tatra #0" = 0
-	"Telec #0" = 0
-	"Telerig #0" = 0
-	"Tervel #0" = 0
-	"Timër #0" = 0
-	"Timëreç #0" = 0
-	"Timërpälat #0" = 0
-	"Tingiz #0" = 0
-	"Tiradin #0" = 0
-	"Tokhtaman #0" = 0
-	"Toktu #0" = 0
-	"Tsog #0" = 0
-	"Tsul #0" = 0
-	"Tuk #0" = 0
-	"Umor #0" = 0
-	"Uturgur #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
 	"Vakrim #0" = 0
-	"Venda #0" = 0
-	"Vetam #0" = 0
-	"Vinekh #0" = 0
-	"Yani #0" = 0
+	"Yabghu #0" = 0
 	"Yavantey #0" = 0
 	"Yençepi #0" = 0
 	"Yerneslu #0" = 0
 	"Yeçtirek #0" = 0
-	"Zabergan #0" = 0
-	"Zenti #0" = 0
-	"Tukiy #0" = 0
-	"Aydar #0" = 0
-	"Irkhan #0" = 0
-	"Batir #0" = 0
+	"Yilig #0" = 0
+
+
+	"Çiltanesi #0" = -1
+	"Shurkka #0" = -1
+	"Sirma #0" = -1
+	"Samur #0" = -1
 }
 

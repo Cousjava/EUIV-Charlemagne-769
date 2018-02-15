@@ -1,21 +1,25 @@
-# Mochkava
-government = tribal_despotism
+# Vidin
+government = despotic_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = mordvin
-religion = animism
-capital = 295
-1408.1.1 = {
+technology_group = eastern
+primary_culture = romanian
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2746
+1441.1.1 = {
 	monarch = {
-		name = "Inzhay"
-		dynasty = "Inzhayid"
-		adm = 4
+		name = "Uturgur"
+		birth_date = 1403.1.1
+		dynasty = "Ukil"
+		adm = 3
 		dip = 3
-		mil = 1
+		mil = 0
 	}
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
+	capital = 2746
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 30
 }

@@ -1,4 +1,5 @@
 # Manaw
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 10 48 243 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Gwriad" "Elidyr" "Dingad" "Senyllt" "Neithon" "Rhun" "Tudwal" "Anllech" "Cynin" "Merfyn" 
+	"Elidyr" "Gwriad" "Dingad" "Senyllt" "Neithon" "Rhun" "Tudwal" "Anllech" "Cynin" "Merfyn" 
 	"Anarawd" "Sandde" "Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" 
 	"Alured" "Alwyn" "Andreas" "Aneurin" "Anlaff" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
 	"Arthfoddw" "Arthwr" "Arthws" "Arthwys" "Asa" "Asaph" "Awst" "Bangar" "Bedwyr" "Beli" 
@@ -62,8 +63,8 @@ leader_names = {
 	"Teilo" "Teithfalch" "Teudebur" "Tewdos" "Tewdrig" "Tewdwr" "Tomos" "Trahaearn" "Tudur" "Tudwallon" 
 	"Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ynyr" "Ysfael" }
 monarch_names = {
-	"Gwriad #0" = 28
-	"Elidyr #1" = 28
+	"Elidyr #1" = 18
+	"Gwriad #0" = 1
 	"Dingad #1" = 0
 	"Senyllt #1" = 0
 	"Neithon #1" = 0
@@ -339,6 +340,13 @@ monarch_names = {
 	"Uthyr #0" = 0
 	"Ynyr #0" = 0
 	"Ysfael #0" = 0
+
+
+	"Lleigy #0" = -1
+	"Gwenasedd #0" = -1
+	"Mair #0" = -1
+	"Ffelis #0" = -1
+	"Aeronwen #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

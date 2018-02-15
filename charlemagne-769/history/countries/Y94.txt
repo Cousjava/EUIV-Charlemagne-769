@@ -1,21 +1,25 @@
-# Ruddha
-government = feudal_monarchy
+# Arwadid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = marathi
-religion = hinduism
-capital = 517
-1405.1.1 = {
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 390
+1443.1.1 = {
 	monarch = {
-		name = "Aniruddha"
-		dynasty = "Ruddha"
+		name = "Yazid"
+		birth_date = 1393.1.1
+		dynasty = "Arwadid"
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 5
 	}
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
+	capital = 390
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

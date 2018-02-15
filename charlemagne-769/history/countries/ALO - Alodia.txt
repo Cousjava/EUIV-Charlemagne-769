@@ -1,0 +1,39 @@
+# Alodia
+government = tribal_kingdom
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1222
+1395.1.1 = {
+	monarch = {
+		name = "Shamumun"
+		birth_date = 1369.1.1
+		dynasty = "Alwa"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1425.1.1 = {
+	heir = {
+		name = "Zakharias"
+		monarch_name = "Zakharias"
+		dynasty = "Alwa"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1222
+	add_treasury = 6
+	add_prestige = 13
+}

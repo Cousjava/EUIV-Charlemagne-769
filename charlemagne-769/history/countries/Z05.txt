@@ -2,18 +2,22 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
+clear_scripted_personalities = yes
 capital = 12
-1365.6.12 = {
+1404.1.1 = {
 	monarch = {
 		name = "Haraldr"
+		birth_date = 1365.6.12
 		dynasty = "Skjöldung"
-		adm = 6
-		dip = 1
-		mil = 5
+		adm = 3
+		dip = 3
+		mil = 4
 	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = greedy_personality
 }
 1405.1.1 = {
 	heir = {
@@ -23,11 +27,13 @@ capital = 12
 		birth_date = 1405.1.1
 		death_date = 1485.1.1
 		adm = 2
-		dip = 2
-		mil = 6
+		dip = 1
+		mil = 0
 	}
+	add_heir_personality = drunkard_personality
 }
 1444.11.11 = {
+	capital = 12
 	add_treasury = 6
 	add_prestige = 9
 }

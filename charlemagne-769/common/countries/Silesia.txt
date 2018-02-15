@@ -1,4 +1,5 @@
 # Silesia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 84 166 93 }
 historical_idea_groups = {
@@ -47,7 +48,7 @@ leader_names = {
 	"Wincenty" "Wit" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" "Zelibrat" 
 	"Zygmunt" }
 monarch_names = {
-	"Witosz #1" = 12
+	"Witosz #1" = 18
 	"Aleksander #0" = 0
 	"Andrzej #0" = 0
 	"Bartosz #0" = 0
@@ -158,6 +159,13 @@ monarch_names = {
 	"Zegota #0" = 0
 	"Zelibrat #0" = 0
 	"Zygmunt #0" = 0
+
+
+	"Kenna #0" = -1
+	"Anna #0" = -1
+	"Wislawa #0" = -1
+	"Elzbieta #0" = -1
+	"Krystyna #0" = -1
 }
 ship_names = {
 	"Arka Noego"

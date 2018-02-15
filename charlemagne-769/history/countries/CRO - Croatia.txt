@@ -2,32 +2,36 @@
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = eastern
 primary_culture = croatian
 religion = animism
+clear_scripted_personalities = yes
 capital = 1826
-1393.1.1 = {
+1420.1.1 = {
 	monarch = {
 		name = "Budimir"
+		birth_date = 1393.1.1
 		dynasty = "Trpimirovic"
-		adm = 1
+		adm = 2
 		dip = 4
 		mil = 2
 	}
-}
-1413.1.1 = {
+	add_ruler_personality = pious_personality
+	add_ruler_personality = conqueror_personality
 	heir = {
 		name = "Viseslav"
 		monarch_name = "Viseslav"
 		dynasty = "Trpimirovic"
 		birth_date = 1413.1.1
 		death_date = 1493.1.1
-		adm = 6
-		dip = 3
+		adm = 3
+		dip = 1
 		mil = 2
 	}
+	add_heir_personality = embezzler_personality
 }
 1444.11.11 = {
+	capital = 1826
 	add_treasury = 6
 	add_prestige = 5
 }

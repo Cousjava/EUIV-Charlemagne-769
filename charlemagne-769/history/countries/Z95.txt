@@ -1,21 +1,26 @@
-# Merya
-government = tribal_despotism
+# Calabria
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = mordvin
-religion = animism
-capital = 1753
-1408.1.1 = {
+technology_group = western
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 123
+1432.1.1 = {
 	monarch = {
-		name = "Surt"
-		dynasty = "Meryavid"
-		adm = 3
-		dip = 2
-		mil = 6
+		name = "Ionas"
+		birth_date = 1412.1.1
+		dynasty = "Glykomachaires"
+		adm = 2
+		dip = 1
+		mil = 3
 	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
+	capital = 123
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

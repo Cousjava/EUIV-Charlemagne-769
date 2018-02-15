@@ -1,0 +1,27 @@
+# Kiev
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
+clear_scripted_personalities = yes
+capital = 280
+1425.1.1 = {
+	monarch = {
+		name = "Dobrava"
+		birth_date = 1425.1.1
+		dynasty = "Turov"
+		female = yes
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 280
+	add_treasury = 6
+	add_prestige = 5
+}

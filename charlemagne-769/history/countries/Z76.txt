@@ -1,21 +1,36 @@
-# Dymin
+# Vestergautland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = pommeranian
+technology_group = western
+primary_culture = norse
 religion = animism
-capital = 46
-1408.1.1 = {
+clear_scripted_personalities = yes
+capital = 7
+1435.1.1 = {
 	monarch = {
-		name = "Sobieslav"
-		dynasty = "z Wieletow"
-		adm = 4
-		dip = 2
+		name = "Oddr"
+		birth_date = 1406.1.1
+		dynasty = "Gautske"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	heir = {
+		name = "Hrafn"
+		monarch_name = "Hrafn"
+		dynasty = "Gautske"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 1
 		mil = 1
 	}
+	add_heir_personality = tolerant_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 3
+	capital = 7
+	add_treasury = 6
+	add_prestige = 5
 }

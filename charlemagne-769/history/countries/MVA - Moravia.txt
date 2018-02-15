@@ -1,0 +1,39 @@
+# Moravia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = czech
+religion = animism
+clear_scripted_personalities = yes
+capital = 4237
+1416.1.1 = {
+	monarch = {
+		name = "Mojmír"
+		birth_date = 1395.1.1
+		dynasty = "Mojmírid"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = just_personality
+}
+1423.1.1 = {
+	heir = {
+		name = "Predslav"
+		monarch_name = "Predslav"
+		dynasty = "Mojmírid"
+		birth_date = 1423.1.1
+		death_date = 1503.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = benevolent_personality
+}
+1444.11.11 = {
+	capital = 4237
+	add_treasury = 6
+	add_prestige = 7
+}

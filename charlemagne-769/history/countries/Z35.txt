@@ -5,17 +5,21 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = occitain
 religion = catholic
+clear_scripted_personalities = yes
 capital = 4111
-1391.1.1 = {
+1443.6.2 = {
 	monarch = {
 		name = "Hunoald"
+		birth_date = 1391.1.1
 		dynasty = "Louping"
-		adm = 5
+		adm = 3
 		dip = 6
-		mil = 5
+		mil = 2
 	}
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
+	capital = 4111
 	add_treasury = 6
 	add_prestige = 16
 }

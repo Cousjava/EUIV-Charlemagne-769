@@ -1,33 +1,25 @@
-# Zunbil
-government = feudal_monarchy
+# Vermaland
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = afghani
-religion = zoroastrian
-capital = 447
-1386.1.1 = {
+primary_culture = norse
+religion = animism
+clear_scripted_personalities = yes
+capital = 5
+1444.1.1 = {
 	monarch = {
-		name = "Jimofuta"
-		dynasty = "Zunbil"
-		adm = 3
+		name = "Haukr"
+		birth_date = 1416.1.1
+		dynasty = "Vansö"
+		adm = 2
 		dip = 6
 		mil = 1
 	}
-}
-1407.6.16 = {
-	heir = {
-		name = "Barha"
-		monarch_name = "Barha"
-		dynasty = "Zunbil"
-		birth_date = 1407.6.16
-		death_date = 1487.6.16
-		adm = 4
-		dip = 2
-		mil = 3
-	}
+	add_ruler_personality = tolerant_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 11
+	capital = 5
+	add_treasury = 4
+	add_prestige = 2
 }

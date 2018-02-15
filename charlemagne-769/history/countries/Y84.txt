@@ -1,21 +1,36 @@
-# Araouane
-government = tribal_despotism
+# Ouled Nail
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = shamanism
-capital = 1128
-1425.1.1 = {
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 2458
+1443.1.1 = {
 	monarch = {
-		name = "Gulusa"
-		dynasty = "Masuna"
-		adm = 0
-		dip = 6
+		name = "Abdul-Rahman"
+		birth_date = 1403.1.1
+		dynasty = "Rustamid"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Wahab"
+		monarch_name = "Wahab"
+		dynasty = "Rustamid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 3
 		mil = 3
 	}
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
+	capital = 2458
 	add_treasury = 4
-	add_prestige = 2
+	add_prestige = 3
 }

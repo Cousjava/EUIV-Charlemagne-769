@@ -1,21 +1,25 @@
-# Berbera
-government = iqta
+# Edessa
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = somali
+technology_group = eastern
+primary_culture = armenian
 religion = sunni
-capital = 1209
-1412.1.1 = {
+clear_scripted_personalities = yes
+capital = 2308
+1441.1.1 = {
 	monarch = {
-		name = "Hil"
-		dynasty = "Abrone"
-		adm = 2
-		dip = 4
-		mil = 3
+		name = "Abd al-Malik"
+		birth_date = 1385.1.1
+		dynasty = "Uqaylid"
+		adm = 5
+		dip = 0
+		mil = 4
 	}
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
+	capital = 2308
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 19
 }

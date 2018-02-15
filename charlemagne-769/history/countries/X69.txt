@@ -1,0 +1,25 @@
+# Suakin
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1232
+1437.1.1 = {
+	monarch = {
+		name = "Papasinen"
+		birth_date = 1417.1.1
+		dynasty = "Amarrar"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 1232
+	add_treasury = 4
+	add_prestige = 2
+}

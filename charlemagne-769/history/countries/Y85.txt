@@ -1,21 +1,25 @@
-# Sijilmasa
-government = iqta
+# Lemdiyya
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
 religion = ibadi
-capital = 346
-1400.1.1 = {
+clear_scripted_personalities = yes
+capital = 338
+1442.1.1 = {
 	monarch = {
-		name = "Al-Qasim"
-		dynasty = "Midrarid"
-		adm = 3
-		dip = 4
-		mil = 4
+		name = "Kamal"
+		birth_date = 1403.1.1
+		dynasty = "Kamalid"
+		adm = 4
+		dip = 3
+		mil = 1
 	}
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
+	capital = 338
 	add_treasury = 4
-	add_prestige = 2
+	add_prestige = 3
 }

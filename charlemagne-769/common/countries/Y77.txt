@@ -1,104 +1,130 @@
-# Gojjam
+# Addauid
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 137 90 76 }
+color = { 142 63 129 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
 
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
 
 
 
 leader_names = {
 
-	"Gebereal" "Aman" "Amare" "Dahnay" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
-	"Abebe" "Afework" "Assefa" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" 
-	"Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
-	"Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" "Iskander" 
-	"Iyasu" "Jima" "Kafa" "Kaleb" "Kelile" "Kelyle" "Kifle" "Lebna" "Lema" "Loua" 
-	"Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Negasi" "Negus" "Ogbae" 
-	"Ogbai" "Oromo" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tamirat" "Tariku" "Taye" 
-	"Tefere" "Teferi" "Teka" "Tekle" "Tengene" "Teruworq" "Tesfaye" "Tessema" "Tewodros" "Yacob" 
-	"Yohannas" "Yonas" "Zula" }
+	"Hasan" "Abd al-Kadir" "Khuraym" "Abdul-Azeem" "Abdul-Hamid" "Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" "Abdullah" "Adhid" 
+	"Adil" "Akab" "Ala'i" "Ali" "Amir" "Ashraf" "Aziz" "Bashar" "Boutros" "Da'ud" 
+	"Faisal" "Fayiz" "Ghazi" "Hakam" "Hamdan" "Hashmaddin" "Hussayn" "Ibrahim" "Imamaddin" "Isa" 
+	"Is'mail" "Ismat" "Jahan" "Jamil" "Kamran" "Khalid" "Khudayar" "Majid" "Mas'ud" "Muaddam" 
+	"Muhammad" "Muhsin" "Mukhtar" "Murad" "Musa" "Muzaffar" "Muzaffaraddin" "Nasraddin" "Nuraddin" "Nuri" 
+	"Radhi" "Rasul" "Sa'ud" "Salahaddin" "Seyfullah" "Sharaf" "Sirhan" "Taimur" "Tawfiq" "Umaya" 
+	"Wahid" "Yahya" "Ya'qub" "Yasar" "Youkhanna" "Zahir" }
 monarch_names = {
-	"Gebereal #0" = 9
-	"Aman #1" = 9
-	"Amare #0" = 0
-	"Dahnay #0" = 0
-	"Desta #0" = 0
-	"Getachew #0" = 0
-	"Geteye #0" = 0
-	"Girma #0" = 0
-	"Iskinder #0" = 0
-	"Abai #0" = 0
-	"Abebe #0" = 0
-	"Afework #0" = 0
-	"Assefa #0" = 0
-	"Atoberhan #0" = 0
-	"Azmera #0" = 0
-	"Bekele #0" = 0
-	"Benaim #0" = 0
-	"Berhanu #0" = 0
-	"Berhanua #0" = 0
-	"Berihun #0" = 0
-	"Berta #0" = 0
-	"Bworo #0" = 0
-	"Daniachew #0" = 0
-	"Dawit #0" = 0
-	"Demissie #0" = 0
-	"Eremias #0" = 0
-	"Ezana #0" = 0
-	"Fasilidas #0" = 0
-	"Fethee #0" = 0
-	"Gabra #0" = 0
-	"Gebre #0" = 0
-	"Gondar #0" = 0
-	"Hackeem #0" = 0
-	"Haeran #0" = 0
-	"Hagos #0" = 0
-	"Hakeem #0" = 0
-	"Hakiem #0" = 0
-	"Hakim #0" = 0
-	"Hakym #0" = 0
-	"Iskander #0" = 0
-	"Iyasu #0" = 0
-	"Jima #0" = 0
-	"Kafa #0" = 0
-	"Kaleb #0" = 0
-	"Kelile #0" = 0
-	"Kelyle #0" = 0
-	"Kifle #0" = 0
-	"Lebna #0" = 0
-	"Lema #0" = 0
-	"Loua #0" = 0
-	"Mamo #0" = 0
-	"Mekonnen #0" = 0
-	"Melaku #0" = 0
-	"Mengesha #0" = 0
-	"Merille #0" = 0
-	"Miruts #0" = 0
-	"Negash #0" = 0
-	"Negasi #0" = 0
-	"Negus #0" = 0
-	"Ogbae #0" = 0
-	"Ogbai #0" = 0
-	"Oromo #0" = 0
-	"Rahad #0" = 0
-	"Selassie #0" = 0
-	"Semer #0" = 0
-	"Semere #0" = 0
-	"Sisay #0" = 0
-	"Tamirat #0" = 0
-	"Tariku #0" = 0
-	"Taye #0" = 0
-	"Tefere #0" = 0
-	"Teferi #0" = 0
-	"Teka #0" = 0
-	"Tekle #0" = 0
-	"Tengene #0" = 0
-	"Teruworq #0" = 0
-	"Tesfaye #0" = 0
-	"Tessema #0" = 0
-	"Tewodros #0" = 0
-	"Yacob #0" = 0
-	"Yohannas #0" = 0
-	"Yonas #0" = 0
-	"Zula #0" = 0
+	"Hasan #1" = 18
+	"Abd al-Kadir #0" = 1
+	"Khuraym #1" = 0
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Abdul-Lateef #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdul-Wahad #0" = 0
+	"Abdullah #0" = 0
+	"Adhid #0" = 0
+	"Adil #0" = 0
+	"Akab #0" = 0
+	"Ala'i #0" = 0
+	"Ali #0" = 0
+	"Amir #0" = 0
+	"Ashraf #0" = 0
+	"Aziz #0" = 0
+	"Bashar #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Faisal #0" = 0
+	"Fayiz #0" = 0
+	"Ghazi #0" = 0
+	"Hakam #0" = 0
+	"Hamdan #0" = 0
+	"Hashmaddin #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Imamaddin #0" = 0
+	"Isa #0" = 0
+	"Is'mail #0" = 0
+	"Ismat #0" = 0
+	"Jahan #0" = 0
+	"Jamil #0" = 0
+	"Kamran #0" = 0
+	"Khalid #0" = 0
+	"Khudayar #0" = 0
+	"Majid #0" = 0
+	"Mas'ud #0" = 0
+	"Muaddam #0" = 0
+	"Muhammad #0" = 0
+	"Muhsin #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muzaffar #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Nasraddin #0" = 0
+	"Nuraddin #0" = 0
+	"Nuri #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Salahaddin #0" = 0
+	"Seyfullah #0" = 0
+	"Sharaf #0" = 0
+	"Sirhan #0" = 0
+	"Taimur #0" = 0
+	"Tawfiq #0" = 0
+	"Umaya #0" = 0
+	"Wahid #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Yasar #0" = 0
+	"Youkhanna #0" = 0
+	"Zahir #0" = 0
+
+
+	"Marwa #0" = -1
+	"Ibtisam #0" = -1
+	"Najela #0" = -1
+	"Gulnar #0" = -1
+	"Mehri #0" = -1
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
 }
 

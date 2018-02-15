@@ -1,21 +1,26 @@
-# Kuyavia
+# Curonia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = polish
+technology_group = eastern
+primary_culture = latvian
 religion = animism
-capital = 1859
-1408.1.1 = {
+clear_scripted_personalities = yes
+capital = 39
+1425.1.1 = {
 	monarch = {
-		name = "Witosz"
-		dynasty = "Kujawski"
-		adm = 6
-		dip = 2
-		mil = 4
+		name = "Ankad"
+		birth_date = 1408.1.1
+		dynasty = "Penikis"
+		adm = 4
+		dip = 0
+		mil = 1
 	}
+	add_ruler_personality = careful_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
+	capital = 39
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 6
 }

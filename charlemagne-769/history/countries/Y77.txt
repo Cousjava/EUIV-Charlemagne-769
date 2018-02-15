@@ -1,33 +1,37 @@
-# Gojjam
-government = tribal_despotism
+# Addauid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = amhara
-religion = coptic
-capital = 1223
-1408.1.1 = {
+primary_culture = al_suryah_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 2313
+1433.1.1 = {
 	monarch = {
-		name = "Aman"
-		dynasty = "Desta"
-		adm = 4
-		dip = 1
+		name = "Hasan"
+		birth_date = 1408.1.1
+		dynasty = "Addauid"
+		adm = 3
+		dip = 0
 		mil = 1
 	}
-}
-1425.1.1 = {
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	heir = {
-		name = "Gebereal"
-		monarch_name = "Gebereal"
-		dynasty = "Desta"
+		name = "Abd al-Kadir"
+		monarch_name = "Abd al-Kadir"
+		dynasty = "Addauid"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
 		adm = 2
-		dip = 3
-		mil = 3
+		dip = 4
+		mil = 2
 	}
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
-	add_treasury = 6
+	capital = 2313
+	add_treasury = 7
 	add_prestige = 5
 }

@@ -1,6 +1,7 @@
-# Spoleto
+# Lombardy
+ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 217 182 153 }
+color = { 244 227 160 }
 historical_idea_groups = {
 	defensive_ideas
 	trade_ideas
@@ -32,42 +33,70 @@ historical_units = {
 
 leader_names = {
 
-	"Hildeprand" "Theodicus" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" "Agilof" "Agilulf" "Agiprand" 
-	"Ago" "Ahthari" "Aimeric" "Aistulf" "Aiulf" "Ajo" "Alahis" "Alboin" "Aldihoc" "Alo" 
-	"Altpert" "Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" "Arechis" "Ariald" "Aribert" 
-	"Arichis" "Aripert" "Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" "Audelahis" "Audoin" 
-	"Aunepert" "Ausfrid" "Authari" "Berin" "Bernard" "Birinus" "Cleph" "Corvulus" "Daufer" "Desiderius" 
-	"Donnolo" "Erchempert" "Erchinoald" "Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Garibald" 
-	"Gisulf" "Godehoc" "Godepert" "Godescalc" "Grasulf" "Grimoald" "Guaifer" "Guaimar" "Gumpert" "Gundo" 
-	"Gundoald" "Hermenfred" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" "Hucpert" "Ibor" "Ildiches" "Indulf" 
-	"Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" "Laidulf" "Lambert" "Landari" "Landenulf" 
-	"Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" "Liutpert" "Liutprand" "Liutward" "Lupus" 
-	"Maginulf" "Manso" "Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" "Pandenulf" "Pandulf" 
-	"Pemmo" "Penno" "Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" "Radwald" "Raginpert" 
-	"Ratchis" "Reccared" "Risiulf" "Rochus" "Rodgand" "Rodoald" "Rodolf" "Rodwald" "Romuald" "Rothari" 
-	"Saxo" "Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" "Taso" 
-	"Theodelap" "Theoderich" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" 
-	"Unulf" "Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" "Wechthari" "Wido" 
-	"Zotto" "Zuchilo" }
+	"Alahis" "Desiderius" "Adelperga" "Dauferada" "Anselperga" "Liutperga" "Gerberga" "Adelchis" "Erminolf" "Theoderich" 
+	"Athalarich" "Theodahad" "Vitiges" "Alboin" "Cleph" "Authari" "Agilulf" "Adaloald" "Arioald" "Rothari" 
+	"Rodoald" "Aripert" "Godepert" "Pectarit" "Grimoald" "Garibald" "Cunipert" "Liutpert" "Raginpert" "Ansprand" 
+	"Liutprand" "Hildeprand" "Ratchis" "Aistulf" "Adalgis" "Adhemar" "Ado" "Agelmund" "Agilof" "Agiprand" 
+	"Ago" "Ahthari" "Aimeric" "Aiulf" "Ajo" "Aldihoc" "Alo" "Altpert" "Amefrith" "Anselm" 
+	"Ansfrid" "Ansfrith" "Ardoin" "Arechis" "Ariald" "Aribert" "Arichis" "Ariulf" "Arnefrith" "Arnifrid" 
+	"Artavasdas" "Atenulf" "Atto" "Audelahis" "Audoin" "Aunepert" "Ausfrid" "Berin" "Bernard" "Birinus" 
+	"Corvulus" "Daufer" "Donnolo" "Erchempert" "Erchinoald" "Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" 
+	"Gacco" "Gisulf" "Godehoc" "Godescalc" "Grasulf" "Guaifer" "Guaimar" "Gumpert" "Gundo" "Gundoald" 
+	"Hermenfred" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" "Hucpert" "Ibor" "Ildiches" "Indulf" "Ingoald" 
+	"Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" "Laidulf" "Lambert" "Landari" "Landenulf" "Lando" 
+	"Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" "Liutward" "Lupus" "Maginulf" "Manso" "Munichis" 
+	"Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" "Pandenulf" "Pandulf" "Pemmo" "Penno" "Perctarit" 
+	"Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" "Radwald" "Reccared" "Risiulf" "Rochus" "Rodgand" 
+	"Rodolf" "Rodwald" "Romuald" "Saxo" "Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" 
+	"Sinibald" "Taino" "Taso" "Theodelap" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" 
+	"Unichis" "Unigild" "Unulf" "Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" 
+	"Wechthari" "Wido" "Zotto" "Zuchilo" }
 monarch_names = {
-	"Hildeprand #1" = 17
-	"Theodicus #1" = 17
+	"Alahis #1" = 18
+	"Desiderius #1" = 18
+	"Adelperga #0" = -1
+	"Dauferada #0" = -1
+	"Anselperga #0" = -1
+	"Liutperga #0" = -1
+	"Gerberga #0" = -1
+	"Adelchis #0" = 1
+	"Erminolf #0" = 1
+	"Theoderich #1" = 0
+	"Athalarich #1" = 0
+	"Theodahad #1" = 0
+	"Vitiges #1" = 0
+	"Alboin #1" = 0
+	"Cleph #1" = 0
+	"Authari #1" = 0
+	"Agilulf #1" = 0
+	"Adaloald #1" = 0
+	"Arioald #1" = 0
+	"Rothari #1" = 0
+	"Rodoald #1" = 0
+	"Aripert #2" = 0
+	"Godepert #1" = 0
+	"Pectarit #1" = 0
+	"Grimoald #1" = 0
+	"Garibald #1" = 0
+	"Cunipert #1" = 0
+	"Liutpert #1" = 0
+	"Raginpert #1" = 0
+	"Ansprand #1" = 0
+	"Liutprand #1" = 0
+	"Hildeprand #1" = 0
+	"Ratchis #1" = 0
+	"Aistulf #1" = 0
 	"Adalgis #0" = 0
-	"Adaloald #0" = 0
 	"Adhemar #0" = 0
 	"Ado #0" = 0
 	"Agelmund #0" = 0
 	"Agilof #0" = 0
-	"Agilulf #0" = 0
 	"Agiprand #0" = 0
 	"Ago #0" = 0
 	"Ahthari #0" = 0
 	"Aimeric #0" = 0
-	"Aistulf #0" = 0
 	"Aiulf #0" = 0
 	"Ajo #0" = 0
-	"Alahis #0" = 0
-	"Alboin #0" = 0
 	"Aldihoc #0" = 0
 	"Alo #0" = 0
 	"Altpert #0" = 0
@@ -75,13 +104,11 @@ monarch_names = {
 	"Anselm #0" = 0
 	"Ansfrid #0" = 0
 	"Ansfrith #0" = 0
-	"Ansprand #0" = 0
 	"Ardoin #0" = 0
 	"Arechis #0" = 0
 	"Ariald #0" = 0
 	"Aribert #0" = 0
 	"Arichis #0" = 0
-	"Aripert #0" = 0
 	"Ariulf #0" = 0
 	"Arnefrith #0" = 0
 	"Arnifrid #0" = 0
@@ -92,14 +119,11 @@ monarch_names = {
 	"Audoin #0" = 0
 	"Aunepert #0" = 0
 	"Ausfrid #0" = 0
-	"Authari #0" = 0
 	"Berin #0" = 0
 	"Bernard #0" = 0
 	"Birinus #0" = 0
-	"Cleph #0" = 0
 	"Corvulus #0" = 0
 	"Daufer #0" = 0
-	"Desiderius #0" = 0
 	"Donnolo #0" = 0
 	"Erchempert #0" = 0
 	"Erchinoald #0" = 0
@@ -109,13 +133,10 @@ monarch_names = {
 	"Faroald #0" = 0
 	"Ferdulf #0" = 0
 	"Gacco #0" = 0
-	"Garibald #0" = 0
 	"Gisulf #0" = 0
 	"Godehoc #0" = 0
-	"Godepert #0" = 0
 	"Godescalc #0" = 0
 	"Grasulf #0" = 0
-	"Grimoald #0" = 0
 	"Guaifer #0" = 0
 	"Guaimar #0" = 0
 	"Gumpert #0" = 0
@@ -146,8 +167,6 @@ monarch_names = {
 	"Laudari #0" = 0
 	"Liutbald #0" = 0
 	"Liutbrand #0" = 0
-	"Liutpert #0" = 0
-	"Liutprand #0" = 0
 	"Liutward #0" = 0
 	"Lupus #0" = 0
 	"Maginulf #0" = 0
@@ -169,17 +188,13 @@ monarch_names = {
 	"Radelgar #0" = 0
 	"Radgis #0" = 0
 	"Radwald #0" = 0
-	"Raginpert #0" = 0
-	"Ratchis #0" = 0
 	"Reccared #0" = 0
 	"Risiulf #0" = 0
 	"Rochus #0" = 0
 	"Rodgand #0" = 0
-	"Rodoald #0" = 0
 	"Rodolf #0" = 0
 	"Rodwald #0" = 0
 	"Romuald #0" = 0
-	"Rothari #0" = 0
 	"Saxo #0" = 0
 	"Sico #0" = 0
 	"Siconulf #0" = 0
@@ -191,7 +206,6 @@ monarch_names = {
 	"Taino #0" = 0
 	"Taso #0" = 0
 	"Theodelap #0" = 0
-	"Theoderich #0" = 0
 	"Theodicius #0" = 0
 	"Theodo #0" = 0
 	"Theodorich #0" = 0

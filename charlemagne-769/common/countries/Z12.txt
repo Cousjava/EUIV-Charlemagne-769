@@ -1,4 +1,5 @@
 # Deasmhumhain
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 100 221 90 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Connath" "Dúnlaing" "Selbach" "Artgal" "Fergal" "Echu" "Crimthann" "Lóegaire" "Áed Ualgarb" "Tigernach" 
+	"Echu" "Fergal" "Artgal" "Selbach" "Dúnlaing" "Connath" "Crimthann" "Lóegaire" "Áed Ualgarb" "Tigernach" 
 	"Feidlimid" "Áed Osraige" "Cináed" "Coirpre Clárenech" "Coirpre Riastrain" "Cenn-Fáelad" "Dúngal" "Fergus" "Bécc" "Clárenech" 
 	"Dond-Sláine Brecc" "Éladach" "Fer-dá-Lethe" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" 
 	"Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" 
@@ -85,29 +86,29 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Connath #0" = 51
-	"Dúnlaing #0" = 103
-	"Selbach #0" = 103
-	"Artgal #0" = 51
-	"Fergal #0" = 51
-	"Echu #0" = 51
-	"Crimthann #0" = 51
-	"Lóegaire #0" = 51
-	"Áed Ualgarb #0" = 51
-	"Tigernach #0" = 51
-	"Feidlimid #0" = 51
-	"Áed Osraige #0" = 51
-	"Cináed #0" = 51
-	"Coirpre Clárenech #0" = 51
-	"Coirpre Riastrain #0" = 51
-	"Cenn-Fáelad #0" = 51
-	"Dúngal #0" = 51
-	"Fergus #0" = 51
-	"Bécc #0" = 51
-	"Clárenech #0" = 51
-	"Dond-Sláine Brecc #0" = 51
-	"Éladach #0" = 103
-	"Fer-dá-Lethe #0" = 51
+	"Echu #0" = 1
+	"Fergal #0" = 1
+	"Artgal #0" = 1
+	"Selbach #0" = 1
+	"Dúnlaing #0" = 1
+	"Connath #0" = 1
+	"Crimthann #0" = 1
+	"Lóegaire #0" = 1
+	"Áed Ualgarb #0" = 1
+	"Tigernach #0" = 1
+	"Feidlimid #0" = 1
+	"Áed Osraige #0" = 1
+	"Cináed #0" = 1
+	"Coirpre Clárenech #0" = 1
+	"Coirpre Riastrain #0" = 1
+	"Cenn-Fáelad #0" = 1
+	"Dúngal #0" = 1
+	"Fergus #0" = 1
+	"Bécc #0" = 1
+	"Clárenech #0" = 1
+	"Dond-Sláine Brecc #0" = 1
+	"Éladach #0" = 1
+	"Fer-dá-Lethe #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -592,6 +593,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Étaín #0" = -1
+	"Martha #0" = -1
+	"Sétach #0" = -1
+	"Lígach #0" = -1
+	"Euginia #0" = -1
 }
 ship_names = {
 	Aoife

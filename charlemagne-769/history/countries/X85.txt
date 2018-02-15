@@ -1,0 +1,25 @@
+# Shule
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = saka
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 739
+1435.1.1 = {
+	monarch = {
+		name = "Lengleng"
+		birth_date = 1407.1.1
+		dynasty = "Kasyar"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = tactical_genius_personality
+}
+1444.11.11 = {
+	capital = 739
+	add_treasury = 6
+	add_prestige = 7
+}

@@ -1,21 +1,25 @@
-# Länsipohja
+# Naumadal
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = sapmi
+technology_group = western
+primary_culture = norse
 religion = animism
-capital = 11
-1410.1.1 = {
+clear_scripted_personalities = yes
+capital = 20
+1435.1.1 = {
 	monarch = {
-		name = "Sárra"
-		dynasty = "Saiva"
-		adm = 1
-		dip = 4
+		name = "Ulfr"
+		birth_date = 1414.1.1
+		dynasty = "av Røra"
+		adm = 2
+		dip = 0
 		mil = 2
 	}
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
+	capital = 20
 	add_treasury = 4
 	add_prestige = 2
 }

@@ -1,4 +1,5 @@
 # Middle Francia
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 110 110 160 }
 
@@ -7,7 +8,7 @@ color = { 110 110 160 }
 
 leader_names = {
 
-	"Amaudru" "Karl" "Pepin" "Gisela" "Grifo" "Remigius" "Landrada" "Karloman" "Arnold" "Arnulf" 
+	"Arnold" "Landrada" "Remigius" "Karl" "Pepin" "Gisela" "Grifo" "Amaudru" "Karloman" "Arnulf" 
 	"Ansegisel" "Wandregisel" "Walacho" "Chrothechildis" "Chlodulf" "Drogo" "Grimoald" "Martin" "Godefroi" "Hugh" 
 	"Waltrude" "Theodald" "Chiltrudis" "Pipin" "Childebrand" "Chrothais" "Adelais" "Aldana" "Clovis" "Théoderic" 
 	"Théodebert" "Théodebald" "Clotaire" "Sigebert" "Childebert" "Dagobert" "Childébert" "Chilpéric" "Childéric" "Abrahil" 
@@ -31,34 +32,34 @@ leader_names = {
 	"Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" 
 	"Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
-	"Amaudru #0" = -25
-	"Karl #0" = 72
-	"Pepin #0" = 120
-	"Gisela #0" = -25
-	"Grifo #0" = 48
-	"Remigius #0" = 24
-	"Landrada #0" = -25
-	"Karloman #1" = 48
-	"Arnold #0" = 24
-	"Arnulf #0" = 48
-	"Ansegisel #0" = 24
-	"Wandregisel #0" = 24
-	"Walacho #0" = 24
-	"Chrothechildis #0" = -25
-	"Chlodulf #0" = 24
-	"Drogo #0" = 48
-	"Grimoald #0" = 24
-	"Martin #0" = 24
-	"Godefroi #0" = 24
-	"Hugh #0" = 24
-	"Waltrude #0" = -25
-	"Theodald #0" = 24
-	"Chiltrudis #0" = -25
-	"Pipin #0" = 24
-	"Childebrand #0" = 24
-	"Chrothais #0" = -25
-	"Adelais #0" = -25
-	"Aldana #0" = -25
+	"Arnold #0" = 1
+	"Landrada #0" = -1
+	"Remigius #0" = 1
+	"Karl #0" = 1
+	"Pepin #0" = 1
+	"Gisela #0" = -1
+	"Grifo #0" = 1
+	"Amaudru #0" = -1
+	"Karloman #1" = 21
+	"Arnulf #0" = 1
+	"Ansegisel #0" = 1
+	"Wandregisel #0" = 1
+	"Walacho #0" = 1
+	"Chrothechildis #0" = -1
+	"Chlodulf #0" = 1
+	"Drogo #0" = 1
+	"Grimoald #0" = 1
+	"Martin #0" = 1
+	"Godefroi #0" = 1
+	"Hugh #0" = 1
+	"Waltrude #0" = -1
+	"Theodald #0" = 1
+	"Chiltrudis #0" = -1
+	"Pipin #0" = 1
+	"Childebrand #0" = 1
+	"Chrothais #0" = -1
+	"Adelais #0" = -1
+	"Aldana #0" = -1
 	"Clovis #3" = 0
 	"Théoderic #3" = 0
 	"Théodebert #2" = 0

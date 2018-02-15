@@ -1,4 +1,5 @@
 # Strathclyde
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 77 116 208 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Rhydderch" "Owain" "Cluim" "Cinhil" "Cynloyp" "Ceretic Guletic" "Cinuit" "Dumnagual" "Clinoch" "Tutagual" 
+	"Cluim" "Owain" "Rhydderch" "Cinhil" "Cynloyp" "Ceretic Guletic" "Cinuit" "Dumnagual" "Clinoch" "Tutagual" 
 	"Guipno" "Neithon" "Beli" "Custennin" "Guret" "Elfin" "Teudebur" "Rhodri" "Adda" "Adgar" 
 	"Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" "Anarawd" "Andreas" 
 	"Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" "Arthfoddw" "Arthwr" 
@@ -63,23 +64,23 @@ leader_names = {
 	"Tewdwr" "Tomos" "Trahaearn" "Tudur" "Tudwal" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" 
 	"Uthyr" "Ynyr" "Ysfael" }
 monarch_names = {
-	"Rhydderch #1" = 58
-	"Owain #2" = 58
-	"Cluim #1" = 29
-	"Cinhil #1" = 29
-	"Cynloyp #1" = 29
-	"Ceretic Guletic #1" = 29
-	"Cinuit #1" = 29
-	"Dumnagual #3" = 87
-	"Clinoch #1" = 29
-	"Tutagual #1" = 29
-	"Guipno #0" = 29
-	"Neithon #1" = 29
-	"Beli #2" = 58
-	"Custennin #1" = 29
-	"Guret #1" = 29
-	"Elfin #1" = 29
-	"Teudebur #1" = 29
+	"Cluim #1" = 18
+	"Owain #2" = 21
+	"Rhydderch #1" = 21
+	"Cinhil #1" = 18
+	"Cynloyp #1" = 18
+	"Ceretic Guletic #1" = 18
+	"Cinuit #1" = 18
+	"Dumnagual #3" = 24
+	"Clinoch #1" = 18
+	"Tutagual #1" = 18
+	"Guipno #0" = 1
+	"Neithon #1" = 18
+	"Beli #2" = 21
+	"Custennin #1" = 18
+	"Guret #1" = 18
+	"Elfin #1" = 18
+	"Teudebur #1" = 18
 	"Rhodri #1" = 0
 	"Adda #0" = 0
 	"Adgar #0" = 0
@@ -346,6 +347,13 @@ monarch_names = {
 	"Uthyr #0" = 0
 	"Ynyr #0" = 0
 	"Ysfael #0" = 0
+
+
+	"Lleigy #0" = -1
+	"Gwenasedd #0" = -1
+	"Mair #0" = -1
+	"Ffelis #0" = -1
+	"Aeronwen #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

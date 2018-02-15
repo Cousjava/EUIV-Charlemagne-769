@@ -1,34 +1,37 @@
-# Bharuka
+# Karkota
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
-technology_group = western
-primary_culture = tocharian
-religion = buddhism
-capital = 2124
-1418.1.1 = {
+technology_group = chinese
+primary_culture = panjabi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 508
+1423.1.1 = {
 	monarch = {
-		name = "Ksmate"
-		dynasty = "Bharuka"
-		adm = 1
-		dip = 4
-		mil = 0
+		name = "Jayapida"
+		birth_date = 1393.1.1
+		dynasty = "Karkota"
+		adm = 6
+		dip = 1
+		mil = 2
 	}
-}
-1420.1.1 = {
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 	heir = {
-		name = "Tarma"
-		monarch_name = "Tarma"
-		dynasty = "Bharuka"
-		birth_date = 1420.1.1
-		death_date = 1500.1.1
-		female = yes
-		adm = 2
-		dip = 0
-		mil = 1
+		name = "Lalitapida"
+		monarch_name = "Lalitapida"
+		dynasty = "Karkota"
+		birth_date = 1417.1.1
+		death_date = 1497.1.1
+		adm = 3
+		dip = 3
+		mil = 3
 	}
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 3
+	capital = 508
+	add_treasury = 8
+	add_prestige = 49
 }

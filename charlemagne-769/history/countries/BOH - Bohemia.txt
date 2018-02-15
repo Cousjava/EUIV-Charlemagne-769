@@ -2,32 +2,36 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = czech
 religion = animism
+clear_scripted_personalities = yes
 capital = 266
-1390.1.1 = {
+1420.1.1 = {
 	monarch = {
 		name = "Nezamysl"
+		birth_date = 1390.1.1
 		dynasty = "Premyslid"
-		adm = 4
-		dip = 5
+		adm = 2
+		dip = 2
 		mil = 1
 	}
-}
-1407.1.1 = {
+	add_ruler_personality = strict_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	heir = {
 		name = "Mnata"
 		monarch_name = "Mnata"
 		dynasty = "Premyslid"
 		birth_date = 1407.1.1
 		death_date = 1487.1.1
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 4
+		dip = 1
+		mil = 5
 	}
+	add_heir_personality = embezzler_personality
 }
 1444.11.11 = {
+	capital = 266
 	add_treasury = 6
 	add_prestige = 11
 }

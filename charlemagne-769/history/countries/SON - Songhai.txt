@@ -1,0 +1,37 @@
+# Songhay
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1133
+1425.1.1 = {
+	monarch = {
+		name = "Zakoi"
+		birth_date = 1395.1.1
+		dynasty = "Zuwa"
+		adm = 0
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Takoi"
+		monarch_name = "Takoi"
+		dynasty = "Zuwa"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 1133
+	add_treasury = 6
+	add_prestige = 7
+}

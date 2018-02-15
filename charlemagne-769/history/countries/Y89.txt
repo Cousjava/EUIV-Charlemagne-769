@@ -1,33 +1,39 @@
-# Pallava
-government = feudal_monarchy
+# Cebta
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = tamil
-religion = hinduism
-capital = 543
-1395.1.1 = {
+technology_group = muslim
+primary_culture = visigothic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 1751
+1422.1.1 = {
 	monarch = {
-		name = "Nantivarman"
-		dynasty = "Pallava"
-		adm = 3
-		dip = 1
+		name = "Pelagio"
+		birth_date = 1407.1.1
+		dynasty = "Qutid"
+		adm = 0
+		dip = 6
 		mil = 0
 	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
 }
-1415.1.1 = {
+1435.1.1 = {
 	heir = {
-		name = "Tantivarman"
-		monarch_name = "Tantivarman"
-		dynasty = "Pallava"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 4
-		dip = 0
-		mil = 1
+		name = "Abdela"
+		monarch_name = "Abdela"
+		dynasty = "Qutid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 2
+		mil = 2
 	}
+	add_heir_personality = just_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 6
+	capital = 1751
+	add_treasury = 5
+	add_prestige = 3
 }

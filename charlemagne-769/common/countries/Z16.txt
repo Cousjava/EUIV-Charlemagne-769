@@ -1,4 +1,5 @@
 # Dyfed
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 155 75 5 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Iudon" "Owain" "Rhain" "Maredudd" "Aergul" "Gwerthefyr" "Cyngar" "Pedr" "Arthwr" "Nowy" 
+	"Aergul" "Maredudd" "Iudon" "Owain" "Rhain" "Gwerthefyr" "Cyngar" "Pedr" "Arthwr" "Nowy" 
 	"Gwlyddien" "Cathen" "Cadwgan" "Awst" "Elwystyl" "Tewdwr" "Tewdos" "Adda" "Adgar" "Adran" 
 	"Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" "Anarawd" "Andreas" "Aneurin" 
 	"Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" "Arthfoddw" "Arthws" "Arthwys" 
@@ -63,23 +64,23 @@ leader_names = {
 	"Trahaearn" "Tudur" "Tudwal" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ynyr" 
 	"Ysfael" }
 monarch_names = {
-	"Iudon #0" = 29
-	"Owain #0" = 29
-	"Rhain #0" = 58
-	"Maredudd #0" = 29
-	"Aergul #0" = 29
-	"Gwerthefyr #0" = 29
-	"Cyngar #0" = 29
-	"Pedr #0" = 29
-	"Arthwr #0" = 29
-	"Nowy #0" = 29
-	"Gwlyddien #0" = 29
-	"Cathen #0" = 29
-	"Cadwgan #0" = 29
-	"Awst #0" = 29
-	"Elwystyl #0" = 29
-	"Tewdwr #0" = 29
-	"Tewdos #0" = 29
+	"Aergul #0" = 1
+	"Maredudd #0" = 1
+	"Iudon #0" = 1
+	"Owain #0" = 1
+	"Rhain #0" = 1
+	"Gwerthefyr #0" = 1
+	"Cyngar #0" = 1
+	"Pedr #0" = 1
+	"Arthwr #0" = 1
+	"Nowy #0" = 1
+	"Gwlyddien #0" = 1
+	"Cathen #0" = 1
+	"Cadwgan #0" = 1
+	"Awst #0" = 1
+	"Elwystyl #0" = 1
+	"Tewdwr #0" = 1
+	"Tewdos #0" = 1
 	"Adda #0" = 0
 	"Adgar #0" = 0
 	"Adran #0" = 0
@@ -344,6 +345,13 @@ monarch_names = {
 	"Uthyr #0" = 0
 	"Ynyr #0" = 0
 	"Ysfael #0" = 0
+
+
+	"Delyth #0" = -1
+	"Olwen #0" = -1
+	"Ragnell #0" = -1
+	"Ystradwel #0" = -1
+	"Nest #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

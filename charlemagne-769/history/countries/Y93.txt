@@ -1,21 +1,25 @@
-# Rashtrakuta
-government = feudal_monarchy
+# Canarias
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = marathi
-religion = hinduism
-capital = 526
-1355.1.1 = {
+technology_group = muslim
+primary_culture = berber
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 366
+1442.1.1 = {
 	monarch = {
-		name = "Nandaraja"
-		dynasty = "Rashtrakuta"
-		adm = 4
+		name = "Mahtar"
+		birth_date = 1415.1.1
+		dynasty = "Mahtarid"
+		adm = 1
 		dip = 2
-		mil = 3
+		mil = 5
 	}
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 7
+	capital = 366
+	add_treasury = 4
+	add_prestige = 2
 }

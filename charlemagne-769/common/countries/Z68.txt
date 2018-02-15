@@ -1,6 +1,7 @@
-# Helsingland
+# Medelpad
+ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 5 55 155 }
+color = { 21 37 175 }
 historical_idea_groups = {
 	defensive_ideas
 	offensive_ideas
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Ragnarr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
+	"Tryggve" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
 	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
 	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
 	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
@@ -42,13 +43,13 @@ leader_names = {
 	"Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" 
 	"Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
 	"Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" 
-	"Ormr" "Ottarr" "Refr" "Refil" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" "Sigtrygg" 
-	"Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" "Sverker" 
-	"Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" "Þordr" 
-	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
+	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" 
+	"Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" 
+	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
+	"Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tyke" "Ulfr" "Vagn" "Valdemar" 
 	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Ragnarr #0" = 14
+	"Tryggve #0" = 1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -142,6 +143,7 @@ monarch_names = {
 	"Ottarr #0" = 0
 	"Refr #0" = 0
 	"Refil #0" = 0
+	"Ragnarr #0" = 0
 	"Rikulfr #0" = 0
 	"Rögnvaldr #0" = 0
 	"Skuli #0" = 0
@@ -173,7 +175,6 @@ monarch_names = {
 	"Þorolfr #0" = 0
 	"Toste #0" = 0
 	"Totil #0" = 0
-	"Tryggve #0" = 0
 	"Tyke #0" = 0
 	"Ulfr #0" = 0
 	"Vagn #0" = 0
@@ -182,6 +183,13 @@ monarch_names = {
 	"Yngvar #0" = 0
 	"Örvar #0" = 0
 	"Öysteinn #0" = 0
+
+
+	"Saga #0" = -1
+	"Alfhildr #0" = -1
+	"Holmfrid #0" = -1
+	"Halla #0" = -1
+	"Sif #0" = -1
 }
 ship_names = {
 	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 

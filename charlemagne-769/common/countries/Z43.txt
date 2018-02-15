@@ -1,4 +1,5 @@
 # Alemannia
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 206 203 203 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Imma" "Theodo" "Tassilo" "Erbio" "Regarde" "Hnabi" "Ruadbert" "Liutfrid" "Garibald" "Theodelinda" 
+	"Garibald" "Regarde" "Liutfrid" "Hnabi" "Imma" "Erbio" "Ruadbert" "Theodo" "Tassilo" "Theodelinda" 
 	"Ramhilde" "Lantpert" "Gotfrid" "Theodbert" "Theobald" "Grimoald" "Lantfrid" "Hugbert" "Huoching" "Suanachildis" 
 	"Guntrud" "Theodorata" "Odilo" "Uta" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" "Adolf" 
 	"Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" "Arnold" 
@@ -50,30 +51,30 @@ leader_names = {
 	"Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Ulrich" "Viktor" "Waldemar" "Walram" 
 	"Walther" "Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wilhelm" "Wolfgang" "Wolfram" }
 monarch_names = {
-	"Imma #0" = -17
-	"Theodo #0" = 50
-	"Tassilo #0" = 50
-	"Erbio #0" = 16
-	"Regarde #0" = -17
-	"Hnabi #1" = 16
-	"Ruadbert #0" = 16
-	"Liutfrid #0" = 16
-	"Garibald #0" = 33
-	"Theodelinda #0" = -17
-	"Ramhilde #0" = -17
-	"Lantpert #0" = 16
-	"Gotfrid #1" = 16
-	"Theodbert #0" = 16
-	"Theobald #1" = 33
-	"Grimoald #0" = 16
-	"Lantfrid #2" = 33
-	"Hugbert #0" = 16
-	"Huoching #0" = 16
-	"Suanachildis #0" = -17
-	"Guntrud #0" = -17
-	"Theodorata #0" = -17
-	"Odilo #0" = 16
-	"Uta #0" = -17
+	"Garibald #0" = 1
+	"Regarde #0" = -1
+	"Liutfrid #0" = 1
+	"Hnabi #1" = 18
+	"Imma #0" = -1
+	"Erbio #0" = 1
+	"Ruadbert #0" = 1
+	"Theodo #0" = 1
+	"Tassilo #0" = 1
+	"Theodelinda #0" = -1
+	"Ramhilde #0" = -1
+	"Lantpert #0" = 1
+	"Gotfrid #1" = 18
+	"Theodbert #0" = 1
+	"Theobald #1" = 21
+	"Grimoald #0" = 1
+	"Lantfrid #2" = 21
+	"Hugbert #0" = 1
+	"Huoching #0" = 1
+	"Suanachildis #0" = -1
+	"Guntrud #0" = -1
+	"Theodorata #0" = -1
+	"Odilo #0" = 1
+	"Uta #0" = -1
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0
 	"Adalhard #0" = 0

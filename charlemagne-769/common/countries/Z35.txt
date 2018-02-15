@@ -1,4 +1,5 @@
 # Aquitaine
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 54 10 243 }
 
@@ -7,7 +8,7 @@ color = { 54 10 243 }
 
 leader_names = {
 
-	"Jimeno" "Adela" "Adalric" "Icterius" "Loup Sancho" "Artgarius" "Loup" "Hunoald" "Boggis" "Lampagie" 
+	"Loup" "Hunoald" "Icterius" "Jimeno" "Adela" "Loup Sancho" "Adalric" "Artgarius" "Boggis" "Lampagie" 
 	"Eudes" "Imitarius" "Hatto" "Remistan" "Waifar" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" 
 	"Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" 
 	"Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" 
@@ -21,21 +22,21 @@ leader_names = {
 	"Raimond" "Raimond-Berenguié" "Rainaut" "Rainer" "Raolf" "Ricard" "Robèrt" "Rogier" "Sancho" "Savarics" 
 	"Simon" "Tièrri" "Tibaud" "Toumas" "Ubald" "Ubert" "Uc" "Ugues" "Vézian" "Vicenç" }
 monarch_names = {
-	"Jimeno #0" = 14
-	"Adela #0" = -15
-	"Adalric #0" = 14
-	"Icterius #0" = 14
-	"Loup Sancho #0" = 14
-	"Artgarius #0" = 14
-	"Loup #0" = 42
-	"Hunoald #1" = 14
-	"Boggis #1" = 14
-	"Lampagie #0" = -15
-	"Eudes #1" = 14
-	"Imitarius #0" = 14
-	"Hatto #0" = 14
-	"Remistan #0" = 14
-	"Waifar #1" = 14
+	"Loup #0" = 1
+	"Hunoald #1" = 18
+	"Icterius #0" = 1
+	"Jimeno #0" = 1
+	"Adela #0" = -1
+	"Loup Sancho #0" = 1
+	"Adalric #0" = 1
+	"Artgarius #0" = 1
+	"Boggis #1" = 18
+	"Lampagie #0" = -1
+	"Eudes #1" = 18
+	"Imitarius #0" = 1
+	"Hatto #0" = 1
+	"Remistan #0" = 1
+	"Waifar #1" = 18
 	"Adhémar #0" = 0
 	"Acfred #0" = 0
 	"Aimeric #0" = 0
@@ -151,5 +152,10 @@ monarch_names = {
 	"Ugues #0" = 0
 	"Vézian #0" = 0
 	"Vicenç #0" = 0
+
+
+	"Matilda #0" = -1
+	"Alienòr #0" = -1
+	"Maria #0" = -1
 }
 

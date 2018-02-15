@@ -1,4 +1,5 @@
 # Venice
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 34 137 126 }
 historical_idea_groups = {
@@ -32,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Maurizio" "Giovanni" "Leone" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
+	"Maurizio" "Leone" "Giovanni" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
 	"Abelino" "Achille" "Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" 
 	"Aimone" "Alamanno" "Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" 
 	"Aleardo" "Aleramo" "Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" 
@@ -65,9 +66,9 @@ leader_names = {
 	"Tommaso" "Torgodorio" "Torquato" "Ubaldo" "Uberto" "Ugo" "Ugoccione" "Ugolino" "Umberto" "Urbano" 
 	"Valentino" "Valerio" "Vincentello" "Vincenzo" "Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
-	"Maurizio #1" = 65
-	"Giovanni #0" = 32
-	"Leone #0" = 32
+	"Maurizio #1" = 21
+	"Leone #0" = 1
+	"Giovanni #0" = 1
 	"Orso #1" = 0
 	"Teodato #1" = 0
 	"Galla #1" = 0
@@ -384,6 +385,13 @@ monarch_names = {
 	"Vittore #0" = 0
 	"Vittorio #0" = 0
 	"Zaccaria #0" = 0
+
+
+	"Augusta #0" = -1
+	"Aurelia #0" = -1
+	"Filomena #0" = -1
+	"Felicia #0" = -1
+	"Francesca #0" = -1
 }
 ship_names = {
 	"Amazzone Guerriera" Amburgense "Anna Bonaventura" Apollo "Aquila Coronato" 

@@ -1,4 +1,5 @@
 # Urmhumhain
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 95 221 121 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Selbach" "Domnall" "Crundmáel" "Crimthann" "Indrechtach" "Donngus" "Snédgus" "Aigile" "Dúngalach" "Óengus" 
+	"Óengus" "Dúngalach" "Crimthann" "Donngus" "Domnall" "Crundmáel" "Selbach" "Aigile" "Indrechtach" "Snédgus" 
 	"Eochaid" "Feidelmid" "Bressal" "Ailill" "Eógan" "Áed Dub" "Furudrán" "Fíngen" "Faílbe Fland" "Fogartach" 
 	"Dub-Indrecht" "Sechnussach" "Máenach" "Dúnchad" "Colgú" "Rechtabra" "Colmán" "Tnúthgal" "Nad-Fraích" "Cormac" 
 	"Fáelgus" "Flann" "Dub-dá-Crích" "Conall" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" 
@@ -85,40 +86,40 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Selbach #0" = 51
-	"Domnall #0" = 51
-	"Crundmáel #0" = 103
-	"Crimthann #0" = 103
-	"Indrechtach #0" = 51
-	"Donngus #0" = 51
-	"Snédgus #0" = 103
-	"Aigile #0" = 51
-	"Dúngalach #0" = 51
-	"Óengus #0" = 51
-	"Eochaid #0" = 155
-	"Feidelmid #0" = 51
-	"Bressal #0" = 51
-	"Ailill #0" = 103
-	"Eógan #0" = 51
-	"Áed Dub #0" = 51
-	"Furudrán #0" = 51
-	"Fíngen #0" = 51
-	"Faílbe Fland #0" = 51
-	"Fogartach #0" = 51
-	"Dub-Indrecht #0" = 51
-	"Sechnussach #0" = 51
-	"Máenach #0" = 51
-	"Dúnchad #0" = 51
-	"Colgú #0" = 51
-	"Rechtabra #0" = 51
-	"Colmán #0" = 103
-	"Tnúthgal #0" = 51
-	"Nad-Fraích #0" = 51
-	"Cormac #0" = 51
-	"Fáelgus #0" = 51
-	"Flann #0" = 51
-	"Dub-dá-Crích #0" = 51
-	"Conall #0" = 51
+	"Óengus #0" = 1
+	"Dúngalach #0" = 1
+	"Crimthann #0" = 1
+	"Donngus #0" = 1
+	"Domnall #0" = 1
+	"Crundmáel #0" = 1
+	"Selbach #0" = 1
+	"Aigile #0" = 1
+	"Indrechtach #0" = 1
+	"Snédgus #0" = 1
+	"Eochaid #0" = 1
+	"Feidelmid #0" = 1
+	"Bressal #0" = 1
+	"Ailill #0" = 1
+	"Eógan #0" = 1
+	"Áed Dub #0" = 1
+	"Furudrán #0" = 1
+	"Fíngen #0" = 1
+	"Faílbe Fland #0" = 1
+	"Fogartach #0" = 1
+	"Dub-Indrecht #0" = 1
+	"Sechnussach #0" = 1
+	"Máenach #0" = 1
+	"Dúnchad #0" = 1
+	"Colgú #0" = 1
+	"Rechtabra #0" = 1
+	"Colmán #0" = 1
+	"Tnúthgal #0" = 1
+	"Nad-Fraích #0" = 1
+	"Cormac #0" = 1
+	"Fáelgus #0" = 1
+	"Flann #0" = 1
+	"Dub-dá-Crích #0" = 1
+	"Conall #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -592,6 +593,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Imag #0" = -1
+	"Eilionora #0" = -1
+	"Siobán #0" = -1
+	"Lerthan #0" = -1
+	"Dúnlaith #0" = -1
 }
 ship_names = {
 	Aoife

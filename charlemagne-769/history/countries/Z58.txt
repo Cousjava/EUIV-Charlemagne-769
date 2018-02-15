@@ -1,21 +1,25 @@
-# Hordaland
+# Rygjafylki
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
-capital = 23
-1419.1.1 = {
+clear_scripted_personalities = yes
+capital = 24
+1435.1.1 = {
 	monarch = {
-		name = "Hrafn"
-		dynasty = "Ytra"
-		adm = 0
-		dip = 0
-		mil = 1
+		name = "Geir"
+		birth_date = 1410.1.1
+		dynasty = "av Hafrsfjord"
+		adm = 3
+		dip = 4
+		mil = 3
 	}
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
+	capital = 24
 	add_treasury = 4
 	add_prestige = 2
 }

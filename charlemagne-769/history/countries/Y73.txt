@@ -1,33 +1,26 @@
-# Alodia
-government = tribal_despotism
+# The Patriarchate of the East
+government = theocratic_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = nubian
-religion = coptic
-capital = 1222
-1369.1.1 = {
+primary_culture = greek
+religion = nestorian
+clear_scripted_personalities = yes
+capital = 2313
+1428.6.1 = {
 	monarch = {
-		name = "Shamumun"
-		dynasty = "Alwa"
-		adm = 1
-		dip = 3
-		mil = 2
+		name = "Ya'qob II"
+		birth_date = 1381.1.1
+		dynasty = "of  Antioch"
+		adm = 4
+		dip = 1
+		mil = 1
 	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Zakharias"
-		monarch_name = "Zakharias"
-		dynasty = "Alwa"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 2
-		dip = 3
-		mil = 2
-	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = righteous_personality
 }
 1444.11.11 = {
+	capital = 2313
 	add_treasury = 6
-	add_prestige = 13
+	add_prestige = 3
 }

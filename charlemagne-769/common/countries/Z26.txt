@@ -1,4 +1,5 @@
 # Dál Riata
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 6 42 127 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Óengus" "Boand" "Conall" "Tadg" "Caustantín" "Donncoirce" "Eochaid" "Fergus" "Áed" "Áedán" 
+	"Áedán" "Áed" "Fergus" "Donncoirce" "Boand" "Eochaid" "Óengus" "Conall" "Tadg" "Caustantín" 
 	"Conaing" "Domnall" "Báetán" "Dúnchad" "Domangart" "Cormac" "Máel-Dúin" "Fiannamail" "Béc" "Alpín" 
 	"Indrechtach" "Diarmait" "Loarn" "Comgall" "Gabrán" "Connad" "Ferchar" "Ainbcellach" "Selbach" "Dúngal" 
 	"Muiredach" "Eógan" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áengus" 
@@ -85,28 +86,28 @@ leader_names = {
 	"Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" 
 	"Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Óengus #0" = 51
-	"Boand #0" = -52
-	"Conall #2" = 154
-	"Tadg #0" = 51
-	"Caustantín #0" = 51
-	"Donncoirce #0" = 51
-	"Eochaid #3" = 205
-	"Fergus #1" = 51
-	"Áed #1" = 51
-	"Áedán #2" = 51
-	"Conaing #0" = 51
-	"Domnall #2" = 102
-	"Báetán #0" = 51
-	"Dúnchad #2" = 102
-	"Domangart #2" = 51
-	"Cormac #0" = 51
-	"Máel-Dúin #1" = 51
-	"Fiannamail #1" = 51
-	"Béc #1" = 51
-	"Alpín #1" = 51
-	"Indrechtach #1" = 51
-	"Diarmait #1" = 51
+	"Áedán #2" = 18
+	"Áed #1" = 18
+	"Fergus #1" = 18
+	"Donncoirce #0" = 1
+	"Boand #0" = -1
+	"Eochaid #3" = 27
+	"Óengus #0" = 1
+	"Conall #2" = 24
+	"Tadg #0" = 1
+	"Caustantín #0" = 1
+	"Conaing #0" = 1
+	"Domnall #2" = 21
+	"Báetán #0" = 1
+	"Dúnchad #2" = 21
+	"Domangart #2" = 18
+	"Cormac #0" = 1
+	"Máel-Dúin #1" = 18
+	"Fiannamail #1" = 18
+	"Béc #1" = 18
+	"Alpín #1" = 18
+	"Indrechtach #1" = 18
+	"Diarmait #1" = 18
 	"Loarn #1" = 0
 	"Comgall #1" = 0
 	"Gabrán #1" = 0
@@ -589,6 +590,12 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Muirenn #0" = -1
+	"Aibilín #0" = -1
+	"Dúinsech #0" = -1
+	"Suaibsech #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

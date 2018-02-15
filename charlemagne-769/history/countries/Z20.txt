@@ -5,17 +5,21 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = anglo_saxon
 religion = catholic
+clear_scripted_personalities = yes
 capital = 235
-1415.1.1 = {
+1435.1.1 = {
 	monarch = {
 		name = "Brorda"
+		birth_date = 1415.1.1
 		dynasty = "Godhelming"
-		adm = 3
-		dip = 4
-		mil = 2
+		adm = 4
+		dip = 2
+		mil = 3
 	}
+	add_ruler_personality = just_personality
 }
 1444.11.11 = {
+	capital = 235
 	add_treasury = 4
 	add_prestige = 2
 }

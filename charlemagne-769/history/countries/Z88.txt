@@ -1,33 +1,26 @@
-# Savo
-government = tribal_despotism
+# Adrianopolis
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = finnish
-religion = animism
-capital = 31
-1414.1.1 = {
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 149
+1420.1.1 = {
 	monarch = {
-		name = "Sampo"
-		dynasty = "Savolainen"
+		name = "Theophanes"
+		birth_date = 1385.1.1
+		dynasty = "Monotes"
 		adm = 2
-		dip = 4
-		mil = 2
-	}
-}
-1439.1.1 = {
-	heir = {
-		name = "Uoti"
-		monarch_name = "Uoti"
-		dynasty = "Savolainen"
-		birth_date = 1439.1.1
-		death_date = 1519.1.1
-		adm = 3
-		dip = 3
+		dip = 1
 		mil = 3
 	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	capital = 149
+	add_treasury = 6
+	add_prestige = 4
 }

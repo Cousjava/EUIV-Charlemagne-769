@@ -1,15 +1,16 @@
-# Kuyavia
+# Curonia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 115 30 50 }
+color = { 182 16 16 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
 	diplomatic_ideas
-	economic_ideas
 	spy_ideas
+	economic_ideas
 	administrative_ideas
-	religious_ideas
+	quantity_ideas
 }
 
 historical_units = {
@@ -34,146 +35,122 @@ historical_units = {
 
 leader_names = {
 
-	"Witosz" "Aleksander" "Andrzej" "Bartosz" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" 
-	"Bozydar" "Borzywoj" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" "Dobromir" "Doman" 
-	"Domawuj" "Dytryk" "Eustachy" "Gaudenty" "Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" 
-	"Imram" "Izbor" "Józef" "Jacek" "Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" 
-	"Janusz" "Jaroslaw" "Jerzy" "Karol" "Kazimierz" "Konrad" "Krystyn" "Krzeslaw" "Lambert" "Leszek" 
-	"Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" "Mieszko" "Mikolaj" "Milobrat" "Milosz" 
-	"Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Pelka" "Piotr" "Piskla" 
-	"Prendota" "Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" "Sieciech" "Siemomysl" "Siemowit" "Skarbimir" 
-	"Snowid" "Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Swietoslaw" 
-	"Szczesny" "Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" "Wawrzyniec" "Wielislaw" "Wieslaw" 
-	"Wincenty" "Wit" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" "Zelibrat" 
-	"Zygmunt" }
+	"Pliksov" "Ankad" "Balodis" "Aishno" "Ako" "Baise" "Bikshe" "Borut" "Bulei" "Butovit" 
+	"Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Demas" "Dobre" "Dovyat" "Dzintis" "Elmede" 
+	"Erasts" "Erdzivil" "Galeine" "Gastile" "Gedere" "Gerden" "Gibedats" "Giemund" "Golovke" "Gotene" 
+	"Gunvald" "Imanta" "Janis" "Jaunule" "Jedetus" "Juvage" "Kage" "Kaire" "Karijotas" "Karnak" 
+	"Kaupo" "Kerstigens" "Kiten" "Klavess" "Kodere" "Kuliens" "Kurlemuse" "Lammekinus" "Likiik" "Litto" 
+	"Lonkogveni" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pukiik" "Pukuveras" "Ringaudas" "Rushky" 
+	"Rusins" "Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Skornand" "Sprudeik" "Stegut" "Steikint" 
+	"Sviendorog" "Talivaldis" "Tautvila" "Traidenis" "Treniota" "Vaishvilkas" "Valikaila" "Vetseke" "Viesturs" "Visheiv" 
+	"Vishikut" "Vishly" "Vykantas" "Yudki" }
 monarch_names = {
-	"Witosz #1" = 12
-	"Aleksander #0" = 0
-	"Andrzej #0" = 0
-	"Bartosz #0" = 0
-	"Bezprym #0" = 0
-	"Boguchwal #0" = 0
-	"Bogumil #0" = 0
-	"Boleslaw #0" = 0
-	"Boncza #0" = 0
-	"Borzyslaw #0" = 0
-	"Bozydar #0" = 0
-	"Borzywoj #0" = 0
-	"Budziwuj #0" = 0
-	"Czcibor #0" = 0
-	"Czyrzniech #0" = 0
-	"Dalimir #0" = 0
-	"Dobieslaw #0" = 0
-	"Dobrogost #0" = 0
-	"Dobromir #0" = 0
-	"Doman #0" = 0
-	"Domawuj #0" = 0
-	"Dytryk #0" = 0
-	"Eustachy #0" = 0
-	"Gaudenty #0" = 0
-	"Gierolt #0" = 0
-	"Gniewomir #0" = 0
-	"Gniewosz #0" = 0
-	"Gosciwuj #0" = 0
-	"Goszczon #0" = 0
-	"Henryk #0" = 0
-	"Imram #0" = 0
-	"Izbor #0" = 0
-	"Józef #0" = 0
-	"Jacek #0" = 0
-	"Jaksa #0" = 0
-	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Jan #0" = 0
-	"Janislaw #0" = 0
-	"Janko #0" = 0
-	"Janusz #0" = 0
-	"Jaroslaw #0" = 0
-	"Jerzy #0" = 0
-	"Karol #0" = 0
-	"Kazimierz #0" = 0
-	"Konrad #0" = 0
-	"Krystyn #0" = 0
-	"Krzeslaw #0" = 0
-	"Lambert #0" = 0
-	"Leszek #0" = 0
-	"Maciej #0" = 0
-	"Macko #0" = 0
-	"Malowuj #0" = 0
-	"Marcin #0" = 0
-	"Maslaw #0" = 0
-	"Mateusz #0" = 0
-	"Mieszko #0" = 0
-	"Mikolaj #0" = 0
-	"Milobrat #0" = 0
-	"Milosz #0" = 0
-	"Miroslaw #0" = 0
-	"Msciwoj #0" = 0
-	"Mszczuj #0" = 0
-	"Nadbor #0" = 0
-	"Niezamysl #0" = 0
-	"Odon #0" = 0
-	"Pawel #0" = 0
-	"Pelka #0" = 0
-	"Piotr #0" = 0
-	"Piskla #0" = 0
-	"Prendota #0" = 0
-	"Przemyslaw #0" = 0
-	"Przybor #0" = 0
-	"Sambor #0" = 0
-	"Sedziej #0" = 0
-	"Sedzimir #0" = 0
-	"Sieciech #0" = 0
-	"Siemomysl #0" = 0
-	"Siemowit #0" = 0
-	"Skarbimir #0" = 0
-	"Snowid #0" = 0
-	"Spytko #0" = 0
-	"Stanislaw #0" = 0
-	"Stefan #0" = 0
-	"Stoigniew #0" = 0
-	"Strasz #0" = 0
-	"Sulislaw #0" = 0
-	"Sulistryj #0" = 0
-	"Swietopelk #0" = 0
-	"Swietoslaw #0" = 0
-	"Szczesny #0" = 0
-	"Tomasz #0" = 0
-	"Trojden #0" = 0
-	"Twardomir #0" = 0
-	"Usciech #0" = 0
-	"Waclaw #0" = 0
-	"Wanko #0" = 0
-	"Wawrzyniec #0" = 0
-	"Wielislaw #0" = 0
-	"Wieslaw #0" = 0
-	"Wincenty #0" = 0
-	"Wit #0" = 0
-	"Wladyslaw #0" = 0
-	"Wojciech #0" = 0
-	"Wojuta #0" = 0
-	"Wszebor #0" = 0
-	"Zbigniew #0" = 0
-	"Zbyszko #0" = 0
-	"Zegota #0" = 0
-	"Zelibrat #0" = 0
-	"Zygmunt #0" = 0
+	"Pliksov #0" = 1
+	"Ankad #1" = 18
+	"Balodis #0" = 1
+	"Aishno #0" = 0
+	"Ako #0" = 0
+	"Baise #0" = 0
+	"Bikshe #0" = 0
+	"Borut #0" = 0
+	"Bulei #0" = 0
+	"Butovit #0" = 0
+	"Cirulis #0" = 0
+	"Dangeruthe #0" = 0
+	"Darbeslave #0" = 0
+	"Dausprungas #0" = 0
+	"Davins #0" = 0
+	"Demas #0" = 0
+	"Dobre #0" = 0
+	"Dovyat #0" = 0
+	"Dzintis #0" = 0
+	"Elmede #0" = 0
+	"Erasts #0" = 0
+	"Erdzivil #0" = 0
+	"Galeine #0" = 0
+	"Gastile #0" = 0
+	"Gedere #0" = 0
+	"Gerden #0" = 0
+	"Gibedats #0" = 0
+	"Giemund #0" = 0
+	"Golovke #0" = 0
+	"Gotene #0" = 0
+	"Gunvald #0" = 0
+	"Imanta #0" = 0
+	"Janis #0" = 0
+	"Jaunule #0" = 0
+	"Jedetus #0" = 0
+	"Juvage #0" = 0
+	"Kage #0" = 0
+	"Kaire #0" = 0
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
+	"Kaupo #0" = 0
+	"Kerstigens #0" = 0
+	"Kiten #0" = 0
+	"Klavess #0" = 0
+	"Kodere #0" = 0
+	"Kuliens #0" = 0
+	"Kurlemuse #0" = 0
+	"Lammekinus #0" = 0
+	"Likiik #0" = 0
+	"Litto #0" = 0
+	"Lonkogveni #0" = 0
+	"Manvydas #0" = 0
+	"Meinekinus #0" = 0
+	"Mendune #0" = 0
+	"Nameisis #0" = 0
+	"Narvait #0" = 0
+	"Pukiik #0" = 0
+	"Pukuveras #0" = 0
+	"Ringaudas #0" = 0
+	"Rushky #0" = 0
+	"Rusins #0" = 0
+	"Sabe #0" = 0
+	"Sargun #0" = 0
+	"Scurdo #0" = 0
+	"Shutr #0" = 0
+	"Shvarnas #0" = 0
+	"Skornand #0" = 0
+	"Sprudeik #0" = 0
+	"Stegut #0" = 0
+	"Steikint #0" = 0
+	"Sviendorog #0" = 0
+	"Talivaldis #0" = 0
+	"Tautvila #0" = 0
+	"Traidenis #0" = 0
+	"Treniota #0" = 0
+	"Vaishvilkas #0" = 0
+	"Valikaila #0" = 0
+	"Vetseke #0" = 0
+	"Viesturs #0" = 0
+	"Visheiv #0" = 0
+	"Vishikut #0" = 0
+	"Vishly #0" = 0
+	"Vykantas #0" = 0
+	"Yudki #0" = 0
+
+
+	"Marite #0" = -1
+	"Maija #0" = -1
+	"Ruta #0" = -1
+	"Agita #0" = -1
+	"Dose #0" = -1
 }
 ship_names = {
-	"Arka Noego"
-        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
-        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
-        Fortuna
-        Gryf Gwiazda Gnieznienskie
-	Inoworclawskie
-	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
-        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
-        "Maly Bialy Orzel" Malborskie Mazowieckie
-        Niewrazliwy "Nowy Czarny Orzel"
-        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
-	"Rycerz Swiety Jerzy" Rawskie Ruskie
-        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
-        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
-        Zwyciestwo "Zólty Lew"
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
 }
 

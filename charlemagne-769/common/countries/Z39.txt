@@ -1,4 +1,5 @@
 # Léon
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 166 67 14 }
 historical_idea_groups = {
@@ -34,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Concar" "Morvan" "Gradlon" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" "Alar" "Aldrien" 
+	"Gradlon" "Morvan" "Concar" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" "Alar" "Aldrien" 
 	"Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" "Anauguethen" "Anauguoret" "Anauhocar" 
 	"Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" "Arthel" "Arthguiu" "Arthmael" "Arthueu" 
 	"Arthuiu" "Arthur" "Austol" "Baldoen" "Bastian" "Beli" "Beltram" "Benabic" "Berenger" "Bernead" 
@@ -77,9 +78,9 @@ leader_names = {
 	"Treveur" "Tristan" "Tuduallon" "Tudur" "Tugdual" "Ungust" "Urbcen" "Urbien" "Urblon" "Urvod" 
 	"Uther" "Vincenne" }
 monarch_names = {
-	"Concar #0" = 42
-	"Morvan #0" = 42
-	"Gradlon #0" = 42
+	"Gradlon #0" = 1
+	"Morvan #0" = 1
+	"Concar #0" = 1
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0
@@ -489,6 +490,13 @@ monarch_names = {
 	"Urvod #0" = 0
 	"Uther #0" = 0
 	"Vincenne #0" = 0
+
+
+	"Ceindrec #0" = -1
+	"Emma #0" = -1
+	"Nolwenne #0" = -1
+	"Iudlouguen #0" = -1
+	"Ilcum #0" = -1
 }
 ship_names = {
 	Achille Actif Active Admirable Aglaé

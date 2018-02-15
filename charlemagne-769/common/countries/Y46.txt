@@ -1,140 +1,159 @@
-# Uqaylid
+# Bolghar
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 172 82 55 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	naval_ideas
-	economic_ideas
-	diplomatic_ideas
-	administrative_ideas
-}
+color = { 193 158 63 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
-}
 
 
 
 leader_names = {
 
-	"Amir" "Bakkar" "Isa" "Abd al-Malik" "Rabi'a" "Asim" "Muslim" "Ishaq" "Marwan" "Sa'id" 
-	"Al-Mansur" "Sulayman" "Salih" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" 
-	"Abdullah" "Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" 
-	"Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" 
-	"Is'mail" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
-	"Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" 
-	"Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Talib" 
-	"Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Kubrat" "Toktu" "Irkhan" "Krum" "Omortag" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
+	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Almish" "Alzek" 
+	"Anzi" "Apskhih" "Araslan" "Balamber" "Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" 
+	"Boyan" "Bulger" "Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" 
+	"Dukum" "Ellak" "Elemag" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" 
+	"Irnek" "Isbul" "Islivan" "Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kharaton" 
+	"Khinialon" "Khudbard" "Kordil" "Kormisosh" "Krovat" "Kurt" "Kutrigur" "Kuvrat" "Labertam" "Magotin" 
+	"Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" "Organa" 
+	"Ornag" "Oshi" "Ostro" "Pagan" "Pakhtiyar" "Paväl" "Praksa" "Rassate" "Rugila" "Sabin" 
+	"Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Shilki" "Sondoke" "Tähtaman" "Tarasiy" "Taridin" 
+	"Tatra" "Telec" "Timër" "Timëreç" "Timërpälat" "Tingiz" "Tiradin" "Tokhtaman" "Tsog" "Tsul" 
+	"Tuk" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yani" "Yavantey" "Yençepi" 
+	"Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Batir" }
 monarch_names = {
-	"Amir #0" = 8
-	"Bakkar #1" = 8
-	"Isa #0" = 8
-	"Abd al-Malik #0" = 8
-	"Rabi'a #0" = 8
-	"Asim #0" = 8
-	"Muslim #0" = 8
-	"Ishaq #1" = 8
-	"Marwan #1" = 0
-	"Sa'id #1" = 0
-	"Al-Mansur #1" = 0
-	"Sulayman #1" = 0
-	"Salih #1" = 0
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
-}
-ship_names = {
-	Aramu Argishtis Ararat Ani Artsakh
-	Dvin
-	Erimena
-	Haik Haldi
-	Ishpuinis
-	Kars
-	Lutipri
-	Musasir Menuas Manzikert
-	Parisos
-	"Rusas II"
-	Siwini Selardi "Sarduri I" "Sarduris II"
-	Vaspurakan
-	Yerevan
+	"Kubrat #1" = 18
+	"Toktu #1" = 21
+	"Irkhan #0" = 1
+	"Krum #0" = 1
+	"Omortag #0" = 1
+	"Telerig #0" = 1
+	"Kardam #0" = 1
+	"Asparukh #0" = 1
+	"Batbayan #1" = 18
+	"Kotrag #1" = 18
+	"Kuber #1" = 18
+	"Tervel #0" = 1
+	"Ajjar #0" = 1
+	"Sevar #1" = 21
+	"Kormesiy #0" = 1
+	"Bozok #0" = -1
+	"Kermek #0" = 1
+	"Bayan #0" = 1
+	"Almish #0" = 0
+	"Alzek #0" = 0
+	"Anzi #0" = 0
+	"Apskhih #0" = 0
+	"Araslan #0" = 0
+	"Balamber #0" = 0
+	"Bars #0" = 0
+	"Bataul #0" = 0
+	"Batoya #0" = 0
+	"Batulia #0" = 0
+	"Belkermak #0" = 0
+	"Bezmer #0" = 0
+	"Boyan #0" = 0
+	"Bulger #0" = 0
+	"Buzan #0" = 0
+	"Chepa #0" = 0
+	"Chinialush #0" = 0
+	"Dengizikh #0" = 0
+	"Dizeng #0" = 0
+	"Dometa #0" = 0
+	"Dristar #0" = 0
+	"Drong #0" = 0
+	"Dukum #0" = 0
+	"Ellak #0" = 0
+	"Elemag #0" = 0
+	"Ernakh #0" = 0
+	"Eskhakh #0" = 0
+	"Goleda #0" = 0
+	"Gostun #0" = 0
+	"Guar #0" = 0
+	"Hudbad #0" = 0
+	"Iani #0" = 0
+	"Irnek #0" = 0
+	"Isbul #0" = 0
+	"Islivan #0" = 0
+	"Isperikh #0" = 0
+	"Ispor #0" = 0
+	"Kälaç #0" = 0
+	"Kano #0" = 0
+	"Karan #0" = 0
+	"Karaton #0" = 0
+	"Kharaton #0" = 0
+	"Khinialon #0" = 0
+	"Khudbard #0" = 0
+	"Kordil #0" = 0
+	"Kormisosh #0" = 0
+	"Krovat #0" = 0
+	"Kurt #0" = 0
+	"Kutrigur #0" = 0
+	"Kuvrat #0" = 0
+	"Labertam #0" = 0
+	"Magotin #0" = 0
+	"Malamir #0" = 0
+	"Mugel #0" = 0
+	"Odolgan #0" = 0
+	"Okhsi #0" = 0
+	"Okhsun #0" = 0
+	"Okors #0" = 0
+	"Omurtag #0" = 0
+	"Onegavon #0" = 0
+	"Organ #0" = 0
+	"Organa #0" = 0
+	"Ornag #0" = 0
+	"Oshi #0" = 0
+	"Ostro #0" = 0
+	"Pagan #0" = 0
+	"Pakhtiyar #0" = 0
+	"Paväl #0" = 0
+	"Praksa #0" = 0
+	"Rassate #0" = 0
+	"Rugila #0" = 0
+	"Sabin #0" = 0
+	"Sandil #0" = 0
+	"Sandilkh #0" = 0
+	"Sarkhan #0" = 0
+	"Sartäç #0" = 0
+	"Savin #0" = 0
+	"Shilki #0" = 0
+	"Sondoke #0" = 0
+	"Tähtaman #0" = 0
+	"Tarasiy #0" = 0
+	"Taridin #0" = 0
+	"Tatra #0" = 0
+	"Telec #0" = 0
+	"Timër #0" = 0
+	"Timëreç #0" = 0
+	"Timërpälat #0" = 0
+	"Tingiz #0" = 0
+	"Tiradin #0" = 0
+	"Tokhtaman #0" = 0
+	"Tsog #0" = 0
+	"Tsul #0" = 0
+	"Tuk #0" = 0
+	"Umor #0" = 0
+	"Uturgur #0" = 0
+	"Vakrim #0" = 0
+	"Venda #0" = 0
+	"Vetam #0" = 0
+	"Vinekh #0" = 0
+	"Yani #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Zabergan #0" = 0
+	"Zenti #0" = 0
+	"Tukiy #0" = 0
+	"Aydar #0" = 0
+	"Batir #0" = 0
+
+
+	"Lärkka #0" = -1
+	"Yartilek #0" = -1
+	"Paykëlti #0" = -1
+	"Puyantay #0" = -1
 }
 

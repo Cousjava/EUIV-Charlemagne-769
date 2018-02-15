@@ -1,0 +1,25 @@
+# Haravoi
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = pecheneg
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 477
+1437.1.1 = {
+	monarch = {
+		name = "Karaca"
+		birth_date = 1399.1.1
+		dynasty = "Haravoi"
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 477
+	add_treasury = 8
+	add_prestige = 7
+}

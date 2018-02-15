@@ -1,4 +1,5 @@
 # Hwicce
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 241 79 15 }
 historical_idea_groups = {
@@ -35,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Æthelric" "Æthelmund" "Ealdred" "Uhtred" "Oswald" "Osmod" "Oshere" "Eanfrith" "Eanhere" "Osric" 
+	"Oswald" "Uhtred" "Ealdred" "Æthelmund" "Æthelric" "Osmod" "Oshere" "Eanfrith" "Eanhere" "Osric" 
 	"Eafe" "Æthelheard" "Æthelweard" "Æthelmod" "Osred" "Ingeld" "Eanberht" "Gloyw" "Gwydolin" "Gwydol" 
 	"Pasgen" "Cadeyrn" "Cadell" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" 
 	"Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" 
@@ -54,23 +55,23 @@ leader_names = {
 	"Æthelhere" "Æthelmær" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" 
 	"Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Æthelric #0" = 36
-	"Æthelmund #0" = 18
-	"Ealdred #0" = 18
+	"Oswald #0" = 1
 	"Uhtred #1" = 18
-	"Oswald #0" = 36
-	"Osmod #0" = 18
-	"Oshere #0" = 36
-	"Eanfrith #0" = 18
-	"Eanhere #0" = 18
-	"Osric #0" = 18
-	"Eafe #0" = -19
-	"Æthelheard #0" = 18
-	"Æthelweard #0" = 18
-	"Æthelmod #0" = 18
-	"Osred #0" = 18
-	"Ingeld #0" = 18
-	"Eanberht #0" = 18
+	"Ealdred #0" = 1
+	"Æthelmund #0" = 1
+	"Æthelric #1" = 21
+	"Osmod #0" = 1
+	"Oshere #1" = 21
+	"Eanfrith #1" = 18
+	"Eanhere #1" = 18
+	"Osric #1" = 18
+	"Eafe #0" = -1
+	"Æthelheard #1" = 18
+	"Æthelweard #0" = 1
+	"Æthelmod #0" = 1
+	"Osred #1" = 18
+	"Ingeld #0" = 1
+	"Eanberht #1" = 18
 	"Gloyw #1" = 0
 	"Gwydolin #1" = 0
 	"Gwydol #1" = 0
@@ -228,6 +229,12 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Judith #0" = -1
+	"Cynehild #0" = -1
+	"Beorhtwynn #0" = -1
+	"Beorhtwaru #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

@@ -1,21 +1,25 @@
 # Bulgaria
-government = feudal_monarchy
+government = despotic_monarchy
 government_rank = 2
 mercantilism = 0.1
-technology_group = western
+technology_group = eastern
 primary_culture = bolghar
 religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
 capital = 2750
-1395.1.2 = {
+1443.1.1 = {
 	monarch = {
 		name = "Telerig"
+		birth_date = 1395.1.2
 		dynasty = "Dulo"
-		adm = 3
-		dip = 0
-		mil = 5
+		adm = 0
+		dip = 3
+		mil = 1
 	}
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
+	capital = 2750
 	add_treasury = 9
 	add_prestige = 88
 }

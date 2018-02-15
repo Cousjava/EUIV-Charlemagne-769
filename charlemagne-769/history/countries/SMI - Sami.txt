@@ -1,0 +1,37 @@
+# Kola
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = sapmi
+religion = animism
+clear_scripted_personalities = yes
+capital = 1776
+1430.1.1 = {
+	monarch = {
+		name = "Baeivi"
+		birth_date = 1405.1.1
+		dynasty = "Guoládat"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Mohkku"
+		monarch_name = "Mohkku"
+		dynasty = "Guoládat"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 1776
+	add_treasury = 6
+	add_prestige = 5
+}

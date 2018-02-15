@@ -1,4 +1,5 @@
 # Sussex
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 241 110 60 }
 historical_idea_groups = {
@@ -52,7 +53,7 @@ leader_names = {
 	"Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelweard" 
 	"Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Osmund #0" = 16
+	"Osmund #0" = 1
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -210,6 +211,13 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Ealhswith #0" = -1
+	"Ælfflæd #0" = -1
+	"Eadgyth #0" = -1
+	"Heregyth #0" = -1
+	"Beornflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

@@ -1,0 +1,35 @@
+# Fergana
+government = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = sogdian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 458
+1444.1.1 = {
+	monarch = {
+		name = "Salim"
+		birth_date = 1421.1.1
+		dynasty = "Farghanad"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Mahmud"
+		monarch_name = "Mahmud"
+		dynasty = "Farghanad"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 458
+	add_treasury = 7
+	add_prestige = 10
+}

@@ -1,33 +1,26 @@
-# Shewa
-government = tribal_despotism
+# Derbent
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = amhara
+technology_group = eastern
+primary_culture = armenian
 religion = coptic
-capital = 1213
-1413.1.1 = {
+clear_scripted_personalities = yes
+capital = 425
+1415.1.1 = {
 	monarch = {
-		name = "Mekonnen"
-		dynasty = "Shamumun"
-		adm = 3
+		name = "Nerseh"
+		birth_date = 1375.1.1
+		dynasty = "Mihranian"
+		adm = 5
 		dip = 3
-		mil = 1
+		mil = 5
 	}
-}
-1430.1.1 = {
-	heir = {
-		name = "Semer"
-		monarch_name = "Semer"
-		dynasty = "Shamumun"
-		birth_date = 1430.1.1
-		death_date = 1510.1.1
-		adm = 3
-		dip = 3
-		mil = 3
-	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = martial_educator_personality
 }
 1444.11.11 = {
+	capital = 425
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 23
 }

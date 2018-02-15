@@ -1,21 +1,26 @@
-# Aydhab
-government = feudal_monarchy
+# Akhun
+government = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = nubian
-religion = coptic
-capital = 2324
-1415.1.1 = {
+technology_group = nomad_group
+primary_culture = uyghur
+religion = manichean
+clear_scripted_personalities = yes
+capital = 714
+1419.1.1 = {
 	monarch = {
-		name = "Kuriakos"
-		dynasty = "Bigawi"
-		adm = 1
-		dip = 2
-		mil = 2
+		name = "Kozel"
+		birth_date = 1416.8.1
+		dynasty = "Akhun"
+		adm = 2
+		dip = 1
+		mil = 1
 	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	capital = 714
+	add_treasury = 8
+	add_prestige = 9
 }

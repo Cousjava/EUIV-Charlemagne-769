@@ -1,21 +1,26 @@
-# Ingria
-government = tribal_despotism
+# Amalfi
+government = merchant_republic
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = estonian
-religion = animism
-capital = 33
-1413.1.1 = {
+technology_group = western
+primary_culture = greek
+religion = catholic
+clear_scripted_personalities = yes
+capital = 1934
+1426.1.1 = {
 	monarch = {
-		name = "Ahti"
-		dynasty = "Ingeri"
-		adm = 3
+		name = "Leon"
+		birth_date = 1406.1.1
+		dynasty = "Amalfinos"
+		adm = 4
 		dip = 1
 		mil = 2
 	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = industrious_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 2
+	capital = 1934
+	add_treasury = 6
+	add_prestige = 4
 }

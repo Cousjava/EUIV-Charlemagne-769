@@ -1,21 +1,25 @@
-# Herjadal
+# Länsipohja
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = norse
+technology_group = western
+primary_culture = sapmi
 religion = animism
-capital = 10
-1412.1.1 = {
+clear_scripted_personalities = yes
+capital = 11
+1435.1.1 = {
 	monarch = {
-		name = "Sigtrygg"
-		dynasty = "Herja"
-		adm = 3
-		dip = 3
-		mil = 3
+		name = "Sárra"
+		birth_date = 1410.1.1
+		dynasty = "Saiva"
+		adm = 2
+		dip = 1
+		mil = 4
 	}
+	add_ruler_personality = pious_personality
 }
 1444.11.11 = {
+	capital = 11
 	add_treasury = 4
 	add_prestige = 2
 }

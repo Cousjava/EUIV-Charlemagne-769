@@ -1,21 +1,25 @@
-# Talakad Ganga
-government = feudal_monarchy
+# Marrakech
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = kannada
-religion = hinduism
-capital = 533
-1379.1.1 = {
+technology_group = muslim
+primary_culture = berber
+religion = shiite
+clear_scripted_personalities = yes
+capital = 344
+1442.1.1 = {
 	monarch = {
-		name = "Sripurusha"
-		dynasty = "Talakad Ganga"
-		adm = 1
-		dip = 4
-		mil = 2
+		name = "Masmud"
+		birth_date = 1408.1.1
+		dynasty = "Masmudid"
+		adm = 3
+		dip = 1
+		mil = 5
 	}
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 42
+	capital = 344
+	add_treasury = 4
+	add_prestige = 3
 }

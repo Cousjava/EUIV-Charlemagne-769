@@ -1,104 +1,137 @@
-# Gondar
-graphical_culture = muslimgfx
-color = { 215 119 45 }
+# Kartli
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 234 119 119 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
 
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
 
 
 
 leader_names = {
 
-	"Assefa" "Dahnay" "Ogbae" "Amare" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
-	"Abebe" "Afework" "Aman" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" 
-	"Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
-	"Gebereal" "Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" 
-	"Iskander" "Iyasu" "Jima" "Kafa" "Kaleb" "Kelile" "Kelyle" "Kifle" "Lebna" "Lema" 
-	"Loua" "Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Negasi" "Negus" 
-	"Ogbai" "Oromo" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tamirat" "Tariku" "Taye" 
-	"Tefere" "Teferi" "Teka" "Tekle" "Tengene" "Teruworq" "Tesfaye" "Tessema" "Tewodros" "Yacob" 
-	"Yohannas" "Yonas" "Zula" }
+	"Adarnase" "Nerse" "Tamari" "Parsman" "Mihrdat" "Amazasp" "Hradam" "Rev" "Vache" "Bakur" 
+	"Varaz-Bakur" "Mirian" "Saurmag" "Trdati" "Archili" "Vakhtang" "Darchili" "Guaram" "Stepanoz" "Aghsartan" 
+	"Aleksandre" "Andronik" "Anzori" "Ashot" "Bagrat" "Davit" "Demetre" "Demna" "Djavakhi" "Erekle" 
+	"Gabrieli" "Gagiki" "Giorgi" "Grigoli" "Gubaz" "Gurgen" "Iese" "Ioane" "Ishkhanik" "Iveri" 
+	"Jarji" "Kaikhosro" "Kakhi" "Koba" "Konstantine" "Kvarkvare" "Kvirike" "Levan" "Luarsab" "Malkhazi" 
+	"Mamia" "Merab" "Mikheil" "Mukhran" "Nikoloz" "Okhropir" "Orbeli" "Padla" "Samoeli" "Shanshe" 
+	"Shota" "Simon" "Sumbat" "Teimuraz" "Tornike" "Ushisha" "Zurab" "Zviad" }
 monarch_names = {
-	"Assefa #0" = 9
-	"Dahnay #0" = 9
-	"Ogbae #1" = 9
-	"Amare #0" = 0
-	"Desta #0" = 0
-	"Getachew #0" = 0
-	"Geteye #0" = 0
-	"Girma #0" = 0
-	"Iskinder #0" = 0
-	"Abai #0" = 0
-	"Abebe #0" = 0
-	"Afework #0" = 0
-	"Aman #0" = 0
-	"Atoberhan #0" = 0
-	"Azmera #0" = 0
-	"Bekele #0" = 0
-	"Benaim #0" = 0
-	"Berhanu #0" = 0
-	"Berhanua #0" = 0
-	"Berihun #0" = 0
-	"Berta #0" = 0
-	"Bworo #0" = 0
-	"Daniachew #0" = 0
-	"Dawit #0" = 0
-	"Demissie #0" = 0
-	"Eremias #0" = 0
-	"Ezana #0" = 0
-	"Fasilidas #0" = 0
-	"Fethee #0" = 0
-	"Gabra #0" = 0
-	"Gebereal #0" = 0
-	"Gebre #0" = 0
-	"Gondar #0" = 0
-	"Hackeem #0" = 0
-	"Haeran #0" = 0
-	"Hagos #0" = 0
-	"Hakeem #0" = 0
-	"Hakiem #0" = 0
-	"Hakim #0" = 0
-	"Hakym #0" = 0
-	"Iskander #0" = 0
-	"Iyasu #0" = 0
-	"Jima #0" = 0
-	"Kafa #0" = 0
-	"Kaleb #0" = 0
-	"Kelile #0" = 0
-	"Kelyle #0" = 0
-	"Kifle #0" = 0
-	"Lebna #0" = 0
-	"Lema #0" = 0
-	"Loua #0" = 0
-	"Mamo #0" = 0
-	"Mekonnen #0" = 0
-	"Melaku #0" = 0
-	"Mengesha #0" = 0
-	"Merille #0" = 0
-	"Miruts #0" = 0
-	"Negash #0" = 0
-	"Negasi #0" = 0
-	"Negus #0" = 0
-	"Ogbai #0" = 0
-	"Oromo #0" = 0
-	"Rahad #0" = 0
-	"Selassie #0" = 0
-	"Semer #0" = 0
-	"Semere #0" = 0
-	"Sisay #0" = 0
-	"Tamirat #0" = 0
-	"Tariku #0" = 0
-	"Taye #0" = 0
-	"Tefere #0" = 0
-	"Teferi #0" = 0
-	"Teka #0" = 0
-	"Tekle #0" = 0
-	"Tengene #0" = 0
-	"Teruworq #0" = 0
-	"Tesfaye #0" = 0
-	"Tessema #0" = 0
-	"Tewodros #0" = 0
-	"Yacob #0" = 0
-	"Yohannas #0" = 0
-	"Yonas #0" = 0
-	"Zula #0" = 0
+	"Adarnase #3" = 18
+	"Nerse #1" = 18
+	"Tamari #0" = -1
+	"Parsman #6" = 0
+	"Mihrdat #4" = 0
+	"Amazasp #2" = 0
+	"Hradam #1" = 0
+	"Rev #2" = 0
+	"Vache #1" = 0
+	"Bakur #3" = 0
+	"Varaz-Bakur #3" = 0
+	"Mirian #1" = 0
+	"Saurmag #1" = 0
+	"Trdati #1" = 0
+	"Archili #1" = 0
+	"Vakhtang #1" = 0
+	"Darchili #1" = 0
+	"Guaram #3" = 0
+	"Stepanoz #2" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Ashot #0" = 0
+	"Bagrat #0" = 0
+	"Davit #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Gubaz #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+
+
+	"Gogutsa #0" = -1
+	"Chiora #0" = -1
+	"Taplo #0" = -1
+	"Lela #0" = -1
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
 }
 

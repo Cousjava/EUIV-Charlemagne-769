@@ -1,6 +1,7 @@
 # Byzantine Empire
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 163 10 145 }
+color = { 143 12 125 }
 historical_idea_groups = {
 	offensive_ideas
 	religious_ideas
@@ -35,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Anthimos" "Anthousa" "Eudokimos" "Nikephoros" "Niketas" "Christophoros" "Leon" "Konstantinos" "Augustus" "Tiberius" 
+	"Leon" "Konstantinos" "Anthousa" "Nikephoros" "Christophoros" "Niketas" "Anthimos" "Eudokimos" "Augustus" "Tiberius" 
 	"Caligula" "Claudius" "Nero" "Galba" "Otho" "Vitellius" "Vespasian" "Titus" "Domitian" "Nerva" 
 	"Trajan" "Hadrian" "Antoninus" "Lucius" "Marcus" "Commodus" "Pertinax" "Julian" "Septimius" "Geta" 
 	"Caracalla" "Macrinus" "Heliogabalus" "Alexander" "Maximinus" "Gordian" "Pupienus" "Balbinus" "Philip" "Decius" 
@@ -58,14 +59,14 @@ leader_names = {
 	"Theocharistos" "Theodoros" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Traianos" 
 	"Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" }
 monarch_names = {
-	"Anthimos #0" = 22
-	"Anthousa #0" = -23
-	"Eudokimos #0" = 22
-	"Nikephoros #0" = 22
-	"Niketas #0" = 22
-	"Christophoros #0" = 22
-	"Leon #3" = 45
-	"Konstantinos #3" = 22
+	"Leon #3" = 21
+	"Konstantinos #3" = 18
+	"Anthousa #0" = -1
+	"Nikephoros #0" = 1
+	"Christophoros #0" = 1
+	"Niketas #0" = 1
+	"Anthimos #0" = 1
+	"Eudokimos #0" = 1
 	"Augustus #1" = 0
 	"Tiberius #1" = 0
 	"Caligula #1" = 0
@@ -273,6 +274,11 @@ monarch_names = {
 	"Valerios #0" = 0
 	"Zacharias #0" = 0
 	"Zenobios #0" = 0
+
+
+	"Sergia #0" = -1
+	"Theophano #0" = -1
+	"Romylia #0" = -1
 }
 ship_names = {
 	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"

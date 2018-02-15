@@ -1,21 +1,25 @@
-# Toledo
-government = iqta
+# Seville
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = bedouin_arabic
+primary_culture = visigothic
 religion = sunni
-capital = 219
-1422.1.1 = {
+clear_scripted_personalities = yes
+capital = 224
+1444.1.1 = {
 	monarch = {
-		name = "Abd-al-Rahman"
+		name = "Hisham"
+		birth_date = 1432.4.26
 		dynasty = "Umayyad"
-		adm = 2
-		dip = 5
-		mil = 2
+		adm = 4
+		dip = 3
+		mil = 3
 	}
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
+	capital = 224
 	add_treasury = 6
 	add_prestige = 121
 }

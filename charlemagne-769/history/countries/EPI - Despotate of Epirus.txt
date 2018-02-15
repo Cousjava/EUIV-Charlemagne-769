@@ -1,0 +1,25 @@
+# Epirus
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 144
+1441.1.1 = {
+	monarch = {
+		name = "Romanos"
+		birth_date = 1415.1.1
+		dynasty = "Kameniatis"
+		adm = 1
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = careful_personality
+}
+1444.11.11 = {
+	capital = 144
+	add_treasury = 6
+	add_prestige = 4
+}

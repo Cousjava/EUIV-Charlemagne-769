@@ -1,4 +1,5 @@
 # Pomerania
+ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 61 136 66 }
 historical_idea_groups = {
@@ -45,7 +46,7 @@ leader_names = {
 	"Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" 
 	"Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
 monarch_names = {
-	"Przemysl #1" = 12
+	"Przemysl #1" = 18
 	"Aleksander #0" = 0
 	"Andrzej #0" = 0
 	"Antoni #0" = 0
@@ -155,6 +156,13 @@ monarch_names = {
 	"Zdenek #0" = 0
 	"Zdislav #0" = 0
 	"Zygmunt #0" = 0
+
+
+	"Dobroniega #0" = -1
+	"Dobravy #0" = -1
+	"Anna #0" = -1
+	"Róza #0" = -1
+	"Pechna #0" = -1
 }
 ship_names = {
 	Pommern "Herzog Kasimir" "Herzog Bogislaw"

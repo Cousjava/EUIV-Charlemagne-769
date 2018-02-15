@@ -1,21 +1,26 @@
-# Bozok
-government = steppe_horde
+# Vyatich
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = turkish
-religion = tengri_pagan_reformed
-capital = 465
-1405.1.1 = {
+technology_group = eastern
+primary_culture = ilmenian
+religion = animism
+clear_scripted_personalities = yes
+capital = 294
+1425.1.1 = {
 	monarch = {
-		name = "Baytas"
-		dynasty = "Bozok"
-		adm = 3
-		dip = 4
-		mil = 2
+		name = "Volodar"
+		birth_date = 1408.1.1
+		dynasty = "Vyatich"
+		adm = 0
+		dip = 2
+		mil = 1
 	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 8
+	capital = 294
+	add_treasury = 6
+	add_prestige = 5
 }

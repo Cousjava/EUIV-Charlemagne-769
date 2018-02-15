@@ -5,29 +5,33 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = breton
 religion = catholic
+clear_scripted_personalities = yes
 capital = 233
-1380.1.1 = {
+1425.1.1 = {
 	monarch = {
 		name = "Cawrdolli"
+		birth_date = 1380.1.1
 		dynasty = "Cerneu"
-		adm = 2
-		dip = 2
-		mil = 0
+		adm = 4
+		dip = 4
+		mil = 2
 	}
-}
-1400.1.1 = {
+	add_ruler_personality = craven_personality
+	add_ruler_personality = fierce_negotiator_personality
 	heir = {
 		name = "Oswallt"
 		monarch_name = "Oswallt"
 		dynasty = "Cerneu"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 2
-		dip = 3
-		mil = 3
+		adm = 1
+		dip = 2
+		mil = 2
 	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
+	capital = 233
 	add_treasury = 6
 	add_prestige = 11
 }

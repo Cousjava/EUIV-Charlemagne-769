@@ -1,21 +1,25 @@
-# Benevento
+# Asturias
 government = feudal_monarchy
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = lombard
+primary_culture = visigothic
 religion = catholic
-capital = 1933
-1410.1.1 = {
+clear_scripted_personalities = yes
+capital = 207
+1443.1.1 = {
 	monarch = {
-		name = "Arechis II"
-		dynasty = "Gausian"
-		adm = 1
+		name = "Aurelio"
+		birth_date = 1390.1.1
+		dynasty = "de Cantabria"
+		adm = 2
 		dip = 2
 		mil = 2
 	}
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 51
+	capital = 207
+	add_treasury = 9
+	add_prestige = 13
 }

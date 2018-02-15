@@ -1,33 +1,38 @@
-# Moravia
+# Satakunta
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = czech
+technology_group = western
+primary_culture = finnish
 religion = animism
-capital = 265
-1395.1.1 = {
+clear_scripted_personalities = yes
+capital = 4123
+1430.1.1 = {
 	monarch = {
-		name = "Mojmír"
-		dynasty = "Mojmírid"
-		adm = 1
-		dip = 2
-		mil = 2
-	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Rostislav"
-		monarch_name = "Rostislav"
-		dynasty = "Mojmírid"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 5
-		dip = 2
+		name = "Ihala"
+		birth_date = 1413.1.1
+		dynasty = "Virtanen"
+		adm = 3
+		dip = 0
 		mil = 3
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
+}
+1442.1.1 = {
+	heir = {
+		name = "Terho"
+		monarch_name = "Terho"
+		dynasty = "Virtanen"
+		birth_date = 1442.1.1
+		death_date = 1522.1.1
+		adm = 4
+		dip = 3
+		mil = 4
 	}
 }
 1444.11.11 = {
+	capital = 4123
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 4
 }

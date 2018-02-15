@@ -1,21 +1,25 @@
-# Idjil
-government = tribal_despotism
+# Figuig
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
 primary_culture = berber
-religion = shamanism
-capital = 1127
-1408.1.1 = {
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 349
+1442.1.1 = {
 	monarch = {
-		name = "Awzal"
-		dynasty = "Idjili"
-		adm = 6
+		name = "Abdul-Rahman"
+		birth_date = 1407.1.1
+		dynasty = "Rahmanid"
+		adm = 1
 		dip = 2
 		mil = 1
 	}
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
+	capital = 349
 	add_treasury = 4
-	add_prestige = 2
+	add_prestige = 3
 }

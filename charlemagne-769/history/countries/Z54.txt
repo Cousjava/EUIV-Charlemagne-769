@@ -1,33 +1,26 @@
-# Obotritia
-government = tribal_despotism
+# Ivrea
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = pommeranian
-religion = animism
-capital = 46
-1408.1.1 = {
+technology_group = western
+primary_culture = old_lombard
+religion = catholic
+clear_scripted_personalities = yes
+capital = 103
+1431.1.1 = {
 	monarch = {
-		name = "Boriwoj"
-		dynasty = "z Obodrytow"
-		adm = 4
-		dip = 2
-		mil = 4
+		name = "Liutprand"
+		birth_date = 1415.1.1
+		dynasty = "Liutprandingi"
+		adm = 2
+		dip = 6
+		mil = 2
 	}
-}
-1435.1.1 = {
-	heir = {
-		name = "Bretislav"
-		monarch_name = "Bretislav"
-		dynasty = "z Obodrytow"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 4
-		dip = 2
-		mil = 4
-	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
+	capital = 103
 	add_treasury = 6
 	add_prestige = 5
 }

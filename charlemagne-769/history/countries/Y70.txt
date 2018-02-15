@@ -1,21 +1,25 @@
-# Wag
-government = feudal_monarchy
+# Midhhalbid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = amhara
-religion = coptic
-capital = 1227
-1395.1.1 = {
+primary_culture = baluchi
+religion = sunni
+clear_scripted_personalities = yes
+capital = 575
+1440.1.1 = {
 	monarch = {
-		name = "Ayzur"
-		dynasty = "Solomonid"
-		adm = 2
-		dip = 1
-		mil = 4
+		name = "Uways"
+		birth_date = 1398.1.1
+		dynasty = "Midhhalbid"
+		adm = 1
+		dip = 3
+		mil = 3
 	}
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
+	capital = 575
 	add_treasury = 6
-	add_prestige = 37
+	add_prestige = 4
 }

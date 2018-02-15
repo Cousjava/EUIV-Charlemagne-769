@@ -1,4 +1,5 @@
 # Vestisland
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 190 230 250 }
 historical_idea_groups = {
@@ -49,7 +50,7 @@ leader_names = {
 	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
 	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Eirikr #0" = 14
+	"Eirikr #0" = 1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -183,6 +184,13 @@ monarch_names = {
 	"Yngvar #0" = 0
 	"Örvar #0" = 0
 	"Öysteinn #0" = 0
+
+
+	"Inga #0" = -1
+	"Ingjerðr #0" = -1
+	"Rögnfrið #0" = -1
+	"Aleta #0" = -1
+	"Gunnhildr #0" = -1
 }
 ship_names = {
 	Ålvik

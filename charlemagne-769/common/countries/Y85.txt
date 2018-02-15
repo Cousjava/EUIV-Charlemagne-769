@@ -1,6 +1,7 @@
-# Sijilmasa
+# Lemdiyya
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 72 214 60 }
+color = { 51 198 85 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -30,7 +31,7 @@ historical_units = {
 
 leader_names = {
 
-	"Al-Qasim" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
+	"Kamal" "Abakada" "Abazza" "Abbas" "Abdul" "Abdul-Azeem" "Abdul-Haleem" "Abdul-Kareem" "Abdul-Rahman" "Abdullah" 
 	"Abidin" "Adal" "Adam" "Aderbal" "Adergazuz" "Adherbal" "Admer" "Adrir" "Adum" "Afaghis" 
 	"Afalawas" "Afalku" "Afer" "Afulay" "Agafay" "Agama" "Agdada" "Agdun" "Agellid" "Aggur" 
 	"Aghali" "Aghecher" "Aghilas" "Agwillul" "Ahamatu" "Aheyyad" "Ahmad" "Ajdir" "Ajeddig" "Akaday" 
@@ -45,21 +46,21 @@ leader_names = {
 	"Hashim" "Hiba" "Hiempsal" "Himmi" "Hotha" "Hussamaddin" "Ibiza" "Ibrahim" "Iccaam" "Ifni" 
 	"Ifser" "Ighlaf" "Igider" "Igmi" "Iher" "Iken" "Ilyas" "Immeghar" "Immel" "Irgen" 
 	"Is'mail" "Isalcas" "Ishaq" "Isli" "Issam" "It'ij" "Itber" "Itri" "Ixfensen" "Ixzi" 
-	"Izri" "Jaffar" "Jamal" "Kadidu" "Kamal" "Karidenna" "Kawsen" "Kenan" "Keraja" "Khalid" 
-	"Khanchla" "Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" "Lewnis" "Luki" "Madidu" "Magsen" 
-	"Mahtar" "Malik" "Marwan" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" "Massinissa" "Massiva" 
-	"Massnsen" "Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Mazigh" "Medjan" "Mellal" "Mennad" 
-	"Menzu" "Meq'wran" "Mez'yan" "Mezwar" "Micipsa" "Misagenes" "Misibsen" "Mu'izz" "Muh'end" "Muhammad" 
-	"Mukhtar" "Mula" "Murad" "Musa" "Mustafa" "Muzaffaraddin" "N'Guna" "Nasr" "Nazar" "Niptasan" 
-	"Nizamaddin" "Ptolemee" "Qutaiba" "Rashid" "Sa'id" "Salah" "Salla" "Salomon" "Sammer" "Sayyid" 
-	"Seghada" "Sekla" "Shamsaddin" "Sifaks" "Sifal" "Sinbad" "Sisso" "Stembanos" "Suggut" "Sultan" 
-	"T'ar'iq" "Tabat" "Tacfin" "Taffounnout" "Tahir" "Takfarinas" "Tanan" "Tariq" "Tegama" "Thabitah" 
-	"Tifan" "Tiljad" "Ugdada" "Ugwistan" "Umar" "Uqess'un" "Uregh" "Urtilian" "Urz'ig" "Uzmir" 
-	"Uzza" "Wahab" "Watt'as" "Xamida" "Yabdas" "Yaghmurasen" "Yahya" "Yattuy" "Yeften" "Yeh'lem" 
-	"Yiliyen" "Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" "Yuva" "Z'effun" "Zafir" 
-	"Zalelsan" "Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
+	"Izri" "Jaffar" "Jamal" "Kadidu" "Karidenna" "Kawsen" "Kenan" "Keraja" "Khalid" "Khanchla" 
+	"Khenchela" "Khidr" "Kussil" "Lacumaces" "Laweye" "Lewnis" "Luki" "Madidu" "Magsen" "Mahtar" 
+	"Malik" "Marwan" "Masgaba" "Masgava" "Masinissa" "Masmud" "Masnsen" "Massinissa" "Massiva" "Massnsen" 
+	"Mastan" "Mastanabal" "Matiya" "Maysar" "Maziba" "Mazigh" "Medjan" "Mellal" "Mennad" "Menzu" 
+	"Meq'wran" "Mez'yan" "Mezwar" "Micipsa" "Misagenes" "Misibsen" "Mu'izz" "Muh'end" "Muhammad" "Mukhtar" 
+	"Mula" "Murad" "Musa" "Mustafa" "Muzaffaraddin" "N'Guna" "Nasr" "Nazar" "Niptasan" "Nizamaddin" 
+	"Ptolemee" "Qutaiba" "Rashid" "Sa'id" "Salah" "Salla" "Salomon" "Sammer" "Sayyid" "Seghada" 
+	"Sekla" "Shamsaddin" "Sifaks" "Sifal" "Sinbad" "Sisso" "Stembanos" "Suggut" "Sultan" "T'ar'iq" 
+	"Tabat" "Tacfin" "Taffounnout" "Tahir" "Takfarinas" "Tanan" "Tariq" "Tegama" "Thabitah" "Tifan" 
+	"Tiljad" "Ugdada" "Ugwistan" "Umar" "Uqess'un" "Uregh" "Urtilian" "Urz'ig" "Uzmir" "Uzza" 
+	"Wahab" "Watt'as" "Xamida" "Yabdas" "Yaghmurasen" "Yahya" "Yattuy" "Yeften" "Yeh'lem" "Yiliyen" 
+	"Yuba" "Yugerten" "Yugurthen" "Youkhanna" "Yunes" "Yusuf" "Yuva" "Z'effun" "Zafir" "Zalelsan" 
+	"Zayar" "Zer'wal" "Zigza" "Ziri" "Zubeyr" }
 monarch_names = {
-	"Al-Qasim #0" = 28
+	"Kamal #0" = 1
 	"Abakada #0" = 0
 	"Abazza #0" = 0
 	"Abbas #0" = 0
@@ -213,7 +214,6 @@ monarch_names = {
 	"Jaffar #0" = 0
 	"Jamal #0" = 0
 	"Kadidu #0" = 0
-	"Kamal #0" = 0
 	"Karidenna #0" = 0
 	"Kawsen #0" = 0
 	"Kenan #0" = 0
@@ -335,6 +335,13 @@ monarch_names = {
 	"Zigza #0" = 0
 	"Ziri #0" = 0
 	"Zubeyr #0" = 0
+
+
+	"Aisha #0" = -1
+	"Tilelli #0" = -1
+	"Baraah #0" = -1
+	"Mernissa #0" = -1
+	"Aarifa #0" = -1
 }
 ship_names = {
 	Arif

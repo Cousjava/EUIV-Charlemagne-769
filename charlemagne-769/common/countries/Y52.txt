@@ -1,15 +1,16 @@
-# Africa
+# Taid
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 21 255 3 }
+color = { 99 150 9 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
 	trade_ideas
 	spy_ideas
-	diplomatic_ideas
-	innovativeness_ideas
 	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
 }
 
 historical_units = {
@@ -30,30 +31,24 @@ historical_units = {
 
 leader_names = {
 
-	"Al-Mughirah" "Al-Fadl" "Dawud" "Nasr" "Rawh" "Yazid" "Hafs" "Umar" "Habib" "Muhallab" 
-	"al-Mufaddal" "Marwan" "Abd al-malik" "Mu'awiyah" "Hatim" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" 
-	"Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" 
-	"Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" 
-	"Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" 
-	"Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" 
-	"Najib" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" 
-	"Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Shabib" "Al-Hasan" "Homayd" "Muhammad" "Abdallah" "Ali" "Sa'id" "Qahtaba" "Khazim" "Abu-Bakr" 
+	"Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" "Akin" "Alim" 
+	"Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" 
+	"Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" 
+	"Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Murad" "Musa" 
+	"Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" 
+	"Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" 
+	"Youkhanna" "Yusuf" "Zeyd" }
 monarch_names = {
-	"Al-Mughirah #0" = 9
-	"Al-Fadl #0" = 9
-	"Dawud #0" = 9
-	"Nasr #0" = 9
-	"Rawh #0" = 9
-	"Yazid #0" = 18
-	"Hafs #0" = 9
-	"Umar #0" = 9
-	"Habib #0" = 18
-	"Muhallab #0" = 9
-	"al-Mufaddal #0" = 9
-	"Marwan #0" = 9
-	"Abd al-malik #0" = 9
-	"Mu'awiyah #0" = 9
-	"Hatim #0" = 9
+	"Shabib #0" = 1
+	"Al-Hasan #0" = 1
+	"Homayd #1" = 18
+	"Muhammad #0" = 1
+	"Abdallah #0" = 1
+	"Ali #0" = 1
+	"Sa'id #0" = 1
+	"Qahtaba #0" = 1
+	"Khazim #1" = 0
 	"Abu-Bakr #0" = 0
 	"Aarif #0" = 0
 	"Abdul-Gafur #0" = 0
@@ -64,7 +59,6 @@ monarch_names = {
 	"Abdullah #0" = 0
 	"Aghlab #0" = 0
 	"Akin #0" = 0
-	"Ali #0" = 0
 	"Alim #0" = 0
 	"Aram #0" = 0
 	"Azam #0" = 0
@@ -93,13 +87,13 @@ monarch_names = {
 	"Mansur #0" = 0
 	"Mirza #0" = 0
 	"Mubarak #0" = 0
-	"Muhammad #0" = 0
 	"Mukhtar #0" = 0
 	"Murad #0" = 0
 	"Musa #0" = 0
 	"Muslihiddin #0" = 0
 	"Muzaffaraddin #0" = 0
 	"Najib #0" = 0
+	"Nasr #0" = 0
 	"Nizam #0" = 0
 	"Qawurd #0" = 0
 	"Ramadan #0" = 0
@@ -119,19 +113,34 @@ monarch_names = {
 	"Youkhanna #0" = 0
 	"Yusuf #0" = 0
 	"Zeyd #0" = 0
+
+
+	"Amsha #0" = -1
+	"Faghira #0" = -1
+	"Nyawela #0" = -1
+	"Shahzadah #0" = -1
+	"Shameem #0" = -1
 }
 ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
 }
 

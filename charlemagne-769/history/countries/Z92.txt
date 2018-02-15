@@ -1,21 +1,26 @@
-# Ugra
-government = tribal_despotism
+# Dyrrachion
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = samoyed
-religion = animism
-capital = 4122
-1408.1.1 = {
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 143
+1434.1.1 = {
 	monarch = {
-		name = "Alik"
-		dynasty = "Sarakid"
-		adm = 4
+		name = "Manthos"
+		birth_date = 1414.1.1
+		dynasty = "Touvakes"
+		adm = 3
 		dip = 3
-		mil = 1
+		mil = 5
 	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
+	capital = 143
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

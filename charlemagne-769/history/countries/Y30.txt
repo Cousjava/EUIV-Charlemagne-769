@@ -1,33 +1,36 @@
-# Cheremisa
-government = tribal_despotism
-government_rank = 1
+# Magyar
+government = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = mordvin
-religion = animism
-capital = 1304
-1408.1.1 = {
+technology_group = nomad_group
+primary_culture = hungarian
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2406
+1439.1.1 = {
 	monarch = {
-		name = "Varaka"
-		dynasty = "Cheremisid"
-		adm = 3
-		dip = 2
-		mil = 3
+		name = "Jenö"
+		birth_date = 1416.1.1
+		dynasty = "Jenö"
+		adm = 2
+		dip = 1
+		mil = 5
 	}
-}
-1435.1.1 = {
+	add_ruler_personality = strict_personality
 	heir = {
-		name = "Nuyat"
-		monarch_name = "Nuyat"
-		dynasty = "Cheremisid"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
+		name = "Dezsõ"
+		monarch_name = "Dezsõ"
+		dynasty = "Jenö"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
 		adm = 3
 		dip = 2
-		mil = 3
+		mil = 2
 	}
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 5
+	capital = 2406
+	add_treasury = 10
+	add_prestige = 13
 }

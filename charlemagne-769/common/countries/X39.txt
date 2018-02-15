@@ -1,114 +1,85 @@
-# Maldives
+# Kindah
+ck2_converter_generated = yes
 graphical_culture = indiangfx
-color = { 120 75 75 }
+color = { 234 100 21 }
 
 
 
 
 leader_names = {
 
-	"Aditya" "Agabala" "Aggabodhi" "Agibuti" "Ananda" "Anikanga" "Apaya" "Arittha" "Avirada" "Ayasmantha" 
-	"Bhuvanekabahu" "Butisamana" "Chodaganga" "Dahamsena" "Danamitta" "Dappula" "Dathappabhuti" "Dathopatissa" "Dharmapala" "Dharmasena" 
-	"Dharmasoka" "Dhatusena" "Digakassapa" "Diganaguli" "Digasumana" "Gajabahu" "Hadaka" "Hadana" "Hujata" "Jayabahu" 
-	"Jetthatissa" "Jhotisena" "Kashyapa" "Kassapa" "Kitti" "Kittisena" "Kittivarma" "Magamitta" "Mahadeva" "Mahanaga" 
-	"Mahasattha" "Mahasena" "Mahasiva" "Mahinda" "Manavanna" "Mihidala" "Mihindala" "Mitta" "Moggallana" "Nandamitta" 
-	"Narendra" "Narendrasinha" "Nirmala" "Padita" "Parakkamabahu" "Parakramabahu" "Rajasinha" "Rakasala" "Ratana" "Rohaka" 
-	"Sadhatissa" "Sagala" "Saliya" "Sanghamitta" "Sanghatissa" "Sankha" "Sena" "Senarat" "Sidata" "Sigaratissa" 
-	"Silameghavanna" "Sinhabahu" "Siva" "Sobana" "Sobika" "Sudata" "Sumana" "Surakita" "Suratissa" "Tissa" 
-	"Udaya" "Upatissa" "Vassaba" "Vebeliya" "Vepali" "Vijayabahu" "Vikrama" "Vikramabahu" "Vimaladharma" "Vimaladharmasuriya" 
-	"Virabahu" "Viranarendra" }
+	"Ubayd" "Ajit" "Amar" "Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" "Bhagwant" 
+	"Bhaimani" "Budh" "Chand" "Charat" "Damodar" "Dasu" "Datu" "Dayaram" "Didar" "Farid" 
+	"Fateh" "Gobind" "Gurdita" "Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" "Jujhar" 
+	"Kalyan" "Kapur" "Kehar" "Kharak" "Khushal" "Lahna" "Lakhmichand" "Laxman" "Mahadev" "Mohan" 
+	"Mohri" "Nanak" "Narayan" "Nodha" "Partap" "Pheru" "Prithichand" "Prithvi" "Ram Rai" "Ranjit" 
+	"Ranjor" "Sahdev" "Shamsher" "Sher" "Srichand" "Tegh Bahadur" "Tej Bhan" "Thakur" "Zorawar" }
 monarch_names = {
-	"Aditya #0" = 10
-	"Agabala #0" = 0
-	"Aggabodhi #0" = 0
-	"Agibuti #0" = 0
-	"Ananda #0" = 0
-	"Anikanga #0" = 0
-	"Apaya #0" = 0
-	"Arittha #0" = 0
-	"Avirada #0" = 0
-	"Ayasmantha #0" = 0
-	"Bhuvanekabahu #0" = 0
-	"Butisamana #0" = 0
-	"Chodaganga #0" = 0
-	"Dahamsena #0" = 0
-	"Danamitta #0" = 0
-	"Dappula #0" = 0
-	"Dathappabhuti #0" = 0
-	"Dathopatissa #0" = 0
-	"Dharmapala #0" = 0
-	"Dharmasena #0" = 0
-	"Dharmasoka #0" = 0
-	"Dhatusena #0" = 0
-	"Digakassapa #0" = 0
-	"Diganaguli #0" = 0
-	"Digasumana #0" = 0
-	"Gajabahu #0" = 0
-	"Hadaka #0" = 0
-	"Hadana #0" = 0
-	"Hujata #0" = 0
-	"Jayabahu #0" = 0
-	"Jetthatissa #0" = 0
-	"Jhotisena #0" = 0
-	"Kashyapa #0" = 0
-	"Kassapa #0" = 0
-	"Kitti #0" = 0
-	"Kittisena #0" = 0
-	"Kittivarma #0" = 0
-	"Magamitta #0" = 0
-	"Mahadeva #0" = 0
-	"Mahanaga #0" = 0
-	"Mahasattha #0" = 0
-	"Mahasena #0" = 0
-	"Mahasiva #0" = 0
-	"Mahinda #0" = 0
-	"Manavanna #0" = 0
-	"Mihidala #0" = 0
-	"Mihindala #0" = 0
-	"Mitta #0" = 0
-	"Moggallana #0" = 0
-	"Nandamitta #0" = 0
-	"Narendra #0" = 0
-	"Narendrasinha #0" = 0
-	"Nirmala #0" = 0
-	"Padita #0" = 0
-	"Parakkamabahu #0" = 0
-	"Parakramabahu #0" = 0
-	"Rajasinha #0" = 0
-	"Rakasala #0" = 0
-	"Ratana #0" = 0
-	"Rohaka #0" = 0
-	"Sadhatissa #0" = 0
-	"Sagala #0" = 0
-	"Saliya #0" = 0
-	"Sanghamitta #0" = 0
-	"Sanghatissa #0" = 0
-	"Sankha #0" = 0
-	"Sena #0" = 0
-	"Senarat #0" = 0
-	"Sidata #0" = 0
-	"Sigaratissa #0" = 0
-	"Silameghavanna #0" = 0
-	"Sinhabahu #0" = 0
-	"Siva #0" = 0
-	"Sobana #0" = 0
-	"Sobika #0" = 0
-	"Sudata #0" = 0
-	"Sumana #0" = 0
-	"Surakita #0" = 0
-	"Suratissa #0" = 0
-	"Tissa #0" = 0
-	"Udaya #0" = 0
-	"Upatissa #0" = 0
-	"Vassaba #0" = 0
-	"Vebeliya #0" = 0
-	"Vepali #0" = 0
-	"Vijayabahu #0" = 0
-	"Vikrama #0" = 0
-	"Vikramabahu #0" = 0
-	"Vimaladharma #0" = 0
-	"Vimaladharmasuriya #0" = 0
-	"Virabahu #0" = 0
-	"Viranarendra #0" = 0
+	"Ubayd #1" = 18
+	"Ajit #0" = 0
+	"Amar #0" = 0
+	"Amar Dasi #0" = 0
+	"Amir #0" = 0
+	"Angad #0" = 0
+	"Arjun #0" = 0
+	"Atar #0" = 0
+	"Basawa #0" = 0
+	"Bhagwant #0" = 0
+	"Bhaimani #0" = 0
+	"Budh #0" = 0
+	"Chand #0" = 0
+	"Charat #0" = 0
+	"Damodar #0" = 0
+	"Dasu #0" = 0
+	"Datu #0" = 0
+	"Dayaram #0" = 0
+	"Didar #0" = 0
+	"Farid #0" = 0
+	"Fateh #0" = 0
+	"Gobind #0" = 0
+	"Gurdita #0" = 0
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Har Krishan #0" = 0
+	"Har Rai #0" = 0
+	"Jai Ram #0" = 0
+	"Jetha #0" = 0
+	"Jujhar #0" = 0
+	"Kalyan #0" = 0
+	"Kapur #0" = 0
+	"Kehar #0" = 0
+	"Kharak #0" = 0
+	"Khushal #0" = 0
+	"Lahna #0" = 0
+	"Lakhmichand #0" = 0
+	"Laxman #0" = 0
+	"Mahadev #0" = 0
+	"Mohan #0" = 0
+	"Mohri #0" = 0
+	"Nanak #0" = 0
+	"Narayan #0" = 0
+	"Nodha #0" = 0
+	"Partap #0" = 0
+	"Pheru #0" = 0
+	"Prithichand #0" = 0
+	"Prithvi #0" = 0
+	"Ram Rai #0" = 0
+	"Ranjit #0" = 0
+	"Ranjor #0" = 0
+	"Sahdev #0" = 0
+	"Shamsher #0" = 0
+	"Sher #0" = 0
+	"Srichand #0" = 0
+	"Tegh Bahadur #0" = 0
+	"Tej Bhan #0" = 0
+	"Thakur #0" = 0
+	"Zorawar #0" = 0
+
+
+	"Yasmin #0" = -1
+	"Rafiqa #0" = -1
+	"Sajida #0" = -1
+	"Nafisa #0" = -1
+	"Sheeva #0" = -1
 }
 

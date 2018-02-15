@@ -1,21 +1,25 @@
-# Bukhal
-government = steppe_horde
-government_rank = 1
+# Avaria
+government = tribal_despotism
+government_rank = 2
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = khazar
+technology_group = eastern
+primary_culture = avar
 religion = tengri_pagan_reformed
-capital = 2447
-1392.1.1 = {
+clear_scripted_personalities = yes
+capital = 153
+1442.1.1 = {
 	monarch = {
-		name = "Simsam"
-		dynasty = "Bukhal"
+		name = "Dengizikh"
+		birth_date = 1397.1.1
+		dynasty = "Khunzakhal"
 		adm = 1
 		dip = 3
-		mil = 2
+		mil = 5
 	}
+	add_ruler_personality = lawgiver_personality
 }
 1444.11.11 = {
+	capital = 153
 	add_treasury = 8
-	add_prestige = 13
+	add_prestige = 53
 }

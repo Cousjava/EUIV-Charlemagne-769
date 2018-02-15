@@ -1,202 +1,182 @@
-# Ingria
+# Amalfi
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 113 0 0 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	spy_ideas
-	religious_ideas
-}
+color = { 140 200 230 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
-}
 
 
 
 leader_names = {
 
-	"Ahti" "Aare" "Agul" "Ahas" "Aho" "Ahvo" "Alar" "Alo" "Alur" "Aopelg" 
-	"Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" "Hain" 
-	"Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" 
-	"Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" "Ilmar" 
-	"Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" "Kaido" 
-	"Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" "Kiur" 
-	"Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
-	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" "Niglas" 
-	"Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" "Päevalemb" 
-	"Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" "Tarva" 
-	"Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" "Tõivulemb" 
-	"Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" "Veli" 
-	"Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" "Väino" 
-	"Värvo" "Õigemeel" "Ülo" }
+	"Leon" "Timoleon" "Kaisarios" "Aikaterine" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" 
+	"Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" 
+	"Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" 
+	"Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" 
+	"Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" 
+	"Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" 
+	"Innokentios" "Ioannes" "Ioannikios" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" 
+	"Ioustinos" "Kallinikos" "Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" 
+	"Kyros" "Laurentios" "Lazaros" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" 
+	"Maximos" "Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" 
+	"Nikolaos" "Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" 
+	"Philaretos" "Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" 
+	"Romanos" "Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" 
+	"Theocharistos" "Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" 
+	"Tiberios" "Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
-	"Ahti #0" = 14
-	"Aare #0" = 0
-	"Agul #0" = 0
-	"Ahas #0" = 0
-	"Aho #0" = 0
-	"Ahvo #0" = 0
-	"Alar #0" = 0
-	"Alo #0" = 0
-	"Alur #0" = 0
-	"Aopelg #0" = 0
-	"Aotõiv #0" = 0
-	"Arp #0" = 0
-	"Arvet #0" = 0
-	"Arvo #0" = 0
-	"Atko #0" = 0
-	"Aul #0" = 0
-	"Aulemb #0" = 0
-	"Eeri #0" = 0
-	"Elmar #0" = 0
-	"Hain #0" = 0
-	"Haljas #0" = 0
-	"Heameel #0" = 0
-	"Heatõiv #0" = 0
-	"Hoovatõiv #0" = 0
-	"Hurmas #0" = 0
-	"Hurmetõiv #0" = 0
-	"Hõimulemb #0" = 0
-	"Hüvalemb #0" = 0
-	"Hüvameel #0" = 0
-	"Hüvatõiv #0" = 0
-	"Igalemb #0" = 0
-	"Igapäiv #0" = 0
-	"Ihalemb #0" = 0
-	"Ihameel #0" = 0
-	"Ihar #0" = 0
-	"Ihatõiv #0" = 0
-	"Ihavald #0" = 0
-	"Illimar #0" = 0
-	"Ilmalemb #0" = 0
-	"Ilmar #0" = 0
-	"Ilvelemb #0" = 0
-	"Jaolemb #0" = 0
-	"Kaalep #0" = 0
-	"Kaarel #0" = 0
-	"Kaaren #0" = 0
-	"Kahar #0" = 0
-	"Kahru #0" = 0
-	"Kahrulemb #0" = 0
-	"Kahus #0" = 0
-	"Kaido #0" = 0
-	"Kalev #0" = 0
-	"Kalju #0" = 0
-	"Kaljuvald #0" = 0
-	"Kalle #0" = 0
-	"Kaomeel #0" = 0
-	"Karuvald #0" = 0
-	"Kaugemeel #0" = 0
-	"Kaupo #0" = 0
-	"Kaur #0" = 0
-	"Kiur #0" = 0
-	"Kiurupelg #0" = 0
-	"Koit #0" = 0
-	"Kosk #0" = 0
-	"Kudres #0" = 0
-	"Küllelemb #0" = 0
-	"Leetõiv #0" = 0
-	"Lembit #0" = 0
-	"Leppetõiv #0" = 0
-	"Lible #0" = 0
-	"Lättelemb #0" = 0
-	"Manivald #0" = 0
-	"Mart #0" = 0
-	"Maru #0" = 0
-	"Mati #0" = 0
-	"Mats #0" = 0
-	"Meelis #0" = 0
-	"Mehis #0" = 0
-	"Meigo #0" = 0
-	"Neeme #0" = 0
-	"Niglas #0" = 0
-	"Ohetõiv #0" = 0
-	"Ohevald #0" = 0
-	"Olev #0" = 0
-	"Onni #0" = 0
-	"Otelemb #0" = 0
-	"Ott #0" = 0
-	"Pihl #0" = 0
-	"Piho #0" = 0
-	"Pikne #0" = 0
-	"Päevalemb #0" = 0
-	"Pärt #0" = 0
-	"Raak #0" = 0
-	"Raho #0" = 0
-	"Rahuleid #0" = 0
-	"Sulev #0" = 0
-	"Susi #0" = 0
-	"Sutemeel #0" = 0
-	"Sutepelg #0" = 0
-	"Tambet #0" = 0
-	"Tarva #0" = 0
-	"Tarvet #0" = 0
-	"Tasulemb #0" = 0
-	"Toivo #0" = 0
-	"Toom #0" = 0
-	"Tunne #0" = 0
-	"Tutkas #0" = 0
-	"Tuul #0" = 0
-	"Tõeleid #0" = 0
-	"Tõiv #0" = 0
-	"Tõivulemb #0" = 0
-	"Tõll #0" = 0
-	"Tõnn #0" = 0
-	"Uku #0" = 0
-	"Urmas #0" = 0
-	"Uru #0" = 0
-	"Valdur #0" = 0
-	"Vambola #0" = 0
-	"Vandemeel #0" = 0
-	"Varjelemb #0" = 0
-	"Veli #0" = 0
-	"Vello #0" = 0
-	"Venno #0" = 0
-	"Vesse #0" = 0
-	"Vihavald #0" = 0
-	"Vililemb #0" = 0
-	"Vilimeel #0" = 0
-	"Vilitõiv #0" = 0
-	"Vilivald #0" = 0
-	"Vootele #0" = 0
-	"Väino #0" = 0
-	"Värvo #0" = 0
-	"Õigemeel #0" = 0
-	"Ülo #0" = 0
-}
-ship_names = {
-	Agricola Aura
-	Borgå "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	"Leon #1" = 18
+	"Timoleon #0" = 1
+	"Kaisarios #0" = 1
+	"Aikaterine #0" = -1
+	"Adrianos #0" = 0
+	"Akakios #0" = 0
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Anastasios #0" = 0
+	"Anatolios #0" = 0
+	"Andreas #0" = 0
+	"Andronikos #0" = 0
+	"Anthemios #0" = 0
+	"Anthimos #0" = 0
+	"Antiochos #0" = 0
+	"Antonios #0" = 0
+	"Apollonios #0" = 0
+	"Arsenios #0" = 0
+	"Artemios #0" = 0
+	"Athanasios #0" = 0
+	"Bardas #0" = 0
+	"Bartholomaios #0" = 0
+	"Basileios #0" = 0
+	"Belisarios #0" = 0
+	"Boethios #0" = 0
+	"Bosporios #0" = 0
+	"Christophoros #0" = 0
+	"Chrysanthos #0" = 0
+	"Chrysogonos #0" = 0
+	"Damianos #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Dionysios #0" = 0
+	"Dorotheos #0" = 0
+	"Eirenaios #0" = 0
+	"Eudoxios #0" = 0
+	"Eustratios #0" = 0
+	"Eugenios #0" = 0
+	"Euphemios #0" = 0
+	"Eusebios #0" = 0
+	"Eustathios #0" = 0
+	"Evangelos #0" = 0
+	"Gabriel #0" = 0
+	"Gennadios #0" = 0
+	"Georgios #0" = 0
+	"Gerasimos #0" = 0
+	"Germanos #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Hektorios #0" = 0
+	"Helias #0" = 0
+	"Herakleios #0" = 0
+	"Hierotheos #0" = 0
+	"Himerios #0" = 0
+	"Hippolytos #0" = 0
+	"Hypatios #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannes #0" = 0
+	"Ioannikios #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Isaakios #0" = 0
+	"Isaias #0" = 0
+	"Isidoros #0" = 0
+	"Ioulianos #0" = 0
+	"Ioustinianos #0" = 0
+	"Ioustinos #0" = 0
+	"Kallinikos #0" = 0
+	"Kallistos #0" = 0
+	"Komitas #0" = 0
+	"Konstantinos #0" = 0
+	"Konstantios #0" = 0
+	"Konstas #0" = 0
+	"Kosmas #0" = 0
+	"Kyriakos #0" = 0
+	"Kyrillos #0" = 0
+	"Kyros #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Leontios #0" = 0
+	"Loukas #0" = 0
+	"Makarios #0" = 0
+	"Manuel #0" = 0
+	"Markos #0" = 0
+	"Matthaios #0" = 0
+	"Maurikios #0" = 0
+	"Maximos #0" = 0
+	"Megistos #0" = 0
+	"Meletios #0" = 0
+	"Methodios #0" = 0
+	"Michael #0" = 0
+	"Narses #0" = 0
+	"Neophytos #0" = 0
+	"Nikephoros #0" = 0
+	"Niketas #0" = 0
+	"Nikodemos #0" = 0
+	"Nikolaos #0" = 0
+	"Niphon #0" = 0
+	"Orestes #0" = 0
+	"Pamphilios #0" = 0
+	"Pankratios #0" = 0
+	"Pantoleon #0" = 0
+	"Paschalis #0" = 0
+	"Pavlos #0" = 0
+	"Pelagios #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Philippos #0" = 0
+	"Philotheos #0" = 0
+	"Phokas #0" = 0
+	"Photios #0" = 0
+	"Polykarpos #0" = 0
+	"Porphyrios #0" = 0
+	"Prokopios #0" = 0
+	"Pyrros #0" = 0
+	"Raphail #0" = 0
+	"Romanos #0" = 0
+	"Sabas #0" = 0
+	"Samuel #0" = 0
+	"Serapion #0" = 0
+	"Sebastianos #0" = 0
+	"Sergios #0" = 0
+	"Stephanos #0" = 0
+	"Staurakios #0" = 0
+	"Symeon #0" = 0
+	"Symmachos #0" = 0
+	"Theocharistos #0" = 0
+	"Theodoros #0" = 0
+	"Theodosios #0" = 0
+	"Theodotos #0" = 0
+	"Theodoulos #0" = 0
+	"Theoktistos #0" = 0
+	"Theophanes #0" = 0
+	"Theophilos #0" = 0
+	"Theophylaktos #0" = 0
+	"Thomas #0" = 0
+	"Tiberios #0" = 0
+	"Traianos #0" = 0
+	"Timotheos #0" = 0
+	"Tryphon #0" = 0
+	"Valerios #0" = 0
+	"Zacharias #0" = 0
+	"Zenobios #0" = 0
+	"Zenon #0" = 0
+
+
+	"Anthe #0" = -1
+	"Dorothea #0" = -1
+	"Theochariste #0" = -1
+	"Hypatia #0" = -1
 }
 

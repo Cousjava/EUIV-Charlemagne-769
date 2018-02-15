@@ -1,0 +1,25 @@
+# Yabghumakh
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 284
+1436.1.1 = {
+	monarch = {
+		name = "Mënümarót"
+		birth_date = 1406.1.1
+		dynasty = "Yabghumakh"
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 284
+	add_treasury = 8
+	add_prestige = 8
+}

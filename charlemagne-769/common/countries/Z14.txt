@@ -1,4 +1,5 @@
 # Laigin
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 65 210 85 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Diarmait" "Forbasach" "Énna" "Crimthann" "Feidlimid" "Nath-Í" "Áengus" "Eógan" "Muiredach" "Cormac" 
+	"Énna" "Diarmait" "Forbasach" "Crimthann" "Feidlimid" "Nath-Í" "Áengus" "Eógan" "Muiredach" "Cormac" 
 	"Colmán" "Guaire" "Sílán" "Fáelán" "Echu" "Brandub" "Fáelchú" "Máel-Odar" "Rónán" "Onchú" 
 	"Élothach" "Crundmáel" "Fiachra" "Áed" "Bressal" "Colchú" "Rudgal" "Sechnusach" "Aaron" "Abbán" 
 	"Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" 
@@ -85,34 +86,34 @@ leader_names = {
 	"Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" 
 	"Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Diarmait #0" = 51
-	"Forbasach #0" = 51
-	"Énna #0" = 51
-	"Crimthann #0" = 51
-	"Feidlimid #0" = 51
-	"Nath-Í #0" = 51
-	"Áengus #0" = 51
-	"Eógan #0" = 51
-	"Muiredach #0" = 51
-	"Cormac #0" = 51
-	"Colmán #0" = 51
-	"Guaire #0" = 51
-	"Sílán #0" = 51
-	"Fáelán #0" = 51
-	"Echu #0" = 51
-	"Brandub #0" = 51
-	"Fáelchú #0" = 51
-	"Máel-Odar #0" = 51
-	"Rónán #0" = 51
-	"Onchú #0" = 51
-	"Élothach #0" = 51
-	"Crundmáel #0" = 51
-	"Fiachra #0" = 51
-	"Áed #0" = 102
-	"Bressal #0" = 51
-	"Colchú #0" = 51
-	"Rudgal #0" = 51
-	"Sechnusach #0" = 51
+	"Énna #0" = 1
+	"Diarmait #0" = 1
+	"Forbasach #0" = 1
+	"Crimthann #0" = 1
+	"Feidlimid #0" = 1
+	"Nath-Í #0" = 1
+	"Áengus #0" = 1
+	"Eógan #0" = 1
+	"Muiredach #0" = 1
+	"Cormac #0" = 1
+	"Colmán #0" = 1
+	"Guaire #0" = 1
+	"Sílán #0" = 1
+	"Fáelán #0" = 1
+	"Echu #0" = 1
+	"Brandub #0" = 1
+	"Fáelchú #0" = 1
+	"Máel-Odar #0" = 1
+	"Rónán #0" = 1
+	"Onchú #0" = 1
+	"Élothach #0" = 1
+	"Crundmáel #0" = 1
+	"Fiachra #0" = 1
+	"Áed #0" = 1
+	"Bressal #0" = 1
+	"Colchú #0" = 1
+	"Rudgal #0" = 1
+	"Sechnusach #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -589,6 +590,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Imag #0" = -1
+	"Eilionora #0" = -1
+	"Siobán #0" = -1
+	"Lerthan #0" = -1
+	"Dúnlaith #0" = -1
 }
 ship_names = {
 	Aoife

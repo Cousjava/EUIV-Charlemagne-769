@@ -1,33 +1,37 @@
-# Nandin
+# Vengi Chalukya
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = afghani
-religion = buddhism
-capital = 451
-1386.7.11 = {
+technology_group = indian
+primary_culture = telegu
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 2084
+1430.1.1 = {
 	monarch = {
-		name = "Bo-Fuzun"
-		dynasty = "Nandin"
-		adm = 0
+		name = "Vijayaditya"
+		birth_date = 1375.1.1
+		dynasty = "Vengi Chalukya"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Vishnuvardhana"
+		monarch_name = "Vishnuvardhana"
+		dynasty = "Vengi Chalukya"
+		birth_date = 1405.1.1
+		death_date = 1485.1.1
+		adm = 5
 		dip = 3
 		mil = 3
 	}
-}
-1417.9.25 = {
-	heir = {
-		name = "Naz'aktar"
-		monarch_name = "Naz'aktar"
-		dynasty = "Nandin"
-		birth_date = 1417.9.25
-		death_date = 1497.9.25
-		adm = 1
-		dip = 3
-		mil = 2
-	}
+	add_heir_personality = midas_touched_personality
 }
 1444.11.11 = {
+	capital = 2084
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 6
 }

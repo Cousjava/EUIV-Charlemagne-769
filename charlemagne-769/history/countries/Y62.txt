@@ -1,21 +1,25 @@
-# Massat
-government = tribal_despotism
+# Barmakid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = berber
-religion = ibadi
-capital = 2469
-1410.1.1 = {
+technology_group = muslim
+primary_culture = assyrian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 411
+1440.1.1 = {
 	monarch = {
-		name = "Hamad"
-		dynasty = "Hamadid"
-		adm = 3
-		dip = 2
-		mil = 3
+		name = "Khalid"
+		birth_date = 1380.1.1
+		dynasty = "Barmakid"
+		adm = 2
+		dip = 5
+		mil = 2
 	}
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	add_treasury = 4
-	add_prestige = 3
+	capital = 411
+	add_treasury = 6
+	add_prestige = 7
 }

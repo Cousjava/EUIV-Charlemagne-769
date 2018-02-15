@@ -1,4 +1,5 @@
 # Burgundy
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 153 67 108 }
 
@@ -7,7 +8,7 @@ color = { 153 67 108 }
 
 leader_names = {
 
-	"Teudoin" "Theodbert" "Niebelung" "Guillaume" "Theoderic" "Abba" "Nibelung" "Berta" "Adalelm" "Childebrand" 
+	"Nibelung" "Teudoin" "Theoderic" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Theodbert" "Abba" "Berta" 
 	"Drogo" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" 
 	"Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Arnulf" 
 	"Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" 
@@ -29,16 +30,16 @@ leader_names = {
 	"Tetbert" "Teutbald" "Teutbert" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" "Trutgaud" 
 	"Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
-	"Teudoin #0" = 21
-	"Theodbert #0" = 21
-	"Niebelung #0" = 43
-	"Guillaume #0" = 21
-	"Theoderic #1" = 43
-	"Abba #0" = -22
-	"Nibelung #0" = 43
-	"Berta #0" = -22
-	"Adalelm #0" = 21
-	"Childebrand #0" = 21
+	"Nibelung #0" = 1
+	"Teudoin #0" = 1
+	"Theoderic #1" = 21
+	"Adalelm #0" = 1
+	"Childebrand #0" = 1
+	"Niebelung #0" = 1
+	"Guillaume #0" = 1
+	"Theodbert #0" = 1
+	"Abba #0" = -1
+	"Berta #0" = -1
 	"Drogo #1" = 0
 	"Abrahil #0" = 0
 	"Abram #0" = 0
@@ -238,5 +239,10 @@ monarch_names = {
 	"Wilbert #0" = 0
 	"Willichar #0" = 0
 	"Wolfari #0" = 0
+
+
+	"Chlothsinda #0" = -1
+	"Illegardis #0" = -1
+	"Berthildis #0" = -1
 }
 

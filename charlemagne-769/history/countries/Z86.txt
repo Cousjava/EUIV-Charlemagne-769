@@ -1,33 +1,26 @@
-# Karelia
-government = tribal_despotism
+# Cibyrrhaeot
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = finnish
-religion = animism
-capital = 1776
-1399.1.1 = {
-	monarch = {
-		name = "Lemetti"
-		dynasty = "Karjalainen"
-		adm = 3
-		dip = 6
-		mil = 3
-	}
-}
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 320
 1426.1.1 = {
-	heir = {
-		name = "Ihala"
-		monarch_name = "Ihala"
-		dynasty = "Karjalainen"
-		birth_date = 1426.1.1
-		death_date = 1506.1.1
+	monarch = {
+		name = "Theophylaktos"
+		birth_date = 1406.1.1
+		dynasty = "Rangabes"
 		adm = 3
-		dip = 2
-		mil = 2
+		dip = 1
+		mil = 4
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = lawgiver_personality
 }
 1444.11.11 = {
+	capital = 320
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

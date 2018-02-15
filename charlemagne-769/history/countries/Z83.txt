@@ -1,33 +1,25 @@
-# Satakunta
-government = tribal_despotism
+# Aegean Islands
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = finnish
-religion = animism
-capital = 4123
-1413.1.1 = {
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 2296
+1437.1.1 = {
 	monarch = {
-		name = "Ihala"
-		dynasty = "Virtanen"
-		adm = 4
-		dip = 1
-		mil = 2
+		name = "Maximos"
+		birth_date = 1412.1.1
+		dynasty = "Ooryphas"
+		adm = 2
+		dip = 2
+		mil = 1
 	}
-}
-1442.1.1 = {
-	heir = {
-		name = "Terho"
-		monarch_name = "Terho"
-		dynasty = "Virtanen"
-		birth_date = 1442.1.1
-		death_date = 1522.1.1
-		adm = 3
-		dip = 4
-		mil = 3
-	}
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
+	capital = 2296
 	add_treasury = 6
 	add_prestige = 4
 }

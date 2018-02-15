@@ -1,0 +1,25 @@
+# Abyssinia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 2787
+1437.1.1 = {
+	monarch = {
+		name = "Oda Gosh"
+		birth_date = 1393.1.1
+		dynasty = "Solomonid"
+		adm = 2
+		dip = 6
+		mil = 2
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1444.11.11 = {
+	capital = 2787
+	add_treasury = 8
+	add_prestige = 38
+}

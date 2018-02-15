@@ -1,21 +1,25 @@
 # Wallachia
-government = feudal_monarchy
+government = despotic_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bolghar
+technology_group = eastern
+primary_culture = avar
 religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
 capital = 161
-1428.1.1 = {
+1442.1.1 = {
 	monarch = {
 		name = "Vakrim"
+		birth_date = 1428.1.1
 		dynasty = "Ukil"
-		adm = 3
+		adm = 1
 		dip = 1
-		mil = 2
+		mil = 3
 	}
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
+	capital = 161
 	add_treasury = 6
 	add_prestige = 30
 }

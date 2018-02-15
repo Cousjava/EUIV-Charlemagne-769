@@ -1,4 +1,5 @@
 # Holstein
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 172 112 112 }
 
@@ -24,8 +25,8 @@ leader_names = {
 	"Wichbert" "Wichmann" "Wicho" "Widukind" "Wigebert" "Wilbrand" "Willichin" "Withgils" "Witikind" "Witta" 
 	"Wlencing" "Wolter" "Wulff" }
 monarch_names = {
-	"Hesso #1" = 32
-	"Gisela #0" = -17
+	"Hesso #1" = 21
+	"Gisela #0" = -1
 	"Abo #0" = 0
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0
@@ -177,5 +178,11 @@ monarch_names = {
 	"Wlencing #0" = 0
 	"Wolter #0" = 0
 	"Wulff #0" = 0
+
+
+	"Frederuna #0" = -1
+	"Wienke #0" = -1
+	"Bithild #0" = -1
+	"Alof #0" = -1
 }
 

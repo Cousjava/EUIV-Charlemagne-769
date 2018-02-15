@@ -1,4 +1,5 @@
 # Northumbria
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 255 0 0 }
 historical_idea_groups = {
@@ -35,16 +36,16 @@ historical_units = {
 
 leader_names = {
 
-	"Ealhmund" "Osred" "Ealhred" "Eadric" "Blæcman" "Bofa" "Beornholm" "Eanwine" "Æthelwald" "Arncytel" 
-	"Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" 
-	"Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" 
-	"Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" 
-	"Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" 
-	"Ealdræd" "Ealdwine" "Ealdwulf" "Eanberht" "Eanfrith" "Eanhere" "Eardwulf" "Eastmund" "Ecgberht" "Ecgfrith" 
-	"Gamall" "Godwine" "Gospatric" "Guthfrith" "Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" "Hereberht" 
-	"Hereweald" "Hereweard" "Hlothere" "Hrodberht" "Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" "Leofwine" 
-	"Maccus" "Morcar" "Mærleswegn" "Offa" "Onlaf" "Ordgar" "Oscytel" "Oshere" "Osmund" "Osric" 
-	"Osræd" "Osulf" "Osweald" "Oswine" "Oswulf" "Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" 
+	"Eadric" "Ealhred" "Ealhmund" "Osred" "Blæcman" "Bofa" "Beornholm" "Eanwine" "Ceolwulf" "Eadberht" 
+	"Oswulf" "Æthelwald" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" 
+	"Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" 
+	"Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadfrith" "Eadgar" "Eadmund" 
+	"Eadmær" "Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" 
+	"Ealdmund" "Ealdræd" "Ealdwine" "Ealdwulf" "Eanberht" "Eanfrith" "Eanhere" "Eardwulf" "Eastmund" "Ecgberht" 
+	"Ecgfrith" "Gamall" "Godwine" "Gospatric" "Guthfrith" "Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" 
+	"Hereberht" "Hereweald" "Hereweard" "Hlothere" "Hrodberht" "Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" 
+	"Leofwine" "Maccus" "Morcar" "Mærleswegn" "Offa" "Onlaf" "Ordgar" "Oscytel" "Oshere" "Osmund" 
+	"Osric" "Osræd" "Osulf" "Osweald" "Oswine" "Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" 
 	"Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" "Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" 
 	"Sæbert" "Sælræd" "Sæweald" "Sæxbald" "Sæxræd" "Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" 
 	"Ulf" "Ulfcytel" "Waltheof" "Werestan" "Wiglaf" "Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" 
@@ -53,14 +54,17 @@ leader_names = {
 	"Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" 
 	"Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Ealhmund #0" = 17
-	"Osred #0" = 17
-	"Ealhred #1" = 17
-	"Eadric #0" = 17
-	"Blæcman #0" = 17
-	"Bofa #0" = 17
-	"Beornholm #0" = 17
-	"Eanwine #0" = 17
+	"Eadric #0" = 1
+	"Ealhred #1" = 18
+	"Ealhmund #0" = 1
+	"Osred #0" = 1
+	"Blæcman #0" = 1
+	"Bofa #0" = 1
+	"Beornholm #0" = 1
+	"Eanwine #0" = 1
+	"Ceolwulf #1" = 0
+	"Eadberht #1" = 0
+	"Oswulf #1" = 0
 	"Æthelwald #1" = 0
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
@@ -80,7 +84,6 @@ monarch_names = {
 	"Cenfus #0" = 0
 	"Cenræd #0" = 0
 	"Cenwulf #0" = 0
-	"Ceolwulf #0" = 0
 	"Cerdic #0" = 0
 	"Copsige #0" = 0
 	"Cuthberht #0" = 0
@@ -88,7 +91,6 @@ monarch_names = {
 	"Cynehelm #0" = 0
 	"Cynewulf #0" = 0
 	"Cytelbearn #0" = 0
-	"Eadberht #0" = 0
 	"Eadfrith #0" = 0
 	"Eadgar #0" = 0
 	"Eadmund #0" = 0
@@ -147,7 +149,6 @@ monarch_names = {
 	"Osulf #0" = 0
 	"Osweald #0" = 0
 	"Oswine #0" = 0
-	"Oswulf #0" = 0
 	"Petre #0" = 0
 	"Rædwulf #0" = 0
 	"Rægenweald #0" = 0
@@ -219,6 +220,13 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Ealhswith #0" = -1
+	"Ælfflæd #0" = -1
+	"Eadgyth #0" = -1
+	"Heregyth #0" = -1
+	"Beornflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

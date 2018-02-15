@@ -1,147 +1,67 @@
-# Seville
-graphical_culture = muslimgfx
-color = { 150 218 21 }
-historical_idea_groups = {
-	religious_ideas
-	exploration_ideas
-	defensive_ideas
-	naval_ideas
-	economic_ideas
-	offensive_ideas
-	trade_ideas
-	diplomatic_ideas
-}
+# Saadid
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 80 220 10 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	spanish_tercio
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
-}
 
 
 
 leader_names = {
 
-	"Abdallah" "al-Qasim" "Abd-al-Rahman" "Hisham" "Umayyah" "Abdul-al-As" "Affan" "al-Hakim" "Abu-Sufyan" "Uthan" 
-	"Muawiyah" "Yazid" "Marwan" "Abu-al-Malik" "Abdul-Aziz" "al-Himar" "al-Walid" "Sulayman" "Umar" "Mu'awiyah" 
-	"Ibrahim" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" 
-	"Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" 
-	"Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Idris" "Is'mail" "Isa" "Jabir" 
-	"Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" 
-	"Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" 
-	"Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Talib" "Ubayd" "Uways" 
-	"Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Husayn" "Sa'd" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" 
+	"Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" 
+	"Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" 
+	"Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" 
+	"Wimarano" "Witiza" }
 monarch_names = {
-	"Abdallah #0" = 9
-	"al-Qasim #0" = 9
-	"Abd-al-Rahman #0" = 19
-	"Hisham #1" = 19
-	"Umayyah #0" = 9
-	"Abdul-al-As #0" = 9
-	"Affan #0" = 9
-	"al-Hakim #0" = 9
-	"Abu-Sufyan #0" = 9
-	"Uthan #0" = 9
-	"Muawiyah #0" = 19
-	"Yazid #0" = 28
-	"Marwan #0" = 19
-	"Abu-al-Malik #0" = 9
-	"Abdul-Aziz #0" = 9
-	"al-Himar #0" = 9
-	"al-Walid #0" = 19
-	"Sulayman #0" = 9
-	"Umar #0" = 9
-	"Mu'awiyah #0" = 9
-	"Ibrahim #0" = 9
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
-}
-ship_names = {
-	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
-	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
-	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
-	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
-	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
-	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
-	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
-	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
-	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
-	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
-	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
-	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
-	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
-	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+	"Husayn #1" = 18
+	"Sa'd #0" = 1
+	"Adelfonso #0" = 0
+	"Agila #0" = 0
+	"Airmanagildo #0" = 0
+	"Alaricho #0" = 0
+	"Aloito #0" = 0
+	"Assur #0" = 0
+	"Athanagildo #0" = 0
+	"Berengario #0" = 0
+	"Diaco #0" = 0
+	"Fafila #0" = 0
+	"Friedenando #0" = 0
+	"Friednand #0" = 0
+	"Froila #0" = 0
+	"Garçi #0" = 0
+	"Gonçalo #0" = 0
+	"Gundemar #0" = 0
+	"Guttier #0" = 0
+	"Johan #0" = 0
+	"Liuva #0" = 0
+	"Liuvericho #0" = 0
+	"Lupo #0" = 0
+	"Mauregato #0" = 0
+	"Monnio #0" = 0
+	"Nunno #0" = 0
+	"Oliba #0" = 0
+	"Ordonno #0" = 0
+	"Pelagio #0" = 0
+	"Petro #0" = 0
+	"Ranimiro #0" = 0
+	"Rekkaredo #0" = 0
+	"Rodericho #0" = 0
+	"Sans #0" = 0
+	"Silo #0" = 0
+	"Suneario #0" = 0
+	"Suniefredo #0" = 0
+	"Theodoricho #0" = 0
+	"Veremondo #0" = 0
+	"Wifredo #0" = 0
+	"Wimarano #0" = 0
+	"Witiza #0" = 0
+
+
+	"Kamala #0" = -1
+	"Parand #0" = -1
+	"Tanaz #0" = -1
+	"Simin #0" = -1
+	"Rashida #0" = -1
 }
 

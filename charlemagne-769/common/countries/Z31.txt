@@ -1,4 +1,5 @@
 # Powys
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 180 130 0 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Cadell" "Brochfael" "Gwrtheyrn" "Brydw" "Gwerthefyr" "Cadeyrn" "Annan" "Madrun" "Cyngen" "Rhyddfedd" 
+	"Gwrtheyrn" "Brochfael" "Cadell" "Brydw" "Gwerthefyr" "Cadeyrn" "Annan" "Madrun" "Cyngen" "Rhyddfedd" 
 	"Pasgen" "Morgan" "Cynan" "Selyf" "Manwgan" "Beli" "Gwylog" "Elisedd" "Adda" "Adgar" 
 	"Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" "Anarawd" "Andreas" 
 	"Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" "Arthfoddw" "Arthwr" 
@@ -63,24 +64,24 @@ leader_names = {
 	"Tomos" "Trahaearn" "Tudur" "Tudwal" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" 
 	"Ynyr" "Ysfael" }
 monarch_names = {
-	"Cadell #1" = 29
-	"Brochfael #2" = 58
-	"Gwrtheyrn #1" = 29
-	"Brydw #0" = 29
-	"Gwerthefyr #0" = 29
-	"Cadeyrn #1" = 29
-	"Annan #0" = -30
-	"Madrun #0" = -30
-	"Cyngen #1" = 29
-	"Rhyddfedd #1" = 29
-	"Pasgen #1" = 29
-	"Morgan #1" = 29
-	"Cynan #1" = 29
-	"Selyf #1" = 29
-	"Manwgan #1" = 29
-	"Beli #1" = 29
-	"Gwylog #1" = 29
-	"Elisedd #1" = 29
+	"Gwrtheyrn #1" = 18
+	"Brochfael #2" = 21
+	"Cadell #1" = 18
+	"Brydw #0" = 1
+	"Gwerthefyr #0" = 1
+	"Cadeyrn #1" = 18
+	"Annan #0" = -1
+	"Madrun #0" = -1
+	"Cyngen #1" = 18
+	"Rhyddfedd #1" = 18
+	"Pasgen #1" = 18
+	"Morgan #1" = 18
+	"Cynan #1" = 18
+	"Selyf #1" = 18
+	"Manwgan #1" = 18
+	"Beli #1" = 18
+	"Gwylog #1" = 18
+	"Elisedd #1" = 18
 	"Adda #0" = 0
 	"Adgar #0" = 0
 	"Adran #0" = 0
@@ -345,6 +346,11 @@ monarch_names = {
 	"Uthyr #0" = 0
 	"Ynyr #0" = 0
 	"Ysfael #0" = 0
+
+
+	"Lleigy #0" = -1
+	"Gwenasedd #0" = -1
+	"Mair #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

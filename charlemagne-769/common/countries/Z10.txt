@@ -1,4 +1,5 @@
 # Osraige
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 60 210 80 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Fergal" "Fáelán" "Tóim Snáma" "Crundmaíl" "Congaile" "Tuaim Snámha" "Cú Cherca" "Fland" "Ailill" "Forbasach" 
+	"Crundmaíl" "Tóim Snáma" "Fáelán" "Fergal" "Congaile" "Tuaim Snámha" "Cú Cherca" "Fland" "Ailill" "Forbasach" 
 	"Anmchad" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" "Áeducán" "Áedán" 
 	"Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" 
 	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
@@ -85,17 +86,17 @@ leader_names = {
 	"Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" 
 	"Ultán" }
 monarch_names = {
-	"Fergal #0" = 51
-	"Fáelán #0" = 102
-	"Tóim Snáma #0" = 51
-	"Crundmaíl #0" = 51
-	"Congaile #0" = 51
-	"Tuaim Snámha #0" = 51
-	"Cú Cherca #0" = 51
-	"Fland #0" = 51
-	"Ailill #0" = 51
-	"Forbasach #0" = 51
-	"Anmchad #0" = 51
+	"Crundmaíl #0" = 1
+	"Tóim Snáma #0" = 1
+	"Fáelán #0" = 1
+	"Fergal #0" = 1
+	"Congaile #0" = 1
+	"Tuaim Snámha #0" = 1
+	"Cú Cherca #0" = 1
+	"Fland #0" = 1
+	"Ailill #0" = 1
+	"Forbasach #0" = 1
+	"Anmchad #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -586,6 +587,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Étaín #0" = -1
+	"Martha #0" = -1
+	"Sétach #0" = -1
+	"Lígach #0" = -1
+	"Euginia #0" = -1
 }
 ship_names = {
 	Aoife

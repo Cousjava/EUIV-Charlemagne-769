@@ -1,73 +1,131 @@
-# Vengi Chalukya
-graphical_culture = indiangfx
-color = { 190 40 60 }
+# Azd Umanid
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 93 196 2 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
 
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
 
 
 
 leader_names = {
 
-	"Vijayaditya" "Vishnuvardhana" "Jayasimha" "Indrabhattaraka" "Mangiyuvaraja" "Vikramaditya" "Allada" "Allayavema" "Amma" "Ammaraja" 
-	"Anavema" "Anavota" "Ayyapayya" "Baladitya" "Ballaladeva" "Beta" "Bhima" "Bhandanaditya" "Chennappa" "Danamava" 
-	"Devanayaka" "Durgaraja" "Ganapathideva" "Ganapathinayaka" "Kaapayanayaka" "Kadeyaraja" "Kalakampa" "Kammanayaka" "Katayavema" "Kumaragiri" 
-	"Kubjavishnuvardhana" "Mahadeva" "Mahakala" "Mallapa" "Nachana" "Narendra" "Niravadyadhavala" "Nrpakama" "Pandaranga" "Prataparudra" 
-	"Prola" "Prolayanayak" "Prolayavema" "Prthiviyaraja" "Rajanayaka" "Rajaraja" "Rudradeva" "Saktivarman" "Singamanayaka" "Somaditya" 
-	"Vengabhupathi" "Vimaladitya" "Virabhadra" "Yuddamalla" "Yuddhamalla" }
+	"al-Julanda" "Muhammad" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" 
+	"Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" 
+	"Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" 
+	"Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
+	"Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" 
+	"Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" 
+	"Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
 monarch_names = {
-	"Vijayaditya #1" = 13
-	"Vishnuvardhana #0" = 26
-	"Jayasimha #0" = 13
-	"Indrabhattaraka #0" = 6
-	"Mangiyuvaraja #0" = 6
-	"Vikramaditya #0" = 6
-	"Allada #0" = 0
-	"Allayavema #0" = 0
-	"Amma #0" = 0
-	"Ammaraja #0" = 0
-	"Anavema #0" = 0
-	"Anavota #0" = 0
-	"Ayyapayya #0" = 0
-	"Baladitya #0" = 0
-	"Ballaladeva #0" = 0
-	"Beta #0" = 0
-	"Bhima #0" = 0
-	"Bhandanaditya #0" = 0
-	"Chennappa #0" = 0
-	"Danamava #0" = 0
-	"Devanayaka #0" = 0
-	"Durgaraja #0" = 0
-	"Ganapathideva #0" = 0
-	"Ganapathinayaka #0" = 0
-	"Kaapayanayaka #0" = 0
-	"Kadeyaraja #0" = 0
-	"Kalakampa #0" = 0
-	"Kammanayaka #0" = 0
-	"Katayavema #0" = 0
-	"Kumaragiri #0" = 0
-	"Kubjavishnuvardhana #0" = 0
-	"Mahadeva #0" = 0
-	"Mahakala #0" = 0
-	"Mallapa #0" = 0
-	"Nachana #0" = 0
-	"Narendra #0" = 0
-	"Niravadyadhavala #0" = 0
-	"Nrpakama #0" = 0
-	"Pandaranga #0" = 0
-	"Prataparudra #0" = 0
-	"Prola #0" = 0
-	"Prolayanayak #0" = 0
-	"Prolayavema #0" = 0
-	"Prthiviyaraja #0" = 0
-	"Rajanayaka #0" = 0
-	"Rajaraja #0" = 0
-	"Rudradeva #0" = 0
-	"Saktivarman #0" = 0
-	"Singamanayaka #0" = 0
-	"Somaditya #0" = 0
-	"Vengabhupathi #0" = 0
-	"Vimaladitya #0" = 0
-	"Virabhadra #0" = 0
-	"Yuddamalla #0" = 0
-	"Yuddhamalla #0" = 0
+	"al-Julanda #1" = 18
+	"Muhammad #0" = 1
+	"Abu-Bakr #0" = 0
+	"Aarif #0" = 0
+	"Abdul-Gafur #0" = 0
+	"Abdul-Jaleel #0" = 0
+	"Abdul-Qadir #0" = 0
+	"Abdul-Wahab #0" = 0
+	"Abdul #0" = 0
+	"Abdullah #0" = 0
+	"Aghlab #0" = 0
+	"Akin #0" = 0
+	"Ali #0" = 0
+	"Alim #0" = 0
+	"Aram #0" = 0
+	"Azam #0" = 0
+	"Bahir #0" = 0
+	"Burhanaddin #0" = 0
+	"Fadil #0" = 0
+	"Fadl #0" = 0
+	"Faruk #0" = 0
+	"Ghalib #0" = 0
+	"Hafiz #0" = 0
+	"Halil #0" = 0
+	"Hasan #0" = 0
+	"Husam #0" = 0
+	"Hussayn #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Is'mail #0" = 0
+	"Isa #0" = 0
+	"Jabir #0" = 0
+	"Jalil #0" = 0
+	"Jibril #0" = 0
+	"Khaireddin #0" = 0
+	"Khalil #0" = 0
+	"Mahdi #0" = 0
+	"Mahmud #0" = 0
+	"Mansur #0" = 0
+	"Mirza #0" = 0
+	"Mubarak #0" = 0
+	"Mukhtar #0" = 0
+	"Murad #0" = 0
+	"Musa #0" = 0
+	"Muslihiddin #0" = 0
+	"Muzaffaraddin #0" = 0
+	"Najib #0" = 0
+	"Nasr #0" = 0
+	"Nizam #0" = 0
+	"Qawurd #0" = 0
+	"Ramadan #0" = 0
+	"Sa'daddin #0" = 0
+	"Sadiq #0" = 0
+	"Sami #0" = 0
+	"Samir #0" = 0
+	"Shaiban #0" = 0
+	"Shamir #0" = 0
+	"Shujah #0" = 0
+	"Sulayman #0" = 0
+	"Talib #0" = 0
+	"Ubayd #0" = 0
+	"Uways #0" = 0
+	"Yahya #0" = 0
+	"Ya'qub #0" = 0
+	"Youkhanna #0" = 0
+	"Yusuf #0" = 0
+	"Zeyd #0" = 0
+
+
+	"Adila #0" = -1
+	"Shokouh #0" = -1
+	"Sajida #0" = -1
+	"Sabba #0" = -1
+	"Shahrbano #0" = -1
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
 }
 

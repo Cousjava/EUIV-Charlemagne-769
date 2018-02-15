@@ -1,4 +1,5 @@
 # Essex
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 241 15 15 }
 historical_idea_groups = {
@@ -35,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Sigered" "Sigeric" "Sælred" "Offa" "Æscwine" "Sledda" "Sæberht" "Sæxred" "Sæward" "Sigeberht" 
+	"Offa" "Sælred" "Sigeric" "Sigered" "Æscwine" "Sledda" "Sæberht" "Sæxred" "Sæward" "Sigeberht" 
 	"Swithhelm" "Sighere" "Sebbi" "Sigeheard" "Swæfred" "Swithred" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" 
 	"Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" 
 	"Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" 
@@ -53,22 +54,22 @@ leader_names = {
 	"Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" 
 	"Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Sigered #0" = 36
+	"Offa #1" = 21
+	"Sælred #1" = 21
 	"Sigeric #1" = 18
-	"Sælred #0" = 36
-	"Offa #0" = 36
-	"Æscwine #0" = 18
-	"Sledda #0" = 18
-	"Sæberht #0" = 18
-	"Sæxred #0" = 18
-	"Sæward #0" = 18
-	"Sigeberht #0" = 36
-	"Swithhelm #0" = 18
-	"Sighere #0" = 18
-	"Sebbi #0" = 36
-	"Sigeheard #0" = 18
-	"Swæfred #0" = 18
-	"Swithred #0" = 18
+	"Sigered #0" = 1
+	"Æscwine #1" = 18
+	"Sledda #1" = 18
+	"Sæberht #1" = 18
+	"Sæxred #0" = 1
+	"Sæward #1" = 18
+	"Sigeberht #2" = 21
+	"Swithhelm #1" = 18
+	"Sighere #0" = 1
+	"Sebbi #1" = 21
+	"Sigeheard #0" = 1
+	"Swæfred #1" = 18
+	"Swithred #1" = 18
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -223,6 +224,13 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Ealhswith #0" = -1
+	"Ælfflæd #0" = -1
+	"Eadgyth #0" = -1
+	"Heregyth #0" = -1
+	"Beornflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

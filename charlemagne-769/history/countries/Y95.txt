@@ -1,33 +1,37 @@
-# Vengi Chalukya
-government = feudal_monarchy
+# Azd Umanid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = telegu
-religion = hinduism
-capital = 2084
-1375.1.1 = {
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 2341
+1426.1.1 = {
 	monarch = {
-		name = "Vijayaditya"
-		dynasty = "Vengi Chalukya"
+		name = "al-Julanda"
+		birth_date = 1386.1.1
+		dynasty = "Azd Umanid"
+		adm = 3
+		dip = 0
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Azd Umanid"
+		birth_date = 1409.1.1
+		death_date = 1489.1.1
 		adm = 3
 		dip = 2
 		mil = 1
 	}
-}
-1405.1.1 = {
-	heir = {
-		name = "Vishnuvardhana"
-		monarch_name = "Vishnuvardhana"
-		dynasty = "Vengi Chalukya"
-		birth_date = 1405.1.1
-		death_date = 1485.1.1
-		adm = 1
-		dip = 0
-		mil = 2
-	}
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
+	capital = 2341
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

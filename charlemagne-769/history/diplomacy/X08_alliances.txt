@@ -1,6 +1,0 @@
-union = {
-	first = X08
-	second = X09
-	start_date = 1444.11.11
-	end_date = 1900.1.1
-}

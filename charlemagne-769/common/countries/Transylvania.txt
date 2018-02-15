@@ -1,4 +1,5 @@
 # Transylvania
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 255 150 150 }
 historical_idea_groups = {
@@ -32,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Yabghu" "Kayghalagh" "Gostum" "Khatir" "Ispor" "Yugurtu" "Yani" "Yilig" "Dukum" "Alzek" 
+	"Yilig" "Yani" "Khatir" "Gostum" "Kayghalagh" "Yabghu" "Ispor" "Yugurtu" "Dukum" "Alzek" 
 	"Zabergan" "Almish" "Alp" "Anzi" "Apskhih" "Araslan" "Asparukh" "Bagha" "Baghatur" "Balambär" 
 	"Barjik" "Bars" "Barsbek" "Bashtwa" "Bastu" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" 
 	"Belkermak" "Bezmer" "Bihor" "Boyan" "Bugha" "Bughra" "Bulan" "Bulger" "Bulçan" "Busir" 
@@ -50,17 +51,17 @@ leader_names = {
 	"Täbär" "Tähtaman" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yavantey" "Yençepi" 
 	"Yerneslu" "Yeçtirek" "Zenti" "Çat" "Çat'n" "Çorpan" "Ötemis" }
 monarch_names = {
-	"Yabghu #0" = 17
-	"Kayghalagh #0" = 17
-	"Gostum #0" = 17
-	"Khatir #0" = 17
-	"Ispor #0" = 17
-	"Yugurtu #0" = 17
-	"Yani #1" = 17
-	"Yilig #1" = 17
-	"Dukum #1" = 17
-	"Alzek #1" = 17
-	"Zabergan #1" = 17
+	"Yilig #1" = 18
+	"Yani #1" = 18
+	"Khatir #0" = 1
+	"Gostum #0" = 1
+	"Kayghalagh #0" = 1
+	"Yabghu #0" = 1
+	"Ispor #0" = 1
+	"Yugurtu #0" = 1
+	"Dukum #1" = 18
+	"Alzek #1" = 18
+	"Zabergan #1" = 18
 	"Almish #0" = 0
 	"Alp #0" = 0
 	"Anzi #0" = 0
@@ -217,6 +218,13 @@ monarch_names = {
 	"Çat'n #0" = 0
 	"Çorpan #0" = 0
 	"Ötemis #0" = 0
+
+
+	"Akgul #0" = -1
+	"Puyantay #0" = -1
+	"Usunbike #0" = -1
+	"Bozçin #0" = -1
+	"Sarä #0" = -1
 }
 ship_names = {
 	Aranybulla 

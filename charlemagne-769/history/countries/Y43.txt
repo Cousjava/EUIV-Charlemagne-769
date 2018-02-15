@@ -1,21 +1,39 @@
-# Damascus
-government = iqta
+# Cheremisa
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = bedouin_arabic
-religion = sunni
-capital = 382
-1415.1.1 = {
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
+clear_scripted_personalities = yes
+capital = 304
+1425.1.1 = {
 	monarch = {
-		name = "Al-Fadl"
-		dynasty = "Abbasid"
-		adm = 5
-		dip = 2
-		mil = 2
+		name = "Varaka"
+		birth_date = 1408.1.1
+		dynasty = "Cheremisid"
+		adm = 3
+		dip = 1
+		mil = 6
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1435.1.1 = {
+	heir = {
+		name = "Nuyat"
+		monarch_name = "Nuyat"
+		dynasty = "Cheremisid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
+	capital = 304
 	add_treasury = 6
-	add_prestige = 34
+	add_prestige = 5
 }

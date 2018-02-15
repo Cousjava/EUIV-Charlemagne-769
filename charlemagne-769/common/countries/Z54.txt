@@ -1,28 +1,28 @@
-# Obotritia
-graphical_culture = easterngfx
-color = { 162 160 110 }
+# Ivrea
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 191 158 158 }
 historical_idea_groups = {
 	defensive_ideas
-	offensive_ideas
 	trade_ideas
+	economic_ideas
 	diplomatic_ideas
-	spy_ideas
 	innovativeness_ideas
-	quantity_ideas
-	administrative_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
 }
 
 historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 	western_men_at_arms
-	dutch_maurician
+	italian_condotta
 	austrian_tercio
 	austrian_grenzer
 	austrian_hussar
-	prussian_frederickian
-	prussian_uhlan
-	prussian_drill
+	austrian_white_coat
+	austrian_jaeger
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square
@@ -33,132 +33,201 @@ historical_units = {
 
 leader_names = {
 
-	"Bretislav" "Boriwoj" "Aleksander" "Andrzej" "Antoni" "Aron" "Barnim" "Bartosz" "Bedrich" "Bezprzym" 
-	"Blazej" "Bogislaw" "Bohdan" "Bohumir" "Boleslaw" "Bozydar" "Branimir" "Branislav" "Casimir" "Ctibor" 
-	"Dobieslaw" "Dobromil" "Drosuk" "Dytryk" "Frantisek" "Gawel" "Grzegorz" "Havel" "Jacenty" "Jakub" 
-	"Jakusz" "Janusz" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" "Jirí" "Jozef" 
-	"Juliusz" "Kajetan" "Kamil" "Karel" "Kasper" "Kazimierz" "Kliment" "Kolman" "Kornel" "Kresimir" 
-	"Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Ludvik" "Marek" "Marian" "Mateusz" 
-	"Mieszko" "Mikolás" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Msciwoj" "Oldrich" "Ondrej" "Otokar" 
-	"Patryk" "Pawel" "Piotr" "Prendota" "Przemysl" "Przybyslaw" "Radomil" "Radomir" "Radoslav" "Rostislav" 
-	"Ryszard" "Sambor" "Sobieslav" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" "Szczesny" "Szymon" 
-	"Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" 
-	"Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+	"Liutprand" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" "Agilof" "Agilulf" "Agiprand" "Ago" 
+	"Ahthari" "Aimeric" "Aistulf" "Aiulf" "Ajo" "Alahis" "Alboin" "Aldihoc" "Alo" "Altpert" 
+	"Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" "Arechis" "Ariald" "Aribert" "Arichis" 
+	"Aripert" "Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" "Audelahis" "Audoin" "Aunepert" 
+	"Ausfrid" "Authari" "Berin" "Bernard" "Birinus" "Cleph" "Corvulus" "Daufer" "Desiderius" "Donnolo" 
+	"Erchempert" "Erchinoald" "Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Garibald" "Gisulf" 
+	"Godehoc" "Godepert" "Godescalc" "Grasulf" "Grimoald" "Guaifer" "Guaimar" "Gumpert" "Gundo" "Gundoald" 
+	"Hermenfred" "Hildeprand" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" "Hucpert" "Ibor" "Ildiches" "Indulf" 
+	"Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" "Laidulf" "Lambert" "Landari" "Landenulf" 
+	"Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" "Liutpert" "Liutward" "Lupus" "Maginulf" 
+	"Manso" "Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" "Pandenulf" "Pandulf" "Pemmo" 
+	"Penno" "Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" "Radwald" "Raginpert" "Ratchis" 
+	"Reccared" "Risiulf" "Rochus" "Rodgand" "Rodoald" "Rodolf" "Rodwald" "Romuald" "Rothari" "Saxo" 
+	"Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" "Taso" "Theodelap" 
+	"Theoderich" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" "Unulf" 
+	"Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" "Wechthari" "Wido" "Zotto" 
+	"Zuchilo" }
 monarch_names = {
-	"Bretislav #0" = 12
-	"Boriwoj #1" = 12
-	"Aleksander #0" = 0
-	"Andrzej #0" = 0
-	"Antoni #0" = 0
-	"Aron #0" = 0
-	"Barnim #0" = 0
-	"Bartosz #0" = 0
-	"Bedrich #0" = 0
-	"Bezprzym #0" = 0
-	"Blazej #0" = 0
-	"Bogislaw #0" = 0
-	"Bohdan #0" = 0
-	"Bohumir #0" = 0
-	"Boleslaw #0" = 0
-	"Bozydar #0" = 0
-	"Branimir #0" = 0
-	"Branislav #0" = 0
-	"Casimir #0" = 0
-	"Ctibor #0" = 0
-	"Dobieslaw #0" = 0
-	"Dobromil #0" = 0
-	"Drosuk #0" = 0
-	"Dytryk #0" = 0
-	"Frantisek #0" = 0
-	"Gawel #0" = 0
-	"Grzegorz #0" = 0
-	"Havel #0" = 0
-	"Jacenty #0" = 0
-	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Janusz #0" = 0
-	"Jaromar #0" = 0
-	"Jaromil #0" = 0
-	"Jaromir #0" = 0
-	"Jaroslav #0" = 0
-	"Jedrzej #0" = 0
-	"Jindrich #0" = 0
-	"Jirí #0" = 0
-	"Jozef #0" = 0
-	"Juliusz #0" = 0
-	"Kajetan #0" = 0
-	"Kamil #0" = 0
-	"Karel #0" = 0
-	"Kasper #0" = 0
-	"Kazimierz #0" = 0
-	"Kliment #0" = 0
-	"Kolman #0" = 0
-	"Kornel #0" = 0
-	"Kresimir #0" = 0
-	"Krzeslaw #0" = 0
-	"Krzysztof #0" = 0
-	"Lech #0" = 0
-	"Leszek #0" = 0
-	"Lubomir #0" = 0
-	"Lucjan #0" = 0
-	"Ludvik #0" = 0
-	"Marek #0" = 0
-	"Marian #0" = 0
-	"Mateusz #0" = 0
-	"Mieszko #0" = 0
-	"Mikolás #0" = 0
-	"Miloslaw #0" = 0
-	"Milosz #0" = 0
-	"Miroslaw #0" = 0
-	"Mscislaw #0" = 0
-	"Msciwoj #0" = 0
-	"Oldrich #0" = 0
-	"Ondrej #0" = 0
-	"Otokar #0" = 0
-	"Patryk #0" = 0
-	"Pawel #0" = 0
-	"Piotr #0" = 0
-	"Prendota #0" = 0
-	"Przemysl #0" = 0
-	"Przybyslaw #0" = 0
-	"Radomil #0" = 0
-	"Radomir #0" = 0
-	"Radoslav #0" = 0
-	"Rostislav #0" = 0
-	"Ryszard #0" = 0
-	"Sambor #0" = 0
-	"Sobieslav #0" = 0
-	"Stanislaw #0" = 0
-	"Strasz #0" = 0
-	"Swietopelk #0" = 0
-	"Swietoslaw #0" = 0
-	"Szczepan #0" = 0
-	"Szczesny #0" = 0
-	"Szymon #0" = 0
-	"Tadeusz #0" = 0
-	"Tomasz #0" = 0
-	"Udalrich #0" = 0
-	"Urjasz #0" = 0
-	"Vojtech #0" = 0
-	"Waclaw #0" = 0
-	"Walenty #0" = 0
-	"Wratislaw #0" = 0
-	"Wawrzyniec #0" = 0
-	"Wenceslaw #0" = 0
-	"Wincenty #0" = 0
-	"Wizlaw #0" = 0
-	"Wladyslaw #0" = 0
-	"Wlodek #0" = 0
-	"Wlodzimierz #0" = 0
-	"Wlodzislaw #0" = 0
-	"Zbigniew #0" = 0
-	"Zdenek #0" = 0
-	"Zdislav #0" = 0
-	"Zygmunt #0" = 0
+	"Liutprand #1" = 18
+	"Adalgis #0" = 0
+	"Adaloald #0" = 0
+	"Adhemar #0" = 0
+	"Ado #0" = 0
+	"Agelmund #0" = 0
+	"Agilof #0" = 0
+	"Agilulf #0" = 0
+	"Agiprand #0" = 0
+	"Ago #0" = 0
+	"Ahthari #0" = 0
+	"Aimeric #0" = 0
+	"Aistulf #0" = 0
+	"Aiulf #0" = 0
+	"Ajo #0" = 0
+	"Alahis #0" = 0
+	"Alboin #0" = 0
+	"Aldihoc #0" = 0
+	"Alo #0" = 0
+	"Altpert #0" = 0
+	"Amefrith #0" = 0
+	"Anselm #0" = 0
+	"Ansfrid #0" = 0
+	"Ansfrith #0" = 0
+	"Ansprand #0" = 0
+	"Ardoin #0" = 0
+	"Arechis #0" = 0
+	"Ariald #0" = 0
+	"Aribert #0" = 0
+	"Arichis #0" = 0
+	"Aripert #0" = 0
+	"Ariulf #0" = 0
+	"Arnefrith #0" = 0
+	"Arnifrid #0" = 0
+	"Artavasdas #0" = 0
+	"Atenulf #0" = 0
+	"Atto #0" = 0
+	"Audelahis #0" = 0
+	"Audoin #0" = 0
+	"Aunepert #0" = 0
+	"Ausfrid #0" = 0
+	"Authari #0" = 0
+	"Berin #0" = 0
+	"Bernard #0" = 0
+	"Birinus #0" = 0
+	"Cleph #0" = 0
+	"Corvulus #0" = 0
+	"Daufer #0" = 0
+	"Desiderius #0" = 0
+	"Donnolo #0" = 0
+	"Erchempert #0" = 0
+	"Erchinoald #0" = 0
+	"Erlembald #0" = 0
+	"Ewin #0" = 0
+	"Fara #0" = 0
+	"Faroald #0" = 0
+	"Ferdulf #0" = 0
+	"Gacco #0" = 0
+	"Garibald #0" = 0
+	"Gisulf #0" = 0
+	"Godehoc #0" = 0
+	"Godepert #0" = 0
+	"Godescalc #0" = 0
+	"Grasulf #0" = 0
+	"Grimoald #0" = 0
+	"Guaifer #0" = 0
+	"Guaimar #0" = 0
+	"Gumpert #0" = 0
+	"Gundo #0" = 0
+	"Gundoald #0" = 0
+	"Hermenfred #0" = 0
+	"Hildeprand #0" = 0
+	"Hilderic #0" = 0
+	"Hildigis #0" = 0
+	"Hilmagis #0" = 0
+	"Hrodgaud #0" = 0
+	"Hucpert #0" = 0
+	"Ibor #0" = 0
+	"Ildiches #0" = 0
+	"Indulf #0" = 0
+	"Ingoald #0" = 0
+	"Ioann #0" = 0
+	"Irnerius #0" = 0
+	"Kakko #0" = 0
+	"Kunibert #0" = 0
+	"Laiamicho #0" = 0
+	"Laidulf #0" = 0
+	"Lambert #0" = 0
+	"Landari #0" = 0
+	"Landenulf #0" = 0
+	"Lando #0" = 0
+	"Landulf #0" = 0
+	"Lantpert #0" = 0
+	"Laudari #0" = 0
+	"Liutbald #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpert #0" = 0
+	"Liutward #0" = 0
+	"Lupus #0" = 0
+	"Maginulf #0" = 0
+	"Manso #0" = 0
+	"Munichis #0" = 0
+	"Nordepert #0" = 0
+	"Odilo #0" = 0
+	"Odoaker #0" = 0
+	"Odoin #0" = 0
+	"Orson #0" = 0
+	"Pandenulf #0" = 0
+	"Pandulf #0" = 0
+	"Pemmo #0" = 0
+	"Penno #0" = 0
+	"Perctarit #0" = 0
+	"Petrus #0" = 0
+	"Poppo #0" = 0
+	"Radelchis #0" = 0
+	"Radelgar #0" = 0
+	"Radgis #0" = 0
+	"Radwald #0" = 0
+	"Raginpert #0" = 0
+	"Ratchis #0" = 0
+	"Reccared #0" = 0
+	"Risiulf #0" = 0
+	"Rochus #0" = 0
+	"Rodgand #0" = 0
+	"Rodoald #0" = 0
+	"Rodolf #0" = 0
+	"Rodwald #0" = 0
+	"Romuald #0" = 0
+	"Rothari #0" = 0
+	"Saxo #0" = 0
+	"Sico #0" = 0
+	"Siconulf #0" = 0
+	"Sigibuld #0" = 0
+	"Sigisbert #0" = 0
+	"Sigisbrand #0" = 0
+	"Sikard #0" = 0
+	"Sinibald #0" = 0
+	"Taino #0" = 0
+	"Taso #0" = 0
+	"Theodelap #0" = 0
+	"Theoderich #0" = 0
+	"Theodicius #0" = 0
+	"Theodo #0" = 0
+	"Theodorich #0" = 0
+	"Theotpert #0" = 0
+	"Theudoald #0" = 0
+	"Thrasimund #0" = 0
+	"Unichis #0" = 0
+	"Unigild #0" = 0
+	"Unulf #0" = 0
+	"Ursus #0" = 0
+	"Vacho #0" = 0
+	"Waifar #0" = 0
+	"Waimar #0" = 0
+	"Waldchis #0" = 0
+	"Waldipert #0" = 0
+	"Walthari #0" = 0
+	"Wechthari #0" = 0
+	"Wido #0" = 0
+	"Zotto #0" = 0
+	"Zuchilo #0" = 0
+
+
+	"Areagne #0" = -1
+	"Gaitelgrima #0" = -1
+	"Gambara #0" = -1
+	"Sunigilda #0" = -1
+	"Helchen #0" = -1
 }
 ship_names = {
-	Pommern "Herzog Kasimir" "Herzog Bogislaw"
-	"Stettin Herzog Barnim" Wismar Rostock
-	Stralsund Greifswald Demmin Anklam "Herzog Otto"
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
 }
 

@@ -1,4 +1,5 @@
 # Caliu
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 116 145 239 }
 historical_idea_groups = {
@@ -44,7 +45,7 @@ leader_names = {
 	"Uist" "Uuochu" "Uoret" "Unen" "Unuist" "Urguist" "Usuullt" "Uthoil" "Uudrost" "Uuen" 
 	"Uuid" "Uuirp" "Uuredach" "Uuroid" }
 monarch_names = {
-	"Allcallorred #0" = 9
+	"Allcallorred #0" = 1
 	"Achiuir #0" = 0
 	"Aethon #0" = 0
 	"Aenbecan #0" = 0
@@ -128,6 +129,13 @@ monarch_names = {
 	"Uuirp #0" = 0
 	"Uuredach #0" = 0
 	"Uuroid #0" = 0
+
+
+	"Allust #0" = -1
+	"Mor #0" = -1
+	"Arnemetia #0" = -1
+	"Bride #0" = -1
+	"Caitrion #0" = -1
 }
 ship_names = {
 	Ålvik

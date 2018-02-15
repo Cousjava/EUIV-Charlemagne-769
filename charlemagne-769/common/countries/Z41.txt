@@ -1,4 +1,5 @@
 # Broërec
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 140 30 13 }
 historical_idea_groups = {
@@ -34,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Guihomarch" "Berdic" "Urbien" "Gradlon" "Salomon" "Aldrien" "Iehan Riotham" "Budic" "Guérech" "Emyric" 
+	"Urbien" "Berdic" "Guihomarch" "Gradlon" "Salomon" "Aldrien" "Iehan Riotham" "Budic" "Guérech" "Emyric" 
 	"Hoël" "Teudur" "Teudric" "Alan" "Iudicael" "Iehan" "Deniel" "Raulhon" "Agatha" "Adoyre" 
 	"Adrien" "Aedan" "Agustin" "Alar" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" 
 	"Anaugen" "Anauguethen" "Anauguoret" "Anauhocar" "Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" 
@@ -77,25 +78,25 @@ leader_names = {
 	"Tibault" "Tiernan" "Tiernmael" "Tiernoc" "Tiernualloc" "Tiernuallon" "Treveur" "Tristan" "Tuduallon" "Tudur" 
 	"Tugdual" "Ungust" "Urbcen" "Urblon" "Urvod" "Uther" "Vincenne" }
 monarch_names = {
-	"Guihomarch #0" = 42
-	"Berdic #0" = 42
-	"Urbien #0" = 42
-	"Gradlon #0" = 42
-	"Salomon #0" = 128
-	"Aldrien #0" = 42
-	"Iehan Riotham #0" = 42
-	"Budic #0" = 170
-	"Guérech #0" = 85
-	"Emyric #0" = 42
-	"Hoël #0" = 128
-	"Teudur #0" = 42
-	"Teudric #0" = 42
-	"Alan #0" = 85
-	"Iudicael #0" = 42
-	"Iehan #0" = 42
-	"Deniel #0" = 85
-	"Raulhon #0" = 42
-	"Agatha #0" = -43
+	"Urbien #0" = 1
+	"Berdic #0" = 1
+	"Guihomarch #0" = 1
+	"Gradlon #0" = 1
+	"Salomon #0" = 1
+	"Aldrien #0" = 1
+	"Iehan Riotham #0" = 1
+	"Budic #0" = 1
+	"Guérech #0" = 1
+	"Emyric #0" = 1
+	"Hoël #0" = 1
+	"Teudur #0" = 1
+	"Teudric #0" = 1
+	"Alan #0" = 1
+	"Iudicael #0" = 1
+	"Iehan #0" = 1
+	"Deniel #0" = 1
+	"Raulhon #0" = 1
+	"Agatha #0" = -1
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0
@@ -494,6 +495,12 @@ monarch_names = {
 	"Urvod #0" = 0
 	"Uther #0" = 0
 	"Vincenne #0" = 0
+
+
+	"Ceindrec #0" = -1
+	"Emma #0" = -1
+	"Nolwenne #0" = -1
+	"Iudlouguen #0" = -1
 }
 ship_names = {
 	Achille Actif Active Admirable Aglaé

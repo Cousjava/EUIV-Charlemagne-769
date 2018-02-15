@@ -1,96 +1,135 @@
-# Finnmárku
+# Abkhazia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 174 161 110 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+color = { 255 173 196 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Áilu" "Ággi" "Áigesárri" "Ámmot" "Ára" "Árrajuoksa" "Ásllat" "Èoavvá" "Ahkemiella" "Algebaeivi" 
-	"Baeivi" "Baeivvet" "Biejan" "Bijás" "Bilzi" "Dávgon" "Duttá" "Gáivvas" "Gáktu" "Henes" 
-	"Járre" "Jeansa" "Juvven" "Lágon" "Lávrrohas" "Leammá" "Mellet" "Mihka" "Mohkku" "Mokci" 
-	"Náhkol" "Náinnas" "Njulgu" "Oaván" "Orddot" "Rástos" "Riibma" "Ruigi" "Sárra" "Speaidna" 
-	"Viggu" }
+	"Anos" "Levan" "Teodos" "Ghozar" "Istvine" "Phiniktios" "Barnuk" "Demetre" "Konstanti" "Teodor" 
+	"Adarnase" "Aghsartan" "Aleksandre" "Andronik" "Anzori" "Archili" "Ashot" "Bagrat" "Bakur" "Davit" 
+	"Demna" "Djavakhi" "Erekle" "Gabrieli" "Gagiki" "Giorgi" "Grigoli" "Guaram" "Gubaz" "Gurgen" 
+	"Iese" "Ioane" "Ishkhanik" "Iveri" "Jarji" "Kaikhosro" "Kakhi" "Koba" "Konstantine" "Kvarkvare" 
+	"Kvirike" "Luarsab" "Malkhazi" "Mamia" "Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" "Okhropir" 
+	"Orbeli" "Padla" "Samoeli" "Shanshe" "Shota" "Simon" "Stepanoz" "Sumbat" "Teimuraz" "Tornike" 
+	"Ushisha" "Vache" "Vakhtang" "Zurab" "Zviad" }
 monarch_names = {
-	"Áilu #0" = 5
-	"Ággi #0" = 0
-	"Áigesárri #0" = 0
-	"Ámmot #0" = 0
-	"Ára #0" = 0
-	"Árrajuoksa #0" = 0
-	"Ásllat #0" = 0
-	"Èoavvá #0" = 0
-	"Ahkemiella #0" = 0
-	"Algebaeivi #0" = 0
-	"Baeivi #0" = 0
-	"Baeivvet #0" = 0
-	"Biejan #0" = 0
-	"Bijás #0" = 0
-	"Bilzi #0" = 0
-	"Dávgon #0" = 0
-	"Duttá #0" = 0
-	"Gáivvas #0" = 0
-	"Gáktu #0" = 0
-	"Henes #0" = 0
-	"Járre #0" = 0
-	"Jeansa #0" = 0
-	"Juvven #0" = 0
-	"Lágon #0" = 0
-	"Lávrrohas #0" = 0
-	"Leammá #0" = 0
-	"Mellet #0" = 0
-	"Mihka #0" = 0
-	"Mohkku #0" = 0
-	"Mokci #0" = 0
-	"Náhkol #0" = 0
-	"Náinnas #0" = 0
-	"Njulgu #0" = 0
-	"Oaván #0" = 0
-	"Orddot #0" = 0
-	"Rástos #0" = 0
-	"Riibma #0" = 0
-	"Ruigi #0" = 0
-	"Sárra #0" = 0
-	"Speaidna #0" = 0
-	"Viggu #0" = 0
+	"Anos #1" = 18
+	"Levan #2" = 21
+	"Teodos #1" = 21
+	"Ghozar #1" = 18
+	"Istvine #1" = 18
+	"Phiniktios #1" = 18
+	"Barnuk #1" = 18
+	"Demetre #1" = 18
+	"Konstanti #2" = 21
+	"Teodor #1" = 18
+	"Adarnase #0" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Archili #0" = 0
+	"Ashot #0" = 0
+	"Bagrat #0" = 0
+	"Bakur #0" = 0
+	"Davit #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Guaram #0" = 0
+	"Gubaz #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Vache #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+
+
+	"Tamari #0" = -1
+	"Lamzira #0" = -1
+	"Shorena #0" = -1
+	"Kekela #0" = -1
+	"Borena #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
 }
 

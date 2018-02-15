@@ -1,4 +1,5 @@
 # Cornwall
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 181 60 10 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Hopkin" "Hernam" "Oswallt" "Cawrdolli" "Iudhael" "Hoël" "Donual" "Rodric" "Caradog" "Meurig" 
+	"Iudhael" "Cawrdolli" "Hernam" "Hopkin" "Oswallt" "Hoël" "Donual" "Rodric" "Caradog" "Meurig" 
 	"Dynod" "Cynan Meiriadog" "Cadfan" "Gwrfawr" "Tudwal" "Cynfawr" "Custennin" "Erbin" "Geraint" "Cadwy" 
 	"Gereint" "Bledric" "Clemen" "Petroc" "Culmin" "Dumnarth" "Adoyre" "Adrien" "Aedan" "Agustin" 
 	"Alan" "Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" 
@@ -77,14 +78,14 @@ leader_names = {
 	"Tiernoc" "Tiernualloc" "Tiernuallon" "Treveur" "Tristan" "Tuduallon" "Tudur" "Tugdual" "Ungust" "Urbcen" 
 	"Urbien" "Urblon" "Urvod" "Uther" "Vincenne" }
 monarch_names = {
-	"Hopkin #0" = 43
-	"Hernam #0" = 43
-	"Oswallt #0" = 43
-	"Cawrdolli #1" = 43
-	"Iudhael #1" = 43
-	"Hoël #1" = 43
-	"Donual #1" = 43
-	"Rodric #0" = 43
+	"Iudhael #1" = 18
+	"Cawrdolli #1" = 18
+	"Hernam #0" = 1
+	"Hopkin #0" = 1
+	"Oswallt #0" = 1
+	"Hoël #1" = 18
+	"Donual #1" = 18
+	"Rodric #0" = 1
 	"Caradog #1" = 0
 	"Meurig #1" = 0
 	"Dynod #1" = 0
@@ -502,6 +503,13 @@ monarch_names = {
 	"Urvod #0" = 0
 	"Uther #0" = 0
 	"Vincenne #0" = 0
+
+
+	"Iofa #0" = -1
+	"Marguarite #0" = -1
+	"Adelaïda #0" = -1
+	"Iseult #0" = -1
+	"Endellion #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

@@ -1,0 +1,25 @@
+# Athens
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 146
+1440.1.1 = {
+	monarch = {
+		name = "Konstantinos"
+		birth_date = 1406.1.1
+		dynasty = "Sarantapechos"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = pious_personality
+}
+1444.11.11 = {
+	capital = 146
+	add_treasury = 6
+	add_prestige = 6
+}

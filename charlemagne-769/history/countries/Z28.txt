@@ -1,19 +1,22 @@
 # Strathclyde
-government = tribal_despotism
+government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = welsh
 religion = catholic
+clear_scripted_personalities = yes
 capital = 249
-1425.1.1 = {
+1435.1.1 = {
 	monarch = {
 		name = "Owain II"
+		birth_date = 1425.1.1
 		dynasty = "Alt Clut"
-		adm = 5
-		dip = 3
-		mil = 4
+		adm = 2
+		dip = 2
+		mil = 3
 	}
+	add_ruler_personality = malevolent_personality
 }
 1443.1.1 = {
 	heir = {
@@ -28,6 +31,7 @@ capital = 249
 	}
 }
 1444.11.11 = {
+	capital = 249
 	add_treasury = 6
 	add_prestige = 33
 }

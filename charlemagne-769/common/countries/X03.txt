@@ -1,193 +1,112 @@
-# Shantideva
-graphical_culture = indiangfx
-color = { 35 190 35 }
+# Gojjam
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 137 90 76 }
 
 
 
 
 leader_names = {
 
-	"Viradeva" "Shantideva" "Khadgodyama" "Jatakhadga" "Devakhadga" "Rajarabhata" "Amritnarayan" "Balabhata" "Balinarayan" "Ballalsen" 
-	"Basudevnayaran" "Bhagadatta" "Bhairabendranarayan" "Bhatta" "Bhavashankari" "Bhimsingha" "Birnayaran" "Chandrasen" "Chandranarayan" "Chaturanan" 
-	"Chilarai" "Danujmadhava" "Dasharathadeva" "Devapala" "Devendranarayan" "Dhairjendranayaran" "Dharendranarayan" "Dharmapala" "Dhirsingha" "Gajnarayan" 
-	"Gopala" "Govindachandra" "Govindapala" "Hajo" "Harendranarayan" "Haridevnarayan" "Hariyamandal" "Hemantasen" "Indranarayan" "Jadu" 
-	"Jagaddipendranarayan" "Jayanarayan" "Jayapala" "Jitendranarayan" "Kalyanachandra" "Kamalnarayan" "Keshabsen" "Krishanmishra" "Krishnaroy" "Kumarapala" 
-	"Kumudnarayan" "Ladahachandra" "Lakshmansen" "Lakshmichandra" "Lakshminarayan" "Lomapada" "Madanapala" "Mahendrapala" "Mahendrasingha" "Mahindranarayan" 
-	"Mahipala" "Manava" "Mukundanarayan" "Naranarayan" "Narasingha" "Narayanapala" "Narendranarayan" "Nayapala" "Nripendranarayan" "Parikshitnayaran" 
-	"Prananarayan" "Prannath" "Pratapnarayan" "Pratapnarayanroy" "Pushkaranadhipa" "Raghudev" "Rajabhata" "Rajadinaj" "Rajaganesha" "Rajendranarayan" 
-	"Rajrajendranarayan" "Rajyapala" "Ramapala" "Ramnath" "Ranasura" "Ranjitsingha" "Roopnarayan" "Rudranarayan" "Samudrasen" "Shanibhangar" 
-	"Shashanka" "Shivanarayan" "Shivendranarayan" "Shukladhwaj" "Shurapala" "Srichandra" "Srimanta" "Subarnachandra" "Sukhdev" "Suryanarayan" 
-	"Traillokyachandra" "Udirnakhadga" "Uditanarayan" "Upendranayaran" "Vakapala" "Vapyata" "Vigrahapala" "Vijaynarayan" "Vijaysen" "Vijaysingha" 
-	"Virajdendranarayan" "Vishwarupsen" "Vishwasingha" "Bhairav Singh" "Bhavesh" "Bhogishwar" "Dev Singh" "Dhir Singh" "Dhireshwar" "Ganeshwar Singh" 
-	"Gang Dev" "Harasimhadeva" "Hari Singh" "Hemant Sen" "Kameshwar" "Kirti Singh" "Jyotirishwar" "Laxman Sen" "Laxminath Singh Dev" "Madanpal" 
-	"Nanya Dev" "Nar Singh" "Narsingh Dev" "Padma Singh" "Rambhadra Singh Dev" "Rameshwar" "Samant Sen" "Shakrasingh Dev" "Shiv Singh" "Vallal Sen" 
-	"Vijay Sen" "Agnimitra" "Andhraka" "Ayus" "Bhagabhadra" "Bhikhari" "Bhumimitra" "Devabhuti" "Ghosha" "Gopal" 
-	"Govindapal" "Khsetravridha" "Maharshi" "Mahendra" "Maurayadhwaj" "Narayana" "Pulindaka" "Pusyamitra" "Sahtiya" "Susarman" 
-	"Vajramitra" "Vasudeva" "Vasujyeshtha" "Vasumitra" }
+	"Aman" "Gebereal" "Amare" "Dahnay" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
+	"Abebe" "Afework" "Assefa" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" 
+	"Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
+	"Gebre" "Gondar" "Hackeem" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" "Iskander" 
+	"Iyasu" "Jima" "Kafa" "Kaleb" "Kelile" "Kelyle" "Kifle" "Lebna" "Lema" "Loua" 
+	"Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Negasi" "Negus" "Ogbae" 
+	"Ogbai" "Oromo" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tamirat" "Tariku" "Taye" 
+	"Tefere" "Teferi" "Teka" "Tekle" "Tengene" "Teruworq" "Tesfaye" "Tessema" "Tewodros" "Yacob" 
+	"Yohannas" "Yonas" "Zula" }
 monarch_names = {
-	"Viradeva #1" = 17
-	"Shantideva #0" = 17
-	"Khadgodyama #1" = 0
-	"Jatakhadga #1" = 0
-	"Devakhadga #1" = 0
-	"Rajarabhata #1" = 0
-	"Amritnarayan #0" = 0
-	"Balabhata #0" = 0
-	"Balinarayan #0" = 0
-	"Ballalsen #0" = 0
-	"Basudevnayaran #0" = 0
-	"Bhagadatta #0" = 0
-	"Bhairabendranarayan #0" = 0
-	"Bhatta #0" = 0
-	"Bhavashankari #0" = 0
-	"Bhimsingha #0" = 0
-	"Birnayaran #0" = 0
-	"Chandrasen #0" = 0
-	"Chandranarayan #0" = 0
-	"Chaturanan #0" = 0
-	"Chilarai #0" = 0
-	"Danujmadhava #0" = 0
-	"Dasharathadeva #0" = 0
-	"Devapala #0" = 0
-	"Devendranarayan #0" = 0
-	"Dhairjendranayaran #0" = 0
-	"Dharendranarayan #0" = 0
-	"Dharmapala #0" = 0
-	"Dhirsingha #0" = 0
-	"Gajnarayan #0" = 0
-	"Gopala #0" = 0
-	"Govindachandra #0" = 0
-	"Govindapala #0" = 0
-	"Hajo #0" = 0
-	"Harendranarayan #0" = 0
-	"Haridevnarayan #0" = 0
-	"Hariyamandal #0" = 0
-	"Hemantasen #0" = 0
-	"Indranarayan #0" = 0
-	"Jadu #0" = 0
-	"Jagaddipendranarayan #0" = 0
-	"Jayanarayan #0" = 0
-	"Jayapala #0" = 0
-	"Jitendranarayan #0" = 0
-	"Kalyanachandra #0" = 0
-	"Kamalnarayan #0" = 0
-	"Keshabsen #0" = 0
-	"Krishanmishra #0" = 0
-	"Krishnaroy #0" = 0
-	"Kumarapala #0" = 0
-	"Kumudnarayan #0" = 0
-	"Ladahachandra #0" = 0
-	"Lakshmansen #0" = 0
-	"Lakshmichandra #0" = 0
-	"Lakshminarayan #0" = 0
-	"Lomapada #0" = 0
-	"Madanapala #0" = 0
-	"Mahendrapala #0" = 0
-	"Mahendrasingha #0" = 0
-	"Mahindranarayan #0" = 0
-	"Mahipala #0" = 0
-	"Manava #0" = 0
-	"Mukundanarayan #0" = 0
-	"Naranarayan #0" = 0
-	"Narasingha #0" = 0
-	"Narayanapala #0" = 0
-	"Narendranarayan #0" = 0
-	"Nayapala #0" = 0
-	"Nripendranarayan #0" = 0
-	"Parikshitnayaran #0" = 0
-	"Prananarayan #0" = 0
-	"Prannath #0" = 0
-	"Pratapnarayan #0" = 0
-	"Pratapnarayanroy #0" = 0
-	"Pushkaranadhipa #0" = 0
-	"Raghudev #0" = 0
-	"Rajabhata #0" = 0
-	"Rajadinaj #0" = 0
-	"Rajaganesha #0" = 0
-	"Rajendranarayan #0" = 0
-	"Rajrajendranarayan #0" = 0
-	"Rajyapala #0" = 0
-	"Ramapala #0" = 0
-	"Ramnath #0" = 0
-	"Ranasura #0" = 0
-	"Ranjitsingha #0" = 0
-	"Roopnarayan #0" = 0
-	"Rudranarayan #0" = 0
-	"Samudrasen #0" = 0
-	"Shanibhangar #0" = 0
-	"Shashanka #0" = 0
-	"Shivanarayan #0" = 0
-	"Shivendranarayan #0" = 0
-	"Shukladhwaj #0" = 0
-	"Shurapala #0" = 0
-	"Srichandra #0" = 0
-	"Srimanta #0" = 0
-	"Subarnachandra #0" = 0
-	"Sukhdev #0" = 0
-	"Suryanarayan #0" = 0
-	"Traillokyachandra #0" = 0
-	"Udirnakhadga #0" = 0
-	"Uditanarayan #0" = 0
-	"Upendranayaran #0" = 0
-	"Vakapala #0" = 0
-	"Vapyata #0" = 0
-	"Vigrahapala #0" = 0
-	"Vijaynarayan #0" = 0
-	"Vijaysen #0" = 0
-	"Vijaysingha #0" = 0
-	"Virajdendranarayan #0" = 0
-	"Vishwarupsen #0" = 0
-	"Vishwasingha #0" = 0
-	"Bhairav Singh #0" = 0
-	"Bhavesh #0" = 0
-	"Bhogishwar #0" = 0
-	"Dev Singh #0" = 0
-	"Dhir Singh #0" = 0
-	"Dhireshwar #0" = 0
-	"Ganeshwar Singh #0" = 0
-	"Gang Dev #0" = 0
-	"Harasimhadeva #0" = 0
-	"Hari Singh #0" = 0
-	"Hemant Sen #0" = 0
-	"Kameshwar #0" = 0
-	"Kirti Singh #0" = 0
-	"Jyotirishwar #0" = 0
-	"Laxman Sen #0" = 0
-	"Laxminath Singh Dev #0" = 0
-	"Madanpal #0" = 0
-	"Nanya Dev #0" = 0
-	"Nar Singh #0" = 0
-	"Narsingh Dev #0" = 0
-	"Padma Singh #0" = 0
-	"Rambhadra Singh Dev #0" = 0
-	"Rameshwar #0" = 0
-	"Samant Sen #0" = 0
-	"Shakrasingh Dev #0" = 0
-	"Shiv Singh #0" = 0
-	"Vallal Sen #0" = 0
-	"Vijay Sen #0" = 0
-	"Agnimitra #0" = 0
-	"Andhraka #0" = 0
-	"Ayus #0" = 0
-	"Bhagabhadra #0" = 0
-	"Bhikhari #0" = 0
-	"Bhumimitra #0" = 0
-	"Devabhuti #0" = 0
-	"Ghosha #0" = 0
-	"Gopal #0" = 0
-	"Govindapal #0" = 0
-	"Khsetravridha #0" = 0
-	"Maharshi #0" = 0
-	"Mahendra #0" = 0
-	"Maurayadhwaj #0" = 0
-	"Narayana #0" = 0
-	"Pulindaka #0" = 0
-	"Pusyamitra #0" = 0
-	"Sahtiya #0" = 0
-	"Susarman #0" = 0
-	"Vajramitra #0" = 0
-	"Vasudeva #0" = 0
-	"Vasujyeshtha #0" = 0
-	"Vasumitra #0" = 0
+	"Aman #1" = 18
+	"Gebereal #0" = 1
+	"Amare #0" = 0
+	"Dahnay #0" = 0
+	"Desta #0" = 0
+	"Getachew #0" = 0
+	"Geteye #0" = 0
+	"Girma #0" = 0
+	"Iskinder #0" = 0
+	"Abai #0" = 0
+	"Abebe #0" = 0
+	"Afework #0" = 0
+	"Assefa #0" = 0
+	"Atoberhan #0" = 0
+	"Azmera #0" = 0
+	"Bekele #0" = 0
+	"Benaim #0" = 0
+	"Berhanu #0" = 0
+	"Berhanua #0" = 0
+	"Berihun #0" = 0
+	"Berta #0" = 0
+	"Bworo #0" = 0
+	"Daniachew #0" = 0
+	"Dawit #0" = 0
+	"Demissie #0" = 0
+	"Eremias #0" = 0
+	"Ezana #0" = 0
+	"Fasilidas #0" = 0
+	"Fethee #0" = 0
+	"Gabra #0" = 0
+	"Gebre #0" = 0
+	"Gondar #0" = 0
+	"Hackeem #0" = 0
+	"Haeran #0" = 0
+	"Hagos #0" = 0
+	"Hakeem #0" = 0
+	"Hakiem #0" = 0
+	"Hakim #0" = 0
+	"Hakym #0" = 0
+	"Iskander #0" = 0
+	"Iyasu #0" = 0
+	"Jima #0" = 0
+	"Kafa #0" = 0
+	"Kaleb #0" = 0
+	"Kelile #0" = 0
+	"Kelyle #0" = 0
+	"Kifle #0" = 0
+	"Lebna #0" = 0
+	"Lema #0" = 0
+	"Loua #0" = 0
+	"Mamo #0" = 0
+	"Mekonnen #0" = 0
+	"Melaku #0" = 0
+	"Mengesha #0" = 0
+	"Merille #0" = 0
+	"Miruts #0" = 0
+	"Negash #0" = 0
+	"Negasi #0" = 0
+	"Negus #0" = 0
+	"Ogbae #0" = 0
+	"Ogbai #0" = 0
+	"Oromo #0" = 0
+	"Rahad #0" = 0
+	"Selassie #0" = 0
+	"Semer #0" = 0
+	"Semere #0" = 0
+	"Sisay #0" = 0
+	"Tamirat #0" = 0
+	"Tariku #0" = 0
+	"Taye #0" = 0
+	"Tefere #0" = 0
+	"Teferi #0" = 0
+	"Teka #0" = 0
+	"Tekle #0" = 0
+	"Tengene #0" = 0
+	"Teruworq #0" = 0
+	"Tesfaye #0" = 0
+	"Tessema #0" = 0
+	"Tewodros #0" = 0
+	"Yacob #0" = 0
+	"Yohannas #0" = 0
+	"Yonas #0" = 0
+	"Zula #0" = 0
+
+
+	"Adina #0" = -1
+	"Jahzara #0" = -1
+	"Keren #0" = -1
+	"Kess #0" = -1
+	"Bathsheba #0" = -1
 }
 

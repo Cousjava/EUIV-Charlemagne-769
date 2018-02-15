@@ -1,144 +1,125 @@
-# Yugra
-graphical_culture = easterngfx
-color = { 250 250 180 }
-historical_idea_groups = {
-	religious_ideas
-	trade_ideas
-	defensive_ideas
-	administrative_ideas
-	offensive_ideas
-	spy_ideas
-	quantity_ideas
-	economic_ideas
-}
+# Nubia
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 145 130 60 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
-}
 
 
 
 leader_names = {
 
-	"Setyamka" "Nalka" "Andyamo" "Arnaz" "Arti" "Artis" "Arvo" "Aymort" "Azeg" "Biur" 
-	"Biyar" "Burmort" "Chichayka" "Chuga" "Dergun" "Deryab" "Dobrinya" "Dokya" "Dondy" "Gazheg" 
-	"Hulyen" "Inzhay" "Irter" "Lyneg" "Lysko" "Kezhapa" "Kezhay" "Kezhedey" "Kezhevat" "Kichay" 
-	"Koksha" "Kuaz" "Kudym-Osh" "Kya" "Kyldysin" "Malyaka" "Malyy" "Meltsayka" "Mosheg" "Nuyaksha" 
-	"Nuyanza" "Nuyat" "Nydog" "Nylog" "Odeg" "Onika" "Osh" "Oshmar" "Oshypel" "Ovtay" 
-	"Ozheg" "Ozhmeg" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" "Pokshayka" "Putyayka" "Pyera" 
-	"Rateg" "Rayda" "Sarin" "Sektev" "Shindyay" "Shypicha" "Shyrpuzh" "Spira" "Syrka" "Tikshayka" 
-	"Tuhan" "Tyueykezhut" "Tyutyuk" "Tugan" "Turush" "Uchva" "Varaka" "Vechkas" "Velmayka" "Virdyan" 
-	"Viryas" "Viryay" "Vokan" "Yirkap" "Ylvan" "Zarny" "Zhebeg" "Zhuneg" "Zyryan" }
+	"Maththias" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
+	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
+	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
+	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
+	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
+	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Mêlênkouda" "Mena" "Menankouda" "Merkourios" 
+	"Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" "Petros" 
+	"Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" "Sergios" 
+	"Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" "Theodote" 
+	"Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
 monarch_names = {
-	"Setyamka #0" = 9
-	"Nalka #1" = 9
-	"Andyamo #0" = 0
-	"Arnaz #0" = 0
-	"Arti #0" = 0
-	"Artis #0" = 0
-	"Arvo #0" = 0
-	"Aymort #0" = 0
-	"Azeg #0" = 0
-	"Biur #0" = 0
-	"Biyar #0" = 0
-	"Burmort #0" = 0
-	"Chichayka #0" = 0
-	"Chuga #0" = 0
-	"Dergun #0" = 0
-	"Deryab #0" = 0
-	"Dobrinya #0" = 0
-	"Dokya #0" = 0
-	"Dondy #0" = 0
-	"Gazheg #0" = 0
-	"Hulyen #0" = 0
-	"Inzhay #0" = 0
-	"Irter #0" = 0
-	"Lyneg #0" = 0
-	"Lysko #0" = 0
-	"Kezhapa #0" = 0
-	"Kezhay #0" = 0
-	"Kezhedey #0" = 0
-	"Kezhevat #0" = 0
-	"Kichay #0" = 0
-	"Koksha #0" = 0
-	"Kuaz #0" = 0
-	"Kudym-Osh #0" = 0
-	"Kya #0" = 0
-	"Kyldysin #0" = 0
-	"Malyaka #0" = 0
-	"Malyy #0" = 0
-	"Meltsayka #0" = 0
-	"Mosheg #0" = 0
-	"Nuyaksha #0" = 0
-	"Nuyanza #0" = 0
-	"Nuyat #0" = 0
-	"Nydog #0" = 0
-	"Nylog #0" = 0
-	"Odeg #0" = 0
-	"Onika #0" = 0
-	"Osh #0" = 0
-	"Oshmar #0" = 0
-	"Oshypel #0" = 0
-	"Ovtay #0" = 0
-	"Ozheg #0" = 0
-	"Ozhmeg #0" = 0
-	"Pakstyan #0" = 0
-	"Paksyay #0" = 0
-	"Paksyut #0" = 0
-	"Parush #0" = 0
-	"Pivtsay #0" = 0
-	"Pokshayka #0" = 0
-	"Putyayka #0" = 0
-	"Pyera #0" = 0
-	"Rateg #0" = 0
-	"Rayda #0" = 0
-	"Sarin #0" = 0
-	"Sektev #0" = 0
-	"Shindyay #0" = 0
-	"Shypicha #0" = 0
-	"Shyrpuzh #0" = 0
-	"Spira #0" = 0
-	"Syrka #0" = 0
-	"Tikshayka #0" = 0
-	"Tuhan #0" = 0
-	"Tyueykezhut #0" = 0
-	"Tyutyuk #0" = 0
-	"Tugan #0" = 0
-	"Turush #0" = 0
-	"Uchva #0" = 0
-	"Varaka #0" = 0
-	"Vechkas #0" = 0
-	"Velmayka #0" = 0
-	"Virdyan #0" = 0
-	"Viryas #0" = 0
-	"Viryay #0" = 0
-	"Vokan #0" = 0
-	"Yirkap #0" = 0
-	"Ylvan #0" = 0
-	"Zarny #0" = 0
-	"Zhebeg #0" = 0
-	"Zhuneg #0" = 0
-	"Zyryan #0" = 0
-}
-ship_names = {
-	Cherdyn Pelym Kudym-Osha Shudeg
-	Voleg Rateg Koleg Uzheg
-	Baseg Yus Pokcha Vychegda Sysola
-	Iskor Kama Vishera Kolva Yazva Uros Vilgort
+	"Maththias #0" = 1
+	"Aarôn #0" = 0
+	"Aberikos #0" = 0
+	"Abraam #0" = 0
+	"Añgelos #0" = 0
+	"Andreas #0" = 0
+	"Athanasios #0" = 0
+	"Balô #0" = 0
+	"Bartholomaios #0" = 0
+	"Birêl #0" = 0
+	"Chael #0" = 0
+	"Christophoros #0" = 0
+	"Dauid #0" = 0
+	"Dimetheos #0" = 0
+	"Dioskoros #0" = 0
+	"Diônisios #0" = 0
+	"Eliezer #0" = 0
+	"Eionkouda #0" = 0
+	"Emmanouel #0" = 0
+	"Enôch #0" = 0
+	"Ephannê #0" = 0
+	"Epimachos #0" = 0
+	"Epiphanios #0" = 0
+	"Gabriel #0" = 0
+	"Gabrielkouda #0" = 0
+	"Gabrielophorou #0" = 0
+	"Gennatios #0" = 0
+	"Geôrgios #0" = 0
+	"Hêlias #0" = 0
+	"Hoase #0" = 0
+	"Hoassi #0" = 0
+	"Hoasse #0" = 0
+	"Iacob #0" = 0
+	"Ieremias #0" = 0
+	"Iêsous #0" = 0
+	"Iêsousinkouda #0" = 0
+	"Iôannou #0" = 0
+	"Iôannês #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Kalinikos #0" = 0
+	"Kollouthos #0" = 0
+	"Krisanthos #0" = 0
+	"Kuriakos #0" = 0
+	"Kurillos #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Leontios #0" = 0
+	"Makarios #0" = 0
+	"Mariana #0" = 0
+	"Mariankouda #0" = 0
+	"Marianos #0" = 0
+	"Marios #0" = 0
+	"Markos #0" = 0
+	"Marturophoros #0" = 0
+	"Mašanñal #0" = 0
+	"Mêlênkouda #0" = 0
+	"Mena #0" = 0
+	"Menankouda #0" = 0
+	"Merkourios #0" = 0
+	"Michaêl #0" = 0
+	"Michaêlkouda #0" = 0
+	"Mouses #0" = 0
+	"Orna #0" = 0
+	"Panigiros #0" = 0
+	"Papasinen #0" = 0
+	"Papasinkouda #0" = 0
+	"Patrikios #0" = 0
+	"Paulos #0" = 0
+	"Petros #0" = 0
+	"Petrou #0" = 0
+	"Philotheos #0" = 0
+	"Philemon #0" = 0
+	"Prochoros #0" = 0
+	"Raphael #0" = 0
+	"Raphaelkouda #0" = 0
+	"Samson #0" = 0
+	"Senouthios #0" = 0
+	"Sentiko #0" = 0
+	"Sergios #0" = 0
+	"Simeoni #0" = 0
+	"Soizuros #0" = 0
+	"Solomôn #0" = 0
+	"Sotinkouda #0" = 0
+	"Stephanos #0" = 0
+	"Stephanou #0" = 0
+	"Thadeosi #0" = 0
+	"Theodôros #0" = 0
+	"Theodosios #0" = 0
+	"Theodote #0" = 0
+	"Thoma #0" = 0
+	"Tophêna #0" = 0
+	"Tirsakouni #0" = 0
+	"Zacharias #0" = 0
+	"Zosima #0" = 0
+
+
+	"Ñojjl #0" = -1
+	"Ñonnen #0" = -1
+	"Theobronia #0" = -1
+	"Penatti #0" = -1
+	"Keudonia #0" = -1
 }
 

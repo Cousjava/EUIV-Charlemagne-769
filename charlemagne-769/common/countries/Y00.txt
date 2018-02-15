@@ -1,6 +1,7 @@
-# Yatvingia
+# Pruthenia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 149 97 97 }
+color = { 200 100 100 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
@@ -34,87 +35,41 @@ historical_units = {
 
 leader_names = {
 
-	"Arunas" "Algirdas" "Antanas" "Antavas" "Aras" "Azuolas" "Budrys" "Bukantas" "Butavas" "Butigeidis" 
-	"Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" "Gediminas" "Gedivilas" 
-	"Gintaras" "Gintautas" "Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" "Kantibutas" "Karijotas" "Kesgaila" 
-	"Kestutis" "Korigaila" "Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" "Mindaugas" 
-	"Minigaila" "Mantvydas" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" "Ringaudas" 
-	"Sarunas" "Skirgaila" "Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" "Traidenis" "Treniotas" "Vainius" 
-	"Vaisvilkas" "Valimantas" "Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" "Vytenis" 
-	"Zivinbudas" "Zygimantas" }
+	"Bezprzym" "Alvydas" "Arelis" "Auctune" "Bajoras" "Beidras" "Budo" "Dagonis" "Ekkelis" "Galindas" 
+	"Gauronas" "Gerdautas" "Glande" "Golding" "Jauguttis" "Karatas" "Klukis" "Kugis" "Milzas" "Nomedas" 
+	"Prusas" "Sergonis" "Ulinniks" "Ulitis" }
 monarch_names = {
-	"Arunas #1" = 8
-	"Algirdas #0" = 0
-	"Antanas #0" = 0
-	"Antavas #0" = 0
-	"Aras #0" = 0
-	"Azuolas #0" = 0
-	"Budrys #0" = 0
-	"Bukantas #0" = 0
-	"Butavas #0" = 0
-	"Butigeidis #0" = 0
-	"Butvydas #0" = 0
-	"Daugvilas #0" = 0
-	"Daumantas #0" = 0
-	"Dausprungas #0" = 0
-	"Dravenis #0" = 0
-	"Erdenis #0" = 0
-	"Erdvilas #0" = 0
-	"Gedigaudas #0" = 0
-	"Gediminas #0" = 0
-	"Gedivilas #0" = 0
-	"Gintaras #0" = 0
-	"Gintautas #0" = 0
-	"Girdenis #0" = 0
-	"Irmantas #0" = 0
-	"Jaunutis #0" = 0
-	"Jogaila #0" = 0
-	"Jovirdas #0" = 0
-	"Kantibutas #0" = 0
-	"Karijotas #0" = 0
-	"Kesgaila #0" = 0
-	"Kestutis #0" = 0
-	"Korigaila #0" = 0
-	"Korybutas #0" = 0
-	"Lasukas #0" = 0
-	"Lingvenis #0" = 0
-	"Liudas #0" = 0
-	"Lubartas #0" = 0
-	"Lutuveras #0" = 0
-	"Merkelis #0" = 0
-	"Mindaugas #0" = 0
-	"Minigaila #0" = 0
-	"Mantvydas #0" = 0
-	"Movkoldas #0" = 0
-	"Narimantas #0" = 0
-	"Povilas #0" = 0
-	"Pukuveras #0" = 0
-	"Rimantas #0" = 0
-	"Rimgaila #0" = 0
-	"Rimvydas #0" = 0
-	"Ringaudas #0" = 0
-	"Sarunas #0" = 0
-	"Skirgaila #0" = 0
-	"Songaila #0" = 0
-	"Svarnas #0" = 0
-	"Svitrigaila #0" = 0
-	"Tarvydas #0" = 0
-	"Tovtivilas #0" = 0
-	"Traidenis #0" = 0
-	"Treniotas #0" = 0
-	"Vainius #0" = 0
-	"Vaisvilkas #0" = 0
-	"Valimantas #0" = 0
-	"Vidmantas #0" = 0
-	"Vingoldas #0" = 0
-	"Virmantas #0" = 0
-	"Visvaldis #0" = 0
-	"Vizgirdas #0" = 0
-	"Vykintas #0" = 0
-	"Vytautas #0" = 0
-	"Vytenis #0" = 0
-	"Zivinbudas #0" = 0
-	"Zygimantas #0" = 0
+	"Bezprzym #1" = 18
+	"Alvydas #0" = 0
+	"Arelis #0" = 0
+	"Auctune #0" = 0
+	"Bajoras #0" = 0
+	"Beidras #0" = 0
+	"Budo #0" = 0
+	"Dagonis #0" = 0
+	"Ekkelis #0" = 0
+	"Galindas #0" = 0
+	"Gauronas #0" = 0
+	"Gerdautas #0" = 0
+	"Glande #0" = 0
+	"Golding #0" = 0
+	"Jauguttis #0" = 0
+	"Karatas #0" = 0
+	"Klukis #0" = 0
+	"Kugis #0" = 0
+	"Milzas #0" = 0
+	"Nomedas #0" = 0
+	"Prusas #0" = 0
+	"Sergonis #0" = 0
+	"Ulinniks #0" = 0
+	"Ulitis #0" = 0
+
+
+	"Gulbis #0" = -1
+	"Weslikan #0" = -1
+	"Mila #0" = -1
+	"Dagas #0" = -1
+	"Betten #0" = -1
 }
 ship_names = {
 	Alytus

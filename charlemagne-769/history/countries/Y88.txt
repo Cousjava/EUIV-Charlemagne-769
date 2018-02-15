@@ -1,33 +1,25 @@
-# Pandya
-government = feudal_monarchy
+# El Rif
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = tamil
-religion = hinduism
-capital = 536
-1408.1.1 = {
+technology_group = muslim
+primary_culture = berber
+religion = sunni
+clear_scripted_personalities = yes
+capital = 335
+1435.1.1 = {
 	monarch = {
-		name = "Parântaka"
-		dynasty = "Pandya"
-		adm = 2
-		dip = 0
-		mil = 0
-	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Irâcacimman"
-		monarch_name = "Irâcacimman"
-		dynasty = "Pandya"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 2
+		name = "Sa'id"
+		birth_date = 1420.1.1
+		dynasty = "Salihid"
+		adm = 6
 		dip = 3
-		mil = 2
+		mil = 1
 	}
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
-	add_treasury = 6
-	add_prestige = 6
+	capital = 335
+	add_treasury = 4
+	add_prestige = 4
 }

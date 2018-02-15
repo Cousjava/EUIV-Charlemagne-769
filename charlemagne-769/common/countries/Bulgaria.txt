@@ -1,4 +1,5 @@
 # Bulgaria
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 113 88 101 }
 historical_idea_groups = {
@@ -34,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Omortag" "Krum" "Irkhan" "Kardam" "Telerig" "Toktu" "Kubrat" "Asparukh" "Batbayan" "Kotrag" 
+	"Kubrat" "Toktu" "Irkhan" "Krum" "Omortag" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
 	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Kormisosh" "Vinekh" 
 	"Telets" "Sabin" "Umor" "Pagan" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Balamber" 
 	"Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" "Boyan" "Bulger" "Buzan" "Chepa" 
@@ -48,24 +49,24 @@ leader_names = {
 	"Tokhtaman" "Tsog" "Tsul" "Tuk" "Uturgur" "Vakrim" "Venda" "Vetam" "Yani" "Yavantey" 
 	"Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Batir" }
 monarch_names = {
-	"Omortag #0" = 13
-	"Krum #0" = 13
-	"Irkhan #0" = 13
-	"Kardam #0" = 13
-	"Telerig #1" = 13
-	"Toktu #1" = 27
-	"Kubrat #1" = 13
-	"Asparukh #1" = 13
-	"Batbayan #1" = 13
-	"Kotrag #0" = 13
-	"Kuber #0" = 13
-	"Tervel #1" = 13
-	"Ajjar #1" = 13
-	"Sevar #1" = 27
-	"Kormesiy #1" = 13
-	"Bozok #0" = -14
-	"Kermek #0" = 13
-	"Bayan #0" = 13
+	"Kubrat #1" = 18
+	"Toktu #1" = 21
+	"Irkhan #0" = 1
+	"Krum #0" = 1
+	"Omortag #0" = 1
+	"Telerig #1" = 18
+	"Kardam #0" = 1
+	"Asparukh #1" = 18
+	"Batbayan #1" = 18
+	"Kotrag #0" = 1
+	"Kuber #0" = 1
+	"Tervel #1" = 18
+	"Ajjar #1" = 18
+	"Sevar #1" = 21
+	"Kormesiy #1" = 18
+	"Bozok #0" = -1
+	"Kermek #0" = 1
+	"Bayan #0" = 1
 	"Kormisosh #1" = 0
 	"Vinekh #1" = 0
 	"Telets #1" = 0
@@ -176,6 +177,12 @@ monarch_names = {
 	"Tukiy #0" = 0
 	"Aydar #0" = 0
 	"Batir #0" = 0
+
+
+	"Asli #0" = -1
+	"Çiltanesi #0" = -1
+	"Dilek #0" = -1
+	"Savaçka #0" = -1
 }
 ship_names = {
 	Alhtpolo

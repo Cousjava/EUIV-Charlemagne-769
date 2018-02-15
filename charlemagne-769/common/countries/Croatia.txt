@@ -1,4 +1,5 @@
 # Croatia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 162 53 53 }
 historical_idea_groups = {
@@ -34,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Borna" "Klonimir" "Viseslav" "Budimir" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
+	"Budimir" "Borna" "Klonimir" "Viseslav" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
 	"Branimir" "Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Dragomir" "Drzislav" "Dujam" "Duym" 
 	"Filip" "Gaspar" "Gheorghe" "Grigorii" "Hranislav" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" 
 	"Jitej" "Karlo" "Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" 
@@ -42,10 +43,10 @@ leader_names = {
 	"Seslav" "Slavich" "Stanislav" "Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" 
 	"Vid" "Vitomir" "Vlaicu" "Vukan" "Zvonimir" }
 monarch_names = {
-	"Borna #0" = 7
-	"Klonimir #0" = 7
-	"Viseslav #0" = 7
-	"Budimir #1" = 7
+	"Budimir #1" = 18
+	"Borna #0" = 1
+	"Klonimir #0" = 1
+	"Viseslav #0" = 1
 	"Adam #0" = 0
 	"Andrija #0" = 0
 	"Bartol #0" = 0
@@ -107,6 +108,13 @@ monarch_names = {
 	"Vlaicu #0" = 0
 	"Vukan #0" = 0
 	"Zvonimir #0" = 0
+
+
+	"Vjekoslava #0" = -1
+	"Mihaela #0" = -1
+	"Vedrana #0" = -1
+	"Tatjana #0" = -1
+	"Helena #0" = -1
 }
 ship_names = {
 	Cres

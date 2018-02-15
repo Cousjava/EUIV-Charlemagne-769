@@ -5,29 +5,32 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = anglo_saxon
 religion = catholic
+clear_scripted_personalities = yes
 capital = 246
-1400.1.1 = {
+1440.1.1 = {
 	monarch = {
 		name = "Ealhred"
+		birth_date = 1400.1.1
 		dynasty = "Eadricing"
-		adm = 6
-		dip = 0
-		mil = 1
+		adm = 1
+		dip = 1
+		mil = 2
 	}
-}
-1425.1.1 = {
+	add_ruler_personality = lawgiver_personality
 	heir = {
 		name = "Osred"
 		monarch_name = "Osred"
 		dynasty = "Eadricing"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
-		dip = 6
-		mil = 2
+		adm = 4
+		dip = 3
+		mil = 3
 	}
+	add_heir_personality = careful_personality
 }
 1444.11.11 = {
+	capital = 246
 	add_treasury = 6
 	add_prestige = 5
 }

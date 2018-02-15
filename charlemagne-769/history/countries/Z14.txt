@@ -1,33 +1,37 @@
 # Laigin
-government = tribal_despotism
+government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = irish
 religion = catholic
+clear_scripted_personalities = yes
 capital = 374
-1406.1.1 = {
+1422.4.1 = {
 	monarch = {
 		name = "Forbasach"
+		birth_date = 1406.1.1
 		dynasty = "Ua Cheinnselaig"
-		adm = 6
-		dip = 2
-		mil = 3
+		adm = 2
+		dip = 0
+		mil = 2
 	}
-}
-1376.1.1 = {
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
 	heir = {
 		name = "Diarmait"
 		monarch_name = "Diarmait"
 		dynasty = "Ua Cheinnselaig"
 		birth_date = 1376.1.1
 		death_date = 1456.1.1
-		adm = 1
+		adm = 4
 		dip = 2
-		mil = 2
+		mil = 5
 	}
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
+	capital = 374
 	add_treasury = 4
 	add_prestige = 9
 }

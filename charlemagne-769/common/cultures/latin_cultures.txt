@@ -1,7 +1,7 @@
 latin = {
 	italian = {
 		primary = ITA
-		dynasty_names = { "Orsini" "di Capua" "Zerkis" "Oristani" "Galbaio" "di Pitigliano" "di Tusculum" "di Tivoli" "di Pallestrina" }
+		dynasty_names = { "di Capua" "Oristani" "Sorrenti" "Galbaio" "di Pitigliano" "di Tusculum" "di Tivoli" "di Pallestrina" "Panico" }
 	}
 	roman = {
 		primary = ITA

@@ -1,0 +1,26 @@
+# Katyuri
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = avadhi
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2069
+1391.1.1 = {
+	monarch = {
+		name = "Basudeva"
+		birth_date = 1375.1.1
+		dynasty = "Katyuri"
+		adm = 5
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = lawgiver_personality
+}
+1444.11.11 = {
+	capital = 2069
+	add_treasury = 6
+	add_prestige = 15
+}

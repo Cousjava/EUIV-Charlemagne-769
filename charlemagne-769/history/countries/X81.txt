@@ -1,0 +1,37 @@
+# Tomara
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 522
+1429.3.1 = {
+	monarch = {
+		name = "Vasudev"
+		birth_date = 1380.1.1
+		dynasty = "Tomara"
+		adm = 3
+		dip = 1
+		mil = 5
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Gangeya"
+		monarch_name = "Gangeya"
+		dynasty = "Tomara"
+		birth_date = 1410.1.1
+		death_date = 1490.1.1
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 522
+	add_treasury = 6
+	add_prestige = 7
+}

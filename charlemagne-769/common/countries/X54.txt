@@ -1,0 +1,69 @@
+# Mlechchha
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 6 127 80 }
+
+
+
+
+leader_names = {
+
+	"Salasthamba" "Balavarman" "Salambha" "Vijayasthamba" "Palakastambha" "Kumarastambha" "Vajradeva" "Harshadeva" "Pushyavarman" "Samudravarman" 
+	"Kalyanavarman" "Ganapativarman" "Mahendravarman" "Narayanavarman" "Bhutivarman" "Chandramukhavarman" "Sthitavarman" "Susthitavarman" "Supratisthitavarman" "Bhaskaravarman" 
+	"Bhaskarvarman" "Bhattamahabahu" "Birapala" "Brahmapala" "Dharmapala" "Gopala" "Harjjaravarman" "Harshapala" "Harshavarman" "Indrapala" 
+	"Jayamala" "Jayapala" "Kumarapala" "Pralambha" "Purandelapala" "Ratnadhwajpala" "Ratnapala" "Timgyadeva" "Tyagasimha" "Ummoka" 
+	"Vanamalavarmadeva" "Vigrahastambha" "Vijaya" "Virabahu" }
+monarch_names = {
+	"Salasthamba #1" = 18
+	"Balavarman #2" = 18
+	"Salambha #0" = 1
+	"Vijayasthamba #1" = 18
+	"Palakastambha #1" = 18
+	"Kumarastambha #1" = 18
+	"Vajradeva #1" = 18
+	"Harshadeva #1" = 18
+	"Pushyavarman #1" = 0
+	"Samudravarman #1" = 0
+	"Kalyanavarman #1" = 0
+	"Ganapativarman #1" = 0
+	"Mahendravarman #1" = 0
+	"Narayanavarman #1" = 0
+	"Bhutivarman #1" = 0
+	"Chandramukhavarman #1" = 0
+	"Sthitavarman #1" = 0
+	"Susthitavarman #1" = 0
+	"Supratisthitavarman #1" = 0
+	"Bhaskaravarman #1" = 0
+	"Bhaskarvarman #0" = 0
+	"Bhattamahabahu #0" = 0
+	"Birapala #0" = 0
+	"Brahmapala #0" = 0
+	"Dharmapala #0" = 0
+	"Gopala #0" = 0
+	"Harjjaravarman #0" = 0
+	"Harshapala #0" = 0
+	"Harshavarman #0" = 0
+	"Indrapala #0" = 0
+	"Jayamala #0" = 0
+	"Jayapala #0" = 0
+	"Kumarapala #0" = 0
+	"Pralambha #0" = 0
+	"Purandelapala #0" = 0
+	"Ratnadhwajpala #0" = 0
+	"Ratnapala #0" = 0
+	"Timgyadeva #0" = 0
+	"Tyagasimha #0" = 0
+	"Ummoka #0" = 0
+	"Vanamalavarmadeva #0" = 0
+	"Vigrahastambha #0" = 0
+	"Vijaya #0" = 0
+	"Virabahu #0" = 0
+
+
+	"Dattadevi #0" = -1
+	"Bhogavati #0" = -1
+	"Vijnayavati #0" = -1
+	"Vasumati #0" = -1
+	"Ratnavati #0" = -1
+}
+

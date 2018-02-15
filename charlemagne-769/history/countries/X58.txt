@@ -1,0 +1,25 @@
+# Zhetysu
+government = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = karluk
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 459
+1444.1.1 = {
+	monarch = {
+		name = "Togli"
+		birth_date = 1408.3.8
+		dynasty = "Zhetysu"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 459
+	add_treasury = 10
+	add_prestige = 52
+}

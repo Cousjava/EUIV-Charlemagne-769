@@ -1,0 +1,37 @@
+# Nandin
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = afghani
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 451
+1420.1.1 = {
+	monarch = {
+		name = "Bo-Fuzun"
+		birth_date = 1386.7.11
+		dynasty = "Nandin"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Naz'aktar"
+		monarch_name = "Naz'aktar"
+		dynasty = "Nandin"
+		birth_date = 1417.9.25
+		death_date = 1497.9.25
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = silver_tongue_personality
+}
+1444.11.11 = {
+	capital = 451
+	add_treasury = 6
+	add_prestige = 7
+}

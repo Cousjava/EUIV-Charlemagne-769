@@ -1,21 +1,26 @@
-# Vidin
-government = feudal_monarchy
+# Bjarmia
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bolghar
-religion = tengri_pagan_reformed
-capital = 2746
-1403.1.1 = {
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 313
+1425.1.1 = {
 	monarch = {
-		name = "Uturgur"
-		dynasty = "Ukil"
-		adm = 1
-		dip = 5
-		mil = 3
+		name = "Kako"
+		birth_date = 1408.1.1
+		dynasty = "Hasabid"
+		adm = 5
+		dip = 3
+		mil = 1
 	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
+	capital = 313
 	add_treasury = 6
-	add_prestige = 30
+	add_prestige = 5
 }

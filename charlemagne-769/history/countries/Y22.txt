@@ -1,21 +1,26 @@
-# Yabghumakh
-government = steppe_horde
+# Esztergom
+government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = khazar
+technology_group = eastern
+primary_culture = czech
 religion = tengri_pagan_reformed
-capital = 284
+clear_scripted_personalities = yes
+capital = 1772
 1406.1.1 = {
 	monarch = {
-		name = "Mënümarót"
-		dynasty = "Yabghumakh"
-		adm = 0
-		dip = 0
-		mil = 4
+		name = "Vetam"
+		birth_date = 1386.1.1
+		dynasty = "Khazbek"
+		adm = 4
+		dip = 2
+		mil = 3
 	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
-	add_treasury = 8
-	add_prestige = 8
+	capital = 1772
+	add_treasury = 6
+	add_prestige = 6
 }

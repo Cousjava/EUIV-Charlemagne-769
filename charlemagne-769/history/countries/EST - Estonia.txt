@@ -1,0 +1,25 @@
+# Estonia
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = estonian
+religion = animism
+clear_scripted_personalities = yes
+capital = 36
+1441.1.1 = {
+	monarch = {
+		name = "Kaupo"
+		birth_date = 1416.1.1
+		dynasty = "Harjumaa"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 36
+	add_treasury = 6
+	add_prestige = 4
+}

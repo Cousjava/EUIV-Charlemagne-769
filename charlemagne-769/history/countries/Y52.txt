@@ -1,33 +1,36 @@
-# Africa
-government = iqta
-government_rank = 2
+# Taid
+government = ottoman_government
+government_rank = 1
 mercantilism = 0.1
-technology_group = western
+technology_group = muslim
 primary_culture = bedouin_arabic
 religion = sunni
-capital = 341
-1410.1.1 = {
+clear_scripted_personalities = yes
+capital = 2236
+1443.1.1 = {
 	monarch = {
-		name = "Umar"
-		dynasty = "Muhallabid"
+		name = "Homayd"
+		birth_date = 1395.1.1
+		dynasty = "Taid"
 		adm = 0
-		dip = 1
-		mil = 2
+		dip = 3
+		mil = 3
 	}
-}
-1385.1.1 = {
+	add_ruler_personality = secretive_personality
 	heir = {
-		name = "Hafs"
-		monarch_name = "Hafs"
-		dynasty = "Muhallabid"
-		birth_date = 1385.1.1
-		death_date = 1465.1.1
-		adm = 2
-		dip = 1
-		mil = 4
+		name = "Abdallah"
+		monarch_name = "Abdallah"
+		dynasty = "Taid"
+		birth_date = 1424.1.1
+		death_date = 1504.1.1
+		adm = 4
+		dip = 0
+		mil = 3
 	}
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11 = {
-	add_treasury = 9
-	add_prestige = 14
+	capital = 2236
+	add_treasury = 7
+	add_prestige = 16
 }

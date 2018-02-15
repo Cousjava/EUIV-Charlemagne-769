@@ -1,4 +1,5 @@
 # East Anglia
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 200 90 0 }
 historical_idea_groups = {
@@ -35,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Æthelred" "Ealdwald" "Æthelberht" "Æthelric" "Wehha" "Wuffa" "Tytila" "Rædwald" "Eni" "Eorpwald" 
+	"Wehha" "Æthelric" "Ealdwald" "Æthelberht" "Æthelred" "Wuffa" "Tytila" "Rædwald" "Eni" "Eorpwald" 
 	"Sigeberht" "Anna" "Æthelhere" "Æthelwold" "Ealdwulf" "Beonna" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" 
 	"Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" 
 	"Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" 
@@ -53,22 +54,22 @@ leader_names = {
 	"Ælfwig" "Ælfwine" "Ælle" "Æthelbald" "Æthelfrith" "Æthelmær" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" 
 	"Æthelweard" "Æthelwine" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" }
 monarch_names = {
-	"Æthelred #1" = 35
-	"Ealdwald #0" = 35
-	"Æthelberht #0" = 35
-	"Æthelric #0" = 35
-	"Wehha #0" = 17
-	"Wuffa #0" = 17
-	"Tytila #0" = 17
-	"Rædwald #0" = 17
-	"Eni #0" = 17
-	"Eorpwald #0" = 17
-	"Sigeberht #0" = 17
-	"Anna #0" = 17
-	"Æthelhere #0" = 17
-	"Æthelwold #0" = 17
-	"Ealdwulf #0" = 17
-	"Beonna #0" = 17
+	"Wehha #1" = 18
+	"Æthelric #0" = 1
+	"Ealdwald #1" = 21
+	"Æthelberht #0" = 1
+	"Æthelred #1" = 21
+	"Wuffa #1" = 18
+	"Tytila #1" = 18
+	"Rædwald #1" = 18
+	"Eni #0" = 1
+	"Eorpwald #1" = 18
+	"Sigeberht #0" = 1
+	"Anna #1" = 18
+	"Æthelhere #1" = 18
+	"Æthelwold #1" = 18
+	"Ealdwulf #1" = 18
+	"Beonna #1" = 18
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -220,6 +221,13 @@ monarch_names = {
 	"Eorcenberht #0" = 0
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
+
+
+	"Cyneburg #0" = -1
+	"Leofwaru #0" = -1
+	"Beorhtwynn #0" = -1
+	"Heregyth #0" = -1
+	"Ælfthryth #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

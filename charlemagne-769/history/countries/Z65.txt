@@ -1,21 +1,25 @@
-# Medelpad
+# Nordland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
-capital = 9
-1417.1.1 = {
+clear_scripted_personalities = yes
+capital = 21
+1435.1.1 = {
 	monarch = {
-		name = "Tryggve"
-		dynasty = "Stafr"
-		adm = 3
-		dip = 2
+		name = "Ormr"
+		birth_date = 1415.1.1
+		dynasty = "av Nordland"
+		adm = 4
+		dip = 4
 		mil = 1
 	}
+	add_ruler_personality = just_personality
 }
 1444.11.11 = {
+	capital = 21
 	add_treasury = 4
 	add_prestige = 3
 }

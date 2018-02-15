@@ -1,4 +1,5 @@
 # The Papacy
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 255 249 198 }
 historical_idea_groups = {
@@ -71,7 +72,7 @@ leader_names = {
 	"Uberto" "Ugo" "Ugoccione" "Ugolino" "Umberto" "Urbano" "Valentino" "Valerio" "Vincentello" "Vincenzo" 
 	"Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
-	"Stephanus #3" = 39
+	"Stephanus #3" = 18
 	"Petrus #1" = 0
 	"Linus #1" = 0
 	"Anacletus #1" = 0
@@ -456,6 +457,13 @@ monarch_names = {
 	"Vittore #0" = 0
 	"Vittorio #0" = 0
 	"Zaccaria #0" = 0
+
+
+	"Augusta #0" = -1
+	"Aurelia #0" = -1
+	"Filomena #0" = -1
+	"Felicia #0" = -1
+	"Francesca #0" = -1
 }
 ship_names = {
 	Abraham Adam Angeli Archangeli "Archangelus Gabriel" "Archangelus Michael" "Archangelus Raphael"

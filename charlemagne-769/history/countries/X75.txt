@@ -1,0 +1,26 @@
+# Nyingchi
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2130
+1430.1.1 = {
+	monarch = {
+		name = "Lhawang"
+		birth_date = 1417.1.1
+		dynasty = "Poyul"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 2130
+	add_treasury = 6
+	add_prestige = 8
+}

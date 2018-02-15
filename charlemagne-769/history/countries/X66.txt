@@ -1,0 +1,39 @@
+# Kimak
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2354
+1418.1.1 = {
+	monarch = {
+		name = "Törtogul"
+		birth_date = 1395.1.1
+		dynasty = "Kimak"
+		adm = 1
+		dip = 5
+		mil = 1
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = charismatic_negotiator_personality
+}
+1420.1.1 = {
+	heir = {
+		name = "Ituk"
+		monarch_name = "Ituk"
+		dynasty = "Kimak"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 2354
+	add_treasury = 10
+	add_prestige = 12
+}

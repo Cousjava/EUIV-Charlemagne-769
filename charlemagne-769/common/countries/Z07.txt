@@ -1,4 +1,5 @@
 # Connachta
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 45 230 70 }
 historical_idea_groups = { 
@@ -33,8 +34,8 @@ historical_units = {
 
 leader_names = {
 
-	"Fínsnechta" "Diarmait" "Fothad" "Máel-Cothaid" "Muirgius" "Áed" "Colla" "Cináed" "Artgal" "Fagartach" 
-	"Dub-Díbeirgg" "Tipraite" "Murgal" "Flaithrí" "Tommaltach" "Tadg" "Muiredach" "Fergus" "Uatu" "Rogallach" 
+	"Muiredach" "Tadg" "Murgal" "Cináed" "Diarmait" "Máel-Cothaid" "Fagartach" "Áed" "Tipraite" "Tommaltach" 
+	"Fínsnechta" "Muirgius" "Fothad" "Colla" "Artgal" "Dub-Díbeirgg" "Flaithrí" "Fergus" "Uatu" "Rogallach" 
 	"Cathal" "Cellach" "Domnall" "Indrechtach" "Dub-Indrecht" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
 	"Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" 
 	"Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" 
@@ -85,31 +86,31 @@ leader_names = {
 	"Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" 
 	"Ultán" }
 monarch_names = {
-	"Fínsnechta #0" = 51
-	"Diarmait #0" = 51
-	"Fothad #0" = 51
-	"Máel-Cothaid #0" = 51
-	"Muirgius #0" = 51
-	"Áed #0" = 153
-	"Colla #0" = 51
-	"Cináed #0" = 51
-	"Artgal #0" = 51
-	"Fagartach #0" = 51
-	"Dub-Díbeirgg #0" = 51
-	"Tipraite #0" = 51
-	"Murgal #0" = 51
-	"Flaithrí #0" = 51
-	"Tommaltach #0" = 51
-	"Tadg #0" = 51
-	"Muiredach #0" = 153
-	"Fergus #0" = 153
-	"Uatu #0" = 51
-	"Rogallach #0" = 51
-	"Cathal #0" = 102
-	"Cellach #0" = 51
-	"Domnall #0" = 102
-	"Indrechtach #0" = 51
-	"Dub-Indrecht #0" = 51
+	"Muiredach #0" = 1
+	"Tadg #0" = 1
+	"Murgal #0" = 1
+	"Cináed #0" = 1
+	"Diarmait #0" = 1
+	"Máel-Cothaid #0" = 1
+	"Fagartach #0" = 1
+	"Áed #0" = 1
+	"Tipraite #0" = 1
+	"Tommaltach #0" = 1
+	"Fínsnechta #0" = 1
+	"Muirgius #0" = 1
+	"Fothad #0" = 1
+	"Colla #0" = 1
+	"Artgal #0" = 1
+	"Dub-Díbeirgg #0" = 1
+	"Flaithrí #0" = 1
+	"Fergus #0" = 1
+	"Uatu #0" = 1
+	"Rogallach #0" = 1
+	"Cathal #0" = 1
+	"Cellach #0" = 1
+	"Domnall #0" = 1
+	"Indrechtach #0" = 1
+	"Dub-Indrecht #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -586,6 +587,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Étaín #0" = -1
+	"Martha #0" = -1
+	"Sétach #0" = -1
+	"Lígach #0" = -1
+	"Euginia #0" = -1
 }
 ship_names = {
 	Aoife

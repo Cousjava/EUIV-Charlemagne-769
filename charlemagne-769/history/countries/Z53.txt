@@ -1,21 +1,26 @@
-# Ivrea
+# Benevento
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = lombard
+primary_culture = old_lombard
 religion = catholic
-capital = 103
-1415.1.1 = {
+clear_scripted_personalities = yes
+capital = 1933
+1431.1.1 = {
 	monarch = {
-		name = "Liutprand"
-		dynasty = "Liutprandingi"
-		adm = 4
-		dip = 3
-		mil = 5
+		name = "Arechis II"
+		birth_date = 1410.1.1
+		dynasty = "Gausian"
+		adm = 2
+		dip = 4
+		mil = 0
 	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = calm_personality
 }
 1444.11.11 = {
+	capital = 1933
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 51
 }

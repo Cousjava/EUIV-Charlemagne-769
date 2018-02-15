@@ -1,33 +1,26 @@
-# Semien
+# Yadava
 government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = amhara
-religion = jewish
-capital = 1227
-1398.1.1 = {
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 524
+1415.1.1 = {
 	monarch = {
-		name = "Phineas"
-		dynasty = "Gideon"
-		adm = 1
+		name = "Kamal"
+		birth_date = 1410.1.1
+		dynasty = "Yadava"
+		adm = 3
 		dip = 4
-		mil = 4
-	}
-}
-1430.1.1 = {
-	heir = {
-		name = "Gideon"
-		monarch_name = "Gideon"
-		dynasty = "Gideon"
-		birth_date = 1430.1.1
-		death_date = 1510.1.1
-		adm = 2
-		dip = 1
 		mil = 3
 	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = calm_personality
 }
 1444.11.11 = {
+	capital = 524
 	add_treasury = 6
 	add_prestige = 5
 }

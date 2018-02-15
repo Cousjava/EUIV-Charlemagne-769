@@ -1,14 +1,15 @@
-# Moravia
+# Satakunta
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 157 101 35 }
+color = { 131 108 26 }
 historical_idea_groups = {
+	trade_ideas
 	defensive_ideas
 	offensive_ideas
 	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
 	spy_ideas
-	innovativeness_ideas
-	quantity_ideas
-	administrative_ideas
 	religious_ideas
 }
 
@@ -18,11 +19,12 @@ historical_units = {
 	western_men_at_arms
 	swiss_landsknechten
 	dutch_maurician
-	austrian_tercio
-	austrian_grenzer
-	austrian_hussar
-	austrian_white_coat
-	austrian_jaeger
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
 	mixed_order_infantry
 	open_order_cavalry
 	napoleonic_square
@@ -33,128 +35,115 @@ historical_units = {
 
 leader_names = {
 
-	"Svetimir" "Rostislav" "Predslav" "Mojmír" "Albert" "Albrecht" "Ales" "Arnost" "Bavor" "Bedrich" 
-	"Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" "Budivoj" "Castolov" "Cenek" 
-	"Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" "Havel" "Heralt" "Herman" 
-	"Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" "Jirík" "Karel" "Kojata" 
-	"Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" "Ojír" "Oldrich" "Ondrej" 
-	"Ota" "Otakar" "Pelhrim" "Petr" "Premysl" "Prokop" "Rajmund" "Sezima" "Slavibor" "Slavomír" 
-	"Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Svatopluk" "Tobiás" "Václav" "Viktorín" "Vítek" 
-	"Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" "Vsebor" "Závis" "Zbynek" "Zdík" 
-	"Zdirad" "Zikmund" }
+	"Ihala" "Terho" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" 
+	"Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" 
+	"Kolli" "Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" 
+	"Pyry" "Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" 
+	"Toivo" "Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" 
+	"Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" 
+	"Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" 
+	"Kauro" "Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Svetimir #0" = 9
-	"Rostislav #0" = 9
-	"Predslav #0" = 9
-	"Mojmír #1" = 9
-	"Albert #0" = 0
-	"Albrecht #0" = 0
-	"Ales #0" = 0
-	"Arnost #0" = 0
-	"Bavor #0" = 0
-	"Bedrich #0" = 0
-	"Benes #0" = 0
-	"Bocek #0" = 0
-	"Bohuslav #0" = 0
-	"Boleslav #0" = 0
-	"Bores #0" = 0
-	"Borijov #0" = 0
-	"Bretislav #0" = 0
-	"Budivoj #0" = 0
-	"Castolov #0" = 0
-	"Cenek #0" = 0
-	"Chval #0" = 0
-	"Ctirad #0" = 0
-	"Diepold #0" = 0
-	"Detrich #0" = 0
-	"Drslav #0" = 0
-	"Gerhard #0" = 0
-	"Hanus #0" = 0
-	"Havel #0" = 0
-	"Heralt #0" = 0
-	"Herman #0" = 0
-	"Hrabis #0" = 0
-	"Hynek #0" = 0
-	"Jan #0" = 0
-	"Jaromír #0" = 0
-	"Jaroslav #0" = 0
-	"Jesek #0" = 0
-	"Jindrich #0" = 0
-	"Jirík #0" = 0
-	"Karel #0" = 0
-	"Kojata #0" = 0
-	"Konrád #0" = 0
-	"Kuník #0" = 0
-	"Litold #0" = 0
-	"Markvart #0" = 0
-	"Matous #0" = 0
-	"Mikulás #0" = 0
-	"Milic #0" = 0
-	"Ojír #0" = 0
-	"Oldrich #0" = 0
-	"Ondrej #0" = 0
-	"Ota #0" = 0
-	"Otakar #0" = 0
-	"Pelhrim #0" = 0
-	"Petr #0" = 0
-	"Premysl #0" = 0
-	"Prokop #0" = 0
-	"Rajmund #0" = 0
-	"Sezima #0" = 0
-	"Slavibor #0" = 0
-	"Slavomír #0" = 0
-	"Smil #0" = 0
-	"Sobieslav #0" = 0
-	"Spytihnev #0" = 0
-	"Strachkvas #0" = 0
-	"Svatobor #0" = 0
-	"Svatopluk #0" = 0
-	"Tobiás #0" = 0
-	"Václav #0" = 0
-	"Viktorín #0" = 0
-	"Vítek #0" = 0
-	"Vanek #0" = 0
-	"Vilém #0" = 0
-	"Vladimír #0" = 0
-	"Vladislav #0" = 0
-	"Vojtech #0" = 0
-	"Vratislav #0" = 0
-	"Vsebor #0" = 0
-	"Závis #0" = 0
-	"Zbynek #0" = 0
-	"Zdík #0" = 0
-	"Zdirad #0" = 0
-	"Zikmund #0" = 0
+	"Ihala #1" = 18
+	"Terho #0" = 1
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Armas #0" = 0
+	"Arvo #0" = 0
+	"Asikko #0" = 0
+	"Ensio #0" = 0
+	"Haapa #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Ihanti #0" = 0
+	"Into #0" = 0
+	"Jalo #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Päiviö #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Toivo #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Vesa #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Kaarle #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Olavi #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tuure #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
+
+
+	"Liekko #0" = -1
+	"Auni #0" = -1
+	"Päivä #0" = -1
+	"Metta #0" = -1
+	"Terhi #0" = -1
 }
 ship_names = {
-	"Svatý Vaclav"
-	"Svatá Ludmila"
-	"Svatý Jan Nepomucký"
-	"Svatý Mikulás"
-	"Svatý Jirí"
-	"Svatá Anezká"
-	"Nejsvetejsí Trojice"
-	"Král Karel"
-	"Král Boleslav"
-	"Král Premysl"
-	"Panna Maria Vitezná"
-	"Jan Hus"
-	"Jan Zizka"
-	"Prokop Holý"
-	"Kníze Bretislav"
-	"Premysl Orac"
-	Ctirad
-	Cechy
-	Morava
-	Libuse
-	Odvázný
-	Neporazitelný
-	Rychlý
-	Bystrý
-	Orel
-	Sokol
-	Slezsko
-	Sipka
-	Hvezda
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
 }
 

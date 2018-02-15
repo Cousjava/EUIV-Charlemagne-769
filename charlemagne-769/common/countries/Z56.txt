@@ -1,199 +1,237 @@
-# Alfheimr
+# Friuli
+ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 25 175 255 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+color = { 170 255 170 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	naval_ideas
+	offensive_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Alfhildr" "Alfr" "Ale" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
-	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
-	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
-	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
-	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" 
-	"Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" 
-	"Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" 
-	"Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
-	"Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" 
-	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" 
-	"Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" 
-	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
-	"Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
-	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Munichis" "Anselm" "Gisaltruda" "Hrodgaud" "Ursus" "Peter" "Gisulf" "Taso" "Grasulf" "Ago" 
+	"Lupus" "Arnefrit" "Wechtar" "Landar" "Rodoald" "Ansfrid" "Ado" "Ferdulf" "Corvulus" "Pemmo" 
+	"Ratchis" "Aistulf" "Adalgis" "Adaloald" "Adhemar" "Agelmund" "Agilof" "Agilulf" "Agiprand" "Ahthari" 
+	"Aimeric" "Aiulf" "Ajo" "Alahis" "Alboin" "Aldihoc" "Alo" "Altpert" "Amefrith" "Ansfrith" 
+	"Ansprand" "Ardoin" "Arechis" "Ariald" "Aribert" "Arichis" "Aripert" "Ariulf" "Arnefrith" "Arnifrid" 
+	"Artavasdas" "Atenulf" "Atto" "Audelahis" "Audoin" "Aunepert" "Ausfrid" "Authari" "Berin" "Bernard" 
+	"Birinus" "Cleph" "Daufer" "Desiderius" "Donnolo" "Erchempert" "Erchinoald" "Erlembald" "Ewin" "Fara" 
+	"Faroald" "Gacco" "Garibald" "Godehoc" "Godepert" "Godescalc" "Grimoald" "Guaifer" "Guaimar" "Gumpert" 
+	"Gundo" "Gundoald" "Hermenfred" "Hildeprand" "Hilderic" "Hildigis" "Hilmagis" "Hucpert" "Ibor" "Ildiches" 
+	"Indulf" "Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" "Laidulf" "Lambert" "Landari" 
+	"Landenulf" "Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" "Liutpert" "Liutprand" "Liutward" 
+	"Maginulf" "Manso" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" "Pandenulf" "Pandulf" "Penno" 
+	"Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" "Radwald" "Raginpert" "Reccared" "Risiulf" 
+	"Rochus" "Rodgand" "Rodolf" "Rodwald" "Romuald" "Rothari" "Saxo" "Sico" "Siconulf" "Sigibuld" 
+	"Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" "Theodelap" "Theoderich" "Theodicius" "Theodo" "Theodorich" 
+	"Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" "Unulf" "Vacho" "Waifar" "Waimar" "Waldchis" 
+	"Waldipert" "Walthari" "Wechthari" "Wido" "Zotto" "Zuchilo" }
 monarch_names = {
-	"Alfhildr #0" = -15
-	"Alfr #0" = 14
-	"Ale #0" = 0
-	"Alfgeir #0" = 0
-	"Anders #0" = 0
-	"Anlaufr #0" = 0
-	"Anundr #0" = 0
-	"Arnbjörn #0" = 0
-	"Arngrimr #0" = 0
-	"Arni #0" = 0
-	"Arnfast #0" = 0
-	"Asbjörn #0" = 0
-	"Bagge #0" = 0
-	"Baldr #0" = 0
-	"Barid #0" = 0
-	"Bengt #0" = 0
-	"Bersi #0" = 0
-	"Bertil #0" = 0
-	"Birger #0" = 0
-	"Björn #0" = 0
-	"Bo #0" = 0
-	"Borkvard #0" = 0
-	"Botulfr #0" = 0
-	"Bragi #0" = 0
-	"Buðli #0" = 0
-	"Dag #0" = 0
-	"Dan #0" = 0
-	"Dyre #0" = 0
-	"Eilif #0" = 0
-	"Egill #0" = 0
-	"Emund #0" = 0
-	"Einarr #0" = 0
-	"Eirikr #0" = 0
-	"Eskild #0" = 0
-	"Falki #0" = 0
-	"Faste #0" = 0
-	"Filip #0" = 0
-	"Fredrik #0" = 0
-	"Frirek #0" = 0
-	"Froði #0" = 0
-	"Freyr #0" = 0
-	"Folki #0" = 0
-	"Gandalfr #0" = 0
-	"Geirr #0" = 0
-	"Georg #0" = 0
-	"Gnupa #0" = 0
-	"Gorm #0" = 0
-	"Greger #0" = 0
-	"Grimr #0" = 0
-	"Guðfrið #0" = 0
-	"Guðmundr #0" = 0
-	"Guðröðr #0" = 0
-	"Gunnarr #0" = 0
-	"Hakon #0" = 0
-	"Halsten #0" = 0
-	"Haraldr #0" = 0
-	"Haukr #0" = 0
-	"Helgi #0" = 0
-	"Hemming #0" = 0
-	"Holmger #0" = 0
-	"Hrafn #0" = 0
-	"Hrolfr #0" = 0
-	"Hrane #0" = 0
-	"Hæsteinn #0" = 0
-	"Hjalmar #0" = 0
-	"Hroðgar #0" = 0
-	"Hroðulfr #0" = 0
-	"Hrörekr #0" = 0
-	"Hysing #0" = 0
-	"Ingólfr #0" = 0
-	"Ingemar #0" = 0
-	"Ingjald #0" = 0
-	"Ivar #0" = 0
-	"Jedvard #0" = 0
-	"Jon #0" = 0
-	"Karl #0" = 0
-	"Kettil #0" = 0
-	"Kettilmund #0" = 0
-	"Kjartan #0" = 0
-	"Klas #0" = 0
-	"Knut #0" = 0
-	"Kol #0" = 0
-	"Kolbjörn #0" = 0
-	"Markus #0" = 0
-	"Mats #0" = 0
-	"Nils #0" = 0
-	"Niklas #0" = 0
-	"Oddr #0" = 0
-	"Ofeig #0" = 0
-	"Olafr #0" = 0
-	"Ormr #0" = 0
-	"Ottarr #0" = 0
-	"Refr #0" = 0
-	"Refil #0" = 0
-	"Ragnarr #0" = 0
-	"Rikulfr #0" = 0
-	"Rögnvaldr #0" = 0
-	"Skuli #0" = 0
-	"Snorri #0" = 0
-	"Sigbjörn #0" = 0
-	"Sigtrygg #0" = 0
-	"Sigurðr #0" = 0
-	"Starkaðr #0" = 0
-	"Steinn #0" = 0
-	"Sturla #0" = 0
-	"Styrbjörn #0" = 0
-	"Styrkar #0" = 0
-	"Sumarliði #0" = 0
-	"Suni #0" = 0
-	"Sveinn #0" = 0
-	"Sverker #0" = 0
-	"Sæmundr #0" = 0
-	"Sölvi #0" = 0
-	"Sörkver #0" = 0
-	"Tjudmund #0" = 0
-	"Toke #0" = 0
-	"Tolir #0" = 0
-	"Þorbjörn #0" = 0
-	"Þorfinn #0" = 0
-	"Þorbrandr #0" = 0
-	"Þordr #0" = 0
-	"Þorgil #0" = 0
-	"Þorsteinn #0" = 0
-	"Þorolfr #0" = 0
-	"Toste #0" = 0
-	"Totil #0" = 0
-	"Tryggve #0" = 0
-	"Tyke #0" = 0
-	"Ulfr #0" = 0
-	"Vagn #0" = 0
-	"Valdemar #0" = 0
-	"Åke #0" = 0
-	"Yngvar #0" = 0
-	"Örvar #0" = 0
-	"Öysteinn #0" = 0
+	"Munichis #0" = 1
+	"Anselm #1" = 18
+	"Gisaltruda #0" = -1
+	"Hrodgaud #0" = 1
+	"Ursus #0" = 1
+	"Peter #1" = 18
+	"Gisulf #2" = 0
+	"Taso #1" = 0
+	"Grasulf #1" = 0
+	"Ago #1" = 0
+	"Lupus #1" = 0
+	"Arnefrit #1" = 0
+	"Wechtar #1" = 0
+	"Landar #1" = 0
+	"Rodoald #1" = 0
+	"Ansfrid #1" = 0
+	"Ado #1" = 0
+	"Ferdulf #1" = 0
+	"Corvulus #1" = 0
+	"Pemmo #1" = 0
+	"Ratchis #1" = 0
+	"Aistulf #1" = 0
+	"Adalgis #0" = 0
+	"Adaloald #0" = 0
+	"Adhemar #0" = 0
+	"Agelmund #0" = 0
+	"Agilof #0" = 0
+	"Agilulf #0" = 0
+	"Agiprand #0" = 0
+	"Ahthari #0" = 0
+	"Aimeric #0" = 0
+	"Aiulf #0" = 0
+	"Ajo #0" = 0
+	"Alahis #0" = 0
+	"Alboin #0" = 0
+	"Aldihoc #0" = 0
+	"Alo #0" = 0
+	"Altpert #0" = 0
+	"Amefrith #0" = 0
+	"Ansfrith #0" = 0
+	"Ansprand #0" = 0
+	"Ardoin #0" = 0
+	"Arechis #0" = 0
+	"Ariald #0" = 0
+	"Aribert #0" = 0
+	"Arichis #0" = 0
+	"Aripert #0" = 0
+	"Ariulf #0" = 0
+	"Arnefrith #0" = 0
+	"Arnifrid #0" = 0
+	"Artavasdas #0" = 0
+	"Atenulf #0" = 0
+	"Atto #0" = 0
+	"Audelahis #0" = 0
+	"Audoin #0" = 0
+	"Aunepert #0" = 0
+	"Ausfrid #0" = 0
+	"Authari #0" = 0
+	"Berin #0" = 0
+	"Bernard #0" = 0
+	"Birinus #0" = 0
+	"Cleph #0" = 0
+	"Daufer #0" = 0
+	"Desiderius #0" = 0
+	"Donnolo #0" = 0
+	"Erchempert #0" = 0
+	"Erchinoald #0" = 0
+	"Erlembald #0" = 0
+	"Ewin #0" = 0
+	"Fara #0" = 0
+	"Faroald #0" = 0
+	"Gacco #0" = 0
+	"Garibald #0" = 0
+	"Godehoc #0" = 0
+	"Godepert #0" = 0
+	"Godescalc #0" = 0
+	"Grimoald #0" = 0
+	"Guaifer #0" = 0
+	"Guaimar #0" = 0
+	"Gumpert #0" = 0
+	"Gundo #0" = 0
+	"Gundoald #0" = 0
+	"Hermenfred #0" = 0
+	"Hildeprand #0" = 0
+	"Hilderic #0" = 0
+	"Hildigis #0" = 0
+	"Hilmagis #0" = 0
+	"Hucpert #0" = 0
+	"Ibor #0" = 0
+	"Ildiches #0" = 0
+	"Indulf #0" = 0
+	"Ingoald #0" = 0
+	"Ioann #0" = 0
+	"Irnerius #0" = 0
+	"Kakko #0" = 0
+	"Kunibert #0" = 0
+	"Laiamicho #0" = 0
+	"Laidulf #0" = 0
+	"Lambert #0" = 0
+	"Landari #0" = 0
+	"Landenulf #0" = 0
+	"Lando #0" = 0
+	"Landulf #0" = 0
+	"Lantpert #0" = 0
+	"Laudari #0" = 0
+	"Liutbald #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpert #0" = 0
+	"Liutprand #0" = 0
+	"Liutward #0" = 0
+	"Maginulf #0" = 0
+	"Manso #0" = 0
+	"Nordepert #0" = 0
+	"Odilo #0" = 0
+	"Odoaker #0" = 0
+	"Odoin #0" = 0
+	"Orson #0" = 0
+	"Pandenulf #0" = 0
+	"Pandulf #0" = 0
+	"Penno #0" = 0
+	"Perctarit #0" = 0
+	"Petrus #0" = 0
+	"Poppo #0" = 0
+	"Radelchis #0" = 0
+	"Radelgar #0" = 0
+	"Radgis #0" = 0
+	"Radwald #0" = 0
+	"Raginpert #0" = 0
+	"Reccared #0" = 0
+	"Risiulf #0" = 0
+	"Rochus #0" = 0
+	"Rodgand #0" = 0
+	"Rodolf #0" = 0
+	"Rodwald #0" = 0
+	"Romuald #0" = 0
+	"Rothari #0" = 0
+	"Saxo #0" = 0
+	"Sico #0" = 0
+	"Siconulf #0" = 0
+	"Sigibuld #0" = 0
+	"Sigisbert #0" = 0
+	"Sigisbrand #0" = 0
+	"Sikard #0" = 0
+	"Sinibald #0" = 0
+	"Taino #0" = 0
+	"Theodelap #0" = 0
+	"Theoderich #0" = 0
+	"Theodicius #0" = 0
+	"Theodo #0" = 0
+	"Theodorich #0" = 0
+	"Theotpert #0" = 0
+	"Theudoald #0" = 0
+	"Thrasimund #0" = 0
+	"Unichis #0" = 0
+	"Unigild #0" = 0
+	"Unulf #0" = 0
+	"Vacho #0" = 0
+	"Waifar #0" = 0
+	"Waimar #0" = 0
+	"Waldchis #0" = 0
+	"Waldipert #0" = 0
+	"Walthari #0" = 0
+	"Wechthari #0" = 0
+	"Wido #0" = 0
+	"Zotto #0" = 0
+	"Zuchilo #0" = 0
+
+
+	"Sunilda #0" = -1
+	"Theodota #0" = -1
+	"Gaila #0" = -1
+	"Adelgrima #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Medea Vulcano Gloria Minerva Laatea
+	Diligenza Vittoria Eolo Concordia Forza 
+	Fama Sirena Falcon Ercole Idra "San Andrea"
+	"San Zaccaria" "San Spiridon" "San Gaetano"
+	"Fortuna Guerriera" Terror Aquileta Constanza
+	"Regina del Mar" "San Nicolo" Nettuno Rosa
+	Fenice Iride Aurora Tigre Giove "Rizzo d'Oro"
+	"Amazzone Guerriera"
 }
 

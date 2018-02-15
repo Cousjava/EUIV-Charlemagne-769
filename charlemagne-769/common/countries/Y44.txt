@@ -1,130 +1,110 @@
-# Sulamid
-graphical_culture = muslimgfx
-color = { 71 150 32 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	economic_ideas
-}
+# Alania
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 155 110 48 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
-}
 
 
 
 leader_names = {
 
-	"Abdallah" "Yusuf" "Ahmad" "Yazid" "Rashid" "Khalid" "Zafir" "Asid" "Abu-Bakr" "Aarif" 
-	"Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" "Akin" "Ali" "Alim" 
-	"Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" 
-	"Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" 
-	"Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Muhammad" "Mukhtar" "Murad" 
-	"Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" 
-	"Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" 
-	"Ya'qub" "Youkhanna" "Zeyd" }
+	"Buriberdi" "Balsag" "Alatey" "Bazuk" "Rosmag" "Irbis" "Busir" "Barjik" "Bihar" "Ælbeg" 
+	"Æmbalan" "Aghsartan" "Akhsar" "Anbal" "Anbazuk" "Aravat" "Arsen" "Askhkadar" "Ashot" "Aslan" 
+	"Aspar" "Athom" "Balambar" "Barlah" "Bæqætar" "Basil" "Beler" "Ber" "Biræg" "Boz-Uruz" 
+	"Buürgur" "Burikhan" "Candak" "Chelakhsartag" "Davit" "Djadaron" "Durgulel" "Dzæræs" "Gætæg" "Georgy" 
+	"Girgon" "Gokhar" "Gubaz" "Guram" "Hasqar" "Huddan" "Istor" "Itaz" "Iveri" "Kandak" 
+	"Kandz" "Kavtia" "Kaur" "Khankhusy" "Khætag" "Konstantin" "Kubal" "Kuddana" "Kul" "Kuluk" 
+	"Lak" "Levan" "Pulad" "Respendial" "Safrak" "Sakhir" "Sangipan" "Saros" "Sathis" "Savkudz" 
+	"Soslan" "Suarn" "Syrdon" "Taymuraz" "Taus" "Totraz" "Urdure" "Uruzma" "Uturku" "Yasynya" 
+	"Zaur" }
 monarch_names = {
-	"Abdallah #0" = 8
-	"Yusuf #0" = 8
-	"Ahmad #0" = 8
-	"Yazid #1" = 8
-	"Rashid #0" = 8
-	"Khalid #0" = 8
-	"Zafir #1" = 8
-	"Asid #1" = 8
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Zeyd #0" = 0
-}
-ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	"Buriberdi #1" = 18
+	"Balsag #0" = 1
+	"Alatey #0" = 1
+	"Bazuk #0" = 1
+	"Rosmag #0" = 1
+	"Irbis #1" = 0
+	"Busir #1" = 0
+	"Barjik #1" = 0
+	"Bihar #1" = 0
+	"Ælbeg #0" = 0
+	"Æmbalan #0" = 0
+	"Aghsartan #0" = 0
+	"Akhsar #0" = 0
+	"Anbal #0" = 0
+	"Anbazuk #0" = 0
+	"Aravat #0" = 0
+	"Arsen #0" = 0
+	"Askhkadar #0" = 0
+	"Ashot #0" = 0
+	"Aslan #0" = 0
+	"Aspar #0" = 0
+	"Athom #0" = 0
+	"Balambar #0" = 0
+	"Barlah #0" = 0
+	"Bæqætar #0" = 0
+	"Basil #0" = 0
+	"Beler #0" = 0
+	"Ber #0" = 0
+	"Biræg #0" = 0
+	"Boz-Uruz #0" = 0
+	"Buürgur #0" = 0
+	"Burikhan #0" = 0
+	"Candak #0" = 0
+	"Chelakhsartag #0" = 0
+	"Davit #0" = 0
+	"Djadaron #0" = 0
+	"Durgulel #0" = 0
+	"Dzæræs #0" = 0
+	"Gætæg #0" = 0
+	"Georgy #0" = 0
+	"Girgon #0" = 0
+	"Gokhar #0" = 0
+	"Gubaz #0" = 0
+	"Guram #0" = 0
+	"Hasqar #0" = 0
+	"Huddan #0" = 0
+	"Istor #0" = 0
+	"Itaz #0" = 0
+	"Iveri #0" = 0
+	"Kandak #0" = 0
+	"Kandz #0" = 0
+	"Kavtia #0" = 0
+	"Kaur #0" = 0
+	"Khankhusy #0" = 0
+	"Khætag #0" = 0
+	"Konstantin #0" = 0
+	"Kubal #0" = 0
+	"Kuddana #0" = 0
+	"Kul #0" = 0
+	"Kuluk #0" = 0
+	"Lak #0" = 0
+	"Levan #0" = 0
+	"Pulad #0" = 0
+	"Respendial #0" = 0
+	"Safrak #0" = 0
+	"Sakhir #0" = 0
+	"Sangipan #0" = 0
+	"Saros #0" = 0
+	"Sathis #0" = 0
+	"Savkudz #0" = 0
+	"Soslan #0" = 0
+	"Suarn #0" = 0
+	"Syrdon #0" = 0
+	"Taymuraz #0" = 0
+	"Taus #0" = 0
+	"Totraz #0" = 0
+	"Urdure #0" = 0
+	"Uruzma #0" = 0
+	"Uturku #0" = 0
+	"Yasynya #0" = 0
+	"Zaur #0" = 0
+
+
+	"Sanatha #0" = -1
+	"Baia #0" = -1
+	"Kera #0" = -1
+	"Satinik #0" = -1
+	"Borena #0" = -1
 }
 

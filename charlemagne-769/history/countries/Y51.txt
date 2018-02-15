@@ -1,21 +1,36 @@
-# Makuria
-government = feudal_monarchy
+# Bajanid
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = nubian
-religion = coptic
-capital = 1228
-1425.1.1 = {
+primary_culture = bedouin_arabic
+religion = sunni
+clear_scripted_personalities = yes
+capital = 453
+1444.1.1 = {
 	monarch = {
-		name = "Khael"
-		dynasty = "Azim"
-		adm = 2
-		dip = 0
+		name = "Jibril"
+		birth_date = 1407.1.1
+		dynasty = "Bajanid"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = conqueror_personality
+	heir = {
+		name = "Yahya"
+		monarch_name = "Yahya"
+		dynasty = "Bajanid"
+		birth_date = 1385.1.1
+		death_date = 1465.1.1
+		adm = 1
+		dip = 5
 		mil = 3
 	}
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11 = {
+	capital = 453
 	add_treasury = 7
-	add_prestige = 27
+	add_prestige = 5
 }

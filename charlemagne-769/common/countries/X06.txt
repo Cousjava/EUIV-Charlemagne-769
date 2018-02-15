@@ -1,34 +1,23 @@
-# Uzur
+# Tobol
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 203 169 255 }
+color = { 234 176 20 }
 
 
 
 
 leader_names = {
 
-	"Ipekel" "Samur" "Kutan" "Sotan" "Üge" "Uzluk" "Çor" "Bilge" "Barchuq" "Tömür" 
-	"Bars" "Adigh" "Buqa" "Mänglik" "Özmish" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" 
-	"Bönek" "Bachman" "Begluk" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" 
-	"Itlar" "Ituk" "Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" 
-	"Pulad" "Saru" "Sevenç" "Sirçan" "Sokal" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" 
+	"Bonyak" "Saru" "Sibel" "Tura" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" "Bönek" 
+	"Bachman" "Begluk" "Blush" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" "Itlar" "Ituk" 
+	"Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" "Kutan" "Pulad" 
+	"Sevenç" "Sirçan" "Sokal" "Sotan" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" "Uzluk" 
 	"Uzur" }
 monarch_names = {
-	"Ipekel #0" = -7
-	"Samur #0" = -7
-	"Kutan #0" = 6
-	"Sotan #0" = 6
-	"Üge #1" = 6
-	"Uzluk #0" = 6
-	"Çor #0" = 6
-	"Bilge #0" = 0
-	"Barchuq #0" = 0
-	"Tömür #0" = 0
-	"Bars #0" = 0
-	"Adigh #0" = 0
-	"Buqa #0" = 0
-	"Mänglik #0" = 0
-	"Özmish #0" = 0
+	"Bonyak #0" = 1
+	"Saru #0" = 1
+	"Sibel #0" = -1
+	"Tura #0" = 1
 	"Çilbu #0" = 0
 	"Aepak #0" = 0
 	"Asalup #0" = 0
@@ -38,7 +27,6 @@ monarch_names = {
 	"Bachman #0" = 0
 	"Begluk #0" = 0
 	"Blush #0" = 0
-	"Bonyak #0" = 0
 	"Borç #0" = 0
 	"Eldeçyuk #0" = 0
 	"Etrek #0" = 0
@@ -54,16 +42,24 @@ monarch_names = {
 	"Kozel #0" = 0
 	"Kubasar #0" = 0
 	"Kuntuvdi #0" = 0
+	"Kutan #0" = 0
 	"Pulad #0" = 0
-	"Saru #0" = 0
 	"Sevenç #0" = 0
 	"Sirçan #0" = 0
 	"Sokal #0" = 0
+	"Sotan #0" = 0
 	"Sugr #0" = 0
 	"Törtogul #0" = 0
 	"Togli #0" = 0
 	"Tolun #0" = 0
 	"Tugor #0" = 0
+	"Uzluk #0" = 0
 	"Uzur #0" = 0
+
+
+	"Ipekel #0" = -1
+	"Esin #0" = -1
+	"Gulçiçek #0" = -1
+	"Özlem #0" = -1
 }
 

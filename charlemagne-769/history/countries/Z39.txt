@@ -5,29 +5,31 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = breton
 religion = catholic
+clear_scripted_personalities = yes
 capital = 170
-1415.1.1 = {
+1444.1.1 = {
 	monarch = {
 		name = "Morvan"
+		birth_date = 1415.1.1
 		dynasty = "Leon"
-		adm = 3
-		dip = 0
-		mil = 2
+		adm = 1
+		dip = 2
+		mil = 3
 	}
-}
-1440.1.1 = {
+	add_ruler_personality = craven_personality
 	heir = {
 		name = "Concar"
 		monarch_name = "Concar"
 		dynasty = "Leon"
 		birth_date = 1440.1.1
 		death_date = 1520.1.1
-		adm = 4
+		adm = 3
 		dip = 3
 		mil = 3
 	}
 }
 1444.11.11 = {
+	capital = 170
 	add_treasury = 4
 	add_prestige = 2
 }

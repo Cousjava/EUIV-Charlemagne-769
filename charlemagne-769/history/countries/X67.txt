@@ -1,0 +1,25 @@
+# Aydhab
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 2324
+1435.1.1 = {
+	monarch = {
+		name = "Kuriakos"
+		birth_date = 1415.1.1
+		dynasty = "Bigawi"
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2324
+	add_treasury = 4
+	add_prestige = 2
+}

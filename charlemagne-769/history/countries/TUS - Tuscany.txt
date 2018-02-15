@@ -3,19 +3,24 @@ government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = lombard
+primary_culture = italian
 religion = catholic
+clear_scripted_personalities = yes
 capital = 115
-1397.1.1 = {
+1429.1.1 = {
 	monarch = {
 		name = "Alperto"
+		birth_date = 1397.1.1
 		dynasty = "Walpertingi"
-		adm = 4
+		adm = 1
 		dip = 0
 		mil = 4
 	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
+	capital = 115
 	add_treasury = 6
 	add_prestige = 7
 }

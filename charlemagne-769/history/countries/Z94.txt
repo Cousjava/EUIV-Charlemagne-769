@@ -1,21 +1,26 @@
-# Chud
-government = tribal_despotism
+# Cherson
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = finnish
-religion = animism
-capital = 2749
-1408.1.1 = {
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 285
+1427.1.1 = {
 	monarch = {
-		name = "Aimo"
-		dynasty = "Tšuudit"
-		adm = 3
-		dip = 2
-		mil = 3
+		name = "Sebastos"
+		birth_date = 1407.1.1
+		dynasty = "Pyrrogenes"
+		adm = 5
+		dip = 1
+		mil = 1
 	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
+	capital = 285
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

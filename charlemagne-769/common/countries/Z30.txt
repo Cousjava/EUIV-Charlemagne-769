@@ -1,4 +1,5 @@
 # Gwynedd
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 172 99 22 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Hywel" "Caradog" "Owain" "Cynlas" "Einion" "Cadwal" "lfdyfwn" "Rhufon" "Meirchion" "Cunedda" 
+	"Owain" "Caradog" "Hywel" "Cynlas" "Einion" "Cadwal" "lfdyfwn" "Rhufon" "Meirchion" "Cunedda" 
 	"Cadwallon" "Maelgwn" "Rhun" "Beli" "Iago" "Cadfan" "Cadwaladr" "Ifwr" "Idwal" "Rhodri" 
 	"Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" 
 	"Anarawd" "Andreas" "Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
@@ -62,15 +63,15 @@ leader_names = {
 	"Tegwyd" "Teilo" "Teithfalch" "Teudebur" "Tewdos" "Tewdrig" "Tewdwr" "Tomos" "Trahaearn" "Tudur" 
 	"Tudwal" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ynyr" "Ysfael" }
 monarch_names = {
-	"Hywel #0" = 57
-	"Caradog #1" = 28
-	"Owain #0" = 28
-	"Cynlas #0" = 28
-	"Einion #1" = 57
-	"Cadwal #0" = 28
-	"lfdyfwn #0" = 28
-	"Rhufon #0" = 28
-	"Meirchion #0" = 28
+	"Owain #0" = 1
+	"Caradog #1" = 18
+	"Hywel #0" = 1
+	"Cynlas #0" = 1
+	"Einion #1" = 21
+	"Cadwal #0" = 1
+	"lfdyfwn #0" = 1
+	"Rhufon #0" = 1
+	"Meirchion #0" = 1
 	"Cunedda #1" = 0
 	"Cadwallon #2" = 0
 	"Maelgwn #1" = 0
@@ -341,6 +342,13 @@ monarch_names = {
 	"Uthyr #0" = 0
 	"Ynyr #0" = 0
 	"Ysfael #0" = 0
+
+
+	"Lleigy #0" = -1
+	"Gwenasedd #0" = -1
+	"Mair #0" = -1
+	"Ffelis #0" = -1
+	"Aeronwen #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

@@ -5,17 +5,32 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = anglo_saxon
 religion = catholic
+clear_scripted_personalities = yes
 capital = 235
-1410.1.1 = {
+1440.1.1 = {
 	monarch = {
 		name = "Ecgberht II"
+		birth_date = 1410.1.1
 		dynasty = "Wihtgilsing"
 		adm = 2
-		dip = 3
+		dip = 0
 		mil = 4
 	}
+	add_ruler_personality = strict_personality
+	heir = {
+		name = "Eadberht"
+		monarch_name = "Eadberht III"
+		dynasty = "Wihtgilsing"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = infertile_personality
 }
 1444.11.11 = {
+	capital = 235
 	add_treasury = 6
-	add_prestige = 23
+	add_prestige = 28
 }

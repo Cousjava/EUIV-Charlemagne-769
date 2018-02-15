@@ -1,35 +1,8 @@
 # Flanders
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 255 120 0 }
-historical_idea_groups = {
-	trade_ideas
-	exploration_ideas
-	naval_ideas
-	defensive_ideas
-	economic_ideas
-	religious_ideas
-	innovativeness_ideas
-	offensive_ideas
-}
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	french_caracolle
-	swedish_gallop
-	austrian_tercio
-	austrian_grenzer
-	french_bluecoat
-	french_dragoon
-	french_impulse
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
-}
 
 
 
@@ -57,7 +30,7 @@ leader_names = {
 	"Theudoald" "Theutbald" "Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" 
 	"Willichar" "Wolfari" }
 monarch_names = {
-	"Roding #1" = 21
+	"Roding #1" = 18
 	"Abrahil #0" = 0
 	"Abram #0" = 0
 	"Adalbald #0" = 0
@@ -259,27 +232,12 @@ monarch_names = {
 	"Wilbert #0" = 0
 	"Willichar #0" = 0
 	"Wolfari #0" = 0
-}
-ship_names = {
-	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta
-	Bantam Batavia Beschermer Brederode Brouwer Brutus
-	Campen Cerberus Comeestar
-	Daphne Delfland Delft "Den Swarten Raven" Delphin Deventer Duyfken
-	Eendracht Eenhorn Embuscade Engel Erasmus
-	Gaesterland "Gekroende Liefde" Gelijkheid Gouda "Gouden Arend" "Gouden Leeuw" "Groot Frisia" "Groote Sint Joris" "Grote Zon"
-	Haarlem Heldin Hercules "De Halve Maen" Hollandia "Hollandsche Tuyn" "Huis te Oosterwijk" "Huis te Zwieten" "Huys van Nassau"
-	"Jong Prins te Paard" Jupiter "Kleine Zon"
-	"Kleene Sint Joris" Komeeetster "Kronede Arend"
-	Leyden "Liefde van Hoorn"
-	"Maagd van Dordrecht" Mars Mauritius Middelburg Minerva Moon Monnikendam Muiderberg
-	Nassau "Nieuw Vlissingen" 
-	Olifant Onrust Ooievaar Oranje
-	Patientia Posthorn "Prins Friso" "Prins Willem" 
-	Rotterdam Rozendaal
-	Schakerloo Schermer Spiegel Staten-Generaal Statenlande Ster "St. Iago de Victoria" "St. Marten" "St. Matthuis"
-	Tholen Tyger 
-	"Vereenigde Provincieën" Vlissingen Vrede Vrijheid
-	Waakzaamheid "Walcheren" "Wapen van Holland" "Wapen van Medenblik" Wassenaar Winhond "Witte Leeuw" Woerden Zeerijp
-	"Zeven Provincien" Zierikzee Zon Zuidholland "Zwarte Leeuw" 
+
+
+	"Hiltrude #0" = -1
+	"Lanthechilde #0" = -1
+	"Radegund #0" = -1
+	"Leutgardis #0" = -1
+	"Bertilla #0" = -1
 }
 

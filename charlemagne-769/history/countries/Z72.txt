@@ -1,33 +1,38 @@
-# Austergautland
+# Sviþjod
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
-capital = 2
-1397.10.1 = {
+clear_scripted_personalities = yes
+capital = 1
+1436.1.1 = {
 	monarch = {
-		name = "Hjörvardr"
-		dynasty = "Ulfing"
-		adm = 3
-		dip = 2
-		mil = 5
+		name = "Sigurdr"
+		birth_date = 1405.12.12
+		dynasty = "af Munsö"
+		adm = 4
+		dip = 3
+		mil = 6
 	}
+	add_ruler_personality = obsessive_perfectionist_personality
 }
-1435.1.1 = {
+1441.6.6 = {
 	heir = {
-		name = "Högne"
-		monarch_name = "Högne"
-		dynasty = "Ulfing"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 2
-		dip = 2
+		name = "Ragnarr"
+		monarch_name = "Ragnarr"
+		dynasty = "af Munsö"
+		birth_date = 1441.6.6
+		death_date = 1521.6.6
+		adm = 3
+		dip = 3
 		mil = 3
 	}
+	add_heir_personality = navigator_personality
 }
 1444.11.11 = {
+	capital = 1
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 13
 }

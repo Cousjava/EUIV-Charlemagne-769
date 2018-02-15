@@ -1,21 +1,25 @@
-# Hålogaland
+# Nidaros
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
-capital = 21
-1415.1.1 = {
+clear_scripted_personalities = yes
+capital = 2752
+1435.1.1 = {
 	monarch = {
-		name = "Ormr"
-		dynasty = "av Nordland"
-		adm = 3
-		dip = 5
-		mil = 2
+		name = "Grimr"
+		birth_date = 1408.1.1
+		dynasty = "av Askø"
+		adm = 1
+		dip = 4
+		mil = 4
 	}
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
+	capital = 2752
 	add_treasury = 4
-	add_prestige = 3
+	add_prestige = 2
 }

@@ -1,21 +1,35 @@
-# Kirghiz
+# Uzur
+ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 155 140 78 }
+color = { 97 92 175 }
 
 
 
 
 leader_names = {
 
-	"Dilek" "Sotan" "Seitek" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" "Bönek" "Bachman" 
-	"Begluk" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" "Itlar" "Ituk" 
-	"Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" "Kutan" "Pulad" 
-	"Saru" "Sevenç" "Sirçan" "Sokal" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" "Uzluk" 
-	"Uzur" "Manas" "Semetei" "Barsbeg" "Kokotoy" "Jaglaqar" "Tardush" }
+	"Çor" "Üge" "Sotan" "Uzluk" "Kutan" "Ipekel" "Samur" "Bilge" "Barchuq" "Tömür" 
+	"Bars" "Adigh" "Buqa" "Mänglik" "Özmish" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" 
+	"Bönek" "Bachman" "Begluk" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" 
+	"Itlar" "Ituk" "Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" 
+	"Pulad" "Saru" "Sevenç" "Sirçan" "Sokal" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" 
+	"Uzur" }
 monarch_names = {
-	"Dilek #0" = -6
-	"Sotan #0" = 5
-	"Seitek #1" = 5
+	"Çor #0" = 1
+	"Üge #1" = 18
+	"Sotan #0" = 1
+	"Uzluk #0" = 1
+	"Kutan #0" = 1
+	"Ipekel #0" = -1
+	"Samur #0" = -1
+	"Bilge #0" = 0
+	"Barchuq #0" = 0
+	"Tömür #0" = 0
+	"Bars #0" = 0
+	"Adigh #0" = 0
+	"Buqa #0" = 0
+	"Mänglik #0" = 0
+	"Özmish #0" = 0
 	"Çilbu #0" = 0
 	"Aepak #0" = 0
 	"Asalup #0" = 0
@@ -41,7 +55,6 @@ monarch_names = {
 	"Kozel #0" = 0
 	"Kubasar #0" = 0
 	"Kuntuvdi #0" = 0
-	"Kutan #0" = 0
 	"Pulad #0" = 0
 	"Saru #0" = 0
 	"Sevenç #0" = 0
@@ -52,13 +65,11 @@ monarch_names = {
 	"Togli #0" = 0
 	"Tolun #0" = 0
 	"Tugor #0" = 0
-	"Uzluk #0" = 0
 	"Uzur #0" = 0
-	"Manas #0" = 0
-	"Semetei #0" = 0
-	"Barsbeg #0" = 0
-	"Kokotoy #0" = 0
-	"Jaglaqar #0" = 0
-	"Tardush #0" = 0
+
+
+	"Çiltanesi #0" = -1
+	"Sibel #0" = -1
+	"Mutlu #0" = -1
 }
 

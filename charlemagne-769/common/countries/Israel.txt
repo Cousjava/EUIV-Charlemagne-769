@@ -52,6 +52,13 @@ monarch_names = {
 	"Giza #0" = 0
 	"Baruch #0" = 0
 	"Aharon #0" = 0
+
+	"Rebekkaa #0" = -1
+	"Rahel #0" = -1
+	"Batia #0" = -1
+	"Malka #0" = -1
+	"Liat #0" = -1
+	"Ziva #0" = -1
 }
 ship_names = {
 	Achai Achunai Aharon Alechsandri Ammi Chananel Chaninai Chanoch Chaim Chayim Chelbo Chisdai Chiyya Chizkiyah Chofni Chushiel

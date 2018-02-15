@@ -1,33 +1,37 @@
-# Kalinga Ganga
-government = feudal_monarchy
+# Shewa
+government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = oriya
-religion = hinduism
-capital = 549
-1395.1.1 = {
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1213
+1433.1.1 = {
 	monarch = {
-		name = "Rajendravarma"
-		dynasty = "Kalinga Ganga"
-		adm = 0
+		name = "Mekonnen"
+		birth_date = 1413.1.1
+		dynasty = "Shamumun"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Semer"
+		monarch_name = "Semer"
+		dynasty = "Shamumun"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 1
 		dip = 4
 		mil = 3
 	}
-}
-1415.1.1 = {
-	heir = {
-		name = "Anantavarma"
-		monarch_name = "Anantavarma II"
-		dynasty = "Kalinga Ganga"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 4
-		dip = 2
-		mil = 1
-	}
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
+	capital = 1213
 	add_treasury = 6
-	add_prestige = 31
+	add_prestige = 5
 }

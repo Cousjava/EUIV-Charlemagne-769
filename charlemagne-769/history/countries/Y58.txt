@@ -1,21 +1,25 @@
-# Ifrinid
-government = iqta
+# Tamimi
+government = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = berber
-religion = ibadi
-capital = 336
-1395.1.1 = {
+primary_culture = persian
+religion = sunni
+clear_scripted_personalities = yes
+capital = 430
+1444.1.1 = {
 	monarch = {
-		name = "Abu Qurra"
-		dynasty = "Ifrinid"
-		adm = 1
-		dip = 1
-		mil = 2
+		name = "Nasr"
+		birth_date = 1411.1.1
+		dynasty = "Tamimi"
+		adm = 2
+		dip = 2
+		mil = 1
 	}
+	add_ruler_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
+	capital = 430
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

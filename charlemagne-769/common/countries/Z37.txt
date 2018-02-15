@@ -1,4 +1,5 @@
 # Saxony
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 120 25 25 }
 
@@ -7,7 +8,7 @@ color = { 120 25 25 }
 
 leader_names = {
 
-	"Wichimann" "Theoderic" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
+	"Theoderic" "Wichimann" "Abo" "Adalbero" "Adalbert" "Adalbrand" "Adaldag" "Adalgar" "Adalgod" "Adolf" 
 	"Aelle" "Albrecht" "Alebrand" "Altfrid" "Ansgar" "Arnd" "Arnold" "Asig" "Balduin" "Balthasar" 
 	"Banzleib" "Beneke" "Benno" "Bernd" "Bernhard" "Bertold" "Bertram" "Boddic" "Brun" "Bruno" 
 	"Burchard" "Cissa" "Claus" "Cobbo" "Cord" "Cyprian" "Dago" "Dedo" "Dethard" "Detleff" 
@@ -24,8 +25,8 @@ leader_names = {
 	"Wichmann" "Wicho" "Widukind" "Wigebert" "Wilbrand" "Willichin" "Withgils" "Witikind" "Witta" "Wlencing" 
 	"Wolter" "Wulff" }
 monarch_names = {
-	"Wichimann #0" = 16
-	"Theoderic #1" = 16
+	"Theoderic #1" = 18
+	"Wichimann #0" = 1
 	"Abo #0" = 0
 	"Adalbero #0" = 0
 	"Adalbert #0" = 0
@@ -176,5 +177,12 @@ monarch_names = {
 	"Wlencing #0" = 0
 	"Wolter #0" = 0
 	"Wulff #0" = 0
+
+
+	"Frederuna #0" = -1
+	"Wienke #0" = -1
+	"Bithild #0" = -1
+	"Alof #0" = -1
+	"Mathilde #0" = -1
 }
 

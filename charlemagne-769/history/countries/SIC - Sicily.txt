@@ -1,0 +1,26 @@
+# Sicily
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 2982
+1431.1.1 = {
+	monarch = {
+		name = "Elpidios"
+		birth_date = 1411.1.1
+		dynasty = "Kalopragmon"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2982
+	add_treasury = 6
+	add_prestige = 4
+}

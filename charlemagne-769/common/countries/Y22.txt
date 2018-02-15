@@ -1,70 +1,150 @@
-# Yabghumakh
-graphical_culture = muslimgfx
-color = { 229 147 111 }
+# Esztergom
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 230 55 55 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	innovativeness_ideas
+	religious_ideas
+}
 
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+}
 
 
 
 leader_names = {
 
-	"Tura" "Bastu" "Mënümarót" "Alp" "Araslan" "Bagha" "Baghatur" "Bälgiçi" "Barjik" "Barsbek" 
-	"Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" "Bulçan" "Busir" "Buzer" "Çat" "Çat'n" 
-	"Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" "Khuterkin" "Kibar" 
-	"Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mänäs" "Ötemis" "Papaçyz" "Samsam" "Sartäç" "Simsam" 
-	"Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yavantey" "Yençepi" "Yerneslu" 
-	"Yeçtirek" "Yilig" }
+	"Vetam" "Almish" "Kajd" "Vakrim" "Albert" "Albrecht" "Ales" "Arnost" "Bavor" "Bedrich" 
+	"Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" "Budivoj" "Castolov" "Cenek" 
+	"Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" "Havel" "Heralt" "Herman" 
+	"Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" "Jirík" "Karel" "Kojata" 
+	"Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" "Mojmír" "Ojír" "Oldrich" 
+	"Ondrej" "Ota" "Otakar" "Pelhrim" "Petr" "Premysl" "Prokop" "Rajmund" "Rostislav" "Sezima" 
+	"Slavibor" "Slavomír" "Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Svatopluk" "Tobiás" "Václav" 
+	"Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" "Vsebor" "Závis" 
+	"Zbynek" "Zdík" "Zdirad" "Zikmund" }
 monarch_names = {
-	"Tura #0" = -7
-	"Bastu #0" = 6
-	"Mënümarót #1" = 6
-	"Alp #0" = 0
-	"Araslan #0" = 0
-	"Bagha #0" = 0
-	"Baghatur #0" = 0
-	"Bälgiçi #0" = 0
-	"Barjik #0" = 0
-	"Barsbek #0" = 0
-	"Bashtwa #0" = 0
-	"Bihor #0" = 0
-	"Böri #0" = 0
-	"Bugha #0" = 0
-	"Bulan #0" = 0
-	"Bulçan #0" = 0
-	"Busir #0" = 0
-	"Buzer #0" = 0
-	"Çat #0" = 0
-	"Çat'n #0" = 0
-	"Çorpan #0" = 0
-	"Ilik #0" = 0
-	"Iltäbär #0" = 0
-	"Itakh #0" = 0
-	"Kamaj #0" = 0
-	"Karadakh #0" = 0
-	"Kayghalagh #0" = 0
-	"Khatir #0" = 0
-	"Khuterkin #0" = 0
-	"Kibar #0" = 0
-	"Kisa #0" = 0
-	"Kundaçiq #0" = 0
-	"Kundaç #0" = 0
-	"Mänär #0" = 0
-	"Mänäs #0" = 0
-	"Ötemis #0" = 0
-	"Papaçyz #0" = 0
-	"Samsam #0" = 0
-	"Sartäç #0" = 0
-	"Simsam #0" = 0
-	"Täbär #0" = 0
-	"Tabghaç #0" = 0
-	"Tarkhan #0" = 0
-	"Tarmaç #0" = 0
-	"Tuzniq #0" = 0
-	"Vakrim #0" = 0
-	"Yabghu #0" = 0
-	"Yavantey #0" = 0
-	"Yençepi #0" = 0
-	"Yerneslu #0" = 0
-	"Yeçtirek #0" = 0
-	"Yilig #0" = 0
+	"Vetam #1" = 18
+	"Almish #0" = 1
+	"Kajd #0" = 1
+	"Vakrim #0" = 1
+	"Albert #0" = 0
+	"Albrecht #0" = 0
+	"Ales #0" = 0
+	"Arnost #0" = 0
+	"Bavor #0" = 0
+	"Bedrich #0" = 0
+	"Benes #0" = 0
+	"Bocek #0" = 0
+	"Bohuslav #0" = 0
+	"Boleslav #0" = 0
+	"Bores #0" = 0
+	"Borijov #0" = 0
+	"Bretislav #0" = 0
+	"Budivoj #0" = 0
+	"Castolov #0" = 0
+	"Cenek #0" = 0
+	"Chval #0" = 0
+	"Ctirad #0" = 0
+	"Diepold #0" = 0
+	"Detrich #0" = 0
+	"Drslav #0" = 0
+	"Gerhard #0" = 0
+	"Hanus #0" = 0
+	"Havel #0" = 0
+	"Heralt #0" = 0
+	"Herman #0" = 0
+	"Hrabis #0" = 0
+	"Hynek #0" = 0
+	"Jan #0" = 0
+	"Jaromír #0" = 0
+	"Jaroslav #0" = 0
+	"Jesek #0" = 0
+	"Jindrich #0" = 0
+	"Jirík #0" = 0
+	"Karel #0" = 0
+	"Kojata #0" = 0
+	"Konrád #0" = 0
+	"Kuník #0" = 0
+	"Litold #0" = 0
+	"Markvart #0" = 0
+	"Matous #0" = 0
+	"Mikulás #0" = 0
+	"Milic #0" = 0
+	"Mojmír #0" = 0
+	"Ojír #0" = 0
+	"Oldrich #0" = 0
+	"Ondrej #0" = 0
+	"Ota #0" = 0
+	"Otakar #0" = 0
+	"Pelhrim #0" = 0
+	"Petr #0" = 0
+	"Premysl #0" = 0
+	"Prokop #0" = 0
+	"Rajmund #0" = 0
+	"Rostislav #0" = 0
+	"Sezima #0" = 0
+	"Slavibor #0" = 0
+	"Slavomír #0" = 0
+	"Smil #0" = 0
+	"Sobieslav #0" = 0
+	"Spytihnev #0" = 0
+	"Strachkvas #0" = 0
+	"Svatobor #0" = 0
+	"Svatopluk #0" = 0
+	"Tobiás #0" = 0
+	"Václav #0" = 0
+	"Viktorín #0" = 0
+	"Vítek #0" = 0
+	"Vanek #0" = 0
+	"Vilém #0" = 0
+	"Vladimír #0" = 0
+	"Vladislav #0" = 0
+	"Vojtech #0" = 0
+	"Vratislav #0" = 0
+	"Vsebor #0" = 0
+	"Závis #0" = 0
+	"Zbynek #0" = 0
+	"Zdík #0" = 0
+	"Zdirad #0" = 0
+	"Zikmund #0" = 0
+
+
+	"Akgul #0" = -1
+	"Puyantay #0" = -1
+	"Usunbike #0" = -1
+	"Bozçin #0" = -1
+	"Sarä #0" = -1
+}
+ship_names = {
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
 }
 

@@ -1,0 +1,36 @@
+# Cakrakuta
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 547
+1435.1.1 = {
+	monarch = {
+		name = "Vallabharaja"
+		birth_date = 1415.1.1
+		dynasty = "Nagavamsi"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Rajamalla"
+		monarch_name = "Rajamalla"
+		dynasty = "Nagavamsi"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 547
+	add_treasury = 4
+	add_prestige = 3
+}

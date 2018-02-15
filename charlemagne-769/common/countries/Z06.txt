@@ -1,4 +1,5 @@
 # Bréifne
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 40 230 65 }
 historical_idea_groups = { 
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Sellachán" "Cernach" "Fergus" "Fergnae" "Áed" "Scandlán" "Crimthann" "Báethine" "Máenach" "Dúnchad" 
+	"Fergus" "Cernach" "Sellachán" "Fergnae" "Áed" "Scandlán" "Crimthann" "Báethine" "Máenach" "Dúnchad" 
 	"Dub-Dothra" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" 
 	"Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" 
 	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
@@ -84,17 +85,17 @@ leader_names = {
 	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
 	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Sellachán #0" = 50
-	"Cernach #0" = 50
-	"Fergus #0" = 50
-	"Fergnae #0" = 50
-	"Áed #0" = 50
-	"Scandlán #0" = 50
-	"Crimthann #0" = 50
-	"Báethine #0" = 50
-	"Máenach #0" = 50
-	"Dúnchad #0" = 50
-	"Dub-Dothra #0" = 50
+	"Fergus #0" = 1
+	"Cernach #0" = 1
+	"Sellachán #0" = 1
+	"Fergnae #0" = 1
+	"Áed #0" = 1
+	"Scandlán #0" = 1
+	"Crimthann #0" = 1
+	"Báethine #0" = 1
+	"Máenach #0" = 1
+	"Dúnchad #0" = 1
+	"Dub-Dothra #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -581,6 +582,13 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Étaín #0" = -1
+	"Martha #0" = -1
+	"Sétach #0" = -1
+	"Lígach #0" = -1
+	"Euginia #0" = -1
 }
 ship_names = {
 	Aoife

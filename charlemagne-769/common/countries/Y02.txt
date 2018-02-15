@@ -1,179 +1,149 @@
-# Greater Poland
+# Häme
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 140 13 13 }
+color = { 130 20 20 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
-	diplomatic_ideas
 	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
 	spy_ideas
-	administrative_ideas
 	religious_ideas
 }
 
 historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	russian_lancer
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Dobieslaw" "Aleksander" "Andrzej" "Bartosz" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" "Boncza" "Borzyslaw" 
-	"Bozydar" "Borzywoj" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Dobrogost" "Dobromir" "Doman" "Domawuj" 
-	"Dytryk" "Eustachy" "Gaudenty" "Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" "Goszczon" "Henryk" "Imram" 
-	"Izbor" "Józef" "Jacek" "Jaksa" "Jakub" "Jakusz" "Jan" "Janislaw" "Janko" "Janusz" 
-	"Jaroslaw" "Jerzy" "Karol" "Kazimierz" "Konrad" "Krystyn" "Krzeslaw" "Lambert" "Leszek" "Maciej" 
-	"Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" "Mieszko" "Mikolaj" "Milobrat" "Milosz" "Miroslaw" 
-	"Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Pelka" "Piotr" "Piskla" "Prendota" 
-	"Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" "Sieciech" "Siemomysl" "Siemowit" "Skarbimir" "Snowid" 
-	"Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Swietoslaw" "Szczesny" 
-	"Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" "Wawrzyniec" "Wielislaw" "Wieslaw" "Wincenty" 
-	"Wit" "Witosz" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" "Zelibrat" 
-	"Zygmunt" }
+	"Mielus" "Jalo" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" 
+	"Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" 
+	"Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" 
+	"Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" 
+	"Toivo" "Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" 
+	"Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" 
+	"Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" 
+	"Kauro" "Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Dobieslaw #1" = 12
-	"Aleksander #0" = 0
-	"Andrzej #0" = 0
-	"Bartosz #0" = 0
-	"Bezprym #0" = 0
-	"Boguchwal #0" = 0
-	"Bogumil #0" = 0
-	"Boleslaw #0" = 0
-	"Boncza #0" = 0
-	"Borzyslaw #0" = 0
-	"Bozydar #0" = 0
-	"Borzywoj #0" = 0
-	"Budziwuj #0" = 0
-	"Czcibor #0" = 0
-	"Czyrzniech #0" = 0
-	"Dalimir #0" = 0
-	"Dobrogost #0" = 0
-	"Dobromir #0" = 0
-	"Doman #0" = 0
-	"Domawuj #0" = 0
-	"Dytryk #0" = 0
-	"Eustachy #0" = 0
-	"Gaudenty #0" = 0
-	"Gierolt #0" = 0
-	"Gniewomir #0" = 0
-	"Gniewosz #0" = 0
-	"Gosciwuj #0" = 0
-	"Goszczon #0" = 0
-	"Henryk #0" = 0
-	"Imram #0" = 0
-	"Izbor #0" = 0
-	"Józef #0" = 0
-	"Jacek #0" = 0
-	"Jaksa #0" = 0
-	"Jakub #0" = 0
-	"Jakusz #0" = 0
-	"Jan #0" = 0
-	"Janislaw #0" = 0
-	"Janko #0" = 0
-	"Janusz #0" = 0
-	"Jaroslaw #0" = 0
-	"Jerzy #0" = 0
-	"Karol #0" = 0
-	"Kazimierz #0" = 0
-	"Konrad #0" = 0
-	"Krystyn #0" = 0
-	"Krzeslaw #0" = 0
-	"Lambert #0" = 0
-	"Leszek #0" = 0
-	"Maciej #0" = 0
-	"Macko #0" = 0
-	"Malowuj #0" = 0
-	"Marcin #0" = 0
-	"Maslaw #0" = 0
-	"Mateusz #0" = 0
-	"Mieszko #0" = 0
-	"Mikolaj #0" = 0
-	"Milobrat #0" = 0
-	"Milosz #0" = 0
-	"Miroslaw #0" = 0
-	"Msciwoj #0" = 0
-	"Mszczuj #0" = 0
-	"Nadbor #0" = 0
-	"Niezamysl #0" = 0
-	"Odon #0" = 0
-	"Pawel #0" = 0
-	"Pelka #0" = 0
-	"Piotr #0" = 0
-	"Piskla #0" = 0
-	"Prendota #0" = 0
-	"Przemyslaw #0" = 0
-	"Przybor #0" = 0
-	"Sambor #0" = 0
-	"Sedziej #0" = 0
-	"Sedzimir #0" = 0
-	"Sieciech #0" = 0
-	"Siemomysl #0" = 0
-	"Siemowit #0" = 0
-	"Skarbimir #0" = 0
-	"Snowid #0" = 0
-	"Spytko #0" = 0
-	"Stanislaw #0" = 0
-	"Stefan #0" = 0
-	"Stoigniew #0" = 0
-	"Strasz #0" = 0
-	"Sulislaw #0" = 0
-	"Sulistryj #0" = 0
-	"Swietopelk #0" = 0
-	"Swietoslaw #0" = 0
-	"Szczesny #0" = 0
-	"Tomasz #0" = 0
-	"Trojden #0" = 0
-	"Twardomir #0" = 0
-	"Usciech #0" = 0
-	"Waclaw #0" = 0
-	"Wanko #0" = 0
-	"Wawrzyniec #0" = 0
-	"Wielislaw #0" = 0
-	"Wieslaw #0" = 0
-	"Wincenty #0" = 0
-	"Wit #0" = 0
-	"Witosz #0" = 0
-	"Wladyslaw #0" = 0
-	"Wojciech #0" = 0
-	"Wojuta #0" = 0
-	"Wszebor #0" = 0
-	"Zbigniew #0" = 0
-	"Zbyszko #0" = 0
-	"Zegota #0" = 0
-	"Zelibrat #0" = 0
-	"Zygmunt #0" = 0
+	"Mielus #0" = 1
+	"Jalo #0" = 1
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Armas #0" = 0
+	"Arvo #0" = 0
+	"Asikko #0" = 0
+	"Ensio #0" = 0
+	"Haapa #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Ihanti #0" = 0
+	"Into #0" = 0
+	"Jurva #0" = 0
+	"Kaleva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Päiviö #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Terho #0" = 0
+	"Toivo #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Vesa #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Kaarle #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Olavi #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tuure #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
+
+
+	"Liekko #0" = -1
+	"Auni #0" = -1
+	"Päivä #0" = -1
+	"Metta #0" = -1
+	"Terhi #0" = -1
 }
 ship_names = {
-	"Arka Noego"
-        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
-        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
-        Fortuna
-        Gryf Gwiazda Gnieznienskie
-	Inoworclawskie
-	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
-        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
-        "Maly Bialy Orzel" Malborskie Mazowieckie
-        Niewrazliwy "Nowy Czarny Orzel"
-        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
-	"Rycerz Swiety Jerzy" Rawskie Ruskie
-        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
-        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
-        Zwyciestwo "Zólty Lew"
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
 }
 

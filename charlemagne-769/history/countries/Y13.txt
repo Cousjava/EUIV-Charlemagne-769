@@ -1,33 +1,26 @@
-# Chrobatia
+# Merya
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = croatian
+technology_group = eastern
+primary_culture = mordvin
 religion = animism
-capital = 1953
-1394.1.1 = {
+clear_scripted_personalities = yes
+capital = 1753
+1425.1.1 = {
 	monarch = {
-		name = "Tvrdoslav"
-		dynasty = "Bijelahrvatskic"
-		adm = 4
-		dip = 1
-		mil = 1
-	}
-}
-1418.1.1 = {
-	heir = {
-		name = "Dragomir"
-		monarch_name = "Dragomir"
-		dynasty = "Bijelahrvatskic"
-		birth_date = 1418.1.1
-		death_date = 1498.1.1
-		adm = 4
-		dip = 6
+		name = "Surt"
+		birth_date = 1408.1.1
+		dynasty = "Meryavid"
+		adm = 5
+		dip = 3
 		mil = 5
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = conqueror_personality
 }
 1444.11.11 = {
+	capital = 1753
 	add_treasury = 6
 	add_prestige = 5
 }

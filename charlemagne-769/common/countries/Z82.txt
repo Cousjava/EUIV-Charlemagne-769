@@ -1,141 +1,218 @@
-# Uusimaa
+# Thessalonika
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 185 65 65 }
+color = { 189 19 130 }
 historical_idea_groups = {
-	trade_ideas
+	religious_ideas
 	defensive_ideas
+	spy_ideas
+	trade_ideas
 	offensive_ideas
 	economic_ideas
 	diplomatic_ideas
-	plutocracy_ideas
-	spy_ideas
-	religious_ideas
+	innovativeness_ideas
 }
 
 historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
 }
 
 
 
 leader_names = {
 
-	"Jalo" "Mielus" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" 
-	"Hannu" "Havu" "Hintsa" "Ihanti" "Into" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" 
-	"Lalli" "Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" 
-	"Päiviö" "Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" 
-	"Toivo" "Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" 
-	"Erkki" "Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" 
-	"Matti" "Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" 
-	"Kauro" "Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
+	"Theoktistos" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" 
+	"Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" 
+	"Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" "Demetrios" 
+	"Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" 
+	"Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" 
+	"Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannes" "Ioannikios" 
+	"Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" "Kallinikos" 
+	"Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" 
+	"Lazaros" "Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" "Maximos" 
+	"Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" "Nikolaos" 
+	"Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" 
+	"Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" "Romanos" 
+	"Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" "Theocharistos" 
+	"Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" "Traianos" 
+	"Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
-	"Jalo #0" = 8
-	"Mielus #0" = 8
-	"Aatos #0" = 0
-	"Ahma #0" = 0
-	"Aimo #0" = 0
-	"Armas #0" = 0
-	"Arvo #0" = 0
-	"Asikko #0" = 0
-	"Ensio #0" = 0
-	"Haapa #0" = 0
-	"Hannu #0" = 0
-	"Havu #0" = 0
-	"Hintsa #0" = 0
-	"Ihanti #0" = 0
-	"Into #0" = 0
-	"Jurva #0" = 0
-	"Kaleva #0" = 0
-	"Kalevi #0" = 0
-	"Kettu #0" = 0
-	"Kolli #0" = 0
-	"Lalli #0" = 0
-	"Lauri #0" = 0
-	"Lemetti #0" = 0
-	"Mielitty #0" = 0
-	"Miemo #0" = 0
-	"Mikko #0" = 0
-	"Oiva #0" = 0
-	"Onni #0" = 0
-	"Otso #0" = 0
-	"Pyry #0" = 0
-	"Päiviö #0" = 0
-	"Pentti #0" = 0
-	"Reko #0" = 0
-	"Sampo #0" = 0
-	"Satajalka #0" = 0
-	"Satatieto #0" = 0
-	"Seppo #0" = 0
-	"Susi #0" = 0
-	"Tapani #0" = 0
-	"Terho #0" = 0
-	"Toivo #0" = 0
-	"Ukko #0" = 0
-	"Uoti #0" = 0
-	"Urho #0" = 0
-	"Väinö #0" = 0
-	"Valta #0" = 0
-	"Valto #0" = 0
-	"Veli #0" = 0
-	"Vesa #0" = 0
-	"Voitto #0" = 0
-	"Erkki #0" = 0
-	"Kaarle #0" = 0
-	"Johannes #0" = 0
-	"Risto #0" = 0
-	"Olavi #0" = 0
-	"Petri #0" = 0
-	"Henri #0" = 0
-	"Yrjö #0" = 0
-	"Valteri #0" = 0
-	"Riku #0" = 0
-	"Matti #0" = 0
-	"Jaakoppi #0" = 0
-	"Taisto #0" = 0
-	"Paavo #0" = 0
-	"Aatso #0" = 0
-	"Ahvo #0" = 0
-	"Aarto #0" = 0
-	"Asko #0" = 0
-	"Tuokko #0" = 0
-	"Rieti #0" = 0
-	"Kauro #0" = 0
-	"Kuuti #0" = 0
-	"Pekko #0" = 0
-	"Soini #0" = 0
-	"Tuure #0" = 0
-	"Turo #0" = 0
-	"Tommo #0" = 0
-	"Tohmas #0" = 0
+	"Theoktistos #1" = 18
+	"Adrianos #0" = 0
+	"Akakios #0" = 0
+	"Alexandros #0" = 0
+	"Alexios #0" = 0
+	"Anastasios #0" = 0
+	"Anatolios #0" = 0
+	"Andreas #0" = 0
+	"Andronikos #0" = 0
+	"Anthemios #0" = 0
+	"Anthimos #0" = 0
+	"Antiochos #0" = 0
+	"Antonios #0" = 0
+	"Apollonios #0" = 0
+	"Arsenios #0" = 0
+	"Artemios #0" = 0
+	"Athanasios #0" = 0
+	"Bardas #0" = 0
+	"Bartholomaios #0" = 0
+	"Basileios #0" = 0
+	"Belisarios #0" = 0
+	"Boethios #0" = 0
+	"Bosporios #0" = 0
+	"Christophoros #0" = 0
+	"Chrysanthos #0" = 0
+	"Chrysogonos #0" = 0
+	"Damianos #0" = 0
+	"Daniel #0" = 0
+	"David #0" = 0
+	"Demetrios #0" = 0
+	"Diogenes #0" = 0
+	"Dionysios #0" = 0
+	"Dorotheos #0" = 0
+	"Eirenaios #0" = 0
+	"Eudoxios #0" = 0
+	"Eustratios #0" = 0
+	"Eugenios #0" = 0
+	"Euphemios #0" = 0
+	"Eusebios #0" = 0
+	"Eustathios #0" = 0
+	"Evangelos #0" = 0
+	"Gabriel #0" = 0
+	"Gennadios #0" = 0
+	"Georgios #0" = 0
+	"Gerasimos #0" = 0
+	"Germanos #0" = 0
+	"Gregoras #0" = 0
+	"Gregorios #0" = 0
+	"Hektorios #0" = 0
+	"Helias #0" = 0
+	"Herakleios #0" = 0
+	"Hierotheos #0" = 0
+	"Himerios #0" = 0
+	"Hippolytos #0" = 0
+	"Hypatios #0" = 0
+	"Iakobos #0" = 0
+	"Ignatios #0" = 0
+	"Innokentios #0" = 0
+	"Ioannes #0" = 0
+	"Ioannikios #0" = 0
+	"Iordanes #0" = 0
+	"Ioseph #0" = 0
+	"Isaakios #0" = 0
+	"Isaias #0" = 0
+	"Isidoros #0" = 0
+	"Ioulianos #0" = 0
+	"Ioustinianos #0" = 0
+	"Ioustinos #0" = 0
+	"Kaisarios #0" = 0
+	"Kallinikos #0" = 0
+	"Kallistos #0" = 0
+	"Komitas #0" = 0
+	"Konstantinos #0" = 0
+	"Konstantios #0" = 0
+	"Konstas #0" = 0
+	"Kosmas #0" = 0
+	"Kyriakos #0" = 0
+	"Kyrillos #0" = 0
+	"Kyros #0" = 0
+	"Laurentios #0" = 0
+	"Lazaros #0" = 0
+	"Leon #0" = 0
+	"Leontios #0" = 0
+	"Loukas #0" = 0
+	"Makarios #0" = 0
+	"Manuel #0" = 0
+	"Markos #0" = 0
+	"Matthaios #0" = 0
+	"Maurikios #0" = 0
+	"Maximos #0" = 0
+	"Megistos #0" = 0
+	"Meletios #0" = 0
+	"Methodios #0" = 0
+	"Michael #0" = 0
+	"Narses #0" = 0
+	"Neophytos #0" = 0
+	"Nikephoros #0" = 0
+	"Niketas #0" = 0
+	"Nikodemos #0" = 0
+	"Nikolaos #0" = 0
+	"Niphon #0" = 0
+	"Orestes #0" = 0
+	"Pamphilios #0" = 0
+	"Pankratios #0" = 0
+	"Pantoleon #0" = 0
+	"Paschalis #0" = 0
+	"Pavlos #0" = 0
+	"Pelagios #0" = 0
+	"Petros #0" = 0
+	"Philaretos #0" = 0
+	"Philippos #0" = 0
+	"Philotheos #0" = 0
+	"Phokas #0" = 0
+	"Photios #0" = 0
+	"Polykarpos #0" = 0
+	"Porphyrios #0" = 0
+	"Prokopios #0" = 0
+	"Pyrros #0" = 0
+	"Raphail #0" = 0
+	"Romanos #0" = 0
+	"Sabas #0" = 0
+	"Samuel #0" = 0
+	"Serapion #0" = 0
+	"Sebastianos #0" = 0
+	"Sergios #0" = 0
+	"Stephanos #0" = 0
+	"Staurakios #0" = 0
+	"Symeon #0" = 0
+	"Symmachos #0" = 0
+	"Theocharistos #0" = 0
+	"Theodoros #0" = 0
+	"Theodosios #0" = 0
+	"Theodotos #0" = 0
+	"Theodoulos #0" = 0
+	"Theophanes #0" = 0
+	"Theophilos #0" = 0
+	"Theophylaktos #0" = 0
+	"Thomas #0" = 0
+	"Tiberios #0" = 0
+	"Traianos #0" = 0
+	"Timotheos #0" = 0
+	"Tryphon #0" = 0
+	"Valerios #0" = 0
+	"Zacharias #0" = 0
+	"Zenobios #0" = 0
+	"Zenon #0" = 0
+
+
+	"Leontia #0" = -1
+	"Margarita #0" = -1
+	"Melissa #0" = -1
+	"Stephania #0" = -1
+	"Xene #0" = -1
 }
 ship_names = {
-	Agricola Aura
-	Borgå "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	Hydra
+	Lesbos Limnos
+	Mikonios
+	Pezopoulos
+	Salamis Samos Simitzopoulos
+	Themistoklis
+	Votsis
 }
 

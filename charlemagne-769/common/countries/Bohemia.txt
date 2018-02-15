@@ -1,4 +1,5 @@
 # Bohemia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 195 110 11 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Unislav" "Vojen" "Mnata" "Strojmir" "Kresomysl" "Nezamysl" "Premysl" "Albert" "Albrecht" "Ales" 
+	"Premysl" "Nezamysl" "Kresomysl" "Mnata" "Strojmir" "Vojen" "Unislav" "Albert" "Albrecht" "Ales" 
 	"Arnost" "Bavor" "Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" 
 	"Budivoj" "Castolov" "Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" 
 	"Havel" "Heralt" "Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" 
@@ -43,13 +44,13 @@ leader_names = {
 	"Tobiás" "Václav" "Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" 
 	"Vsebor" "Závis" "Zbynek" "Zdík" "Zdirad" "Zikmund" }
 monarch_names = {
-	"Unislav #0" = 9
-	"Vojen #0" = 9
-	"Mnata #0" = 9
-	"Strojmir #0" = 9
-	"Kresomysl #0" = 9
-	"Nezamysl #1" = 9
-	"Premysl #1" = 9
+	"Premysl #1" = 18
+	"Nezamysl #1" = 18
+	"Kresomysl #0" = 1
+	"Mnata #0" = 1
+	"Strojmir #0" = 1
+	"Vojen #0" = 1
+	"Unislav #0" = 1
 	"Albert #0" = 0
 	"Albrecht #0" = 0
 	"Ales #0" = 0
@@ -129,6 +130,13 @@ monarch_names = {
 	"Zdík #0" = 0
 	"Zdirad #0" = 0
 	"Zikmund #0" = 0
+
+
+	"Zofie #0" = -1
+	"Olga #0" = -1
+	"Vladislava #0" = -1
+	"Blazena #0" = -1
+	"Barbora #0" = -1
 }
 ship_names = {
 	"Svatý Vaclav"

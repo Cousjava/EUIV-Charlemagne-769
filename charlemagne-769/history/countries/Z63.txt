@@ -1,21 +1,25 @@
-# Sápmi
+# Heidmark
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = sapmi
+technology_group = western
+primary_culture = norse
 religion = animism
-capital = 18
-1414.1.1 = {
+clear_scripted_personalities = yes
+capital = 22
+1435.1.1 = {
 	monarch = {
-		name = "Leammá"
-		dynasty = "Kaise"
-		adm = 0
-		dip = 1
-		mil = 2
+		name = "Þorsteinn"
+		birth_date = 1415.1.1
+		dynasty = "Hede"
+		adm = 3
+		dip = 2
+		mil = 4
 	}
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
+	capital = 22
 	add_treasury = 4
 	add_prestige = 2
 }

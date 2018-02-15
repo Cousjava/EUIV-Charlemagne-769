@@ -1,33 +1,26 @@
-# Kola
-government = tribal_despotism
+# Paphlagonia
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = sapmi
-religion = animism
-capital = 1777
-1405.1.1 = {
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 4313
+1434.1.1 = {
 	monarch = {
-		name = "Baeivi"
-		dynasty = "Guoládat"
-		adm = 3
-		dip = 3
-		mil = 4
-	}
-}
-1425.1.1 = {
-	heir = {
-		name = "Mohkku"
-		monarch_name = "Mohkku"
-		dynasty = "Guoládat"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 5
+		name = "Aetios"
+		birth_date = 1414.1.1
+		dynasty = "Souanites"
+		adm = 2
 		dip = 1
-		mil = 3
+		mil = 6
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
+	capital = 4313
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

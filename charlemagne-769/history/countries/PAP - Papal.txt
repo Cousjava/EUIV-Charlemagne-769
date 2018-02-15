@@ -5,17 +5,21 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = italian
 religion = catholic
+clear_scripted_personalities = yes
 capital = 118
-1375.1.1 = {
+1442.6.28 = {
 	monarch = {
 		name = "Stephanus III"
-		dynasty = "Orsini"
+		birth_date = 1375.1.1
+		dynasty = "Panico"
 		adm = 3
 		dip = 5
 		mil = 3
 	}
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
+	capital = 118
 	add_treasury = 10
 	add_prestige = 6
 }

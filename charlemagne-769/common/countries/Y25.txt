@@ -1,128 +1,134 @@
-# Rostov
+# Karvuna
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 124 137 89 }
+color = { 227 79 190 }
 historical_idea_groups = {
 	defensive_ideas
-	trade_ideas
 	offensive_ideas
 	spy_ideas
-	naval_ideas
-	administrative_ideas
-	quality_ideas
+	trade_ideas
 	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+	quantity_ideas
 }
 
 historical_units = {
-	bardiche_infantry
-	druzhina_cavalry
+	eastern_medieval_infantry
+	eastern_knights
 	slavic_stradioti
 	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
 	eastern_skirmisher
 	eastern_uhlan
 	eastern_carabinier
-	russian_mass
+	ottoman_new_model
+	ottoman_lancer
 }
 
 
 
 leader_names = {
 
-	"Kardaz" "Andyamo" "Chichayka" "Chumbulat" "Dergun" "Deryab" "Dobrinya" "Erziya" "Inzhay" "Kezhapa" 
-	"Kezhay" "Kezhedey" "Kezhevat" "Kichay" "Kubrat" "Malyaka" "Malyy" "Meltsayka" "Mordvinko" "Moksha" 
-	"Nalka" "Nuyaksha" "Nuyanza" "Nuyat" "Ovtay" "Pakstyan" "Paksyay" "Paksyut" "Parush" "Pivtsay" 
-	"Pokshayka" "Putyayka" "Setyamka" "Shindyay" "Shoksha" "Syrka" "Tikshayka" "Tyueykezhut" "Uchva" "Varaka" 
-	"Vechkas" "Velmayka" "Virdyan" "Viryas" "Viryay" "Atyamas" "Azyren" "Chipaz" "Kinyak" "Koshel" 
-	"Murunza" "Naruchad" "Nishkepaz" "Orunza" "Puresh" "Purysho" "Saksa" "Shkay" "Surt" "Tul" 
-	"Tunya" "Tutyra" "Tylmache" "Tylze" "Tyushten" "Tyushtya" "Uzhara" "Varmanpaz" }
+	"Kubrat" "Toktu" "Irkhan" "Krum" "Omortag" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
+	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Aleksii" "Balin" 
+	"Bernardin" "Bertalan" "Bogoris" "Boril" "Bozidar" "Braslav" "Dan" "Dionisii" "Dominik" "Dragoman" 
+	"Dragshan" "Drzislav" "Evtimii" "Frujin" "German" "Grgur" "Hranimir" "Ioakim" "Ivan" "Jerolim" 
+	"Kalojan" "Kocelj" "Kozma" "Kresimir" "Kulin" "Ljubomir" "Ljutomisl" "Marko" "Mihail" "Mikica" 
+	"Miroslav" "Momchil" "Nikola" "Ognen" "Petar" "Prijezda" "Radislav" "Radu" "Sava" "Sermon" 
+	"Slavac" "Soimir" "Stracimir" "Svetislav" "Tomislav" "Trpimir" "Vasilii" "Viseslav" "Vladislav" "Vojnomir" 
+	"Zdeslav" }
 monarch_names = {
-	"Kardaz #1" = 7
-	"Andyamo #0" = 0
-	"Chichayka #0" = 0
-	"Chumbulat #0" = 0
-	"Dergun #0" = 0
-	"Deryab #0" = 0
-	"Dobrinya #0" = 0
-	"Erziya #0" = 0
-	"Inzhay #0" = 0
-	"Kezhapa #0" = 0
-	"Kezhay #0" = 0
-	"Kezhedey #0" = 0
-	"Kezhevat #0" = 0
-	"Kichay #0" = 0
-	"Kubrat #0" = 0
-	"Malyaka #0" = 0
-	"Malyy #0" = 0
-	"Meltsayka #0" = 0
-	"Mordvinko #0" = 0
-	"Moksha #0" = 0
-	"Nalka #0" = 0
-	"Nuyaksha #0" = 0
-	"Nuyanza #0" = 0
-	"Nuyat #0" = 0
-	"Ovtay #0" = 0
-	"Pakstyan #0" = 0
-	"Paksyay #0" = 0
-	"Paksyut #0" = 0
-	"Parush #0" = 0
-	"Pivtsay #0" = 0
-	"Pokshayka #0" = 0
-	"Putyayka #0" = 0
-	"Setyamka #0" = 0
-	"Shindyay #0" = 0
-	"Shoksha #0" = 0
-	"Syrka #0" = 0
-	"Tikshayka #0" = 0
-	"Tyueykezhut #0" = 0
-	"Uchva #0" = 0
-	"Varaka #0" = 0
-	"Vechkas #0" = 0
-	"Velmayka #0" = 0
-	"Virdyan #0" = 0
-	"Viryas #0" = 0
-	"Viryay #0" = 0
-	"Atyamas #0" = 0
-	"Azyren #0" = 0
-	"Chipaz #0" = 0
-	"Kinyak #0" = 0
-	"Koshel #0" = 0
-	"Murunza #0" = 0
-	"Naruchad #0" = 0
-	"Nishkepaz #0" = 0
-	"Orunza #0" = 0
-	"Puresh #0" = 0
-	"Purysho #0" = 0
-	"Saksa #0" = 0
-	"Shkay #0" = 0
-	"Surt #0" = 0
-	"Tul #0" = 0
-	"Tunya #0" = 0
-	"Tutyra #0" = 0
-	"Tylmache #0" = 0
-	"Tylze #0" = 0
-	"Tyushten #0" = 0
-	"Tyushtya #0" = 0
-	"Uzhara #0" = 0
-	"Varmanpaz #0" = 0
+	"Kubrat #0" = 1
+	"Toktu #1" = 21
+	"Irkhan #0" = 1
+	"Krum #1" = 18
+	"Omortag #0" = 1
+	"Telerig #0" = 1
+	"Kardam #0" = 1
+	"Asparukh #0" = 1
+	"Batbayan #0" = 1
+	"Kotrag #0" = 1
+	"Kuber #0" = 1
+	"Tervel #1" = 18
+	"Ajjar #0" = 1
+	"Sevar #1" = 21
+	"Kormesiy #1" = 18
+	"Bozok #0" = -1
+	"Kermek #1" = 18
+	"Bayan #1" = 18
+	"Aleksii #0" = 0
+	"Balin #0" = 0
+	"Bernardin #0" = 0
+	"Bertalan #0" = 0
+	"Bogoris #0" = 0
+	"Boril #0" = 0
+	"Bozidar #0" = 0
+	"Braslav #0" = 0
+	"Dan #0" = 0
+	"Dionisii #0" = 0
+	"Dominik #0" = 0
+	"Dragoman #0" = 0
+	"Dragshan #0" = 0
+	"Drzislav #0" = 0
+	"Evtimii #0" = 0
+	"Frujin #0" = 0
+	"German #0" = 0
+	"Grgur #0" = 0
+	"Hranimir #0" = 0
+	"Ioakim #0" = 0
+	"Ivan #0" = 0
+	"Jerolim #0" = 0
+	"Kalojan #0" = 0
+	"Kocelj #0" = 0
+	"Kozma #0" = 0
+	"Kresimir #0" = 0
+	"Kulin #0" = 0
+	"Ljubomir #0" = 0
+	"Ljutomisl #0" = 0
+	"Marko #0" = 0
+	"Mihail #0" = 0
+	"Mikica #0" = 0
+	"Miroslav #0" = 0
+	"Momchil #0" = 0
+	"Nikola #0" = 0
+	"Ognen #0" = 0
+	"Petar #0" = 0
+	"Prijezda #0" = 0
+	"Radislav #0" = 0
+	"Radu #0" = 0
+	"Sava #0" = 0
+	"Sermon #0" = 0
+	"Slavac #0" = 0
+	"Soimir #0" = 0
+	"Stracimir #0" = 0
+	"Svetislav #0" = 0
+	"Tomislav #0" = 0
+	"Trpimir #0" = 0
+	"Vasilii #0" = 0
+	"Viseslav #0" = 0
+	"Vladislav #0" = 0
+	"Vojnomir #0" = 0
+	"Zdeslav #0" = 0
+
+
+	"Asli #0" = -1
+	"Çiltanesi #0" = -1
+	"Dilek #0" = -1
+	"Savaçka #0" = -1
 }
 ship_names = {
-	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
-	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
-	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
-	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
-	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
-	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
-	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
-	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
-	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
-	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
-	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+	Alhtpolo
+	Kiten Kraymorie
+	Lozenets
+	Promorsko
+	Rezovo
+	Sarafovo Sinemorets Sozopol
+	Varara
 }
 

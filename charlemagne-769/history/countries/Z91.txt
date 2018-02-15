@@ -1,21 +1,26 @@
-# Bjarmia
-government = tribal_despotism
+# Dalmatia
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = samoyed
-religion = animism
-capital = 313
-1408.1.1 = {
+technology_group = eastern
+primary_culture = croatian
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 136
+1425.1.1 = {
 	monarch = {
-		name = "Kako"
-		dynasty = "Hasabid"
-		adm = 2
-		dip = 1
-		mil = 3
+		name = "Sergios"
+		birth_date = 1405.1.1
+		dynasty = "Axiotes"
+		adm = 3
+		dip = 2
+		mil = 2
 	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
+	capital = 136
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

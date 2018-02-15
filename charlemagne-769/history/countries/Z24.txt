@@ -1,33 +1,36 @@
 # Pictland
-government = tribal_despotism
+government = tribal_kingdom
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
 primary_culture = pictish
 religion = catholic
+clear_scripted_personalities = yes
 capital = 250
-1398.1.1 = {
+1438.1.1 = {
 	monarch = {
 		name = "Ciniod II"
+		birth_date = 1398.1.1
 		dynasty = "Uib"
-		adm = 3
-		dip = 4
+		adm = 4
+		dip = 6
 		mil = 3
 	}
-}
-1419.1.1 = {
+	add_ruler_personality = charismatic_negotiator_personality
 	heir = {
 		name = "Tarla"
 		monarch_name = "Tarla"
 		dynasty = "Uib"
 		birth_date = 1419.1.1
 		death_date = 1499.1.1
-		adm = 4
+		adm = 3
 		dip = 3
-		mil = 5
+		mil = 3
 	}
+	add_heir_personality = secretive_personality
 }
 1444.11.11 = {
+	capital = 250
 	add_treasury = 8
 	add_prestige = 83
 }

@@ -1,21 +1,26 @@
-# Ilmen
-government = tribal_despotism
+# Coloneia
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = ilmenian
-religion = animism
-capital = 310
-1418.1.1 = {
+technology_group = eastern
+primary_culture = armenian
+religion = iconoclast
+clear_scripted_personalities = yes
+capital = 329
+1433.1.1 = {
 	monarch = {
-		name = "Rodislav"
-		dynasty = "Slovensky"
-		adm = 4
-		dip = 3
-		mil = 6
+		name = "Demetrios"
+		birth_date = 1413.1.1
+		dynasty = "Kophinas"
+		adm = 5
+		dip = 1
+		mil = 1
 	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
+	capital = 329
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 4
 }

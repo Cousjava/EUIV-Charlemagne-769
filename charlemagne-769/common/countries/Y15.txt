@@ -1,117 +1,210 @@
-# Magyar
+# Ingria
+ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 187 70 70 }
+color = { 113 0 0 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
 
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
 
 
 
 leader_names = {
 
-	"Elek" "Dezsõ" "Jenö" "Ábel" "Ádárn" "Ágoston" "Álmos" "Árpád" "Õdön" "Alajos" 
-	"Ambrus" "András" "Antal" "Attila" "Bálint" "Béla" "Balázs" "Benedek" "Bernát" "Bertók" 
-	"Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Csongor" "Dénes" "Dömötör" "Domoszló" 
-	"Donát" "Elemér" "Endre" "Ernõ" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" "Gáspár" 
-	"Géza" "Gazsi" "Gellért" "Gergely" "György" "Gyula" "Imre" "István" "Izsák" "Jákob" 
-	"János" "József" "Jenõ" "Kálmán" "Károly" "Konrád" "Kornél" "Kristóf" "László" "Lázár" 
-	"Lõrinc" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Móric" 
-	"Mózes" "Mihály" "Miklós" "Nándor" "Orbán" "Oszkár" "Pál" "Péter" "Sámuel" "Sándor" 
-	"Salamon" "Saul" "Soma" "Szilveszter" "Tádor" "Tacsony" "Tamás" "Tibor" "Tivadar" "Vazul" 
-	"Vencel" "Vilmos" "Zoltán" "Zsigmond" "Zsolt" }
+	"Ahti" "Aare" "Agul" "Ahas" "Aho" "Ahvo" "Alar" "Alo" "Alur" "Aopelg" 
+	"Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" "Hain" 
+	"Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" 
+	"Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" "Ilmar" 
+	"Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" "Kaido" 
+	"Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" "Kiur" 
+	"Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
+	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" "Niglas" 
+	"Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" "Päevalemb" 
+	"Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" "Tarva" 
+	"Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" "Tõivulemb" 
+	"Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" "Veli" 
+	"Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" "Väino" 
+	"Värvo" "Õigemeel" "Ülo" }
 monarch_names = {
-	"Elek #0" = 10
-	"Dezsõ #0" = 10
-	"Jenö #1" = 10
-	"Ábel #0" = 0
-	"Ádárn #0" = 0
-	"Ágoston #0" = 0
-	"Álmos #0" = 0
-	"Árpád #0" = 0
-	"Õdön #0" = 0
-	"Alajos #0" = 0
-	"Ambrus #0" = 0
-	"András #0" = 0
-	"Antal #0" = 0
-	"Attila #0" = 0
-	"Bálint #0" = 0
-	"Béla #0" = 0
-	"Balázs #0" = 0
-	"Benedek #0" = 0
-	"Bernát #0" = 0
-	"Bertók #0" = 0
-	"Bertalan #0" = 0
-	"Boldizsár #0" = 0
-	"Bonuslo #0" = 0
-	"Borisz #0" = 0
-	"Csák #0" = 0
-	"Csaba #0" = 0
-	"Csongor #0" = 0
-	"Dénes #0" = 0
-	"Dömötör #0" = 0
-	"Domoszló #0" = 0
-	"Donát #0" = 0
-	"Elemér #0" = 0
-	"Endre #0" = 0
-	"Ernõ #0" = 0
-	"Fulöp #0" = 0
-	"Ferenc #0" = 0
-	"Frigyes #0" = 0
-	"Gábor #0" = 0
-	"Gábriel #0" = 0
-	"Gáspár #0" = 0
-	"Géza #0" = 0
-	"Gazsi #0" = 0
-	"Gellért #0" = 0
-	"Gergely #0" = 0
-	"György #0" = 0
-	"Gyula #0" = 0
-	"Imre #0" = 0
-	"István #0" = 0
-	"Izsák #0" = 0
-	"Jákob #0" = 0
-	"János #0" = 0
-	"József #0" = 0
-	"Jenõ #0" = 0
-	"Kálmán #0" = 0
-	"Károly #0" = 0
-	"Konrád #0" = 0
-	"Kornél #0" = 0
-	"Kristóf #0" = 0
-	"László #0" = 0
-	"Lázár #0" = 0
-	"Lõrinc #0" = 0
-	"Lajos #0" = 0
-	"Lampert #0" = 0
-	"Levente #0" = 0
-	"Lukács #0" = 0
-	"Márk #0" = 0
-	"Márton #0" = 0
-	"Máté #0" = 0
-	"Mátyás #0" = 0
-	"Móric #0" = 0
-	"Mózes #0" = 0
-	"Mihály #0" = 0
-	"Miklós #0" = 0
-	"Nándor #0" = 0
-	"Orbán #0" = 0
-	"Oszkár #0" = 0
-	"Pál #0" = 0
-	"Péter #0" = 0
-	"Sámuel #0" = 0
-	"Sándor #0" = 0
-	"Salamon #0" = 0
-	"Saul #0" = 0
-	"Soma #0" = 0
-	"Szilveszter #0" = 0
-	"Tádor #0" = 0
-	"Tacsony #0" = 0
-	"Tamás #0" = 0
-	"Tibor #0" = 0
-	"Tivadar #0" = 0
-	"Vazul #0" = 0
-	"Vencel #0" = 0
-	"Vilmos #0" = 0
-	"Zoltán #0" = 0
-	"Zsigmond #0" = 0
-	"Zsolt #0" = 0
+	"Ahti #0" = 1
+	"Aare #0" = 0
+	"Agul #0" = 0
+	"Ahas #0" = 0
+	"Aho #0" = 0
+	"Ahvo #0" = 0
+	"Alar #0" = 0
+	"Alo #0" = 0
+	"Alur #0" = 0
+	"Aopelg #0" = 0
+	"Aotõiv #0" = 0
+	"Arp #0" = 0
+	"Arvet #0" = 0
+	"Arvo #0" = 0
+	"Atko #0" = 0
+	"Aul #0" = 0
+	"Aulemb #0" = 0
+	"Eeri #0" = 0
+	"Elmar #0" = 0
+	"Hain #0" = 0
+	"Haljas #0" = 0
+	"Heameel #0" = 0
+	"Heatõiv #0" = 0
+	"Hoovatõiv #0" = 0
+	"Hurmas #0" = 0
+	"Hurmetõiv #0" = 0
+	"Hõimulemb #0" = 0
+	"Hüvalemb #0" = 0
+	"Hüvameel #0" = 0
+	"Hüvatõiv #0" = 0
+	"Igalemb #0" = 0
+	"Igapäiv #0" = 0
+	"Ihalemb #0" = 0
+	"Ihameel #0" = 0
+	"Ihar #0" = 0
+	"Ihatõiv #0" = 0
+	"Ihavald #0" = 0
+	"Illimar #0" = 0
+	"Ilmalemb #0" = 0
+	"Ilmar #0" = 0
+	"Ilvelemb #0" = 0
+	"Jaolemb #0" = 0
+	"Kaalep #0" = 0
+	"Kaarel #0" = 0
+	"Kaaren #0" = 0
+	"Kahar #0" = 0
+	"Kahru #0" = 0
+	"Kahrulemb #0" = 0
+	"Kahus #0" = 0
+	"Kaido #0" = 0
+	"Kalev #0" = 0
+	"Kalju #0" = 0
+	"Kaljuvald #0" = 0
+	"Kalle #0" = 0
+	"Kaomeel #0" = 0
+	"Karuvald #0" = 0
+	"Kaugemeel #0" = 0
+	"Kaupo #0" = 0
+	"Kaur #0" = 0
+	"Kiur #0" = 0
+	"Kiurupelg #0" = 0
+	"Koit #0" = 0
+	"Kosk #0" = 0
+	"Kudres #0" = 0
+	"Küllelemb #0" = 0
+	"Leetõiv #0" = 0
+	"Lembit #0" = 0
+	"Leppetõiv #0" = 0
+	"Lible #0" = 0
+	"Lättelemb #0" = 0
+	"Manivald #0" = 0
+	"Mart #0" = 0
+	"Maru #0" = 0
+	"Mati #0" = 0
+	"Mats #0" = 0
+	"Meelis #0" = 0
+	"Mehis #0" = 0
+	"Meigo #0" = 0
+	"Neeme #0" = 0
+	"Niglas #0" = 0
+	"Ohetõiv #0" = 0
+	"Ohevald #0" = 0
+	"Olev #0" = 0
+	"Onni #0" = 0
+	"Otelemb #0" = 0
+	"Ott #0" = 0
+	"Pihl #0" = 0
+	"Piho #0" = 0
+	"Pikne #0" = 0
+	"Päevalemb #0" = 0
+	"Pärt #0" = 0
+	"Raak #0" = 0
+	"Raho #0" = 0
+	"Rahuleid #0" = 0
+	"Sulev #0" = 0
+	"Susi #0" = 0
+	"Sutemeel #0" = 0
+	"Sutepelg #0" = 0
+	"Tambet #0" = 0
+	"Tarva #0" = 0
+	"Tarvet #0" = 0
+	"Tasulemb #0" = 0
+	"Toivo #0" = 0
+	"Toom #0" = 0
+	"Tunne #0" = 0
+	"Tutkas #0" = 0
+	"Tuul #0" = 0
+	"Tõeleid #0" = 0
+	"Tõiv #0" = 0
+	"Tõivulemb #0" = 0
+	"Tõll #0" = 0
+	"Tõnn #0" = 0
+	"Uku #0" = 0
+	"Urmas #0" = 0
+	"Uru #0" = 0
+	"Valdur #0" = 0
+	"Vambola #0" = 0
+	"Vandemeel #0" = 0
+	"Varjelemb #0" = 0
+	"Veli #0" = 0
+	"Vello #0" = 0
+	"Venno #0" = 0
+	"Vesse #0" = 0
+	"Vihavald #0" = 0
+	"Vililemb #0" = 0
+	"Vilimeel #0" = 0
+	"Vilitõiv #0" = 0
+	"Vilivald #0" = 0
+	"Vootele #0" = 0
+	"Väino #0" = 0
+	"Värvo #0" = 0
+	"Õigemeel #0" = 0
+	"Ülo #0" = 0
+
+
+	"Niine #0" = -1
+	"Ahma #0" = -1
+	"Aune #0" = -1
+	"Ann #0" = -1
+	"Helve #0" = -1
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
 }
 

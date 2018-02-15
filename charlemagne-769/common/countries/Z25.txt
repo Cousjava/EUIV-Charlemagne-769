@@ -1,4 +1,5 @@
 # Fortriu
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 10 81 243 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Unuist" "Castantin" "Telurg" "Drest" "Urguist" "Telurgan" "Bridei" "Uuirp" "Maelchon" "Ganant" 
+	"Urguist" "Drest" "Telurg" "Unuist" "Castantin" "Telurgan" "Bridei" "Uuirp" "Maelchon" "Ganant" 
 	"Naiton" "Ciniod" "Taran" "Elpin" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allcallorred" "Allisander" 
 	"Aniel" "Ardle" "Auust" "Bili" "Bran" "Breth" "Briog" "Broichan" "Brude" "Caltram" 
 	"Canu" "Canuall" "Canan" "Caradaig" "Caruorst" "Castant" "Crup" "Dabuut" "Deocillimon" "Deoord" 
@@ -43,13 +44,13 @@ leader_names = {
 	"Rudri" "Tarla" "Uipoig" "Uist" "Uuochu" "Uoret" "Unen" "Usuullt" "Uthoil" "Uudrost" 
 	"Uuen" "Uuid" "Uuredach" "Uuroid" }
 monarch_names = {
-	"Unuist #1" = 18
-	"Castantin #0" = 9
-	"Telurg #1" = 18
-	"Drest #2" = 9
-	"Urguist #1" = 18
-	"Telurgan #2" = 9
-	"Bridei #5" = 9
+	"Urguist #1" = 21
+	"Drest #2" = 18
+	"Telurg #1" = 21
+	"Unuist #1" = 21
+	"Castantin #0" = 1
+	"Telurgan #2" = 18
+	"Bridei #5" = 18
 	"Uuirp #1" = 0
 	"Maelchon #1" = 0
 	"Ganant #3" = 0
@@ -127,6 +128,13 @@ monarch_names = {
 	"Uuid #0" = 0
 	"Uuredach #0" = 0
 	"Uuroid #0" = 0
+
+
+	"Allust #0" = -1
+	"Mor #0" = -1
+	"Arnemetia #0" = -1
+	"Bride #0" = -1
+	"Caitrion #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

@@ -1,21 +1,36 @@
-# Vyatich
-government = tribal_despotism
+# Rashka
+government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = ilmenian
+technology_group = eastern
+primary_culture = serbian
 religion = animism
-capital = 294
-1408.1.1 = {
+clear_scripted_personalities = yes
+capital = 1827
+1443.1.1 = {
 	monarch = {
-		name = "Volodar"
-		dynasty = "Vyatich"
-		adm = 3
-		dip = 2
+		name = "Vojislav"
+		birth_date = 1410.1.1
+		dynasty = "Vlastimirovic"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Radoslav"
+		monarch_name = "Radoslav"
+		dynasty = "Vlastimirovic"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 2
+		dip = 3
 		mil = 2
 	}
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
+	capital = 1827
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 7
 }

@@ -1,21 +1,26 @@
-# Severia
+# Kuyavia
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = severian
+technology_group = eastern
+primary_culture = polish
 religion = animism
-capital = 289
-1408.1.1 = {
+clear_scripted_personalities = yes
+capital = 1859
+1425.1.1 = {
 	monarch = {
-		name = "Sviatoslav"
-		dynasty = "Seversky"
-		adm = 1
-		dip = 2
-		mil = 3
+		name = "Witosz"
+		birth_date = 1408.1.1
+		dynasty = "Kujawski"
+		adm = 2
+		dip = 3
+		mil = 1
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
+	capital = 1859
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

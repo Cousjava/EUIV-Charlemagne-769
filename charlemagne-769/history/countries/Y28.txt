@@ -1,21 +1,26 @@
-# Meshchera
+# Lesser Poland
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = mordvin
+technology_group = eastern
+primary_culture = polish
 religion = animism
-capital = 301
-1408.1.1 = {
+clear_scripted_personalities = yes
+capital = 2960
+1425.1.1 = {
 	monarch = {
-		name = "Parush"
-		dynasty = "Mescheravid"
-		adm = 3
-		dip = 2
-		mil = 4
+		name = "Siemowit"
+		birth_date = 1408.1.1
+		dynasty = "Lechowicz"
+		adm = 2
+		dip = 3
+		mil = 2
 	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
+	capital = 2960
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

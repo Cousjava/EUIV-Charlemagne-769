@@ -1,4 +1,5 @@
 # Pictland
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 20 80 162 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Telurg" "Uthoil" "Canuall" "Tarla" "Elpin" "Ciniod" "Argentocoxos" "Ru" "Buthut" "Ganant" 
+	"Argentocoxos" "Elpin" "Telurg" "Ciniod" "Tarla" "Uthoil" "Canuall" "Ru" "Buthut" "Ganant" 
 	"Breth" "Uipoig" "Canutulachama" "Uuredach" "Ceother" "Aniel" "Uuirp" "Brude" "Drest" "Naiton" 
 	"Girom" "Uudrost" "Galam" "Manath" "Murtolic" "Caltram" "Mor" "Drosten" "Lutrin" "Uuroid" 
 	"Bridei" "Telurgan" "Taran" "Unuist" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allcallorred" "Allisander" 
@@ -43,36 +44,36 @@ leader_names = {
 	"Maelchon" "Mordeleg" "Morleo" "Ninian" "Pedric" "Pedur" "Paul" "Pidarnoin" "Ruatirch" "Rubert" 
 	"Rudri" "Uist" "Uuochu" "Uoret" "Unen" "Urguist" "Usuullt" "Uuen" "Uuid" }
 monarch_names = {
-	"Telurg #4" = 49
-	"Uthoil #0" = 9
-	"Canuall #0" = 9
-	"Tarla #0" = 9
-	"Elpin #1" = 9
-	"Ciniod #2" = 9
-	"Argentocoxos #1" = 9
-	"Ru #1" = 9
-	"Buthut #1" = 9
-	"Ganant #6" = 29
-	"Breth #1" = 9
-	"Uipoig #1" = 9
-	"Canutulachama #1" = 9
-	"Uuredach #1" = 19
-	"Ceother #0" = 9
-	"Aniel #0" = 19
-	"Uuirp #0" = 9
-	"Brude #0" = 9
-	"Drest #7" = 49
-	"Naiton #3" = 9
-	"Girom #0" = 9
-	"Uudrost #0" = 9
-	"Galam #2" = 29
-	"Manath #0" = 9
-	"Murtolic #0" = 9
-	"Caltram #1" = 9
-	"Mor #0" = -10
-	"Drosten #0" = 9
-	"Lutrin #0" = 9
-	"Uuroid #0" = 9
+	"Argentocoxos #1" = 18
+	"Elpin #1" = 18
+	"Telurg #4" = 30
+	"Ciniod #2" = 18
+	"Tarla #0" = 1
+	"Uthoil #0" = 1
+	"Canuall #0" = 1
+	"Ru #1" = 18
+	"Buthut #1" = 18
+	"Ganant #6" = 24
+	"Breth #1" = 18
+	"Uipoig #1" = 18
+	"Canutulachama #1" = 18
+	"Uuredach #1" = 21
+	"Ceother #0" = 1
+	"Aniel #0" = 1
+	"Uuirp #0" = 1
+	"Brude #0" = 1
+	"Drest #7" = 30
+	"Naiton #3" = 18
+	"Girom #0" = 1
+	"Uudrost #0" = 1
+	"Galam #2" = 24
+	"Manath #0" = 1
+	"Murtolic #0" = 1
+	"Caltram #1" = 18
+	"Mor #0" = -1
+	"Drosten #0" = 1
+	"Lutrin #0" = 1
+	"Uuroid #0" = 1
 	"Bridei #5" = 0
 	"Telurgan #2" = 0
 	"Taran #1" = 0
@@ -132,6 +133,12 @@ monarch_names = {
 	"Usuullt #0" = 0
 	"Uuen #0" = 0
 	"Uuid #0" = 0
+
+
+	"Allust #0" = -1
+	"Mor #0" = -1
+	"Arnemetia #0" = -1
+	"Bride #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

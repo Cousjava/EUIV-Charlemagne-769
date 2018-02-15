@@ -2,18 +2,22 @@
 government = feudal_monarchy
 government_rank = 3
 mercantilism = 0.1
-technology_group = western
+technology_group = eastern
 primary_culture = greek
 religion = iconoclast
+clear_scripted_personalities = yes
 capital = 151
-1393.9.1 = {
+1418.11.2 = {
 	monarch = {
 		name = "Konstantinos V"
+		birth_date = 1393.9.1
 		dynasty = "Isauros"
 		adm = 3
 		dip = 3
 		mil = 6
 	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1425.1.25 = {
 	heir = {
@@ -22,12 +26,14 @@ capital = 151
 		dynasty = "Isauros"
 		birth_date = 1425.1.25
 		death_date = 1505.1.25
-		adm = 2
+		adm = 3
 		dip = 6
 		mil = 1
 	}
+	add_heir_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
-	add_treasury = 12
+	capital = 151
+	add_treasury = 15
 	add_prestige = 17
 }

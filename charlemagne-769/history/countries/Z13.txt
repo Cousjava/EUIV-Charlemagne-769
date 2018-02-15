@@ -1,21 +1,23 @@
 # Urmhumhain
-government = tribal_despotism
+government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = irish
 religion = catholic
+clear_scripted_personalities = yes
 capital = 375
-1409.1.1 = {
+1427.1.1 = {
 	monarch = {
 		name = "Indrechtach"
+		birth_date = 1409.1.1
 		dynasty = "Eóganacht-Chaisil"
-		adm = 1
-		dip = 2
-		mil = 3
+		adm = 2
+		dip = 3
+		mil = 4
 	}
-}
-1410.1.1 = {
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = industrious_personality
 	heir = {
 		name = "Crimthann"
 		monarch_name = "Crimthann"
@@ -24,10 +26,12 @@ capital = 375
 		death_date = 1490.1.1
 		adm = 2
 		dip = 3
-		mil = 4
+		mil = 1
 	}
+	add_heir_personality = malevolent_personality
 }
 1444.11.11 = {
+	capital = 375
 	add_treasury = 4
 	add_prestige = 9
 }

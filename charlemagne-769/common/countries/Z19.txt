@@ -1,4 +1,5 @@
 # Wessex
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 241 15 63 }
 historical_idea_groups = {
@@ -35,9 +36,9 @@ historical_units = {
 
 leader_names = {
 
-	"Ecgberht" "Beorhtric" "Cynewulf" "Cyneheard" "Ealhmund" "Creoda" "Cerdic" "Cynric" "Cuthred" "Cutha" 
-	"Ceawlin" "Cuthwine" "Ceol" "Ceolwulf" "Cwichelm" "Cynegils" "Cuthgils" "Coenwalh" "Æthelheard" "Cedda" 
-	"Sigeberht" "Cynewald" "Coenferth" "Coenberht" "Cenfus" "Ceolwald" "Æscwine" "Coenred" "Coenheard" "Centwine" 
+	"Cerdic" "Creoda" "Cyneheard" "Cynewulf" "Beorhtric" "Ecgberht" "Ealhmund" "Cynric" "Cuthred" "Cutha" 
+	"Ceawlin" "Cuthwine" "Ceol" "Ceolwulf" "Cwichelm" "Cynegils" "Cuthgils" "Æthelheard" "Cedda" "Sigeberht" 
+	"Cynewald" "Coenferth" "Coenberht" "Cenfus" "Coenwalh" "Ceolwald" "Æscwine" "Coenred" "Coenheard" "Centwine" 
 	"Mul" "Cædwalla" "Sigeheard" "Ingild" "Æthelred" "Ine" "Beorhtwulf" "Eoppa" "Eafa" "Arncytel" 
 	"Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" 
 	"Burgheard" "Byrhtnoth" "Cearl" "Cenræd" "Cenwulf" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cytelbearn" 
@@ -55,45 +56,45 @@ leader_names = {
 	"Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" 
 	"Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
-	"Ecgberht #0" = 20
-	"Beorhtric #0" = 40
-	"Cynewulf #1" = 40
-	"Cyneheard #0" = 40
-	"Ealhmund #0" = 20
-	"Creoda #0" = 20
-	"Cerdic #0" = 20
-	"Cynric #0" = 80
-	"Cuthred #0" = 60
-	"Cutha #0" = 40
-	"Ceawlin #0" = 20
-	"Cuthwine #0" = 20
-	"Ceol #0" = 20
-	"Ceolwulf #0" = 20
-	"Cwichelm #0" = 20
-	"Cynegils #0" = 20
-	"Cuthgils #0" = 20
-	"Coenwalh #0" = 20
-	"Æthelheard #0" = 40
-	"Cedda #0" = 20
-	"Sigeberht #0" = 40
-	"Cynewald #0" = 20
-	"Coenferth #0" = 20
-	"Coenberht #0" = 20
-	"Cenfus #0" = 20
-	"Ceolwald #0" = 20
-	"Æscwine #0" = 20
-	"Coenred #0" = 20
-	"Coenheard #0" = 20
-	"Centwine #0" = 20
-	"Mul #0" = 20
-	"Cædwalla #0" = 20
-	"Sigeheard #0" = 20
-	"Ingild #0" = 20
-	"Æthelred #0" = 20
-	"Ine #0" = 20
-	"Beorhtwulf #0" = 20
-	"Eoppa #0" = 20
-	"Eafa #0" = 20
+	"Cerdic #1" = 18
+	"Creoda #0" = 1
+	"Cyneheard #0" = 1
+	"Cynewulf #1" = 21
+	"Beorhtric #0" = 1
+	"Ecgberht #0" = 1
+	"Ealhmund #0" = 1
+	"Cynric #1" = 27
+	"Cuthred #1" = 24
+	"Cutha #0" = 1
+	"Ceawlin #1" = 18
+	"Cuthwine #0" = 1
+	"Ceol #1" = 18
+	"Ceolwulf #1" = 18
+	"Cwichelm #0" = 1
+	"Cynegils #1" = 18
+	"Cuthgils #0" = 1
+	"Æthelheard #1" = 21
+	"Cedda #0" = 1
+	"Sigeberht #1" = 21
+	"Cynewald #0" = 1
+	"Coenferth #0" = 1
+	"Coenberht #0" = 1
+	"Cenfus #0" = 1
+	"Coenwalh #1" = 18
+	"Ceolwald #0" = 1
+	"Æscwine #1" = 18
+	"Coenred #0" = 1
+	"Coenheard #0" = 1
+	"Centwine #1" = 18
+	"Mul #0" = 1
+	"Cædwalla #1" = 18
+	"Sigeheard #0" = 1
+	"Ingild #0" = 1
+	"Æthelred #0" = 1
+	"Ine #1" = 18
+	"Beorhtwulf #0" = 1
+	"Eoppa #0" = 1
+	"Eafa #0" = 1
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -245,6 +246,13 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
+
+
+	"Judith #0" = -1
+	"Cynehild #0" = -1
+	"Beorhtwynn #0" = -1
+	"Beorhtwaru #0" = -1
+	"Cwenburg #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

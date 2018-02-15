@@ -1,4 +1,5 @@
 # Kernev
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 126 27 9 }
 historical_idea_groups = {
@@ -34,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Gestin" "Custentin" "Gradlon" "Concar" "Iudon" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" 
+	"Gradlon" "Custentin" "Gestin" "Concar" "Iudon" "Adoyre" "Adrien" "Aedan" "Agustin" "Alan" 
 	"Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" "Anauguethen" 
 	"Anauguoret" "Anauhocar" "Andreas" "Aniud" "Anton" "Argantbri" "Argantmoet" "Arnalt" "Arthel" "Arthguiu" 
 	"Arthmael" "Arthueu" "Arthuiu" "Arthur" "Austol" "Baldoen" "Bastian" "Beli" "Beltram" "Benabic" 
@@ -77,11 +78,11 @@ leader_names = {
 	"Tiernuallon" "Treveur" "Tristan" "Tuduallon" "Tudur" "Tugdual" "Ungust" "Urbcen" "Urbien" "Urblon" 
 	"Urvod" "Uther" "Vincenne" }
 monarch_names = {
-	"Gestin #0" = 42
-	"Custentin #0" = 42
-	"Gradlon #0" = 42
-	"Concar #0" = 42
-	"Iudon #0" = 42
+	"Gradlon #0" = 1
+	"Custentin #0" = 1
+	"Gestin #0" = 1
+	"Concar #0" = 1
+	"Iudon #0" = 1
 	"Adoyre #0" = 0
 	"Adrien #0" = 0
 	"Aedan #0" = 0
@@ -490,6 +491,13 @@ monarch_names = {
 	"Urvod #0" = 0
 	"Uther #0" = 0
 	"Vincenne #0" = 0
+
+
+	"Ceindrec #0" = -1
+	"Emma #0" = -1
+	"Nolwenne #0" = -1
+	"Iudlouguen #0" = -1
+	"Ilcum #0" = -1
 }
 ship_names = {
 	Achille Actif Active Admirable Aglaé

@@ -1,0 +1,25 @@
+# Azerbaijan
+government = ottoman_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = kurdish
+religion = sunni
+clear_scripted_personalities = yes
+capital = 416
+1440.1.1 = {
+	monarch = {
+		name = "Yahya"
+		birth_date = 1415.1.1
+		dynasty = "Barmakid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 416
+	add_treasury = 6
+	add_prestige = 7
+}

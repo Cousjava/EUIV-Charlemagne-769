@@ -1,6 +1,7 @@
-# Airgíalla
+# Tír Eoghain
+ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 30 180 45 }
+color = { 66 157 22 }
 historical_idea_groups = { 
 	naval_ideas
 	aristocracy_ideas
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Flaithbertach" "Ercaid" "Áed" "Flann" "Domnall" "Máel-Bressail" "Donnachad" "Murchad" "Congalach" "Niall" 
+	"Niall" "Murchad" "Flann" "Donnachad" "Flaithbertach" "Áed" "Domnall" "Máel-Bressail" "Ercaid" "Congalach" 
 	"Conall Gulban" "Eógán" "Conall Cremthainne" "Muiredach" "Fergus" "Doi" "Énna" "Dungal" "Melge" "Muirchertach" 
 	"Senta" "Fedlimid" "Brenan" "Brandub" "Ninnid" "Diarmait" "Colmán" "Ainmire" "Eoghan" "Baetan" 
 	"Garban" "Feradach" "Ciaran" "Tinne" "Columba" "Suibne" "Baithéne" "Conall-Cú" "Áed Sláine" "Lasrén" 
@@ -88,78 +89,78 @@ leader_names = {
 	"Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" 
 	"Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Flaithbertach #0" = 109
-	"Ercaid #0" = 54
-	"Áed #0" = 218
-	"Flann #0" = 54
-	"Domnall #0" = 163
-	"Máel-Bressail #0" = 54
-	"Donnachad #0" = 54
-	"Murchad #0" = 54
-	"Congalach #0" = 163
-	"Niall #0" = 109
-	"Conall Gulban #0" = 54
-	"Eógán #0" = 54
-	"Conall Cremthainne #0" = 54
-	"Muiredach #0" = 54
-	"Fergus #0" = 109
-	"Doi #0" = 54
-	"Énna #0" = 54
-	"Dungal #0" = 109
-	"Melge #0" = 54
-	"Muirchertach #0" = 54
-	"Senta #0" = 54
-	"Fedlimid #0" = 54
-	"Brenan #0" = 54
-	"Brandub #0" = 54
-	"Ninnid #0" = 54
-	"Diarmait #0" = 109
-	"Colmán #0" = 109
-	"Ainmire #0" = 54
-	"Eoghan #0" = 54
-	"Baetan #0" = 54
-	"Garban #0" = 54
-	"Feradach #0" = 54
-	"Ciaran #0" = 54
-	"Tinne #0" = 54
-	"Columba #0" = 54
-	"Suibne #0" = 54
-	"Baithéne #0" = 54
-	"Conall-Cú #0" = 54
-	"Áed Sláine #0" = 54
-	"Lasrén #0" = 54
-	"Fiachnae #0" = 54
-	"Sechnasach #0" = 54
-	"Máel-Coba #0" = 54
-	"Fiachra #0" = 54
-	"Fiondach #0" = 54
-	"Máel Fithrich #0" = 54
-	"Mael-Tuile #0" = 54
-	"Congal #0" = 54
-	"Conall #0" = 54
-	"Airmetach #0" = 54
-	"Bresal #0" = 54
-	"Rónán #0" = 54
-	"Óengus #0" = 54
-	"Pípán #0" = 54
-	"Ségéne #0" = 54
-	"Conall-Cóel #0" = 54
-	"Cellach #0" = 54
-	"Conaing Cuirre #0" = 54
-	"Ronat #0" = -55
-	"Cinn-Fáelad #0" = 54
-	"Cumméne #0" = 54
-	"Fáilbe #0" = 109
-	"Máel Dúin #0" = 54
-	"Loingsech #0" = 54
-	"Adomnán #0" = 54
-	"Conamail #0" = 54
-	"Murchard #0" = 54
-	"Dúnchad #0" = 54
-	"Amalgaid #0" = 54
-	"Fergal #0" = 54
-	"Conaing #0" = 54
-	"Donmnall #0" = 54
+	"Niall #0" = 1
+	"Murchad #0" = 1
+	"Flann #0" = 1
+	"Donnachad #0" = 1
+	"Flaithbertach #0" = 1
+	"Áed #0" = 1
+	"Domnall #0" = 1
+	"Máel-Bressail #0" = 1
+	"Ercaid #0" = 1
+	"Congalach #0" = 1
+	"Conall Gulban #0" = 1
+	"Eógán #0" = 1
+	"Conall Cremthainne #0" = 1
+	"Muiredach #0" = 1
+	"Fergus #0" = 1
+	"Doi #0" = 1
+	"Énna #0" = 1
+	"Dungal #0" = 1
+	"Melge #0" = 1
+	"Muirchertach #0" = 1
+	"Senta #0" = 1
+	"Fedlimid #0" = 1
+	"Brenan #0" = 1
+	"Brandub #0" = 1
+	"Ninnid #0" = 1
+	"Diarmait #0" = 1
+	"Colmán #0" = 1
+	"Ainmire #0" = 1
+	"Eoghan #0" = 1
+	"Baetan #0" = 1
+	"Garban #0" = 1
+	"Feradach #0" = 1
+	"Ciaran #0" = 1
+	"Tinne #0" = 1
+	"Columba #0" = 1
+	"Suibne #0" = 1
+	"Baithéne #0" = 1
+	"Conall-Cú #0" = 1
+	"Áed Sláine #0" = 1
+	"Lasrén #0" = 1
+	"Fiachnae #0" = 1
+	"Sechnasach #0" = 1
+	"Máel-Coba #0" = 1
+	"Fiachra #0" = 1
+	"Fiondach #0" = 1
+	"Máel Fithrich #0" = 1
+	"Mael-Tuile #0" = 1
+	"Congal #0" = 1
+	"Conall #0" = 1
+	"Airmetach #0" = 1
+	"Bresal #0" = 1
+	"Rónán #0" = 1
+	"Óengus #0" = 1
+	"Pípán #0" = 1
+	"Ségéne #0" = 1
+	"Conall-Cóel #0" = 1
+	"Cellach #0" = 1
+	"Conaing Cuirre #0" = 1
+	"Ronat #0" = -1
+	"Cinn-Fáelad #0" = 1
+	"Cumméne #0" = 1
+	"Fáilbe #0" = 1
+	"Máel Dúin #0" = 1
+	"Loingsech #0" = 1
+	"Adomnán #0" = 1
+	"Conamail #0" = 1
+	"Murchard #0" = 1
+	"Dúnchad #0" = 1
+	"Amalgaid #0" = 1
+	"Fergal #0" = 1
+	"Conaing #0" = 1
+	"Donmnall #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
@@ -623,6 +624,12 @@ monarch_names = {
 	"Uargus #0" = 0
 	"Uilliam #0" = 0
 	"Ultán #0" = 0
+
+
+	"Áedammair #0" = -1
+	"Ben-Muman #0" = -1
+	"Muirne #0" = -1
+	"Aróc #0" = -1
 }
 ship_names = {
 	Aoife

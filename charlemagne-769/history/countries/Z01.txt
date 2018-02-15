@@ -2,20 +2,24 @@
 government = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = western
 primary_culture = norse
 religion = animism
+clear_scripted_personalities = yes
 capital = 371
-1417.1.1 = {
+1443.1.1 = {
 	monarch = {
 		name = "Froði"
+		birth_date = 1417.1.1
 		dynasty = "Drake"
 		adm = 3
-		dip = 1
-		mil = 3
+		dip = 2
+		mil = 4
 	}
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
+	capital = 371
 	add_treasury = 4
 	add_prestige = 2
 }

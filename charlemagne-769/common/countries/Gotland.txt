@@ -1,4 +1,5 @@
 # Gotland
+ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 65 80 255 }
 historical_idea_groups = {
@@ -33,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Oddr" "Þorfinn" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" 
+	"Þorfinn" "Oddr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" 
 	"Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" 
 	"Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" 
 	"Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" 
@@ -48,8 +49,8 @@ leader_names = {
 	"Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" "Valdemar" 
 	"Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Oddr #0" = 14
-	"Þorfinn #0" = 14
+	"Þorfinn #0" = 1
+	"Oddr #0" = 1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -182,6 +183,13 @@ monarch_names = {
 	"Yngvar #0" = 0
 	"Örvar #0" = 0
 	"Öysteinn #0" = 0
+
+
+	"Alvör #0" = -1
+	"Margareta #0" = -1
+	"Gerðr #0" = -1
+	"Birgitta #0" = -1
+	"Inga #0" = -1
 }
 ship_names = {
 	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 

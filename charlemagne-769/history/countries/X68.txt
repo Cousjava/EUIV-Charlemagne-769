@@ -1,0 +1,36 @@
+# Kirghiz
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = kirgiz
+religion = manichean
+clear_scripted_personalities = yes
+capital = 2433
+1434.6.1 = {
+	monarch = {
+		name = "Seitek"
+		birth_date = 1407.4.15
+		dynasty = "Tiele"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Sotan"
+		monarch_name = "Sotan"
+		dynasty = "Tiele"
+		birth_date = 1427.3.24
+		death_date = 1507.3.24
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2433
+	add_treasury = 10
+	add_prestige = 12
+}

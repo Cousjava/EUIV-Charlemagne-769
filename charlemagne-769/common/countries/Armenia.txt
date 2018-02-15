@@ -1,4 +1,5 @@
 # Armenia
+ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 154 77 36 }
 historical_idea_groups = {
@@ -35,101 +36,93 @@ historical_units = {
 
 leader_names = {
 
-	"Ashot" "Atrnerseh" "Smbat" "Bagrat" "Sahak" "Tiroc" "Vassak" "Spandiat" "Varaz-Tiroc" "Manvel" 
-	"Vasak" "Thoros" "Mushel" "Hamazasp" "Grigor" "Nerseh" "Abas" "Abirad" "Aboughamr" "Aboulgharib" 
-	"Aleksandr" "Artashes" "Artashir" "Artavazd" "Arsen" "Arshak" "Athom" "Avag" "Avedis" "Bagour" 
-	"Bedros" "Boghos" "Davit" "Eshkhan" "Gagik" "Gevorg" "Gosdantin" "Gurgen" "Hagop" "Hethum" 
-	"Hovhannes" "Hovsep" "Ishkhan" "Ivane" "Kapriel" "Khachik" "Khosrov" "Levon" "Malkhas" "Mamigon" 
-	"Manuel" "Margos" "Melek" "Mihrdat" "Mikayel" "Mleh" "Mushegh" "Mzhezh" "Oshin" "Roupen" 
-	"Sahag" "Sarkis" "Sevag" "Shahanshah" "Stepanos" "Tachat" "Taniel" "Tatoul" "Tigran" "Tornik" 
-	"Tovmas" "Trdat" "Vache" "Vachagan" "Vagharshak" "Vahag" "Vahan" "Vahram" "Vakhtank" "Varazdat" 
-	"Vartan" "Vesd" "Vrtanes" "Zakare" "Zarmihr" }
+	"Smbat" "Ashot" "Atrnerseh" "Bagrat" "Sahak" "Tiroc" "Vassak" "Spandiat" "Varaz-Tiroc" "Manvel" 
+	"Vasak" "Thoros" "Mushel" "Hamazasp" "Grigor" "Nerseh" "Adarnase" "Aghsartan" "Aleksandre" "Andronik" 
+	"Anzori" "Archili" "Bakur" "Davit" "Demetre" "Demna" "Djavakhi" "Erekle" "Gabrieli" "Gagiki" 
+	"Giorgi" "Grigoli" "Guaram" "Gubaz" "Gurgen" "Iese" "Ioane" "Ishkhanik" "Iveri" "Jarji" 
+	"Kaikhosro" "Kakhi" "Koba" "Konstantine" "Kvarkvare" "Kvirike" "Levan" "Luarsab" "Malkhazi" "Mamia" 
+	"Merab" "Mikheil" "Mukhran" "Nerse" "Nikoloz" "Okhropir" "Orbeli" "Padla" "Samoeli" "Shanshe" 
+	"Shota" "Simon" "Stepanoz" "Sumbat" "Teimuraz" "Tornike" "Ushisha" "Vache" "Vakhtang" "Zurab" 
+	"Zviad" }
 monarch_names = {
-	"Ashot #2" = 38
-	"Atrnerseh #0" = 9
-	"Smbat #2" = 57
-	"Bagrat #0" = 9
-	"Sahak #1" = 19
-	"Tiroc #0" = 9
-	"Vassak #0" = 9
-	"Spandiat #0" = 9
-	"Varaz-Tiroc #0" = 19
-	"Manvel #0" = 9
-	"Vasak #0" = 9
+	"Smbat #2" = 33
+	"Ashot #2" = 27
+	"Atrnerseh #0" = 1
+	"Bagrat #0" = 1
+	"Sahak #1" = 21
+	"Tiroc #0" = 1
+	"Vassak #0" = 1
+	"Spandiat #0" = 1
+	"Varaz-Tiroc #0" = 1
+	"Manvel #0" = 1
+	"Vasak #0" = 1
 	"Thoros #1" = 0
 	"Mushel #2" = 0
 	"Hamazasp #1" = 0
 	"Grigor #2" = 0
 	"Nerseh #1" = 0
-	"Abas #0" = 0
-	"Abirad #0" = 0
-	"Aboughamr #0" = 0
-	"Aboulgharib #0" = 0
-	"Aleksandr #0" = 0
-	"Artashes #0" = 0
-	"Artashir #0" = 0
-	"Artavazd #0" = 0
-	"Arsen #0" = 0
-	"Arshak #0" = 0
-	"Athom #0" = 0
-	"Avag #0" = 0
-	"Avedis #0" = 0
-	"Bagour #0" = 0
-	"Bedros #0" = 0
-	"Boghos #0" = 0
+	"Adarnase #0" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Archili #0" = 0
+	"Bakur #0" = 0
 	"Davit #0" = 0
-	"Eshkhan #0" = 0
-	"Gagik #0" = 0
-	"Gevorg #0" = 0
-	"Gosdantin #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Guaram #0" = 0
+	"Gubaz #0" = 0
 	"Gurgen #0" = 0
-	"Hagop #0" = 0
-	"Hethum #0" = 0
-	"Hovhannes #0" = 0
-	"Hovsep #0" = 0
-	"Ishkhan #0" = 0
-	"Ivane #0" = 0
-	"Kapriel #0" = 0
-	"Khachik #0" = 0
-	"Khosrov #0" = 0
-	"Levon #0" = 0
-	"Malkhas #0" = 0
-	"Mamigon #0" = 0
-	"Manuel #0" = 0
-	"Margos #0" = 0
-	"Melek #0" = 0
-	"Mihrdat #0" = 0
-	"Mikayel #0" = 0
-	"Mleh #0" = 0
-	"Mushegh #0" = 0
-	"Mzhezh #0" = 0
-	"Oshin #0" = 0
-	"Roupen #0" = 0
-	"Sahag #0" = 0
-	"Sarkis #0" = 0
-	"Sevag #0" = 0
-	"Shahanshah #0" = 0
-	"Stepanos #0" = 0
-	"Tachat #0" = 0
-	"Taniel #0" = 0
-	"Tatoul #0" = 0
-	"Tigran #0" = 0
-	"Tornik #0" = 0
-	"Tovmas #0" = 0
-	"Trdat #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nerse #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Stepanoz #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
 	"Vache #0" = 0
-	"Vachagan #0" = 0
-	"Vagharshak #0" = 0
-	"Vahag #0" = 0
-	"Vahan #0" = 0
-	"Vahram #0" = 0
-	"Vakhtank #0" = 0
-	"Varazdat #0" = 0
-	"Vartan #0" = 0
-	"Vesd #0" = 0
-	"Vrtanes #0" = 0
-	"Zakare #0" = 0
-	"Zarmihr #0" = 0
+	"Vakhtang #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
+
+
+	"Kohar #0" = -1
+	"Nazani #0" = -1
+	"Hripsimeh #0" = -1
+	"Leyli #0" = -1
+	"Alitz #0" = -1
 }
 ship_names = {
 	Aramu Argishtis Ararat Ani Artsakh

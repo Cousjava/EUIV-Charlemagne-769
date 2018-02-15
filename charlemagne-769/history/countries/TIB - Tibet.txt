@@ -1,0 +1,39 @@
+# Tibet
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tibetan
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 677
+1430.1.1 = {
+	monarch = {
+		name = "Trisong Detsen"
+		birth_date = 1417.1.1
+		dynasty = "Purgyal"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = pious_personality
+}
+1434.1.1 = {
+	heir = {
+		name = "Mutri"
+		monarch_name = "Mutri"
+		dynasty = "Purgyal"
+		birth_date = 1434.1.1
+		death_date = 1514.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 677
+	add_treasury = 113
+	add_prestige = 126
+}
