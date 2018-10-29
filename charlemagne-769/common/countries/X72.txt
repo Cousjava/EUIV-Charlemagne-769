@@ -174,8 +174,8 @@ monarch_names = {
 	"Zutse #0" = 0
 
 
-	"Semarkar #0" = -1
-	"Ataklumo #0" = -1
-	"Lumo #0" = -1
+	"Gyilumo #0" = -1
+	"Yum #0" = -1
+	"Yidongma #0" = -1
 }
 

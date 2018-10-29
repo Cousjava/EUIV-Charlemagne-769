@@ -1,5 +1,6 @@
 # Talakad Ganga
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 533
 		name = "Sripurusha"
 		birth_date = 1379.1.1
 		dynasty = "Talakad Ganga"
-		adm = 2
-		dip = 5
+		adm = 3
+		dip = 4
 		mil = 1
 	}
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 533

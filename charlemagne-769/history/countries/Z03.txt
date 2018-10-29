@@ -1,5 +1,6 @@
 # Tír Eoghain
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 372
 		name = "Niall"
 		birth_date = 1393.1.1
 		dynasty = "Ua Néill Noígiallaich"
-		adm = 1
-		dip = 1
-		mil = 4
+		adm = 0
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1435.1.1 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 372
 		dynasty = "Ua Néill Noígiallaich"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 2
+		adm = 4
 		dip = 3
-		mil = 2
+		mil = 3
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
 	capital = 372

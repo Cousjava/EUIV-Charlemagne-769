@@ -8,7 +8,7 @@ color = { 200 150 90 }
 
 leader_names = {
 
-	"Govinda" "Krishna" "Sthamba" "Karkka" "Dhruva" "Rannadevi" "Indra" "Dantidurga" "Dadda" "Jayabhata" 
+	"Govinda" "Krishna" "Rannadevi" "Indra" "Sthamba" "Dhruva" "Karkka" "Dantidurga" "Dadda" "Jayabhata" 
 	"Ahirola" "Pulakesin" "Abaji" "Amutrao" "Bahadur" "Bahiroji" "Balaji" "Bajirao" "Chimnaji" "Dattaji" 
 	"Daulatrao" "Dhanaji" "Dhondu" "Ekoji" "Fatehsinh" "Gopalrao" "Hambirao" "Harirao" "Jayajirao" "Jayappa" 
 	"Janakappa" "Jivajirao" "Khanderao" "Krishnarao" "Madhavrao" "Mahadji" "Malerao" "Malharrao" "Mankoji" "Martandrao" 
@@ -24,11 +24,11 @@ leader_names = {
 monarch_names = {
 	"Govinda #0" = 1
 	"Krishna #0" = 1
-	"Sthamba #0" = 1
-	"Karkka #1" = 18
-	"Dhruva #0" = 1
 	"Rannadevi #0" = -1
 	"Indra #0" = 1
+	"Sthamba #0" = 1
+	"Dhruva #0" = 1
+	"Karkka #1" = 18
 	"Dantidurga #1" = 18
 	"Dadda #3" = 0
 	"Jayabhata #4" = 0
@@ -146,9 +146,9 @@ monarch_names = {
 	"Vyaghrasena #0" = 0
 
 
-	"Thirumalambike #0" = -1
-	"Chinnambike #0" = -1
-	"Vijamba #0" = -1
-	"Hoysaladevi #0" = -1
+	"Bhavanaga #0" = -1
+	"Chandaladevi #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Gangambika #0" = -1
 }
 

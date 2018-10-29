@@ -108,11 +108,11 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Amsha #0" = -1
-	"Faghira #0" = -1
 	"Nyawela #0" = -1
-	"Shahzadah #0" = -1
+	"Yagana #0" = -1
 	"Shameem #0" = -1
+	"Sheeftah #0" = -1
+	"Nafisa #0" = -1
 }
 ship_names = {
 	Abathur "Adamn Kasia" "Aesma Daeva" Agas

@@ -1,5 +1,6 @@
 # Járnberaland
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 8
 		name = "Þorbjörn"
 		birth_date = 1410.1.1
 		dynasty = "Hylling"
-		adm = 3
-		dip = 2
-		mil = 4
+		adm = 1
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = sinner_personality
 }
 1444.11.11 = {
 	capital = 8

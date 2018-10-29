@@ -36,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Eadric" "Ealhred" "Ealhmund" "Osred" "Blæcman" "Bofa" "Beornholm" "Eanwine" "Ceolwulf" "Eadberht" 
+	"Eadric" "Ealhred" "Osred" "Ealhmund" "Blæcman" "Bofa" "Beornholm" "Eanwine" "Ceolwulf" "Eadberht" 
 	"Oswulf" "Æthelwald" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" 
 	"Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" 
 	"Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadfrith" "Eadgar" "Eadmund" 
@@ -56,8 +56,8 @@ leader_names = {
 monarch_names = {
 	"Eadric #0" = 1
 	"Ealhred #1" = 18
-	"Ealhmund #0" = 1
 	"Osred #0" = 1
+	"Ealhmund #0" = 1
 	"Blæcman #0" = 1
 	"Bofa #0" = 1
 	"Beornholm #0" = 1
@@ -222,11 +222,11 @@ monarch_names = {
 	"Rædwald #0" = 0
 
 
-	"Ealhswith #0" = -1
-	"Ælfflæd #0" = -1
 	"Eadgyth #0" = -1
-	"Heregyth #0" = -1
-	"Beornflæd #0" = -1
+	"Wihtburh #0" = -1
+	"Beorhtwaru #0" = -1
+	"Ælfswith #0" = -1
+	"Æthelflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

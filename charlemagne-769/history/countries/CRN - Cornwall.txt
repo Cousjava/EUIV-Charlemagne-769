@@ -1,5 +1,6 @@
 # Cornwall
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,23 +13,23 @@ capital = 233
 		name = "Cawrdolli"
 		birth_date = 1380.1.1
 		dynasty = "Cerneu"
-		adm = 4
-		dip = 4
+		adm = 2
+		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
 		name = "Oswallt"
 		monarch_name = "Oswallt"
 		dynasty = "Cerneu"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 1
-		dip = 2
+		adm = 0
+		dip = 3
 		mil = 2
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = loose_lips_personality
 }
 1444.11.11 = {
 	capital = 233

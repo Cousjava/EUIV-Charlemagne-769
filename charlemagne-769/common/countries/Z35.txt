@@ -8,7 +8,7 @@ color = { 54 10 243 }
 
 leader_names = {
 
-	"Loup" "Hunoald" "Icterius" "Jimeno" "Adela" "Loup Sancho" "Adalric" "Artgarius" "Boggis" "Lampagie" 
+	"Loup" "Hunoald" "Icterius" "Adalric" "Adela" "Jimeno" "Loup Sancho" "Artgarius" "Boggis" "Lampagie" 
 	"Eudes" "Imitarius" "Hatto" "Remistan" "Waifar" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" 
 	"Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" 
 	"Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" 
@@ -25,10 +25,10 @@ monarch_names = {
 	"Loup #0" = 1
 	"Hunoald #1" = 18
 	"Icterius #0" = 1
-	"Jimeno #0" = 1
-	"Adela #0" = -1
-	"Loup Sancho #0" = 1
 	"Adalric #0" = 1
+	"Adela #0" = -1
+	"Jimeno #0" = 1
+	"Loup Sancho #0" = 1
 	"Artgarius #0" = 1
 	"Boggis #1" = 18
 	"Lampagie #0" = -1
@@ -154,8 +154,8 @@ monarch_names = {
 	"Vicenç #0" = 0
 
 
-	"Matilda #0" = -1
-	"Alienòr #0" = -1
-	"Maria #0" = -1
+	"Brunissenda #0" = -1
+	"Ermessentz #0" = -1
+	"Clemència #0" = -1
 }
 

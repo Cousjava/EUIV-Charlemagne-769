@@ -116,10 +116,10 @@ monarch_names = {
 	"Zsolt #0" = 0
 
 
-	"Berta #0" = -1
-	"Aranka #0" = -1
+	"Amália #0" = -1
+	"Matild #0" = -1
 	"Agáta #0" = -1
-	"Panni #0" = -1
-	"Jolán #0" = -1
+	"Zsófia #0" = -1
+	"Éva #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Uyghur
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,22 +13,22 @@ capital = 2190
 		name = "Tengri Bögü"
 		birth_date = 1420.1.1
 		dynasty = "Yaghlakar"
-		adm = 0
-		dip = 0
+		adm = 3
+		dip = 4
 		mil = 1
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = drunkard_personality
 	heir = {
 		name = "Alp-Qutlugh"
 		monarch_name = "Alp-Qutlugh"
 		dynasty = "Yaghlakar"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 0
-		dip = 3
-		mil = 2
+		adm = 4
+		dip = 0
+		mil = 1
 	}
-	add_heir_personality = drunkard_personality
+	add_heir_personality = careful_personality
 }
 1444.11.11 = {
 	capital = 2190

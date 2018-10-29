@@ -65,11 +65,11 @@ monarch_names = {
 	"Ulitis #0" = 0
 
 
+	"Gerkus #0" = -1
+	"Ziedas #0" = -1
 	"Gulbis #0" = -1
-	"Weslikan #0" = -1
 	"Mila #0" = -1
-	"Dagas #0" = -1
-	"Betten #0" = -1
+	"Grasus #0" = -1
 }
 ship_names = {
 	Alytus

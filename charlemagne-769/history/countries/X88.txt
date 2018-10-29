@@ -1,5 +1,6 @@
 # Ötüken
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,12 +13,12 @@ capital = 716
 		name = "Burkhan"
 		birth_date = 1407.10.4
 		dynasty = "Bayad"
-		adm = 1
-		dip = 1
-		mil = 2
+		adm = 2
+		dip = 6
+		mil = 3
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
 }
 1425.10.4 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 716
 		dynasty = "Bayad"
 		birth_date = 1425.10.4
 		death_date = 1505.10.4
-		adm = 2
-		dip = 1
-		mil = 2
+		adm = 1
+		dip = 4
+		mil = 1
 	}
-	add_heir_personality = malevolent_personality
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 716

@@ -140,9 +140,9 @@ monarch_names = {
 	"Zambasta #0" = 0
 
 
-	"Alsamgya #0" = -1
-	"Vimalaprabha #0" = -1
+	"Shri #0" = -1
+	"Nanda #0" = -1
 	"Alyonj #0" = -1
-	"Nirmala #0" = -1
+	"Vimala #0" = -1
 }
 

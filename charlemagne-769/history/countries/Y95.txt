@@ -1,5 +1,6 @@
 # Azd Umanid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,23 +13,23 @@ capital = 2341
 		name = "al-Julanda"
 		birth_date = 1386.1.1
 		dynasty = "Azd Umanid"
-		adm = 3
-		dip = 0
-		mil = 0
+		adm = 2
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = careful_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 	heir = {
 		name = "Muhammad"
 		monarch_name = "Muhammad"
 		dynasty = "Azd Umanid"
 		birth_date = 1409.1.1
 		death_date = 1489.1.1
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 3
+		mil = 4
 	}
-	add_heir_personality = strict_personality
+	add_heir_personality = industrious_personality
 }
 1444.11.11 = {
 	capital = 2341

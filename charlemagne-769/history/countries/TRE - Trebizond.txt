@@ -1,5 +1,6 @@
 # Trebizond
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 330
 		name = "Konstantios"
 		birth_date = 1424.1.1
 		dynasty = "Krinites"
-		adm = 3
-		dip = 0
-		mil = 2
+		adm = 1
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 330

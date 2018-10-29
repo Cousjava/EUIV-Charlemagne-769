@@ -1,5 +1,6 @@
 # Volhynia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 1940
 		name = "Briachislav"
 		birth_date = 1408.1.1
 		dynasty = "Tyvercy"
-		adm = 3
-		dip = 1
-		mil = 1
+		adm = 2
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 1940

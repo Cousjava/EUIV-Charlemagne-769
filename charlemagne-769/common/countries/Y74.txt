@@ -138,10 +138,10 @@ monarch_names = {
 
 
 	"Yasmin #0" = -1
-	"Paywand #0" = -1
-	"Qamara #0" = -1
-	"Shameem #0" = -1
-	"Sahba #0" = -1
+	"Jahaira #0" = -1
+	"Adila #0" = -1
+	"Habiba #0" = -1
+	"Shogofa #0" = -1
 }
 ship_names = {
 	Aramu Argishtis Ararat Ani Artsakh

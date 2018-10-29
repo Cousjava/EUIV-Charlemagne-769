@@ -338,11 +338,11 @@ monarch_names = {
 	"Zubeyr #0" = 0
 
 
-	"Aisha #0" = -1
-	"Tilelli #0" = -1
-	"Baraah #0" = -1
-	"Mernissa #0" = -1
-	"Aarifa #0" = -1
+	"Kulla #0" = -1
+	"Zahida #0" = -1
+	"Kella #0" = -1
+	"Tamimunt #0" = -1
+	"Tamrust #0" = -1
 }
 ship_names = {
 	Arif

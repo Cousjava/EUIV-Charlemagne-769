@@ -1,5 +1,6 @@
 # Kernev
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 170
 		name = "Custentin"
 		birth_date = 1415.1.1
 		dynasty = "de Cornouaille"
-		adm = 1
-		dip = 0
+		adm = 2
+		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
 		name = "Gestin"
 		monarch_name = "Gestin"

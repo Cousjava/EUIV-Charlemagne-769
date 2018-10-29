@@ -1,5 +1,6 @@
 # Uzur
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,12 +13,12 @@ capital = 2117
 		name = "Üge"
 		birth_date = 1414.6.12
 		dynasty = "Uzur"
-		adm = 6
-		dip = 0
-		mil = 1
+		adm = 3
+		dip = 1
+		mil = 4
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 2117

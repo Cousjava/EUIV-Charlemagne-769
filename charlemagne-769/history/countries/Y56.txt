@@ -1,5 +1,6 @@
 # Sulamid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,12 +13,12 @@ capital = 378
 		name = "Yazid"
 		birth_date = 1395.1.1
 		dynasty = "Sulamid"
-		adm = 4
-		dip = 4
-		mil = 0
+		adm = 1
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 378

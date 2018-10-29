@@ -1,5 +1,6 @@
 # Makuria
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,11 +13,11 @@ capital = 1228
 		name = "Khael"
 		birth_date = 1425.1.1
 		dynasty = "Azim"
-		adm = 1
-		dip = 3
-		mil = 1
+		adm = 4
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = pious_personality
+	add_ruler_personality = righteous_personality
 }
 1444.11.11 = {
 	capital = 1228

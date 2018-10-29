@@ -31,7 +31,7 @@ historical_units = {
 
 leader_names = {
 
-	"Muhallab" "Habib" "Al-Mughirah" "Al-Fadl" "Dawud" "Yazid" "Rawh" "Umar" "Nasr" "Hafs" 
+	"Muhallab" "Habib" "Dawud" "Al-Mughirah" "Al-Fadl" "Yazid" "Rawh" "Umar" "Nasr" "Hafs" 
 	"al-Mufaddal" "Marwan" "Abd al-malik" "Mu'awiyah" "Hatim" "Geiserich" "Hunerich" "Gundamund" "Thrasamund" "Hilderich" 
 	"Gelimer" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" 
 	"Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" 
@@ -43,9 +43,9 @@ leader_names = {
 monarch_names = {
 	"Muhallab #0" = 1
 	"Habib #0" = 1
+	"Dawud #0" = 1
 	"Al-Mughirah #0" = 1
 	"Al-Fadl #0" = 1
-	"Dawud #0" = 1
 	"Yazid #0" = 1
 	"Rawh #0" = 1
 	"Umar #0" = 1
@@ -129,11 +129,11 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Sahba #0" = -1
-	"Shararah #0" = -1
-	"Saghar #0" = -1
-	"Simin #0" = -1
-	"Taneen #0" = -1
+	"Yasmin #0" = -1
+	"Jahaira #0" = -1
+	"Adila #0" = -1
+	"Habiba #0" = -1
+	"Shogofa #0" = -1
 }
 ship_names = {
 	Arif

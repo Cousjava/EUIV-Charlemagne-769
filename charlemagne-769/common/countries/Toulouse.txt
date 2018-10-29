@@ -8,7 +8,7 @@ color = { 10 16 243 }
 
 leader_names = {
 
-	"Nibelung" "Teudoin" "Theoderic" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Theodbert" "Abba" "Berta" 
+	"Nibelung" "Theodbert" "Theoderic" "Teudoin" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Abba" "Berta" 
 	"Wallia" "Theodericho" "Thorismondo" "Euricho" "Alaricho" "Adhémar" "Acfred" "Aimeric" "Alberic" "Albert" 
 	"Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" "Arnaut" "Artau" 
 	"Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" "Beneset" "Bérard" 
@@ -23,13 +23,13 @@ leader_names = {
 	"Simon" "Tièrri" "Tibaud" "Toumas" "Ubald" "Ubert" "Uc" "Ugues" "Vézian" "Vicenç" }
 monarch_names = {
 	"Nibelung #0" = 1
-	"Teudoin #0" = 1
+	"Theodbert #0" = 1
 	"Theoderic #0" = 1
+	"Teudoin #0" = 1
 	"Adalelm #0" = 1
 	"Childebrand #0" = 1
 	"Niebelung #0" = 1
 	"Guillaume #1" = 18
-	"Theodbert #0" = 1
 	"Abba #0" = -1
 	"Berta #0" = -1
 	"Wallia #1" = 0
@@ -154,8 +154,8 @@ monarch_names = {
 	"Vicenç #0" = 0
 
 
-	"Chlothsinda #0" = -1
-	"Illegardis #0" = -1
-	"Berthildis #0" = -1
+	"Framberta #0" = -1
+	"Gundrada #0" = -1
+	"Beretrude #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Pohjanmaa
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,22 +13,22 @@ capital = 19
 		name = "Haapa"
 		birth_date = 1407.1.1
 		dynasty = "Kemiläinen"
-		adm = 3
-		dip = 1
-		mil = 4
+		adm = 1
+		dip = 5
+		mil = 3
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = pious_personality
 	heir = {
 		name = "Kaleva"
 		monarch_name = "Kaleva"
 		dynasty = "Kemiläinen"
 		birth_date = 1434.1.1
 		death_date = 1514.1.1
-		adm = 2
-		dip = 3
-		mil = 3
+		adm = 3
+		dip = 2
+		mil = 2
 	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 19

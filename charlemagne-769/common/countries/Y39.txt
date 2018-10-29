@@ -114,11 +114,11 @@ monarch_names = {
 	"Varmanpaz #0" = 0
 
 
-	"Chindyapa #0" = -1
-	"Toyaksha #0" = -1
-	"Ashava #0" = -1
-	"Kanyava #0" = -1
-	"Tundya #0" = -1
+	"Mazava #0" = -1
+	"Mastorava #0" = -1
+	"Litova #0" = -1
+	"Anava #0" = -1
+	"Pekshayka #0" = -1
 }
 ship_names = {
 	"Dmitri Donskoi" "Vasiliy I" "D. Aleksandrovich"

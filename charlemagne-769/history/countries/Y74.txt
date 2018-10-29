@@ -1,5 +1,6 @@
 # Uqaylid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 2
 mercantilism = 0.1
 technology_group = eastern
@@ -12,25 +13,25 @@ capital = 331
 		name = "Bakkar"
 		birth_date = 1400.1.1
 		dynasty = "Uqaylid"
-		adm = 2
-		dip = 2
-		mil = 1
+		adm = 1
+		dip = 1
+		mil = 5
 	}
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = drunkard_personality
 	heir = {
 		name = "Amir"
 		monarch_name = "Amir"
 		dynasty = "Uqaylid"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 4
-		dip = 2
+		adm = 1
+		dip = 1
 		mil = 3
 	}
-	add_heir_personality = fertile_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 331
-	add_treasury = 9
+	add_treasury = 8
 	add_prestige = 20
 }

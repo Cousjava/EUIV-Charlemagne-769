@@ -422,10 +422,10 @@ monarch_names = {
 	"Yograj #0" = 0
 
 
-	"Sanyukta #0" = -1
-	"Puppadevi #0" = -1
-	"Kanchuka #0" = -1
-	"Suhava #0" = -1
-	"Shrimitradevi #0" = -1
+	"Manaladevi #0" = -1
+	"Bauladevi #0" = -1
+	"Udayamati #0" = -1
+	"Prasadhanadevi #0" = -1
+	"Kumaradevi #0" = -1
 }
 

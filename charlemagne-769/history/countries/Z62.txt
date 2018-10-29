@@ -1,5 +1,6 @@
 # Nidaros
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 2752
 		name = "Grimr"
 		birth_date = 1408.1.1
 		dynasty = "av Askø"
-		adm = 1
-		dip = 4
-		mil = 4
+		adm = 3
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
 	capital = 2752

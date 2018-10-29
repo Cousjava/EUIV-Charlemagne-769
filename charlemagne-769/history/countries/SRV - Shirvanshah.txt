@@ -1,5 +1,6 @@
 # Azerbaijan
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 416
 		name = "Yahya"
 		birth_date = 1415.1.1
 		dynasty = "Barmakid"
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 3
+		dip = 4
+		mil = 4
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
 	capital = 416

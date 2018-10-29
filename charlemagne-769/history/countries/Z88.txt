@@ -1,5 +1,6 @@
 # Adrianopolis
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 149
 		name = "Theophanes"
 		birth_date = 1385.1.1
 		dynasty = "Monotes"
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 4
+		dip = 2
+		mil = 6
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
 	capital = 149

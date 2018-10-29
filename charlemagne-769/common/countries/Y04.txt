@@ -123,11 +123,11 @@ monarch_names = {
 	"Tohmas #0" = 0
 
 
-	"Liekko #0" = -1
-	"Auni #0" = -1
-	"Päivä #0" = -1
+	"Sisko #0" = -1
 	"Metta #0" = -1
-	"Terhi #0" = -1
+	"Tyyni #0" = -1
+	"Käpy #0" = -1
+	"Kivutar #0" = -1
 }
 ship_names = {
 	Agricola Aura

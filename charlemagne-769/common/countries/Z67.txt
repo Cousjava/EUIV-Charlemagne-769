@@ -83,10 +83,10 @@ monarch_names = {
 	"Viggu #0" = 0
 
 
-	"Buohttá #0" = -1
-	"Sáráhkká #0" = -1
+	"Giste #0" = -1
+	"Máidna #0" = -1
+	"Juoksáhkká #0" = -1
 	"Álgen #0" = -1
-	"Duojá #0" = -1
 	"Násti #0" = -1
 }
 ship_names = {

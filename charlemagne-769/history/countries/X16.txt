@@ -1,5 +1,6 @@
 # Rashtrakuta
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = indian
@@ -13,20 +14,20 @@ capital = 527
 		birth_date = 1380.1.1
 		dynasty = "Rashtrakuta"
 		adm = 3
-		dip = 2
-		mil = 2
+		dip = 1
+		mil = 1
 	}
-	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = infertile_personality
 	heir = {
 		name = "Govinda"
 		monarch_name = "Govinda"
 		dynasty = "Rashtrakuta"
 		birth_date = 1397.1.1
 		death_date = 1477.1.1
-		adm = 1
-		dip = 3
-		mil = 3
+		adm = 0
+		dip = 1
+		mil = 1
 	}
 	add_heir_personality = fertile_personality
 }

@@ -36,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Cerdic" "Creoda" "Cyneheard" "Cynewulf" "Beorhtric" "Ecgberht" "Ealhmund" "Cynric" "Cuthred" "Cutha" 
+	"Cerdic" "Creoda" "Cyneheard" "Cynewulf" "Ealhmund" "Beorhtric" "Ecgberht" "Cynric" "Cuthred" "Cutha" 
 	"Ceawlin" "Cuthwine" "Ceol" "Ceolwulf" "Cwichelm" "Cynegils" "Cuthgils" "Æthelheard" "Cedda" "Sigeberht" 
 	"Cynewald" "Coenferth" "Coenberht" "Cenfus" "Coenwalh" "Ceolwald" "Æscwine" "Coenred" "Coenheard" "Centwine" 
 	"Mul" "Cædwalla" "Sigeheard" "Ingild" "Æthelred" "Ine" "Beorhtwulf" "Eoppa" "Eafa" "Arncytel" 
@@ -60,9 +60,9 @@ monarch_names = {
 	"Creoda #0" = 1
 	"Cyneheard #0" = 1
 	"Cynewulf #1" = 21
+	"Ealhmund #0" = 1
 	"Beorhtric #0" = 1
 	"Ecgberht #0" = 1
-	"Ealhmund #0" = 1
 	"Cynric #1" = 27
 	"Cuthred #1" = 24
 	"Cutha #0" = 1
@@ -248,11 +248,11 @@ monarch_names = {
 	"Rædwald #0" = 0
 
 
-	"Judith #0" = -1
-	"Cynehild #0" = -1
-	"Beorhtwynn #0" = -1
-	"Beorhtwaru #0" = -1
-	"Cwenburg #0" = -1
+	"Mildrith #0" = -1
+	"Ælfgyth #0" = -1
+	"Sigrid #0" = -1
+	"Wynnflæd #0" = -1
+	"Æthelræda #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

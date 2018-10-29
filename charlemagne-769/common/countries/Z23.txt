@@ -131,11 +131,11 @@ monarch_names = {
 	"Uuroid #0" = 0
 
 
-	"Allust #0" = -1
-	"Mor #0" = -1
-	"Arnemetia #0" = -1
-	"Bride #0" = -1
-	"Caitrion #0" = -1
+	"Neulina #0" = -1
+	"Addiena #0" = -1
+	"Mairi #0" = -1
+	"Sara #0" = -1
+	"Muriel #0" = -1
 }
 ship_names = {
 	Ålvik

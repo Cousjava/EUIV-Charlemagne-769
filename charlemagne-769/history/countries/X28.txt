@@ -1,5 +1,6 @@
 # Maru
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 514
 		name = "Jhota"
 		birth_date = 1365.1.1
 		dynasty = "Pratihara"
-		adm = 0
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 5
+		mil = 2
 	}
-	add_ruler_personality = drunkard_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = scholar_personality
 }
 1444.11.11 = {
 	capital = 514

@@ -83,10 +83,10 @@ monarch_names = {
 	"Witiza #0" = 0
 
 
-	"Monnia #0" = -1
-	"Riciberga #0" = -1
-	"Onecca #0" = -1
-	"Eldonza #0" = -1
+	"Adosinda #0" = -1
+	"Elduara #0" = -1
+	"Monniadomna #0" = -1
+	"Flamula #0" = -1
 }
 ship_names = {
 	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando

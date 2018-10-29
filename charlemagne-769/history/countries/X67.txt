@@ -1,5 +1,6 @@
 # Aydhab
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,11 +13,11 @@ capital = 2324
 		name = "Kuriakos"
 		birth_date = 1415.1.1
 		dynasty = "Bigawi"
-		adm = 2
-		dip = 1
-		mil = 0
+		adm = 3
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 2324

@@ -1,5 +1,6 @@
 # Vidisa
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 740
 		name = "Jejja"
 		birth_date = 1415.1.1
 		dynasty = "Rashtrakuta"
-		adm = 1
-		dip = 4
-		mil = 3
+		adm = 0
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.1.1 = {
 	heir = {

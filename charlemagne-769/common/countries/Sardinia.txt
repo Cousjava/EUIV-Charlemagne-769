@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Martino" "Callisto" "Claudia" "Gregorio" "Lucia" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" 
+	"Martino" "Claudia" "Callisto" "Gregorio" "Lucia" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" 
 	"Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" "Aimone" "Alamanno" 
 	"Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" "Aleardo" "Aleramo" 
 	"Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Annibale" 
@@ -67,8 +67,8 @@ leader_names = {
 	"Vincenzo" "Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
 	"Martino #0" = 1
-	"Callisto #0" = 1
 	"Claudia #0" = -1
+	"Callisto #0" = 1
 	"Gregorio #0" = 1
 	"Lucia #1" = 18
 	"Abbondanzio #0" = 0
@@ -384,10 +384,10 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Isabella #0" = -1
-	"Aloisia #0" = -1
+	"Mariana #0" = -1
 	"Silvana #0" = -1
-	"Fausta #0" = -1
+	"Virginia #0" = -1
+	"Martina #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

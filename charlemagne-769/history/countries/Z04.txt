@@ -1,23 +1,24 @@
 # Ulaidh
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 372
+capital = 4121
 1425.1.1 = {
 	monarch = {
 		name = "Fiachnae"
 		birth_date = 1375.1.1
 		dynasty = "Dál Fiatach"
-		adm = 5
-		dip = 2
+		adm = 1
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = just_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 	heir = {
 		name = "Eochaid"
 		monarch_name = "Eochaid"
@@ -25,13 +26,13 @@ capital = 372
 		birth_date = 1415.1.1
 		death_date = 1495.1.1
 		adm = 2
-		dip = 5
-		mil = 2
+		dip = 2
+		mil = 4
 	}
-	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = careful_personality
 }
 1444.11.11 = {
-	capital = 372
+	capital = 4121
 	add_treasury = 4
 	add_prestige = 2
 }

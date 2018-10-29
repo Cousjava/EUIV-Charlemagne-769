@@ -115,11 +115,11 @@ monarch_names = {
 	"Zvonimir #0" = 0
 
 
-	"Nada #0" = -1
-	"Milka #0" = -1
-	"Mudary #0" = -1
-	"Miljana #0" = -1
-	"Hicela #0" = -1
+	"Bistrina #0" = -1
+	"Andjela #0" = -1
+	"Gordana #0" = -1
+	"Lovorka #0" = -1
+	"Antonija #0" = -1
 }
 ship_names = {
 	Raska

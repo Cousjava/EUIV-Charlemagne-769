@@ -1,23 +1,24 @@
 # Sravasti
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
 primary_culture = avadhi
 religion = hinduism
 clear_scripted_personalities = yes
-capital = 2055
+capital = 4495
 1425.1.1 = {
 	monarch = {
 		name = "Jayaditya"
 		birth_date = 1395.1.1
 		dynasty = "Malayaketu"
 		adm = 2
-		dip = 2
-		mil = 1
+		dip = 1
+		mil = 5
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = drunkard_personality
 }
 1435.1.1 = {
 	heir = {
@@ -26,14 +27,14 @@ capital = 2055
 		dynasty = "Malayaketu"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 3
-		dip = 3
+		adm = 4
+		dip = 2
 		mil = 2
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 2055
+	capital = 4495
 	add_treasury = 4
 	add_prestige = 3
 }

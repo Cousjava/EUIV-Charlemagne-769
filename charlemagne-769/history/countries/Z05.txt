@@ -1,5 +1,6 @@
 # Sjælland
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -16,21 +17,21 @@ capital = 12
 		dip = 3
 		mil = 4
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
-1405.1.1 = {
+1408.1.1 = {
 	heir = {
-		name = "Þrándr"
-		monarch_name = "Þrándr"
+		name = "Hrörekr"
+		monarch_name = "Hrörekr II"
 		dynasty = "Skjöldung"
-		birth_date = 1405.1.1
-		death_date = 1485.1.1
+		birth_date = 1408.1.1
+		death_date = 1488.1.1
 		adm = 2
-		dip = 1
-		mil = 0
+		dip = 6
+		mil = 1
 	}
-	add_heir_personality = drunkard_personality
+	add_heir_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
 	capital = 12

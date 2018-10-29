@@ -64,9 +64,9 @@ monarch_names = {
 	"Tardush #0" = 0
 
 
-	"Sevilay #0" = -1
-	"Özgul #0" = -1
-	"Sirin #0" = -1
-	"Umay #0" = -1
+	"Sirma #0" = -1
+	"Bozçin #0" = -1
+	"Dilek #0" = -1
+	"Karacik #0" = -1
 }
 

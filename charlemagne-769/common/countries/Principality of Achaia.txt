@@ -202,10 +202,10 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
+	"Eulalia #0" = -1
 	"Leontia #0" = -1
-	"Margarita #0" = -1
-	"Melissa #0" = -1
-	"Stephania #0" = -1
+	"Eustathia #0" = -1
+	"Nikarete #0" = -1
 }
 ship_names = {
 	Hydra

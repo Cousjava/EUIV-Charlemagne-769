@@ -1,5 +1,6 @@
 # Byzantine Empire
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 3
 mercantilism = 0.1
 technology_group = eastern
@@ -26,7 +27,7 @@ capital = 151
 		dynasty = "Isauros"
 		birth_date = 1425.1.25
 		death_date = 1505.1.25
-		adm = 3
+		adm = 2
 		dip = 6
 		mil = 1
 	}

@@ -1,36 +1,37 @@
 # Osraige
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 374
+capital = 4377
 1436.1.1 = {
 	monarch = {
 		name = "Tóim Snáma"
 		birth_date = 1390.1.1
 		dynasty = "Dál Birn"
-		adm = 1
-		dip = 2
-		mil = 1
+		adm = 2
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = charismatic_negotiator_personality
 	heir = {
 		name = "Fergal"
 		monarch_name = "Fergal"
 		dynasty = "Dál Birn"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
+		adm = 1
 		dip = 2
-		mil = 2
+		mil = 1
 	}
-	add_heir_personality = righteous_personality
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
-	capital = 374
+	capital = 4377
 	add_treasury = 4
 	add_prestige = 6
 }

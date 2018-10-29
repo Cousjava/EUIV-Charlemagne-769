@@ -1,5 +1,6 @@
 # Essex
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -16,8 +17,8 @@ capital = 238
 		dip = 4
 		mil = 3
 	}
-	add_ruler_personality = kind_hearted_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
 }
 1440.1.1 = {
 	heir = {
@@ -26,7 +27,7 @@ capital = 238
 		dynasty = "Offing"
 		birth_date = 1440.1.1
 		death_date = 1520.1.1
-		adm = 4
+		adm = 3
 		dip = 3
 		mil = 3
 	}

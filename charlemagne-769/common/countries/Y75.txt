@@ -145,10 +145,10 @@ monarch_names = {
 	"Zarmihr #0" = 0
 
 
-	"Kohar #0" = -1
-	"Nazani #0" = -1
-	"Hripsimeh #0" = -1
-	"Leyli #0" = -1
+	"Margarid #0" = -1
+	"Lousin #0" = -1
+	"Almasd #0" = -1
+	"Eliz #0" = -1
 }
 ship_names = {
 	Aragveti Anacopia Artaani Abkhazeti

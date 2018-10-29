@@ -128,11 +128,11 @@ monarch_names = {
 	"Zenku #0" = 0
 
 
-	"Namandjé #0" = -1
-	"Nana #0" = -1
-	"Aminata #0" = -1
-	"Fatim #0" = -1
-	"Deye #0" = -1
+	"Adja #0" = -1
+	"Aissata #0" = -1
+	"Namiss #0" = -1
+	"Fadima #0" = -1
+	"Kolonkan #0" = -1
 }
 ship_names = {
 	Kiringa Timbuktu "Koumbi Saleh" Gao

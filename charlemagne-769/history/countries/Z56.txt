@@ -1,5 +1,6 @@
 # Friuli
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 1769
 		name = "Peter"
 		birth_date = 1410.1.1
 		dynasty = "Munichingi"
-		adm = 4
-		dip = 3
-		mil = 3
+		adm = 1
+		dip = 0
+		mil = 6
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 1769

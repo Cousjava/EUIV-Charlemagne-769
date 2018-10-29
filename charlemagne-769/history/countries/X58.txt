@@ -1,5 +1,6 @@
 # Zhetysu
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -9,14 +10,14 @@ clear_scripted_personalities = yes
 capital = 459
 1444.1.1 = {
 	monarch = {
-		name = "Togli"
-		birth_date = 1408.3.8
+		name = "Uzluk"
+		birth_date = 1417.2.6
 		dynasty = "Zhetysu"
 		adm = 2
-		dip = 0
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
 	capital = 459

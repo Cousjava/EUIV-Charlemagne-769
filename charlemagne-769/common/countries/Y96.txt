@@ -75,10 +75,10 @@ monarch_names = {
 	"Zuber #0" = 0
 
 
-	"Luula #0" = -1
-	"Cawo #0" = -1
-	"Leyla #0" = -1
-	"Alaso #0" = -1
-	"Ladan #0" = -1
+	"Canab #0" = -1
+	"Ambro #0" = -1
+	"Ubah #0" = -1
+	"Astur #0" = -1
+	"Khadra #0" = -1
 }
 

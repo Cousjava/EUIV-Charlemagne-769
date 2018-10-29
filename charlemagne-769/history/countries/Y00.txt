@@ -1,5 +1,6 @@
 # Pruthenia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 1841
 		name = "Bezprzym"
 		birth_date = 1408.1.1
 		dynasty = "Wilks"
-		adm = 1
-		dip = 4
+		adm = 4
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = benevolent_personality
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 1841

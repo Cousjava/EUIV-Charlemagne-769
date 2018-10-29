@@ -592,10 +592,10 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Muirenn #0" = -1
-	"Aibilín #0" = -1
-	"Dúinsech #0" = -1
-	"Suaibsech #0" = -1
+	"Samthann #0" = -1
+	"Mór #0" = -1
+	"Echrad #0" = -1
+	"Lathir #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

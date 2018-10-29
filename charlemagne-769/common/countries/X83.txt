@@ -287,11 +287,11 @@ monarch_names = {
 	"Zymt #0" = 0
 
 
-	"Nazgol #0" = -1
-	"Funa #0" = -1
-	"Anakhit #0" = -1
-	"Makh #0" = -1
+	"Nanai #0" = -1
+	"Khansch #0" = -1
+	"Mah #0" = -1
 	"Upach #0" = -1
+	"Nana #0" = -1
 }
 ship_names = {
 	Abathur "Adamn Kasia" "Aesma Daeva" Agas

@@ -1,5 +1,6 @@
 # Savo
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 31
 		name = "Sampo"
 		birth_date = 1414.1.1
 		dynasty = "Savolainen"
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 1
+		dip = 3
+		mil = 0
 	}
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = craven_personality
 }
 1439.1.1 = {
 	heir = {

@@ -1,5 +1,6 @@
 # Lombardy
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 104
 		name = "Desiderius"
 		birth_date = 1392.1.1
 		dynasty = "Alachisling"
-		adm = 2
-		dip = 2
-		mil = 4
+		adm = 4
+		dip = 0
+		mil = 2
 	}
-	add_ruler_personality = infertile_personality
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = drunkard_personality
 }
 1434.1.1 = {
 	heir = {
@@ -28,9 +29,9 @@ capital = 104
 		death_date = 1514.1.1
 		adm = 3
 		dip = 2
-		mil = 2
+		mil = 3
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
 	capital = 104

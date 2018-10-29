@@ -276,9 +276,9 @@ monarch_names = {
 	"Zenobios #0" = 0
 
 
-	"Sergia #0" = -1
-	"Theophano #0" = -1
-	"Romylia #0" = -1
+	"Eulalia #0" = -1
+	"Leontia #0" = -1
+	"Eustathia #0" = -1
 }
 ship_names = {
 	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"

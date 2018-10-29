@@ -8,39 +8,39 @@ color = { 153 67 108 }
 
 leader_names = {
 
-	"Nibelung" "Teudoin" "Theoderic" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Theodbert" "Abba" "Berta" 
-	"Drogo" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" 
+	"Nibelung" "Theodbert" "Theoderic" "Teudoin" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Abba" "Berta" 
+	"Dreux" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" 
 	"Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Arnulf" 
 	"Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" 
 	"Berald" "Bernard" "Berneri" "Bero" "Berold" "Berthefried" "Bertlin" "Bertram" "Bertrand" "Burchard" 
 	"Karloman" "Ceslin" "Chararic" "Charibert" "Childebert" "Childeric" "Chilperic" "Chlodomer" "Chlothar" "Chramnesind" 
-	"Clodio" "Clodion" "Clovis" "Creat" "Dagaric" "Dagobert" "Eberulf" "Ebregisel" "Engilbert" "Euric" 
-	"Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" "Frobert" "Frotari" "Frothard" "Frothari" 
-	"Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" "Gaucelm" "Gaudulf" "Gaujoin" "Gausbert" 
-	"Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" "Gerbert" "Gerhard" "Gerold" "Gislari" 
-	"Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" "Guadulf" "Gualtari" "Gualter" "Guillabert" 
-	"Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" "Hildebald" "Hildebold" "Hildegaud" "Hildevold" 
-	"Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" "Karl" "Lambert" "Lantbert" "Leudast" 
-	"Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" "Marell" "Martin" "Maurifi" 
-	"Meginhard" "Merogais" "Merovech" "Munderic" "Odelric" "Odolric" "Otbert" "Otgeri" "Otker" "Pepin" 
-	"Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" "Ragnachar" "Ragnald" "Ragno" 
-	"Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" "Rignomer" "Roland" "Robert" 
-	"Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" "Siclevold" "Sigebald" "Sigebert" 
-	"Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" "Tancred" "Tassilo" "Teotbert" 
-	"Tetbert" "Teutbald" "Teutbert" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" "Trutgaud" 
-	"Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
+	"Clodio" "Clodion" "Clovis" "Creat" "Dagaric" "Dagobert" "Drogo" "Eberulf" "Ebregisel" "Engilbert" 
+	"Euric" "Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" "Frobert" "Frotari" "Frothard" 
+	"Frothari" "Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" "Gaucelm" "Gaudulf" "Gaujoin" 
+	"Gausbert" "Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" "Gerbert" "Gerhard" "Gerold" 
+	"Gislari" "Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" "Guadulf" "Gualtari" "Gualter" 
+	"Guillabert" "Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" "Hildebald" "Hildebold" "Hildegaud" 
+	"Hildevold" "Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" "Karl" "Lambert" "Lantbert" 
+	"Leudast" "Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" "Marell" "Martin" 
+	"Maurifi" "Meginhard" "Merogais" "Merovech" "Munderic" "Odelric" "Odolric" "Otbert" "Otgeri" "Otker" 
+	"Pepin" "Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" "Ragnachar" "Ragnald" 
+	"Ragno" "Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" "Rignomer" "Roland" 
+	"Robert" "Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" "Siclevold" "Sigebald" 
+	"Sigebert" "Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" "Tancred" "Tassilo" 
+	"Teotbert" "Tetbert" "Teutbald" "Teutbert" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" 
+	"Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
 	"Nibelung #0" = 1
-	"Teudoin #0" = 1
+	"Theodbert #0" = 1
 	"Theoderic #1" = 21
+	"Teudoin #0" = 1
 	"Adalelm #0" = 1
 	"Childebrand #0" = 1
 	"Niebelung #0" = 1
 	"Guillaume #0" = 1
-	"Theodbert #0" = 1
 	"Abba #0" = -1
 	"Berta #0" = -1
-	"Drogo #1" = 0
+	"Dreux #1" = 0
 	"Abrahil #0" = 0
 	"Abram #0" = 0
 	"Adalbald #0" = 0
@@ -96,6 +96,7 @@ monarch_names = {
 	"Creat #0" = 0
 	"Dagaric #0" = 0
 	"Dagobert #0" = 0
+	"Drogo #0" = 0
 	"Eberulf #0" = 0
 	"Ebregisel #0" = 0
 	"Engilbert #0" = 0
@@ -241,8 +242,8 @@ monarch_names = {
 	"Wolfari #0" = 0
 
 
-	"Chlothsinda #0" = -1
-	"Illegardis #0" = -1
-	"Berthildis #0" = -1
+	"Framberta #0" = -1
+	"Gundrada #0" = -1
+	"Beretrude #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Nagchu
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = chinese
@@ -17,8 +18,8 @@ capital = 4205
 		dip = 3
 		mil = 6
 	}
-	add_ruler_personality = fierce_negotiator_personality
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = calm_personality
 }
 1444.11.11 = {
 	capital = 4205

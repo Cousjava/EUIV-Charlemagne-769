@@ -1,5 +1,6 @@
 # Radimichia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 4244
 		name = "Stanislav"
 		birth_date = 1408.1.1
 		dynasty = "Radimich"
-		adm = 4
-		dip = 1
-		mil = 2
+		adm = 0
+		dip = 4
+		mil = 0
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = industrious_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
 	capital = 4244

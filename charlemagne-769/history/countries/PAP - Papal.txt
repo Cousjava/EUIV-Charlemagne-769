@@ -1,5 +1,6 @@
 # The Papacy
-government = papal_government
+government = theocracy
+add_government_reform = papacy_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
@@ -11,10 +12,10 @@ capital = 118
 	monarch = {
 		name = "Stephanus III"
 		birth_date = 1375.1.1
-		dynasty = "Panico"
-		adm = 3
+		dynasty = "Caldera"
+		adm = 4
 		dip = 5
-		mil = 3
+		mil = 2
 	}
 	add_ruler_personality = charismatic_negotiator_personality
 }

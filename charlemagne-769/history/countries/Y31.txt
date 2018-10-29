@@ -1,5 +1,6 @@
 # Tarján
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -13,10 +14,10 @@ capital = 290
 		birth_date = 1423.1.1
 		dynasty = "Tarján"
 		adm = 2
-		dip = 1
-		mil = 4
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
 	capital = 290

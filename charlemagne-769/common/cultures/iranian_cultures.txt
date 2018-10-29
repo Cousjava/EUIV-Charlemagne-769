@@ -1,7 +1,7 @@
 iranian = {
 	sogdian = {
 		primary = KHO
-		dynasty_names = { "Chaghan" "Khuda" "Afshin" "Vijaya" "Kasyar" "Sarikol" "Qiepantuo" "Wakhanshah" "Muqannid" "Wardana" "Al-Barm" "Kharstrangid" "Tishtryid" "Kartirid" "Ardavan" "Spadhkharid" }
+		dynasty_names = { "Chaghan" "Khuda" "Afshin" "Vijaya" "Kasyar" "Sarikol" "Qiepantuo" "Wakhanshah" "Muqannid" "Wardana" "Al-Barm" "Kharstrangid" "Oshid" "Kartirid" "Ardavan" "Spadhkharid" }
 	}
 	tocharian = {
 		primary = KAS

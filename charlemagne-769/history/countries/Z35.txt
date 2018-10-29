@@ -1,5 +1,6 @@
 # Aquitaine
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -14,9 +15,9 @@ capital = 4111
 		dynasty = "Louping"
 		adm = 3
 		dip = 6
-		mil = 2
+		mil = 3
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = expansionist_personality
 }
 1444.11.11 = {
 	capital = 4111

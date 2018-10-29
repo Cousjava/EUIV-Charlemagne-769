@@ -1,5 +1,6 @@
 # Connachta
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -13,21 +14,21 @@ capital = 376
 		birth_date = 1389.1.1
 		dynasty = "Ua Briúin Aí"
 		adm = 3
-		dip = 2
-		mil = 3
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
 		name = "Colla"
 		monarch_name = "Colla"
 		dynasty = "Ua Briúin Aí"
 		birth_date = 1407.1.1
 		death_date = 1487.1.1
-		adm = 4
-		dip = 3
+		adm = 3
+		dip = 2
 		mil = 3
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 376

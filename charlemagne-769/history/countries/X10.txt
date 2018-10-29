@@ -1,5 +1,6 @@
 # Araouane
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = sub_saharan
@@ -12,11 +13,11 @@ capital = 1128
 		name = "Gulusa"
 		birth_date = 1425.1.1
 		dynasty = "Masuna"
-		adm = 4
-		dip = 1
+		adm = 0
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
 	capital = 1128

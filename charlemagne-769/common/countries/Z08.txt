@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Niall" "Murchad" "Flann" "Donnachad" "Flaithbertach" "Áed" "Domnall" "Máel-Bressail" "Ercaid" "Congalach" 
+	"Niall" "Murchad" "Flann" "Ercaid" "Donnachad" "Flaithbertach" "Áed" "Domnall" "Máel-Bressail" "Congalach" 
 	"Conall Gulban" "Eógán" "Conall Cremthainne" "Muiredach" "Fergus" "Doi" "Énna" "Dungal" "Melge" "Muirchertach" 
 	"Senta" "Fedlimid" "Brenan" "Brandub" "Ninnid" "Diarmait" "Colmán" "Ainmire" "Eoghan" "Baetan" 
 	"Garban" "Feradach" "Ciaran" "Tinne" "Columba" "Suibne" "Baithéne" "Conall-Cú" "Áed Sláine" "Lasrén" 
@@ -92,12 +92,12 @@ monarch_names = {
 	"Niall #0" = 1
 	"Murchad #0" = 1
 	"Flann #0" = 1
+	"Ercaid #0" = 1
 	"Donnachad #0" = 1
 	"Flaithbertach #0" = 1
 	"Áed #0" = 1
 	"Domnall #0" = 1
 	"Máel-Bressail #0" = 1
-	"Ercaid #0" = 1
 	"Congalach #0" = 1
 	"Conall Gulban #0" = 1
 	"Eógán #0" = 1
@@ -626,10 +626,10 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Étaín #0" = -1
-	"Martha #0" = -1
-	"Sétach #0" = -1
-	"Lígach #0" = -1
+	"Sáerlaith #0" = -1
+	"Brigit #0" = -1
+	"Caisséne #0" = -1
+	"Lerben #0" = -1
 }
 ship_names = {
 	Aoife

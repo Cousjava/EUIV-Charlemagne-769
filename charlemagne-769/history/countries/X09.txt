@@ -1,5 +1,6 @@
 # Taghaza
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = sub_saharan
@@ -14,20 +15,20 @@ capital = 1128
 		dynasty = "Cabaonid"
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 1
 	}
-	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = secretive_personality
 	heir = {
 		name = "Lacumaces"
 		monarch_name = "Lacumaces"
 		dynasty = "Cabaonid"
 		birth_date = 1423.1.1
 		death_date = 1503.1.1
-		adm = 0
-		dip = 0
-		mil = 1
+		adm = 3
+		dip = 6
+		mil = 3
 	}
-	add_heir_personality = calm_personality
+	add_heir_personality = just_personality
 }
 1444.11.11 = {
 	capital = 1128

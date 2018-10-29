@@ -77,10 +77,10 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Qamara #0" = -1
-	"Reshawna #0" = -1
-	"Taliba #0" = -1
-	"Paymaneh #0" = -1
-	"Sheeftah #0" = -1
+	"Shameem #0" = -1
+	"Maryam #0" = -1
+	"Asiya #0" = -1
+	"Shahzadah #0" = -1
+	"Shahrbano #0" = -1
 }
 

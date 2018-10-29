@@ -1,5 +1,6 @@
 # Satakunta
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 4123
 		name = "Ihala"
 		birth_date = 1413.1.1
 		dynasty = "Virtanen"
-		adm = 3
-		dip = 0
+		adm = 2
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = craven_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = infertile_personality
 }
 1442.1.1 = {
 	heir = {
@@ -26,8 +27,8 @@ capital = 4123
 		dynasty = "Virtanen"
 		birth_date = 1442.1.1
 		death_date = 1522.1.1
-		adm = 4
-		dip = 3
+		adm = 3
+		dip = 4
 		mil = 4
 	}
 }

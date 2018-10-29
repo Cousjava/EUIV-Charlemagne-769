@@ -1,5 +1,6 @@
 # Nordland
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 21
 		name = "Ormr"
 		birth_date = 1415.1.1
 		dynasty = "av Nordland"
-		adm = 4
-		dip = 4
-		mil = 1
+		adm = 2
+		dip = 0
+		mil = 2
 	}
-	add_ruler_personality = just_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 21

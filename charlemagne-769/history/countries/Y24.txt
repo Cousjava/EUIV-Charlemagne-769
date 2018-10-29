@@ -1,5 +1,6 @@
 # Rashka
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,22 +13,22 @@ capital = 1827
 		name = "Vojislav"
 		birth_date = 1410.1.1
 		dynasty = "Vlastimirovic"
-		adm = 1
-		dip = 1
-		mil = 3
+		adm = 3
+		dip = 4
+		mil = 1
 	}
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = kind_hearted_personality
 	heir = {
 		name = "Radoslav"
 		monarch_name = "Radoslav"
 		dynasty = "Vlastimirovic"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 2
+		adm = 3
 		dip = 3
-		mil = 2
+		mil = 3
 	}
-	add_heir_personality = conqueror_personality
+	add_heir_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 1827

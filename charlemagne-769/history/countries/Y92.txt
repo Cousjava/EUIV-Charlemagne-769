@@ -1,5 +1,6 @@
 # Tamdoult
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,12 +13,12 @@ capital = 347
 		name = "Salih"
 		birth_date = 1395.1.1
 		dynasty = "Barghawata"
-		adm = 3
-		dip = 3
-		mil = 0
+		adm = 1
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
 	capital = 347

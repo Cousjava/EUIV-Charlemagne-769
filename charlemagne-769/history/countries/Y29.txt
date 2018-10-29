@@ -1,5 +1,6 @@
 # Chrobatia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 1953
 		name = "Tvrdoslav"
 		birth_date = 1394.1.1
 		dynasty = "Bijelahrvatskic"
-		adm = 2
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = entrepreneur_personality
 }
 1416.1.1 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 1953
 		dynasty = "Bijelahrvatskic"
 		birth_date = 1416.1.1
 		death_date = 1496.1.1
-		adm = 1
+		adm = 3
 		dip = 3
-		mil = 1
+		mil = 2
 	}
-	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 1953

@@ -1,5 +1,6 @@
 # Wag
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,11 +13,11 @@ capital = 1227
 		name = "Ayzur"
 		birth_date = 1395.1.1
 		dynasty = "Solomonid"
-		adm = 4
-		dip = 2
+		adm = 1
+		dip = 1
 		mil = 2
 	}
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 1227

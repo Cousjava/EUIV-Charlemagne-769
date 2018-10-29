@@ -1,5 +1,6 @@
 # Dregovichia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 278
 		name = "Igor"
 		birth_date = 1413.1.1
 		dynasty = "Dregovich"
-		adm = 3
-		dip = 0
-		mil = 2
+		adm = 2
+		dip = 1
+		mil = 1
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = silver_tongue_personality
 }
 1439.1.1 = {
 	heir = {

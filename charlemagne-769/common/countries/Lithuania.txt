@@ -119,10 +119,10 @@ monarch_names = {
 	"Zygimantas #0" = 0
 
 
-	"Evalda #0" = -1
-	"Giedre #0" = -1
+	"Vida #0" = -1
 	"Aldona #0" = -1
-	"Gintare #0" = -1
+	"Laima #0" = -1
+	"Gaudimante #0" = -1
 	"Svajone #0" = -1
 }
 ship_names = {

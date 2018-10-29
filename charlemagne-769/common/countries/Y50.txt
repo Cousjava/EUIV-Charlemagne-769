@@ -1,7 +1,7 @@
 # Bozok
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 229 215 73 }
+color = { 255 151 126 }
 
 
 
@@ -135,9 +135,9 @@ monarch_names = {
 	"Yunus #0" = 0
 
 
-	"Çiçek #0" = -1
-	"Lale #0" = -1
-	"Irge #0" = -1
+	"Canan #0" = -1
+	"Emine #0" = -1
+	"Serife #0" = -1
 	"Umay #0" = -1
 }
 

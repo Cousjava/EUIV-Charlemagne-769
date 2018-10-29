@@ -105,10 +105,10 @@ monarch_names = {
 	"Zula #0" = 0
 
 
-	"Sheba #0" = -1
-	"Misrak #0" = -1
-	"Totit #0" = -1
-	"Kelyle #0" = -1
-	"Senalat #0" = -1
+	"Selassie #0" = -1
+	"Kayla #0" = -1
+	"Louama #0" = -1
+	"Sisay #0" = -1
+	"Sela #0" = -1
 }
 

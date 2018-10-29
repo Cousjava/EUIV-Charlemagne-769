@@ -1,5 +1,6 @@
 # Karvuna
-government = despotic_monarchy
+government = monarchy
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -13,10 +14,10 @@ capital = 159
 		birth_date = 1425.1.2
 		dynasty = "Dulo"
 		adm = 3
-		dip = 1
+		dip = 3
 		mil = 6
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
 	capital = 159

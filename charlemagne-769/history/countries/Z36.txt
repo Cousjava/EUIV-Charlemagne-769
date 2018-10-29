@@ -1,5 +1,6 @@
 # Franconia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 79
 		name = "Thuringus"
 		birth_date = 1394.1.1
 		dynasty = "Hetanid"
-		adm = 2
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 3
+		mil = 2
 	}
 	add_ruler_personality = conqueror_personality
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = expansionist_personality
 }
 1444.11.11 = {
 	capital = 79

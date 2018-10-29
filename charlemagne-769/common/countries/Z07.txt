@@ -34,8 +34,8 @@ historical_units = {
 
 leader_names = {
 
-	"Muiredach" "Tadg" "Murgal" "Cináed" "Diarmait" "Máel-Cothaid" "Fagartach" "Áed" "Tipraite" "Tommaltach" 
-	"Fínsnechta" "Muirgius" "Fothad" "Colla" "Artgal" "Dub-Díbeirgg" "Flaithrí" "Fergus" "Uatu" "Rogallach" 
+	"Muiredach" "Tadg" "Murgal" "Diarmait" "Cináed" "Máel-Cothaid" "Fagartach" "Áed" "Tipraite" "Tommaltach" 
+	"Fínsnechta" "Fothad" "Muirgius" "Colla" "Artgal" "Dub-Díbeirgg" "Flaithrí" "Fergus" "Uatu" "Rogallach" 
 	"Cathal" "Cellach" "Domnall" "Indrechtach" "Dub-Indrecht" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" 
 	"Áedgen" "Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" 
 	"Ailgel" "Áilgenán" "Ailgus" "Ailill" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" 
@@ -89,16 +89,16 @@ monarch_names = {
 	"Muiredach #0" = 1
 	"Tadg #0" = 1
 	"Murgal #0" = 1
-	"Cináed #0" = 1
 	"Diarmait #0" = 1
+	"Cináed #0" = 1
 	"Máel-Cothaid #0" = 1
 	"Fagartach #0" = 1
 	"Áed #0" = 1
 	"Tipraite #0" = 1
 	"Tommaltach #0" = 1
 	"Fínsnechta #0" = 1
-	"Muirgius #0" = 1
 	"Fothad #0" = 1
+	"Muirgius #0" = 1
 	"Colla #0" = 1
 	"Artgal #0" = 1
 	"Dub-Díbeirgg #0" = 1
@@ -589,11 +589,11 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Étaín #0" = -1
-	"Martha #0" = -1
-	"Sétach #0" = -1
-	"Lígach #0" = -1
-	"Euginia #0" = -1
+	"Sáerlaith #0" = -1
+	"Brigit #0" = -1
+	"Caisséne #0" = -1
+	"Lerben #0" = -1
+	"Echrad #0" = -1
 }
 ship_names = {
 	Aoife

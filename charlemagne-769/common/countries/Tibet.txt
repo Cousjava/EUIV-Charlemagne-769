@@ -8,7 +8,7 @@ color = { 250 40 0 }
 
 leader_names = {
 
-	"Esho Lek" "Trisong Detsen" "Muné" "Sadnalegs" "Mutik" "Mutri" "Desho Lek" "Tisho Lek" "Guru Lek" "Trongzhi Lek" 
+	"Esho Lek" "Trisong Detsen" "Muné" "Mutik" "Sadnalegs" "Mutri" "Desho Lek" "Tisho Lek" "Guru Lek" "Trongzhi Lek" 
 	"Isho Lek" "Zanam Zindé" "Detrul Namshungtsen" "Senöl Namdé" "Senöl Podé" "Senöl Nam" "Senöl Po" "Degyel Po" "Detrin Tsen" "Tori Longtsen" 
 	"Tritsen Nam" "Tridra Pungtsen" "Tritog Jetsen" "Lha Thothori Nyantsen" "Trinyen Zungtsen" "Drongnyen Deu" "Tagbu Nyasig" "Namri Songtsen" "Tsensong" "Gungsrong Gungtsen" 
 	"Songtsen Gampo" "Sadmarkar" "Mangsong Mangtsen" "Tridu Songtsen" "Thridang" "Lha Balpo" "Dronmalön" "Me Agtsom" "Thrimalö" "Aglen" 
@@ -33,8 +33,8 @@ monarch_names = {
 	"Esho Lek #0" = 1
 	"Trisong Detsen #1" = 18
 	"Muné #0" = 1
-	"Sadnalegs #0" = 1
 	"Mutik #0" = 1
+	"Sadnalegs #0" = 1
 	"Mutri #0" = 1
 	"Desho Lek #0" = 1
 	"Tisho Lek #0" = 1
@@ -242,6 +242,6 @@ monarch_names = {
 	"Zungtsen #0" = 0
 
 
-	"Tse #0" = -1
+	"Hariti #0" = -1
 }
 

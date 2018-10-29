@@ -1,5 +1,6 @@
 # Bavandid
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -13,10 +14,10 @@ capital = 426
 		birth_date = 1375.1.1
 		dynasty = "Bavandid"
 		adm = 3
-		dip = 3
-		mil = 0
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
 	capital = 426

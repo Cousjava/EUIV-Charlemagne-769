@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  aztec_ideas: "Aztec Ideas"
  aztec_ideas_start: "Aztec Traditions"
  astec_ideas_bonus: "Aztec Ambitions"
@@ -11,8 +11,8 @@ l_english:
  sunset_flower_wars_desc: "A new ritual called the Flower Wars are started. These wars help by supplying experienced warriors to the empire and keeping the vassal kingdoms under control by making them occupied with fighting a pre-arranged enemy."
  invade_whiteskins: "Invade the Whiteskins"
  invade_whiteskins_desc: "Since encountering the whiteskins up in the frozen plains of the north, it has been every Emperor's ambition to conquer these new lands and colonize the savages. With a few reforms, the navy should be equipped to launch a full-scale invasion of this new world instead of just sending a smaller scout force."
- azt_state_admin_reform: "State Adminstration Reform"
- azt_state_admin_reform_desc: "The adminstration of the empire was almost non-existent and very primitive. In order to manage this vast state, the Emperor had to expand the bureaucracy in the capital to aid in controlling the farthest territories."
+ azt_state_admin_reform: "State Administration Reform"
+ azt_state_admin_reform_desc: "The administration of the empire was almost non-existent and very primitive. In order to manage this vast state, the Emperor had to expand the bureaucracy in the capital to aid in controlling the farthest territories."
  found_imperial_cities: "Found the Imperial Cities"
  found_imperial_cities_desc: "Most of the areas to the north of the empire were free for the taking with only smaller tribes offering resistance. By state funding the construction of new cities directly under imperial control, these areas may flourish and enjoy tremendous economic growth."
  form_imperial_army: "Form the Imperial Jaguars and Eagles"
@@ -29,7 +29,7 @@ l_english:
  official_axe_monies_desc: "The local mindalae trading class had been using axe-monies to support their economy. This has now become the official currency of the empire to help the flow of trade within and beyond the borders of the empire."
  imperial_gold_trading: "Imperial Gold Trading"
  imperial_gold_trading_desc: "The empire has discovered that the whiteskins love the useless silver and gold we use for decorations. Why not sell it to them overpriced and put that money to good use?"
- inc_state_admin_reform: "State Adminstration Reform"
- inc_state_admin_reform_desc: "The adminstration of the empire was almost non-existent and very primitive. In order to manage this vast state, the Emperor had to expand the bureaucracy in the capital to aid in controlling the farthest territories."
+ inc_state_admin_reform: "State Administration Reform"
+ inc_state_admin_reform_desc: "The administration of the empire was almost non-existent and very primitive. In order to manage this vast state, the Emperor had to expand the bureaucracy in the capital to aid in controlling the farthest territories."
  inc_imperial_road_network: "The Imperial Road Network"
  inc_imperial_road_network_desc: "As a vast empire, it would take many hazardous years to travel from one end to the other. An imperial road network was built and the trade in the empire has flourished as new opportunities opened up."

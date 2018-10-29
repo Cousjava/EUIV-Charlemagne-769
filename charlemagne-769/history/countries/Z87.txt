@@ -1,5 +1,6 @@
 # Abkhazia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 462
 		name = "Levan II"
 		birth_date = 1425.1.1
 		dynasty = "Anchabadze"
-		adm = 1
-		dip = 1
-		mil = 3
+		adm = 3
+		dip = 3
+		mil = 4
 	}
-	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
 	capital = 462

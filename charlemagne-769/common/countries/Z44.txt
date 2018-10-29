@@ -263,10 +263,10 @@ monarch_names = {
 	"Wolfari #0" = 0
 
 
-	"Chlothsinda #0" = -1
-	"Illegardis #0" = -1
-	"Berthildis #0" = -1
-	"Ingohildis #0" = -1
+	"Eldesendis #0" = -1
+	"Liutgarde #0" = -1
+	"Lanthechilde #0" = -1
+	"Monegund #0" = -1
 }
 ship_names = {
 	Armançon Arroux

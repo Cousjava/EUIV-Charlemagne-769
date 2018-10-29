@@ -1,5 +1,6 @@
 # Suakin
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,9 +13,9 @@ capital = 1232
 		name = "Papasinen"
 		birth_date = 1417.1.1
 		dynasty = "Amarrar"
-		adm = 1
-		dip = 1
-		mil = 1
+		adm = 3
+		dip = 3
+		mil = 0
 	}
 	add_ruler_personality = craven_personality
 }

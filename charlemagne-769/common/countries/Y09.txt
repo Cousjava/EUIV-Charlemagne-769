@@ -74,11 +74,11 @@ monarch_names = {
 	"Yurak #0" = 0
 
 
-	"Tadane #0" = -1
+	"Ilme #0" = -1
 	"Senda #0" = -1
+	"Kat #0" = -1
 	"Kujku #0" = -1
-	"Syeju #0" = -1
-	"Tada #0" = -1
+	"Atpälha #0" = -1
 }
 ship_names = {
 	Cherdyn Pelym Kudym-Osha Shudeg

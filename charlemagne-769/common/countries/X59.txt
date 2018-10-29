@@ -8,7 +8,7 @@ color = { 221 187 80 }
 
 leader_names = {
 
-	"Manavanna" "Aggabodhi" "Mahinda" "Dappula" "Kassapa" "Agabala" "Agibuti" "Ananda" "Anikanga" "Apaya" 
+	"Manavanna" "Aggabodhi" "Dappula" "Mahinda" "Kassapa" "Agabala" "Agibuti" "Ananda" "Anikanga" "Apaya" 
 	"Arittha" "Avirada" "Ayasmantha" "Bhuvanekabahu" "Butisamana" "Chodaganga" "Dahamsena" "Danamitta" "Dathappabhuti" "Dathopatissa" 
 	"Dharmapala" "Dharmasena" "Dharmasoka" "Dhatusena" "Digakassapa" "Diganaguli" "Digasumana" "Gajabahu" "Hadaka" "Hadana" 
 	"Hujata" "Jayabahu" "Jetthatissa" "Jhotisena" "Kashyapa" "Kitti" "Kittisena" "Kittivarma" "Magamitta" "Mahadeva" 
@@ -21,8 +21,8 @@ leader_names = {
 monarch_names = {
 	"Manavanna #0" = 1
 	"Aggabodhi #1" = 24
-	"Mahinda #0" = 1
 	"Dappula #0" = 1
+	"Mahinda #0" = 1
 	"Kassapa #0" = 1
 	"Agabala #0" = 0
 	"Agibuti #0" = 0
@@ -112,10 +112,10 @@ monarch_names = {
 	"Viranarendra #0" = 0
 
 
-	"Damati #0" = -1
+	"Paduma #0" = -1
 	"Ahali #0" = -1
-	"Bodhideva #0" = -1
-	"Damarajha #0" = -1
-	"Tissadevi #0" = -1
+	"Damaguta #0" = -1
+	"Sagara #0" = -1
+	"Devanapiya #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Kindah
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 506
 		name = "Ubayd"
 		birth_date = 1405.4.4
 		dynasty = "Kindah"
-		adm = 3
+		adm = 6
 		dip = 0
-		mil = 4
+		mil = 3
 	}
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 506

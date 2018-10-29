@@ -1,25 +1,26 @@
 # Chauhan
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
 primary_culture = rajput
 religion = hinduism
 clear_scripted_personalities = yes
-capital = 2064
+capital = 2066
 1443.1.1 = {
 	monarch = {
 		name = "Gopendraraja"
 		birth_date = 1398.1.1
 		dynasty = "Chauhan"
-		adm = 3
-		dip = 2
+		adm = 2
+		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = just_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
-	capital = 2064
+	capital = 2066
 	add_treasury = 6
 	add_prestige = 18
 }

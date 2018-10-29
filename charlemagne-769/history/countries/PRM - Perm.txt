@@ -1,5 +1,6 @@
 # Perm
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,9 +13,9 @@ capital = 305
 		name = "Omurtag"
 		birth_date = 1413.1.1
 		dynasty = "Permyakid"
-		adm = 1
-		dip = 3
-		mil = 2
+		adm = 2
+		dip = 5
+		mil = 1
 	}
 	add_ruler_personality = silver_tongue_personality
 	heir = {

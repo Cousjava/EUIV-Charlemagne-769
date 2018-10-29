@@ -31,8 +31,8 @@ historical_units = {
 
 leader_names = {
 
-	"Abbas" "Qutham" "Isa" "Al-Mahdi" "al-Hadi" "Abd al-Malik" "Abdallah" "Al-Hadi" "Harun al-Rashid" "Al-Mansur" 
-	"Abd ar-Rahman" "Ja'far" "Abd al-Bahhab" "Abbasa" "Ubaydallah" "Ibrahim" "Rayta" "Al-Fadl" "al-Sariyy" "Abdullah" 
+	"Abbas" "Qutham" "Al-Mahdi" "Ja'far" "al-Hadi" "Harun al-Rashid" "Abd al-Malik" "Abdallah" "Al-Hadi" "Isa" 
+	"Al-Mansur" "Abd al-Bahhab" "Abd ar-Rahman" "Abbasa" "Ubaydallah" "Ibrahim" "Rayta" "Al-Fadl" "al-Sariyy" "Abdullah" 
 	"al-Harith" "Asma" "Ali" "Muhammad" "As-Saffah" "Musa" "Salih" "Muawiyah" "Yazid" "Marwan" 
 	"Abu-al-Malik" "al-Walid" "Sulayman" "Umar" "Hisham" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" 
 	"Abdul-Wahab" "Abdul" "Aghlab" "Akin" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" 
@@ -44,17 +44,17 @@ leader_names = {
 monarch_names = {
 	"Abbas #0" = 1
 	"Qutham #0" = 1
-	"Isa #0" = 1
 	"Al-Mahdi #0" = 1
+	"Ja'far #0" = 1
 	"al-Hadi #0" = 1
+	"Harun al-Rashid #0" = 1
 	"Abd al-Malik #0" = 1
 	"Abdallah #0" = 1
 	"Al-Hadi #0" = 1
-	"Harun al-Rashid #0" = 1
+	"Isa #0" = 1
 	"Al-Mansur #1" = 18
-	"Abd ar-Rahman #0" = 1
-	"Ja'far #0" = 1
 	"Abd al-Bahhab #0" = 1
+	"Abd ar-Rahman #0" = 1
 	"Abbasa #0" = -1
 	"Ubaydallah #0" = 1
 	"Ibrahim #1" = 21
@@ -138,8 +138,8 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Amsha #0" = -1
-	"Faghira #0" = -1
+	"Nyawela #0" = -1
+	"Yagana #0" = -1
 }
 ship_names = {
 	Arif

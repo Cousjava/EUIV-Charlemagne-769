@@ -215,11 +215,11 @@ monarch_names = {
 	"Zuchilo #0" = 0
 
 
-	"Sunilda #0" = -1
-	"Theodota #0" = -1
-	"Gaila #0" = -1
-	"Adelgrima #0" = -1
-	"Uta #0" = -1
+	"Gudeliva #0" = -1
+	"Gundeperga #0" = -1
+	"Theodarada #0" = -1
+	"Appa #0" = -1
+	"Marozia #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

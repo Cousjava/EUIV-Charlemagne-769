@@ -1,5 +1,6 @@
 # Shirazid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,11 +13,11 @@ capital = 1211
 		name = "Talut"
 		birth_date = 1423.1.1
 		dynasty = "Shirazid"
-		adm = 3
-		dip = 3
+		adm = 2
+		dip = 5
 		mil = 3
 	}
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 1211

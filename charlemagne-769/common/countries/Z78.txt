@@ -158,11 +158,11 @@ monarch_names = {
 	"Zygmunt #0" = 0
 
 
-	"Miroslava #0" = -1
-	"Václava #0" = -1
-	"Regelinda #0" = -1
+	"Milena #0" = -1
+	"Rycheza #0" = -1
 	"Gertruda #0" = -1
-	"Dragomira #0" = -1
+	"Bohuslava #0" = -1
+	"Václava #0" = -1
 }
 ship_names = {
 	Pommern "Herzog Kasimir" "Herzog Bogislaw"

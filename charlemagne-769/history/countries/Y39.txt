@@ -1,5 +1,6 @@
 # Mochkava
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 295
 		name = "Inzhay"
 		birth_date = 1408.1.1
 		dynasty = "Inzhayid"
-		adm = 4
-		dip = 4
-		mil = 5
+		adm = 6
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = inspiring_leader_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
 	capital = 295

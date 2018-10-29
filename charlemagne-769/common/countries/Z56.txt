@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Munichis" "Anselm" "Gisaltruda" "Hrodgaud" "Ursus" "Peter" "Gisulf" "Taso" "Grasulf" "Ago" 
+	"Munichis" "Anselm" "Gisaltruda" "Ursus" "Hrodgaud" "Peter" "Gisulf" "Taso" "Grasulf" "Ago" 
 	"Lupus" "Arnefrit" "Wechtar" "Landar" "Rodoald" "Ansfrid" "Ado" "Ferdulf" "Corvulus" "Pemmo" 
 	"Ratchis" "Aistulf" "Adalgis" "Adaloald" "Adhemar" "Agelmund" "Agilof" "Agilulf" "Agiprand" "Ahthari" 
 	"Aimeric" "Aiulf" "Ajo" "Alahis" "Alboin" "Aldihoc" "Alo" "Altpert" "Amefrith" "Ansfrith" 
@@ -54,8 +54,8 @@ monarch_names = {
 	"Munichis #0" = 1
 	"Anselm #1" = 18
 	"Gisaltruda #0" = -1
-	"Hrodgaud #0" = 1
 	"Ursus #0" = 1
+	"Hrodgaud #0" = 1
 	"Peter #1" = 18
 	"Gisulf #2" = 0
 	"Taso #1" = 0
@@ -219,10 +219,10 @@ monarch_names = {
 	"Zuchilo #0" = 0
 
 
-	"Sunilda #0" = -1
-	"Theodota #0" = -1
-	"Gaila #0" = -1
-	"Adelgrima #0" = -1
+	"Gudeliva #0" = -1
+	"Gundeperga #0" = -1
+	"Theodarada #0" = -1
+	"Appa #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

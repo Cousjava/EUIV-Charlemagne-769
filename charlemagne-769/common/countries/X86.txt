@@ -321,9 +321,9 @@ monarch_names = {
 	"Yugaraje #0" = 0
 
 
-	"Bhadra #0" = -1
-	"Purohite #0" = -1
-	"Kosthile #0" = -1
-	"Santisene #0" = -1
+	"Tati #0" = -1
+	"Vasisthe #0" = -1
+	"Sudarsane #0" = -1
+	"Roce #0" = -1
 }
 

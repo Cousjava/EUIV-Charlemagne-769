@@ -161,11 +161,11 @@ monarch_names = {
 	"Zygmunt #0" = 0
 
 
-	"Kenna #0" = -1
-	"Anna #0" = -1
-	"Wislawa #0" = -1
-	"Elzbieta #0" = -1
-	"Krystyna #0" = -1
+	"Nadzieja #0" = -1
+	"Maria #0" = -1
+	"Danuta #0" = -1
+	"Matylda #0" = -1
+	"Wszebora #0" = -1
 }
 ship_names = {
 	"Arka Noego"

@@ -262,10 +262,10 @@ monarch_names = {
 	"Zymt #0" = 0
 
 
-	"Kishan #0" = -1
 	"Sundari #0" = -1
 	"Sabhirai #0" = -1
-	"Jodhabai #0" = -1
-	"Nihal #0" = -1
+	"Anup #0" = -1
+	"Sulakhni #0" = -1
+	"Kishan #0" = -1
 }
 

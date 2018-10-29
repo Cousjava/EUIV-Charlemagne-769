@@ -1,5 +1,6 @@
 # Coloneia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 329
 		name = "Demetrios"
 		birth_date = 1413.1.1
 		dynasty = "Kophinas"
-		adm = 5
-		dip = 1
-		mil = 1
+		adm = 2
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
 	capital = 329

@@ -114,10 +114,10 @@ monarch_names = {
 	"Zviad #0" = 0
 
 
-	"Gogutsa #0" = -1
-	"Chiora #0" = -1
+	"Ana #0" = -1
 	"Taplo #0" = -1
-	"Lela #0" = -1
+	"Gvantsa #0" = -1
+	"Sanatha #0" = -1
 }
 ship_names = {
 	Aragveti Anacopia Artaani Abkhazeti

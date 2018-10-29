@@ -1,5 +1,6 @@
 # Burtasid
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -9,14 +10,14 @@ clear_scripted_personalities = yes
 capital = 2417
 1444.1.1 = {
 	monarch = {
-		name = "Basil"
-		birth_date = 1413.7.23
+		name = "Syrdon"
+		birth_date = 1405.10.11
 		dynasty = "Burtasid"
-		adm = 1
-		dip = 2
+		adm = 2
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
 	capital = 2417

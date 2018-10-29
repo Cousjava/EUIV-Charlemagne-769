@@ -1,5 +1,6 @@
 # Palmyra
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,9 +13,9 @@ capital = 405
 		name = "Yazid"
 		birth_date = 1410.1.1
 		dynasty = "Shaybanid"
-		adm = 4
-		dip = 1
-		mil = 4
+		adm = 2
+		dip = 5
+		mil = 3
 	}
 	add_ruler_personality = strict_personality
 }

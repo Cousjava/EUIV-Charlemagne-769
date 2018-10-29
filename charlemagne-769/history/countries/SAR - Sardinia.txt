@@ -1,5 +1,6 @@
 # Sardinia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 2986
 		name = "Lucia"
 		birth_date = 1416.1.1
 		dynasty = "Sorrenti"
-		adm = 0
+		adm = 3
 		dip = 3
-		mil = 4
+		mil = 5
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = conqueror_personality
 }
 1444.11.11 = {
 	capital = 2986

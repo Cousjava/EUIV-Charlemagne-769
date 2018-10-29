@@ -1,22 +1,23 @@
 # Pala
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = indian
 primary_culture = bengali
 religion = buddhism
 clear_scripted_personalities = yes
-capital = 563
+capital = 4479
 1444.1.1 = {
 	monarch = {
 		name = "Dharmapala"
 		birth_date = 1428.1.1
 		dynasty = "Pala"
 		adm = 4
-		dip = 4
+		dip = 2
 		mil = 6
 	}
-	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 	heir = {
 		name = "Vakapala"
 		monarch_name = "Vakapala"
@@ -27,10 +28,10 @@ capital = 563
 		dip = 2
 		mil = 2
 	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
-	capital = 563
+	capital = 4479
 	add_treasury = 43
 	add_prestige = 219
 }

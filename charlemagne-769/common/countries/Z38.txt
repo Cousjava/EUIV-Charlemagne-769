@@ -493,11 +493,11 @@ monarch_names = {
 	"Vincenne #0" = 0
 
 
-	"Iudhent #0" = -1
+	"Anna #0" = -1
 	"Anauprost #0" = -1
-	"Adelaïda #0" = -1
-	"Glades #0" = -1
-	"Iseult #0" = -1
+	"Bernegarda #0" = -1
+	"Deniela #0" = -1
+	"Sulleisoc #0" = -1
 }
 ship_names = {
 	Achille Actif Active Admirable Aglaé

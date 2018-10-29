@@ -62,9 +62,9 @@ monarch_names = {
 	"Zlaririm #0" = 0
 
 
-	"Baninera #0" = -1
-	"Khikhar #0" = -1
-	"Bhardha #0" = -1
-	"Thathurrtse #0" = -1
+	"Thungtsamed #0" = -1
+	"Zhimzhalsto #0" = -1
+	"Shethetse #0" = -1
+	"Ataklumo #0" = -1
 }
 

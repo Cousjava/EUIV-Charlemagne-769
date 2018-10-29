@@ -72,10 +72,10 @@ monarch_names = {
 	"Yuddhamalla #0" = 0
 
 
-	"Tundaka #0" = -1
-	"Chellava #0" = -1
-	"Hariharamba #0" = -1
-	"Anitalli #0" = -1
+	"Chamekamba #0" = -1
+	"Rudramadevi #0" = -1
 	"Rudramba #0" = -1
+	"Chandena #0" = -1
+	"Gamakamba #0" = -1
 }
 

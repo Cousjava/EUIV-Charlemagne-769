@@ -85,11 +85,11 @@ monarch_names = {
 	"Yevstafiy #0" = 0
 
 
-	"Liudmila #0" = -1
-	"Yefrosinia #0" = -1
-	"Zabava #0" = -1
-	"Tatyana #0" = -1
-	"Rostislava #0" = -1
+	"Gradislava #0" = -1
+	"Malfrida #0" = -1
+	"Pereyaslava #0" = -1
+	"Sbyslava #0" = -1
+	"Marina #0" = -1
 }
 ship_names = {
 	"Staraya Russa" Ladoga Torzhok Oreshek

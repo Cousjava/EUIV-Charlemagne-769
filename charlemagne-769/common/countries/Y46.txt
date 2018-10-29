@@ -8,7 +8,7 @@ color = { 193 158 63 }
 
 leader_names = {
 
-	"Kubrat" "Toktu" "Irkhan" "Krum" "Omortag" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
+	"Kubrat" "Toktu" "Krum" "Omortag" "Telerig" "Irkhan" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
 	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Almish" "Alzek" 
 	"Anzi" "Apskhih" "Araslan" "Balamber" "Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" 
 	"Boyan" "Bulger" "Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" 
@@ -24,10 +24,10 @@ leader_names = {
 monarch_names = {
 	"Kubrat #1" = 18
 	"Toktu #1" = 21
-	"Irkhan #0" = 1
 	"Krum #0" = 1
 	"Omortag #0" = 1
 	"Telerig #0" = 1
+	"Irkhan #0" = 1
 	"Kardam #0" = 1
 	"Asparukh #0" = 1
 	"Batbayan #1" = 18
@@ -151,9 +151,9 @@ monarch_names = {
 	"Batir #0" = 0
 
 
-	"Lärkka #0" = -1
-	"Yartilek #0" = -1
-	"Paykëlti #0" = -1
-	"Puyantay #0" = -1
+	"Tekçe #0" = -1
+	"Peksen #0" = -1
+	"Gunduz #0" = -1
+	"Akgul #0" = -1
 }
 

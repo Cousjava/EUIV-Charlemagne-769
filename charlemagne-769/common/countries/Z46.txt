@@ -58,10 +58,10 @@ monarch_names = {
 	"Witiza #0" = 0
 
 
-	"Kamala #0" = -1
-	"Parand #0" = -1
-	"Tanaz #0" = -1
-	"Simin #0" = -1
-	"Rashida #0" = -1
+	"Sheeftah #0" = -1
+	"Taliba #0" = -1
+	"Taneen #0" = -1
+	"Setara #0" = -1
+	"Nyawela #0" = -1
 }
 

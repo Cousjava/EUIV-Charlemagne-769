@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+add_harmonized_religion = mahayana
+capital = 1821	# Nanjing
+
+primary_culture = chihan
+religion = confucianism
+762.5.16 = {
+	monarch = {
+		name = "Daizong"
+		birth_date = 1402.1.9
+		dynasty = "Li"
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}

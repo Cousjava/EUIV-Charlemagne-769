@@ -1,5 +1,6 @@
 # Asturias
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
@@ -14,7 +15,7 @@ capital = 207
 		dynasty = "de Cantabria"
 		adm = 2
 		dip = 2
-		mil = 2
+		mil = 3
 	}
 	add_ruler_personality = benevolent_personality
 }

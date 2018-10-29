@@ -1,5 +1,6 @@
 # Silahara
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 2030
 		name = "Sanahapulla"
 		birth_date = 1385.1.1
 		dynasty = "Silahara"
-		adm = 5
-		dip = 3
-		mil = 0
+		adm = 1
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = just_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 2030

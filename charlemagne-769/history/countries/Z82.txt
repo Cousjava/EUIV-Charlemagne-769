@@ -1,5 +1,6 @@
 # Thessalonika
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 1853
 		name = "Theoktistos"
 		birth_date = 1409.1.1
 		dynasty = "Kyritzios"
-		adm = 0
-		dip = 4
-		mil = 1
+		adm = 2
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 1853

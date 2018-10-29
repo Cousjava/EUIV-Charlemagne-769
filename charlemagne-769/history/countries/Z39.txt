@@ -1,5 +1,6 @@
 # Léon
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 170
 		name = "Morvan"
 		birth_date = 1415.1.1
 		dynasty = "Leon"
-		adm = 1
-		dip = 2
-		mil = 3
+		adm = 4
+		dip = 4
+		mil = 1
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = just_personality
 	heir = {
 		name = "Concar"
 		monarch_name = "Concar"

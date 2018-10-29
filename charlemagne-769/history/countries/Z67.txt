@@ -1,5 +1,6 @@
 # Länsipohja
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 11
 		name = "Sárra"
 		birth_date = 1410.1.1
 		dynasty = "Saiva"
-		adm = 2
-		dip = 1
-		mil = 4
+		adm = 4
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = pious_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 11

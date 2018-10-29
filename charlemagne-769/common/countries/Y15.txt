@@ -185,11 +185,11 @@ monarch_names = {
 	"Ülo #0" = 0
 
 
-	"Niine #0" = -1
-	"Ahma #0" = -1
-	"Aune #0" = -1
-	"Ann #0" = -1
-	"Helve #0" = -1
+	"Hele #0" = -1
+	"Käbi #0" = -1
+	"Ere #0" = -1
+	"Ilo #0" = -1
+	"Liis #0" = -1
 }
 ship_names = {
 	Agricola Aura

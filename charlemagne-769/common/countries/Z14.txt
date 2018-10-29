@@ -592,11 +592,11 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Imag #0" = -1
-	"Eilionora #0" = -1
-	"Siobán #0" = -1
-	"Lerthan #0" = -1
-	"Dúnlaith #0" = -1
+	"Caíntigern #0" = -1
+	"Selblaith #0" = -1
+	"Derborgaill #0" = -1
+	"Caillech-Fhinnéin #0" = -1
+	"Éua #0" = -1
 }
 ship_names = {
 	Aoife

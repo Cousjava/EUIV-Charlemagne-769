@@ -1,5 +1,6 @@
 # Munda
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -14,10 +15,10 @@ capital = 560
 		dynasty = "Munda"
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 1
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = cruel_personality
 	heir = {
 		name = "Kramaditya"
 		monarch_name = "Kramaditya"
@@ -26,9 +27,9 @@ capital = 560
 		death_date = 1505.1.1
 		adm = 0
 		dip = 3
-		mil = 4
+		mil = 2
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11 = {
 	capital = 560

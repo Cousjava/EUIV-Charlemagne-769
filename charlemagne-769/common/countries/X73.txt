@@ -323,10 +323,10 @@ monarch_names = {
 	"Chongrong #0" = 0
 
 
-	"Renyi #0" = -1
-	"Meng #0" = -1
-	"Shuiqiu #0" = -1
-	"Yushan #0" = -1
-	"Qingnu #0" = -1
+	"Neiming #0" = -1
+	"Taige #0" = -1
+	"Song #0" = -1
+	"Daopo #0" = -1
+	"Fu #0" = -1
 }
 

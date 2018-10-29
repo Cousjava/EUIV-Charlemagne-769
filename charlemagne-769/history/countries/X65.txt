@@ -1,5 +1,6 @@
 # Kutch
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 503
 		name = "Barappa"
 		birth_date = 1425.1.1
 		dynasty = "Sankhyavat"
-		adm = 3
-		dip = 1
-		mil = 3
+		adm = 4
+		dip = 2
+		mil = 6
 	}
-	add_ruler_personality = calm_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
 		name = "Dabir"
 		monarch_name = "Dabir"

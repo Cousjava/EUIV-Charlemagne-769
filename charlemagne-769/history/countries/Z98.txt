@@ -1,5 +1,6 @@
 # The Iconoclast Patriarchate
-government = theocratic_government
+government = theocracy
+add_government_reform = leading_clergy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -14,9 +15,9 @@ capital = 151
 		dynasty = "Polites"
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 1
 	}
-	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
 	capital = 151

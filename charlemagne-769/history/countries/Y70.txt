@@ -1,5 +1,6 @@
 # Midhhalbid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 575
 		name = "Uways"
 		birth_date = 1398.1.1
 		dynasty = "Midhhalbid"
-		adm = 1
+		adm = 4
 		dip = 3
-		mil = 3
+		mil = 4
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 575

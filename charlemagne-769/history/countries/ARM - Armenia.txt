@@ -1,5 +1,6 @@
 # Armenia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 419
 		name = "Smbat II"
 		birth_date = 1390.1.1
 		dynasty = "Bagrationi"
-		adm = 5
-		dip = 3
-		mil = 3
+		adm = 3
+		dip = 2
+		mil = 6
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 419

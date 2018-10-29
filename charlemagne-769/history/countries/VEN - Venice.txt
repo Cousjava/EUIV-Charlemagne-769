@@ -1,5 +1,6 @@
 # Venice
-government = merchant_republic
+government = republic
+add_government_reform = merchants_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -14,7 +15,7 @@ capital = 112
 		dynasty = "Galbaio"
 		adm = 2
 		dip = 5
-		mil = 2
+		mil = 3
 	}
 	add_ruler_personality = charismatic_negotiator_personality
 	heir = {
@@ -23,11 +24,11 @@ capital = 112
 		dynasty = "Galbaio"
 		birth_date = 1423.1.1
 		death_date = 1503.1.1
-		adm = 4
-		dip = 5
-		mil = 3
+		adm = 1
+		dip = 3
+		mil = 4
 	}
-	add_heir_personality = malevolent_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 112

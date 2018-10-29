@@ -138,11 +138,11 @@ monarch_names = {
 	"Zyryan #0" = 0
 
 
-	"Mazava #0" = -1
-	"Pokshava #0" = -1
-	"Sinyava #0" = -1
-	"Styaka #0" = -1
-	"Pekshayka #0" = -1
+	"Seyamka #0" = -1
+	"Liyava #0" = -1
+	"Megurka #0" = -1
+	"Öshkamöshka #0" = -1
+	"Shukshtoroyka #0" = -1
 }
 ship_names = {
 	Cherdyn Pelym Kudym-Osha Shudeg

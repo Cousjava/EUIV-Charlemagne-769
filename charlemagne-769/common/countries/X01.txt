@@ -103,10 +103,10 @@ monarch_names = {
 	"Zula #0" = 0
 
 
-	"Adina #0" = -1
-	"Jahzara #0" = -1
-	"Keren #0" = -1
-	"Kess #0" = -1
-	"Bathsheba #0" = -1
+	"Berhane #0" = -1
+	"Makeda #0" = -1
+	"Fana #0" = -1
+	"Alitash #0" = -1
+	"Habesha #0" = -1
 }
 

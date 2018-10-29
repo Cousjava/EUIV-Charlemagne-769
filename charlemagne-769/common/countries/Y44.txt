@@ -101,10 +101,10 @@ monarch_names = {
 	"Zaur #0" = 0
 
 
-	"Sanatha #0" = -1
-	"Baia #0" = -1
-	"Kera #0" = -1
-	"Satinik #0" = -1
+	"Natia #0" = -1
+	"Keratsa #0" = -1
 	"Borena #0" = -1
+	"Burudukan #0" = -1
+	"Guranduht #0" = -1
 }
 

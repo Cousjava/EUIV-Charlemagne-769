@@ -1,5 +1,6 @@
 # Greater Poland
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 43
 		name = "Dobieslaw"
 		birth_date = 1408.1.1
 		dynasty = "Choscisko"
-		adm = 3
-		dip = 5
-		mil = 5
+		adm = 1
+		dip = 2
+		mil = 6
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 43

@@ -1,5 +1,6 @@
 # Amalfi
-government = merchant_republic
+government = republic
+add_government_reform = merchants_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 1934
 		name = "Leon"
 		birth_date = 1406.1.1
 		dynasty = "Amalfinos"
-		adm = 4
-		dip = 1
-		mil = 2
+		adm = 5
+		dip = 0
+		mil = 1
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = industrious_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 1934

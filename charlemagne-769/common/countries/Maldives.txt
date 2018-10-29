@@ -113,10 +113,10 @@ monarch_names = {
 	"Viranarendra #0" = 0
 
 
-	"Sugula #0" = -1
-	"Yahasaya #0" = -1
-	"Ramajhata #0" = -1
-	"Paduma #0" = -1
-	"Kanatissa #0" = -1
+	"Jhotisena #0" = -1
+	"Mita #0" = -1
+	"Damasena #0" = -1
+	"Kalyanavati #0" = -1
+	"Savera #0" = -1
 }
 

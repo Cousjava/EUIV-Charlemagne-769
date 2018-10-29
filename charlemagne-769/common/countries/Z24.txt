@@ -135,10 +135,10 @@ monarch_names = {
 	"Uuid #0" = 0
 
 
-	"Allust #0" = -1
-	"Mor #0" = -1
-	"Arnemetia #0" = -1
-	"Bride #0" = -1
+	"Neulina #0" = -1
+	"Addiena #0" = -1
+	"Mairi #0" = -1
+	"Sara #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

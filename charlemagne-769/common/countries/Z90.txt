@@ -201,11 +201,11 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Kyriake #0" = -1
-	"Philippa #0" = -1
-	"Martha #0" = -1
-	"Sophia #0" = -1
-	"Nikarete #0" = -1
+	"Sibylla #0" = -1
+	"Antonia #0" = -1
+	"Thekla #0" = -1
+	"Melissa #0" = -1
+	"Apollonia #0" = -1
 }
 ship_names = {
 	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"

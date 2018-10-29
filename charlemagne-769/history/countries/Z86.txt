@@ -1,5 +1,6 @@
 # Cibyrrhaeot
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 320
 		name = "Theophylaktos"
 		birth_date = 1406.1.1
 		dynasty = "Rangabes"
-		adm = 3
-		dip = 1
-		mil = 4
+		adm = 1
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = righteous_personality
 }
 1444.11.11 = {
 	capital = 320

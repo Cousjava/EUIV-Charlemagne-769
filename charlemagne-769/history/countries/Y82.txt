@@ -1,5 +1,6 @@
 # Azimid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 356
 		name = "Azim"
 		birth_date = 1405.1.1
 		dynasty = "Azimid"
-		adm = 3
-		dip = 1
-		mil = 3
+		adm = 2
+		dip = 6
+		mil = 2
 	}
-	add_ruler_personality = careful_personality
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
 	capital = 356

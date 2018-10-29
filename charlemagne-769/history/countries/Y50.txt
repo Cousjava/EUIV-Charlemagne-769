@@ -1,5 +1,6 @@
 # Bozok
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,11 +13,11 @@ capital = 465
 		name = "Baytas"
 		birth_date = 1405.1.1
 		dynasty = "Bozok"
-		adm = 3
-		dip = 2
-		mil = 6
+		adm = 2
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = tolerant_personality
 }
 1444.11.11 = {
 	capital = 465

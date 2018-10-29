@@ -1,5 +1,6 @@
 # Guhilot
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 2058
 		name = "Khuman"
 		birth_date = 1409.1.1
 		dynasty = "Guhilot"
-		adm = 2
-		dip = 4
+		adm = 1
+		dip = 3
 		mil = 1
 	}
-	add_ruler_personality = malevolent_personality
 	add_ruler_personality = drunkard_personality
+	add_ruler_personality = fertile_personality
 }
 1444.11.11 = {
 	capital = 2058

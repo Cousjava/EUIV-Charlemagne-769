@@ -1,5 +1,6 @@
 # Karlukid
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,22 +13,22 @@ capital = 2126
 		name = "Khiliji"
 		birth_date = 1400.1.1
 		dynasty = "Karlukid"
-		adm = 5
-		dip = 2
-		mil = 2
+		adm = 3
+		dip = 4
+		mil = 1
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 	heir = {
 		name = "Pulad"
 		monarch_name = "Pulad"
 		dynasty = "Karlukid"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 2
+		dip = 1
+		mil = 1
 	}
-	add_heir_personality = bold_fighter_personality
+	add_heir_personality = embezzler_personality
 }
 1444.11.11 = {
 	capital = 2126

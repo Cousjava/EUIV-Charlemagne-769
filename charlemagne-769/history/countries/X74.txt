@@ -1,5 +1,6 @@
 # Kumul
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = chinese
@@ -13,10 +14,10 @@ capital = 2123
 		birth_date = 1417.1.1
 		dynasty = "Krorän"
 		adm = 3
-		dip = 1
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = lawgiver_personality
 }
 1444.11.11 = {
 	capital = 2123

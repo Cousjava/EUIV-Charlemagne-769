@@ -1,5 +1,6 @@
 # Bavaria
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 65
 		name = "Tassilo III"
 		birth_date = 1416.1.1
 		dynasty = "Agilolfing"
-		adm = 0
-		dip = 3
-		mil = 2
+		adm = 1
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1442.1.1 = {
 	heir = {

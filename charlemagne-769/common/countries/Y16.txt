@@ -131,11 +131,11 @@ monarch_names = {
 	"Yudki #0" = 0
 
 
-	"Viba #0" = -1
-	"Ausala #0" = -1
-	"Ieva #0" = -1
-	"Agita #0" = -1
-	"Dzeguze #0" = -1
+	"Zigne #0" = -1
+	"Marite #0" = -1
+	"Greze #0" = -1
+	"Dose #0" = -1
+	"Ruta #0" = -1
 }
 ship_names = {
 	Alytus

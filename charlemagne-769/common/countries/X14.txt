@@ -167,10 +167,10 @@ monarch_names = {
 	"Âyirattalipattan #0" = 0
 
 
-	"Kôlâliyâr #0" = -1
-	"Nimmatikal #0" = -1
-	"Olimatiyâr #0" = -1
-	"Eccumantai #0" = -1
-	"Pirriccâni #0" = -1
+	"Pollâtapillai #0" = -1
+	"Tûnkânai #0" = -1
+	"Vaccavaiyâr #0" = -1
+	"Eluvattûr #0" = -1
+	"Pûvânti #0" = -1
 }
 

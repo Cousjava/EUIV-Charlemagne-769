@@ -505,11 +505,11 @@ monarch_names = {
 	"Vincenne #0" = 0
 
 
-	"Iofa #0" = -1
-	"Marguarite #0" = -1
-	"Adelaïda #0" = -1
+	"Nodguoret #0" = -1
+	"Berta #0" = -1
+	"Elwen #0" = -1
+	"Cleirui #0" = -1
 	"Iseult #0" = -1
-	"Endellion #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

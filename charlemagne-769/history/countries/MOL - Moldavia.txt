@@ -1,5 +1,6 @@
 # Moldau
-government = despotic_monarchy
+government = monarchy
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,8 +13,8 @@ capital = 268
 		name = "Kardam"
 		birth_date = 1410.1.2
 		dynasty = "Dulo"
-		adm = 2
-		dip = 4
+		adm = 3
+		dip = 2
 		mil = 6
 	}
 	add_ruler_personality = strict_personality

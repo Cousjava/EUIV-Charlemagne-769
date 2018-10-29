@@ -1,5 +1,6 @@
 # Vestisland
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -13,10 +14,10 @@ capital = 370
 		birth_date = 1420.1.1
 		dynasty = "av Island"
 		adm = 2
-		dip = 4
-		mil = 3
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = careful_personality
 }
 1444.11.11 = {
 	capital = 370

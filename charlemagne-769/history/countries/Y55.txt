@@ -1,5 +1,6 @@
 # Damashq
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 382
 		name = "Al-Fadl"
 		birth_date = 1415.1.1
 		dynasty = "Abbasid"
-		adm = 5
-		dip = 4
-		mil = 1
+		adm = 1
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 382

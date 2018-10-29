@@ -1,5 +1,6 @@
 # Maldives
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 1248
 		name = "Aditya"
 		birth_date = 1435.1.1
 		dynasty = "Adityavansha"
-		adm = 2
-		dip = 3
+		adm = 3
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = naive_personality
 }
 1444.11.11 = {
 	capital = 1248

@@ -1,5 +1,6 @@
 # Alemannia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 73
 		name = "Hnabi"
 		birth_date = 1395.1.1
 		dynasty = "Agilolfing"
-		adm = 3
-		dip = 0
-		mil = 3
+		adm = 5
+		dip = 1
+		mil = 1
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = just_personality
 }
 1444.11.11 = {
 	capital = 73

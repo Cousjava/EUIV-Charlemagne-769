@@ -109,11 +109,11 @@ monarch_names = {
 	"Zvonimir #0" = 0
 
 
-	"Vjekoslava #0" = -1
-	"Mihaela #0" = -1
-	"Vedrana #0" = -1
-	"Tatjana #0" = -1
-	"Helena #0" = -1
+	"Suronja #0" = -1
+	"Gordana #0" = -1
+	"Jadviga #0" = -1
+	"Viola #0" = -1
+	"Jagoda #0" = -1
 }
 ship_names = {
 	Cres

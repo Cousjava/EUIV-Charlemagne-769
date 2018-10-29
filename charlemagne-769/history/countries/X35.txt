@@ -1,5 +1,6 @@
 # Akhun
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,12 +13,12 @@ capital = 714
 		name = "Kozel"
 		birth_date = 1416.8.1
 		dynasty = "Akhun"
-		adm = 2
+		adm = 3
 		dip = 1
-		mil = 1
+		mil = 3
 	}
-	add_ruler_personality = scholar_personality
 	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
 	capital = 714

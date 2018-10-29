@@ -1,5 +1,6 @@
 # Marrakech
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 344
 		name = "Masmud"
 		birth_date = 1408.1.1
 		dynasty = "Masmudid"
-		adm = 3
+		adm = 2
 		dip = 1
-		mil = 5
+		mil = 3
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = careful_personality
 }
 1444.11.11 = {
 	capital = 344

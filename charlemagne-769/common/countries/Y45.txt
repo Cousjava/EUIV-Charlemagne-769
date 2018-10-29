@@ -1,25 +1,27 @@
 # Burtasid
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 224 255 87 }
+color = { 255 204 141 }
 
 
 
 
 leader_names = {
 
-	"Dzæræs" "Basil" "Kuluk" "Ælbeg" "Æmbalan" "Aghsartan" "Alatey" "Akhsar" "Anbal" "Anbazuk" 
-	"Aravat" "Arsen" "Askhkadar" "Ashot" "Aslan" "Aspar" "Athom" "Balambar" "Balsag" "Barlah" 
-	"Bæqætar" "Bazuk" "Beler" "Ber" "Biræg" "Boz-Uruz" "Buürgur" "Buriberdi" "Burikhan" "Candak" 
-	"Chelakhsartag" "Davit" "Djadaron" "Durgulel" "Gætæg" "Georgy" "Girgon" "Gokhar" "Gubaz" "Guram" 
-	"Hasqar" "Huddan" "Istor" "Itaz" "Iveri" "Kandak" "Kandz" "Kavtia" "Kaur" "Khankhusy" 
-	"Khætag" "Konstantin" "Kubal" "Kuddana" "Kul" "Lak" "Levan" "Pulad" "Respendial" "Rosmag" 
-	"Safrak" "Sakhir" "Sangipan" "Saros" "Sathis" "Savkudz" "Soslan" "Suarn" "Syrdon" "Taymuraz" 
+	"Chelakhsartag" "Syrdon" "Kandz" "Kuddana" "Soslan" "Ælbeg" "Æmbalan" "Aghsartan" "Alatey" "Akhsar" 
+	"Anbal" "Anbazuk" "Aravat" "Arsen" "Askhkadar" "Ashot" "Aslan" "Aspar" "Athom" "Balambar" 
+	"Balsag" "Barlah" "Bæqætar" "Basil" "Bazuk" "Beler" "Ber" "Biræg" "Boz-Uruz" "Buürgur" 
+	"Buriberdi" "Burikhan" "Candak" "Davit" "Djadaron" "Durgulel" "Dzæræs" "Gætæg" "Georgy" "Girgon" 
+	"Gokhar" "Gubaz" "Guram" "Hasqar" "Huddan" "Istor" "Itaz" "Iveri" "Kandak" "Kavtia" 
+	"Kaur" "Khankhusy" "Khætag" "Konstantin" "Kubal" "Kul" "Kuluk" "Lak" "Levan" "Pulad" 
+	"Respendial" "Rosmag" "Safrak" "Sakhir" "Sangipan" "Saros" "Sathis" "Savkudz" "Suarn" "Taymuraz" 
 	"Taus" "Totraz" "Urdure" "Uruzma" "Uturku" "Yasynya" "Zaur" }
 monarch_names = {
-	"Dzæræs #0" = 1
-	"Basil #1" = 18
-	"Kuluk #0" = 1
+	"Chelakhsartag #0" = 1
+	"Syrdon #1" = 18
+	"Kandz #0" = 1
+	"Kuddana #0" = 1
+	"Soslan #0" = 1
 	"Ælbeg #0" = 0
 	"Æmbalan #0" = 0
 	"Aghsartan #0" = 0
@@ -38,6 +40,7 @@ monarch_names = {
 	"Balsag #0" = 0
 	"Barlah #0" = 0
 	"Bæqætar #0" = 0
+	"Basil #0" = 0
 	"Bazuk #0" = 0
 	"Beler #0" = 0
 	"Ber #0" = 0
@@ -47,10 +50,10 @@ monarch_names = {
 	"Buriberdi #0" = 0
 	"Burikhan #0" = 0
 	"Candak #0" = 0
-	"Chelakhsartag #0" = 0
 	"Davit #0" = 0
 	"Djadaron #0" = 0
 	"Durgulel #0" = 0
+	"Dzæræs #0" = 0
 	"Gætæg #0" = 0
 	"Georgy #0" = 0
 	"Girgon #0" = 0
@@ -63,15 +66,14 @@ monarch_names = {
 	"Itaz #0" = 0
 	"Iveri #0" = 0
 	"Kandak #0" = 0
-	"Kandz #0" = 0
 	"Kavtia #0" = 0
 	"Kaur #0" = 0
 	"Khankhusy #0" = 0
 	"Khætag #0" = 0
 	"Konstantin #0" = 0
 	"Kubal #0" = 0
-	"Kuddana #0" = 0
 	"Kul #0" = 0
+	"Kuluk #0" = 0
 	"Lak #0" = 0
 	"Levan #0" = 0
 	"Pulad #0" = 0
@@ -83,9 +85,7 @@ monarch_names = {
 	"Saros #0" = 0
 	"Sathis #0" = 0
 	"Savkudz #0" = 0
-	"Soslan #0" = 0
 	"Suarn #0" = 0
-	"Syrdon #0" = 0
 	"Taymuraz #0" = 0
 	"Taus #0" = 0
 	"Totraz #0" = 0
@@ -96,10 +96,10 @@ monarch_names = {
 	"Zaur #0" = 0
 
 
-	"Sanatha #0" = -1
-	"Baia #0" = -1
-	"Kera #0" = -1
-	"Satinik #0" = -1
+	"Natia #0" = -1
+	"Keratsa #0" = -1
 	"Borena #0" = -1
+	"Burudukan #0" = -1
+	"Guranduht #0" = -1
 }
 

@@ -128,11 +128,11 @@ monarch_names = {
 	"Zikmund #0" = 0
 
 
-	"Bohuslava #0" = -1
-	"Stanislava #0" = -1
-	"Kristyna #0" = -1
-	"Vladislava #0" = -1
-	"Johanka #0" = -1
+	"Dobroslava #0" = -1
+	"Ludmila #0" = -1
+	"Jitka #0" = -1
+	"Katerina #0" = -1
+	"Viola #0" = -1
 }
 ship_names = {
 	"Svatý Vaclav"

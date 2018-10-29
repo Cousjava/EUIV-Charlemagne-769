@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Echu" "Fergal" "Artgal" "Selbach" "Dúnlaing" "Connath" "Crimthann" "Lóegaire" "Áed Ualgarb" "Tigernach" 
+	"Echu" "Fergal" "Artgal" "Selbach" "Connath" "Dúnlaing" "Crimthann" "Lóegaire" "Áed Ualgarb" "Tigernach" 
 	"Feidlimid" "Áed Osraige" "Cináed" "Coirpre Clárenech" "Coirpre Riastrain" "Cenn-Fáelad" "Dúngal" "Fergus" "Bécc" "Clárenech" 
 	"Dond-Sláine Brecc" "Éladach" "Fer-dá-Lethe" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" 
 	"Áeducán" "Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" 
@@ -90,8 +90,8 @@ monarch_names = {
 	"Fergal #0" = 1
 	"Artgal #0" = 1
 	"Selbach #0" = 1
-	"Dúnlaing #0" = 1
 	"Connath #0" = 1
+	"Dúnlaing #0" = 1
 	"Crimthann #0" = 1
 	"Lóegaire #0" = 1
 	"Áed Ualgarb #0" = 1
@@ -595,11 +595,11 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Étaín #0" = -1
-	"Martha #0" = -1
-	"Sétach #0" = -1
-	"Lígach #0" = -1
-	"Euginia #0" = -1
+	"Caíntigern #0" = -1
+	"Selblaith #0" = -1
+	"Derborgaill #0" = -1
+	"Caillech-Fhinnéin #0" = -1
+	"Éua #0" = -1
 }
 ship_names = {
 	Aoife

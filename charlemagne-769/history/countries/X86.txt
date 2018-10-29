@@ -1,5 +1,6 @@
 # Kuci
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = chinese
@@ -12,11 +13,11 @@ capital = 2121
 		name = "Dharmawarme"
 		birth_date = 1414.1.1
 		dynasty = "Kuci"
-		adm = 2
-		dip = 5
+		adm = 1
+		dip = 1
 		mil = 4
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 2121

@@ -157,9 +157,9 @@ monarch_names = {
 	"Godan #0" = 0
 
 
-	"Mongoljin #0" = -1
-	"Botokhui #0" = -1
-	"Töregene #0" = -1
-	"Mandukhai #0" = -1
+	"Khorijin #0" = -1
+	"Gurbesu #0" = -1
+	"Ibakha #0" = -1
+	"Sokhatai #0" = -1
 }
 

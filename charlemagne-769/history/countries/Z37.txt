@@ -1,5 +1,6 @@
 # Saxony
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 2
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 52
 		name = "Theoderic"
 		birth_date = 1395.1.1
 		dynasty = "Theodericing"
-		adm = 0
+		adm = 3
 		dip = 1
-		mil = 3
+		mil = 2
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = just_personality
+	add_ruler_personality = strict_personality
 }
 1416.1.1 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 52
 		dynasty = "Theodericing"
 		birth_date = 1416.1.1
 		death_date = 1496.1.1
-		adm = 3
+		adm = 2
 		dip = 2
-		mil = 4
+		mil = 1
 	}
-	add_heir_personality = strict_personality
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
 	capital = 52

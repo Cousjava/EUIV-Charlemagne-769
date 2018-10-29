@@ -55,9 +55,9 @@ monarch_names = {
 
 
 	"Ayten #0" = -1
+	"Ipekel #0" = -1
+	"Özgul #0" = -1
 	"Yeldem #0" = -1
-	"Samur #0" = -1
-	"Sevilay #0" = -1
-	"Tekçe #0" = -1
+	"Ayasun #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Wallachia
-government = despotic_monarchy
+government = monarchy
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 161
 		name = "Vakrim"
 		birth_date = 1428.1.1
 		dynasty = "Ukil"
-		adm = 1
+		adm = 2
 		dip = 1
-		mil = 3
+		mil = 6
 	}
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 161

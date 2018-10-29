@@ -114,11 +114,11 @@ monarch_names = {
 	"Varmanpaz #0" = 0
 
 
-	"Sangasa #0" = -1
-	"Sanal'ka #0" = -1
-	"Sochava #0" = -1
-	"Kunava #0" = -1
-	"Tetyava #0" = -1
+	"Mazava #0" = -1
+	"Styaka #0" = -1
+	"Mel'shay #0" = -1
+	"Noroava #0" = -1
+	"Nuyanza #0" = -1
 }
 ship_names = {
 	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"

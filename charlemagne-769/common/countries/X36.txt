@@ -1,7 +1,7 @@
 # Uzur
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 97 92 175 }
+color = { 132 157 228 }
 
 
 
@@ -68,8 +68,8 @@ monarch_names = {
 	"Uzur #0" = 0
 
 
-	"Çiltanesi #0" = -1
-	"Sibel #0" = -1
-	"Mutlu #0" = -1
+	"Gundes #0" = -1
+	"Ilkay #0" = -1
+	"Yasar #0" = -1
 }
 

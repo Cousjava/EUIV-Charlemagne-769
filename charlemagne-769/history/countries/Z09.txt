@@ -1,5 +1,6 @@
 # Dubhlinn
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -14,20 +15,20 @@ capital = 373
 		dynasty = "Ua Néill Noígiallaich"
 		adm = 3
 		dip = 3
-		mil = 3
+		mil = 5
 	}
-	add_ruler_personality = expansionist_personality
+	add_ruler_personality = martial_educator_personality
 	heir = {
 		name = "Flann"
 		monarch_name = "Flann"
 		dynasty = "Ua Néill Noígiallaich"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
+		adm = 3
 		dip = 3
-		mil = 3
+		mil = 2
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
 	capital = 373

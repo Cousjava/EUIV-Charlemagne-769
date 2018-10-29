@@ -1,5 +1,6 @@
 # Taid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,22 +13,22 @@ capital = 2236
 		name = "Homayd"
 		birth_date = 1395.1.1
 		dynasty = "Taid"
-		adm = 0
+		adm = 3
 		dip = 3
-		mil = 3
+		mil = 5
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = kind_hearted_personality
 	heir = {
 		name = "Abdallah"
 		monarch_name = "Abdallah"
 		dynasty = "Taid"
 		birth_date = 1424.1.1
 		death_date = 1504.1.1
-		adm = 4
+		adm = 3
 		dip = 0
-		mil = 3
+		mil = 2
 	}
-	add_heir_personality = silver_tongue_personality
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
 	capital = 2236

@@ -1,5 +1,6 @@
 # El Rif
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 335
 		name = "Sa'id"
 		birth_date = 1420.1.1
 		dynasty = "Salihid"
-		adm = 6
-		dip = 3
+		adm = 1
+		dip = 1
 		mil = 1
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 335

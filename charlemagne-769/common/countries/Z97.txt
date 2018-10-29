@@ -8,7 +8,7 @@ color = { 140 200 230 }
 
 leader_names = {
 
-	"Leon" "Timoleon" "Kaisarios" "Aikaterine" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" 
+	"Leon" "Timoleon" "Aikaterine" "Kaisarios" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" 
 	"Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" 
 	"Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" 
 	"Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" 
@@ -26,8 +26,8 @@ leader_names = {
 monarch_names = {
 	"Leon #1" = 18
 	"Timoleon #0" = 1
-	"Kaisarios #0" = 1
 	"Aikaterine #0" = -1
+	"Kaisarios #0" = 1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -174,9 +174,9 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Anthe #0" = -1
-	"Dorothea #0" = -1
-	"Theochariste #0" = -1
-	"Hypatia #0" = -1
+	"Eusebia #0" = -1
+	"Agne #0" = -1
+	"Theodosia #0" = -1
+	"Sophia #0" = -1
 }
 

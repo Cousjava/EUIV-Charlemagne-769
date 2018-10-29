@@ -199,11 +199,11 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Sergia #0" = -1
-	"Theophano #0" = -1
-	"Romylia #0" = -1
-	"Basillike #0" = -1
-	"Athanasia #0" = -1
+	"Eulalia #0" = -1
+	"Leontia #0" = -1
+	"Eustathia #0" = -1
+	"Nikarete #0" = -1
+	"Thekla #0" = -1
 }
 ship_names = {
 	Agatobles Altavilla Apollo Archimede Audaze Borbone

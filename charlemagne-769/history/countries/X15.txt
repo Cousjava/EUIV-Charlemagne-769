@@ -1,5 +1,6 @@
 # Pallava
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 543
 		name = "Nantivarman"
 		birth_date = 1395.1.1
 		dynasty = "Pallava"
-		adm = 2
-		dip = 1
-		mil = 4
+		adm = 3
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1415.1.1 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 543
 		dynasty = "Pallava"
 		birth_date = 1415.1.1
 		death_date = 1495.1.1
-		adm = 1
-		dip = 2
-		mil = 2
+		adm = 2
+		dip = 3
+		mil = 1
 	}
-	add_heir_personality = scholar_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 543

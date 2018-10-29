@@ -1,5 +1,6 @@
 # Addauid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,23 +13,23 @@ capital = 2313
 		name = "Hasan"
 		birth_date = 1408.1.1
 		dynasty = "Addauid"
-		adm = 3
-		dip = 0
-		mil = 1
+		adm = 2
+		dip = 5
+		mil = 5
 	}
-	add_ruler_personality = sinner_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = naive_personality
+	add_ruler_personality = tactical_genius_personality
 	heir = {
 		name = "Abd al-Kadir"
 		monarch_name = "Abd al-Kadir"
 		dynasty = "Addauid"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
-		dip = 4
-		mil = 2
+		adm = 3
+		dip = 2
+		mil = 3
 	}
-	add_heir_personality = conqueror_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 2313

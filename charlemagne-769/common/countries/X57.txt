@@ -58,9 +58,9 @@ monarch_names = {
 	"Uzur #0" = 0
 
 
-	"Peksen #0" = -1
-	"Sirin #0" = -1
-	"Mutlu #0" = -1
-	"Usunbike #0" = -1
+	"Özlem #0" = -1
+	"Mala #0" = -1
+	"Gulay #0" = -1
+	"Sirma #0" = -1
 }
 

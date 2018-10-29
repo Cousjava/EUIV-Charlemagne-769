@@ -1,5 +1,6 @@
 # Alania
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,12 +13,12 @@ capital = 2197
 		name = "Buriberdi"
 		birth_date = 1395.1.1
 		dynasty = "Zmbalani"
-		adm = 4
-		dip = 0
-		mil = 1
+		adm = 2
+		dip = 4
+		mil = 4
 	}
-	add_ruler_personality = careful_personality
-	add_ruler_personality = industrious_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1421.1.1 = {
 	heir = {
@@ -27,10 +28,10 @@ capital = 2197
 		birth_date = 1421.1.1
 		death_date = 1501.1.1
 		adm = 2
-		dip = 3
-		mil = 5
+		dip = 0
+		mil = 1
 	}
-	add_heir_personality = secretive_personality
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 2197

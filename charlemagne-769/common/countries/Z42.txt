@@ -8,52 +8,54 @@ color = { 110 110 160 }
 
 leader_names = {
 
-	"Arnold" "Landrada" "Remigius" "Karl" "Pepin" "Gisela" "Grifo" "Amaudru" "Karloman" "Arnulf" 
-	"Ansegisel" "Wandregisel" "Walacho" "Chrothechildis" "Chlodulf" "Drogo" "Grimoald" "Martin" "Godefroi" "Hugh" 
-	"Waltrude" "Theodald" "Chiltrudis" "Pipin" "Childebrand" "Chrothais" "Adelais" "Aldana" "Clovis" "Théoderic" 
-	"Théodebert" "Théodebald" "Clotaire" "Sigebert" "Childebert" "Dagobert" "Childébert" "Chilpéric" "Childéric" "Abrahil" 
-	"Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" "Agiulf" "Ailbert" 
-	"Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Ascaric" "Audovald" "Austregisel" 
-	"Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" "Berald" "Bernard" "Berneri" 
-	"Bero" "Berold" "Berthefried" "Bertlin" "Bertram" "Bertrand" "Burchard" "Ceslin" "Chararic" "Charibert" 
-	"Childeric" "Chilperic" "Chlodomer" "Chlothar" "Chramnesind" "Clodio" "Clodion" "Creat" "Dagaric" "Eberulf" 
-	"Ebregisel" "Engilbert" "Euric" "Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" "Frobert" 
-	"Frotari" "Frothard" "Frothari" "Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" "Gaucelm" 
-	"Gaudulf" "Gaujoin" "Gausbert" "Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" "Gerbert" 
-	"Gerhard" "Gerold" "Gislari" "Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" "Guadulf" 
-	"Gualtari" "Gualter" "Guillabert" "Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" "Hildebald" 
-	"Hildebold" "Hildegaud" "Hildevold" "Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" "Lambert" 
-	"Lantbert" "Leudast" "Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" "Marell" 
-	"Maurifi" "Meginhard" "Merogais" "Merovech" "Munderic" "Niebelung" "Odelric" "Odolric" "Otbert" "Otgeri" 
-	"Otker" "Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" "Ragnachar" "Ragnald" 
-	"Ragno" "Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" "Rignomer" "Roland" 
-	"Robert" "Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" "Siclevold" "Sigebald" 
-	"Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" "Tancred" "Tassilo" "Teotbert" 
-	"Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" "Theutbald" 
-	"Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
+	"Arnold" "Landrada" "Remigius" "Pepin" "Gisela" "Karloman" "Amaudru" "Grifo" "Karl" "Arnulf" 
+	"Ansegisel" "Wandregisel" "Walacho" "Chrothechildis" "Chlodulf" "Dreux" "Grimoald" "Martin" "Godefroi" "Hugh" 
+	"Waltrude" "Theodald" "Drogo" "Chiltrudis" "Pipin" "Childebrand" "Chrothais" "Adelais" "Aldana" "Clovis" 
+	"Théoderic" "Théodebert" "Théodebald" "Clotaire" "Sigebert" "Childebert" "Dagobert" "Childébert" "Chilpéric" "Childéric" 
+	"Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" "Agiulf" 
+	"Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Ascaric" "Audovald" 
+	"Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" "Berald" "Bernard" 
+	"Berneri" "Bero" "Berold" "Berthefried" "Bertlin" "Bertram" "Bertrand" "Burchard" "Ceslin" "Chararic" 
+	"Charibert" "Childeric" "Chilperic" "Chlodomer" "Chlothar" "Chramnesind" "Clodio" "Clodion" "Creat" "Dagaric" 
+	"Eberulf" "Ebregisel" "Engilbert" "Euric" "Everard" "Faroard" "Faroin" "Feremund" "Feroard" "Foroen" 
+	"Frobert" "Frotari" "Frothard" "Frothari" "Frotlaic" "Fulcari" "Fulcrad" "Galteri" "Gararic" "Garivald" 
+	"Gaucelm" "Gaudulf" "Gaujoin" "Gausbert" "Gausbold" "Gautmar" "Gauzbert" "Gedalbert" "Gedalca" "Genobaud" 
+	"Gerbert" "Gerhard" "Gerold" "Gislari" "Gislevert" "Gocelm" "Godalbert" "Godomar" "Gozhelm" "Grimald" 
+	"Guadulf" "Gualtari" "Gualter" "Guillabert" "Guitard" "Gundobad" "Gunthar" "Guntram" "Haldemar" "Hartmut" 
+	"Hildebald" "Hildebold" "Hildegaud" "Hildevold" "Hildoin" "Hucbert" "Hugbert" "Imnachar" "Ingalbert" "Ingomer" 
+	"Lambert" "Lantbert" "Leudast" "Lothar" "Magnachar" "Magneric" "Mainard" "Mallobaudes" "Marachar" "Marcomer" 
+	"Marell" "Maurifi" "Meginhard" "Merogais" "Merovech" "Munderic" "Niebelung" "Odelric" "Odolric" "Otbert" 
+	"Otgeri" "Otker" "Pharamond" "Pippin" "Radulf" "Ragambald" "Ragena" "Ragenard" "Raginari" "Ragnachar" 
+	"Ragnald" "Ragno" "Raimbold" "Rainald" "Ramnulf" "Rathar" "Raynold" "Reginari" "Ricchar" "Rignomer" 
+	"Roland" "Robert" "Rotbert" "Segoin" "Seguin" "Sicbald" "Sichar" "Sicland" "Sicleard" "Siclevold" 
+	"Sigebald" "Sigeric" "Sigismund" "Sigobert" "Sinop" "Sunnegisil" "Sunno" "Tancrad" "Tancred" "Tassilo" 
+	"Teotbert" "Tetbert" "Teutbald" "Teutbert" "Theoderic" "Theoric" "Theudebald" "Theudemeres" "Theuderic" "Theudoald" 
+	"Theutbald" "Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" 
+	"Wolfari" }
 monarch_names = {
 	"Arnold #0" = 1
 	"Landrada #0" = -1
 	"Remigius #0" = 1
-	"Karl #0" = 1
 	"Pepin #0" = 1
 	"Gisela #0" = -1
-	"Grifo #0" = 1
-	"Amaudru #0" = -1
 	"Karloman #1" = 21
+	"Amaudru #0" = -1
+	"Grifo #0" = 1
+	"Karl #0" = 1
 	"Arnulf #0" = 1
 	"Ansegisel #0" = 1
 	"Wandregisel #0" = 1
 	"Walacho #0" = 1
 	"Chrothechildis #0" = -1
 	"Chlodulf #0" = 1
-	"Drogo #0" = 1
+	"Dreux #0" = 1
 	"Grimoald #0" = 1
 	"Martin #0" = 1
 	"Godefroi #0" = 1
 	"Hugh #0" = 1
 	"Waltrude #0" = -1
 	"Theodald #0" = 1
+	"Drogo #0" = 1
 	"Chiltrudis #0" = -1
 	"Pipin #0" = 1
 	"Childebrand #0" = 1

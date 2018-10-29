@@ -138,10 +138,10 @@ monarch_names = {
 	"Vyaghrasena #0" = 0
 
 
-	"Sakavaarbai #0" = -1
-	"Deepabai #0" = -1
-	"Kishori #0" = -1
-	"Kundaladevi #0" = -1
-	"Tarabai #0" = -1
+	"Ambikabai #0" = -1
+	"Sagunabai #0" = -1
+	"Sumati #0" = -1
+	"Ranubai #0" = -1
+	"Radhabai #0" = -1
 }
 

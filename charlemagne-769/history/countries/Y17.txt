@@ -1,5 +1,6 @@
 # Kryvia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 293
 		name = "Svetozar"
 		birth_date = 1425.1.1
 		dynasty = "Kryvich"
-		adm = 1
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = lawgiver_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = calm_personality
 }
 1444.11.11 = {
 	capital = 293

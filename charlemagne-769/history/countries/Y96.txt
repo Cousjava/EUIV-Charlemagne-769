@@ -1,5 +1,6 @@
 # Berbera
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = east_african
@@ -12,12 +13,12 @@ capital = 1209
 		name = "Hil"
 		birth_date = 1412.1.1
 		dynasty = "Abrone"
-		adm = 3
-		dip = 1
+		adm = 2
+		dip = 0
 		mil = 3
 	}
-	add_ruler_personality = calm_personality
-	add_ruler_personality = careful_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 1209

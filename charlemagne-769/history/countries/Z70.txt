@@ -1,5 +1,6 @@
 # Herjadal
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 10
 		name = "Sigtrygg"
 		birth_date = 1412.1.1
 		dynasty = "Herja"
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 0
+		dip = 1
+		mil = 4
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
 	capital = 10

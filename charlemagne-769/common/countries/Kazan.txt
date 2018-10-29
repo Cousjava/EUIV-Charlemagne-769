@@ -1,7 +1,7 @@
 # Ezgil
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 186 234 66 }
+color = { 222 170 120 }
 
 
 
@@ -147,10 +147,10 @@ monarch_names = {
 	"Batir #0" = 0
 
 
-	"Lärkka #0" = -1
-	"Yartilek #0" = -1
-	"Paykëlti #0" = -1
-	"Puyantay #0" = -1
-	"Savtilek #0" = -1
+	"Tekçe #0" = -1
+	"Peksen #0" = -1
+	"Gunduz #0" = -1
+	"Akgul #0" = -1
+	"Sibel #0" = -1
 }
 

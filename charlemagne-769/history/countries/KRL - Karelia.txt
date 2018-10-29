@@ -1,5 +1,6 @@
 # Karelia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 1776
 		name = "Lemetti"
 		birth_date = 1399.1.1
 		dynasty = "Karjalainen"
-		adm = 3
-		dip = 3
-		mil = 2
+		adm = 1
+		dip = 0
+		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
 }
 1426.1.1 = {
 	heir = {
@@ -26,11 +27,11 @@ capital = 1776
 		dynasty = "Karjalainen"
 		birth_date = 1426.1.1
 		death_date = 1506.1.1
-		adm = 1
+		adm = 3
 		dip = 4
-		mil = 0
+		mil = 2
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = benevolent_personality
 }
 1444.11.11 = {
 	capital = 1776

@@ -1,5 +1,6 @@
 # Uchturpan
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = chinese
@@ -13,10 +14,10 @@ capital = 4209
 		birth_date = 1418.1.1
 		dynasty = "Bharuka"
 		adm = 3
-		dip = 4
-		mil = 2
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 4209

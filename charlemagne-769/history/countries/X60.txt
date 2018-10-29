@@ -1,5 +1,6 @@
 # Cakrakuta
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 547
 		name = "Vallabharaja"
 		birth_date = 1415.1.1
 		dynasty = "Nagavamsi"
-		adm = 2
+		adm = 5
 		dip = 4
-		mil = 2
+		mil = 3
 	}
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = conqueror_personality
 	heir = {
 		name = "Rajamalla"
 		monarch_name = "Rajamalla"
@@ -27,7 +28,7 @@ capital = 547
 		dip = 2
 		mil = 3
 	}
-	add_heir_personality = kind_hearted_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 547

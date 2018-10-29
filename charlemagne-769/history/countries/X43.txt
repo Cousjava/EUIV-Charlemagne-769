@@ -1,5 +1,6 @@
 # Bhar
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 555
 		name = "Jhetpala"
 		birth_date = 1395.1.1
 		dynasty = "Bhar"
-		adm = 4
-		dip = 1
-		mil = 6
+		adm = 3
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
 	capital = 555

@@ -81,11 +81,11 @@ monarch_names = {
 	"Witiza #0" = 0
 
 
-	"Menenda #0" = -1
-	"Sisenanda #0" = -1
-	"Ava #0" = -1
-	"Leodegundis #0" = -1
-	"Onecca #0" = -1
+	"Elduara #0" = -1
+	"Riciberga #0" = -1
+	"Theodora #0" = -1
+	"Winidilda #0" = -1
+	"Sibilia #0" = -1
 }
 ship_names = {
 	Arif

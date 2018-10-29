@@ -1,5 +1,6 @@
 # Thracesia
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 4309
 		name = "Michael"
 		birth_date = 1410.1.1
 		dynasty = "Lachanodrakon"
-		adm = 4
+		adm = 2
 		dip = 1
-		mil = 4
+		mil = 5
 	}
-	add_ruler_personality = strict_personality
 	add_ruler_personality = cruel_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
 	capital = 4309

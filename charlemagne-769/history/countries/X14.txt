@@ -1,5 +1,6 @@
 # Pandya
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,22 +13,22 @@ capital = 536
 		name = "Parântaka"
 		birth_date = 1408.1.1
 		dynasty = "Pandya"
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 4
+		dip = 4
+		mil = 0
 	}
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = lawgiver_personality
 	heir = {
 		name = "Irâcacimman"
 		monarch_name = "Irâcacimman"
 		dynasty = "Pandya"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 2
-		dip = 2
+		adm = 1
+		dip = 1
 		mil = 2
 	}
-	add_heir_personality = malevolent_personality
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 536

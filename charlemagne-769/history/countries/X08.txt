@@ -1,5 +1,6 @@
 # Ghana
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = sub_saharan
@@ -13,22 +14,22 @@ capital = 1131
 		birth_date = 1400.1.1
 		dynasty = "Cisse"
 		adm = 3
-		dip = 2
-		mil = 5
+		dip = 0
+		mil = 4
 	}
-	add_ruler_personality = careful_personality
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
 	heir = {
 		name = "Drissa"
 		monarch_name = "Drissa"
 		dynasty = "Cisse"
 		birth_date = 1405.1.1
 		death_date = 1485.1.1
-		adm = 2
+		adm = 3
 		dip = 1
-		mil = 5
+		mil = 2
 	}
-	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11 = {
 	capital = 1131

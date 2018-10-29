@@ -325,11 +325,11 @@ monarch_names = {
 	"Zubeyr #0" = 0
 
 
-	"Kisa #0" = -1
-	"Wrina #0" = -1
-	"Zibba #0" = -1
-	"Zilgum #0" = -1
-	"Aarifa #0" = -1
+	"Taszellayt #0" = -1
+	"Temzi #0" = -1
+	"Tament #0" = -1
+	"Iija #0" = -1
+	"Faghissa #0" = -1
 }
 ship_names = {
 	Kiringa Timbuktu "Koumbi Saleh" Gao

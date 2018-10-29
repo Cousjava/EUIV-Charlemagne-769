@@ -1,5 +1,6 @@
 # Haravoi
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,9 +13,9 @@ capital = 477
 		name = "Karaca"
 		birth_date = 1399.1.1
 		dynasty = "Haravoi"
-		adm = 0
-		dip = 2
-		mil = 1
+		adm = 3
+		dip = 5
+		mil = 2
 	}
 	add_ruler_personality = secretive_personality
 }

@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Premysl" "Nezamysl" "Kresomysl" "Mnata" "Strojmir" "Vojen" "Unislav" "Albert" "Albrecht" "Ales" 
+	"Premysl" "Nezamysl" "Kresomysl" "Mnata" "Vojen" "Unislav" "Strojmir" "Albert" "Albrecht" "Ales" 
 	"Arnost" "Bavor" "Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" 
 	"Budivoj" "Castolov" "Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" 
 	"Havel" "Heralt" "Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" 
@@ -48,9 +48,9 @@ monarch_names = {
 	"Nezamysl #1" = 18
 	"Kresomysl #0" = 1
 	"Mnata #0" = 1
-	"Strojmir #0" = 1
 	"Vojen #0" = 1
 	"Unislav #0" = 1
+	"Strojmir #0" = 1
 	"Albert #0" = 0
 	"Albrecht #0" = 0
 	"Ales #0" = 0
@@ -132,11 +132,11 @@ monarch_names = {
 	"Zikmund #0" = 0
 
 
-	"Zofie #0" = -1
 	"Olga #0" = -1
-	"Vladislava #0" = -1
-	"Blazena #0" = -1
-	"Barbora #0" = -1
+	"Pribyslava #0" = -1
+	"Stanislava #0" = -1
+	"Vilemína #0" = -1
+	"Johanka #0" = -1
 }
 ship_names = {
 	"Svatý Vaclav"

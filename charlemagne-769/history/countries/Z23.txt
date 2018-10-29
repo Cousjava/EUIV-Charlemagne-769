@@ -1,5 +1,6 @@
 # Caliu
-government = tribal_kingdom
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 1979
 		name = "Allcallorred"
 		birth_date = 1375.1.1
 		dynasty = "Caliu"
-		adm = 6
-		dip = 4
-		mil = 4
+		adm = 2
+		dip = 5
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 1979

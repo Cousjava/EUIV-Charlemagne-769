@@ -42,12 +42,12 @@ leader_names = {
 	"Greger" "Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haukr" "Helgi" 
 	"Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hysing" 
 	"Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" 
-	"Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" 
-	"Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" 
-	"Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" 
-	"Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" 
-	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
-	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" 
+	"Ofeig" "Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" 
+	"Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" 
+	"Suni" "Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" 
+	"Þorfinn" "Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" 
+	"Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
 	"Hrörekr #1" = 21
 	"Haraldr #1" = 18
@@ -134,6 +134,7 @@ monarch_names = {
 	"Kol #0" = 0
 	"Kolbjörn #0" = 0
 	"Markus #0" = 0
+	"Magni #0" = 0
 	"Mats #0" = 0
 	"Nils #0" = 0
 	"Niklas #0" = 0
@@ -186,11 +187,11 @@ monarch_names = {
 	"Öysteinn #0" = 0
 
 
-	"Grima #0" = -1
+	"Kristina #0" = -1
 	"Karin #0" = -1
-	"Freyja #0" = -1
-	"Gunnhildr #0" = -1
-	"Ylva #0" = -1
+	"Helena #0" = -1
+	"Aleta #0" = -1
+	"Sara #0" = -1
 }
 ship_names = {
 	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 

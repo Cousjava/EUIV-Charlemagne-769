@@ -1,5 +1,6 @@
 # Idjil
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = sub_saharan
@@ -12,11 +13,11 @@ capital = 1127
 		name = "Awzal"
 		birth_date = 1408.1.1
 		dynasty = "Idjili"
-		adm = 2
-		dip = 3
+		adm = 1
+		dip = 5
 		mil = 3
 	}
-	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 1127

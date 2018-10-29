@@ -1,5 +1,6 @@
 # Lata
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 2036
 		name = "Karkka"
 		birth_date = 1415.1.1
 		dynasty = "Rashtrakuta"
-		adm = 1
-		dip = 2
-		mil = 4
+		adm = 3
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
 	capital = 2036

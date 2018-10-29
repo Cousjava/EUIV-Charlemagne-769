@@ -1,5 +1,6 @@
 # Yabguid
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,22 +13,22 @@ capital = 2351
 		name = "Kapaghan"
 		birth_date = 1411.1.1
 		dynasty = "Yabguid"
-		adm = 3
+		adm = 2
 		dip = 1
 		mil = 2
 	}
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
 		name = "Dogan"
 		monarch_name = "Dogan"
 		dynasty = "Yabguid"
 		birth_date = 1427.1.1
 		death_date = 1507.1.1
-		adm = 3
-		dip = 4
-		mil = 2
+		adm = 1
+		dip = 2
+		mil = 6
 	}
-	add_heir_personality = midas_touched_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 2351

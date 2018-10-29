@@ -8,7 +8,7 @@ color = { 204 180 30 }
 
 leader_names = {
 
-	"Durlabhavardhana" "Jayapida" "Cippatajayapida" "Samgramapida" "Tribhuvanapida" "Lalitapida" "Chandrapida" "Tarapida" "Lalitadiyta-Muktapida" "Kuvalayapida" 
+	"Durlabhavardhana" "Jayapida" "Samgramapida" "Cippatajayapida" "Tribhuvanapida" "Lalitapida" "Chandrapida" "Tarapida" "Lalitadiyta-Muktapida" "Kuvalayapida" 
 	"Vajraditya" "Prithvyapida" "Ajit" "Amar" "Amar Dasi" "Amir" "Angad" "Arjun" "Atar" "Basawa" 
 	"Bhagwant" "Bhaimani" "Budh" "Chand" "Charat" "Damodar" "Dasu" "Datu" "Dayaram" "Didar" 
 	"Farid" "Fateh" "Gobind" "Gurdita" "Hargobind" "Hari" "Har Krishan" "Har Rai" "Jai Ram" "Jetha" 
@@ -18,8 +18,8 @@ leader_names = {
 monarch_names = {
 	"Durlabhavardhana #2" = 21
 	"Jayapida #1" = 18
-	"Cippatajayapida #0" = 1
 	"Samgramapida #0" = 1
+	"Cippatajayapida #0" = 1
 	"Tribhuvanapida #0" = 1
 	"Lalitapida #0" = 1
 	"Chandrapida #1" = 18
@@ -88,10 +88,10 @@ monarch_names = {
 	"Zorawar #0" = 0
 
 
+	"Kishan #0" = -1
+	"Khivi #0" = -1
+	"Nihal #0" = -1
 	"Anup #0" = -1
-	"Jodhabai #0" = -1
-	"Bhani #0" = -1
-	"Sahib #0" = -1
-	"Dani #0" = -1
+	"Lachmi #0" = -1
 }
 

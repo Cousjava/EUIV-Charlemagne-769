@@ -1,5 +1,6 @@
 # Cherson
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 285
 		name = "Sebastos"
 		birth_date = 1407.1.1
 		dynasty = "Pyrrogenes"
-		adm = 5
-		dip = 1
-		mil = 1
+		adm = 2
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = just_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 285

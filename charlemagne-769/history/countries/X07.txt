@@ -1,5 +1,6 @@
 # Bamian
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,23 +13,23 @@ capital = 451
 		name = "Šarvin"
 		birth_date = 1384.5.22
 		dynasty = "Bamiyan"
-		adm = 4
-		dip = 5
-		mil = 1
+		adm = 6
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = kind_hearted_personality
 	heir = {
 		name = "Merzuban"
 		monarch_name = "Merzuban"
 		dynasty = "Bamiyan"
 		birth_date = 1411.5.22
 		death_date = 1491.5.22
-		adm = 3
-		dip = 5
+		adm = 1
+		dip = 3
 		mil = 3
 	}
-	add_heir_personality = strict_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 451

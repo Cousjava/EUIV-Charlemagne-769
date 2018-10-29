@@ -35,7 +35,7 @@ historical_units = {
 
 leader_names = {
 
-	"Kubrat" "Toktu" "Irkhan" "Krum" "Omortag" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
+	"Kubrat" "Toktu" "Krum" "Omortag" "Telerig" "Irkhan" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
 	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Kormisosh" "Vinekh" 
 	"Telets" "Sabin" "Umor" "Pagan" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Balamber" 
 	"Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" "Boyan" "Bulger" "Buzan" "Chepa" 
@@ -51,10 +51,10 @@ leader_names = {
 monarch_names = {
 	"Kubrat #1" = 18
 	"Toktu #1" = 21
-	"Irkhan #0" = 1
 	"Krum #0" = 1
 	"Omortag #0" = 1
 	"Telerig #1" = 18
+	"Irkhan #0" = 1
 	"Kardam #0" = 1
 	"Asparukh #1" = 18
 	"Batbayan #1" = 18
@@ -179,10 +179,10 @@ monarch_names = {
 	"Batir #0" = 0
 
 
-	"Asli #0" = -1
-	"Çiltanesi #0" = -1
-	"Dilek #0" = -1
-	"Savaçka #0" = -1
+	"Yildiz #0" = -1
+	"Peksen #0" = -1
+	"Çeçek #0" = -1
+	"Sirma #0" = -1
 }
 ship_names = {
 	Alhtpolo

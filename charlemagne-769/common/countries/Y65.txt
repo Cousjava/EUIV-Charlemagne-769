@@ -108,11 +108,11 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Adila #0" = -1
-	"Shogofa #0" = -1
+	"Parand #0" = -1
+	"Asiya #0" = -1
+	"Layla #0" = -1
 	"Faghira #0" = -1
-	"Sheeva #0" = -1
-	"Sajida #0" = -1
+	"Qamara #0" = -1
 }
 ship_names = {
 	Arif

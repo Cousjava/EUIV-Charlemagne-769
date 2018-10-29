@@ -1,5 +1,6 @@
 # Kalyani Chalukya
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 532
 		name = "Bhima"
 		birth_date = 1395.1.1
 		dynasty = "Kalyani Chalukya"
-		adm = 3
-		dip = 2
-		mil = 6
+		adm = 1
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = infertile_personality
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 532

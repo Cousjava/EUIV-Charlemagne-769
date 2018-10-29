@@ -1,5 +1,6 @@
 # Tyumen
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,22 +13,22 @@ capital = 1075
 		name = "Kuntuvdi"
 		birth_date = 1398.1.1
 		dynasty = "Andjogli"
-		adm = 2
-		dip = 1
+		adm = 3
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = industrious_personality
+	add_ruler_personality = sinner_personality
 	heir = {
 		name = "Koza"
 		monarch_name = "Koza"
 		dynasty = "Andjogli"
 		birth_date = 1418.1.1
 		death_date = 1498.1.1
-		adm = 1
+		adm = 2
 		dip = 2
 		mil = 3
 	}
-	add_heir_personality = cruel_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
 	capital = 1075

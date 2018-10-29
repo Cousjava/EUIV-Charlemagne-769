@@ -1,5 +1,6 @@
 # Estonia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 36
 		name = "Kaupo"
 		birth_date = 1416.1.1
 		dynasty = "Harjumaa"
-		adm = 2
+		adm = 1
 		dip = 3
-		mil = 1
+		mil = 4
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 36

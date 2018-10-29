@@ -61,9 +61,9 @@ monarch_names = {
 
 
 	"Dattadevi #0" = -1
+	"Yajnavati #0" = -1
+	"Nayanadevi #0" = -1
+	"Kuladevi #0" = -1
 	"Bhogavati #0" = -1
-	"Vijnayavati #0" = -1
-	"Vasumati #0" = -1
-	"Ratnavati #0" = -1
 }
 

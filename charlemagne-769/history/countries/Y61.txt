@@ -1,5 +1,6 @@
 # Tujibid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 1231
 		name = "Abdullah"
 		birth_date = 1400.1.1
 		dynasty = "Tujibid"
-		adm = 3
-		dip = 3
-		mil = 6
+		adm = 2
+		dip = 6
+		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tolerant_personality
 }
 1444.11.11 = {
 	capital = 1231

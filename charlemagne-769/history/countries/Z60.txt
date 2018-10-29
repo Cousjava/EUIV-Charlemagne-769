@@ -1,5 +1,6 @@
 # Gudbrandsdal
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,22 +13,22 @@ capital = 22
 		name = "Öysteinn"
 		birth_date = 1415.1.1
 		dynasty = "Yngling"
-		adm = 4
-		dip = 2
+		adm = 1
+		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = naive_personality
 	heir = {
 		name = "Guðröðr"
 		monarch_name = "Guðröðr"
 		dynasty = "Yngling"
 		birth_date = 1420.1.1
 		death_date = 1500.1.1
-		adm = 1
-		dip = 1
-		mil = 0
+		adm = 4
+		dip = 4
+		mil = 3
 	}
-	add_heir_personality = scholar_personality
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
 	capital = 22

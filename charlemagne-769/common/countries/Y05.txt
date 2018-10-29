@@ -83,11 +83,11 @@ monarch_names = {
 	"Viggu #0" = 0
 
 
+	"Állet #0" = -1
+	"Leandu #0" = -1
+	"Seará #0" = -1
+	"Áidná #0" = -1
 	"Sojá #0" = -1
-	"Soabá #0" = -1
-	"Sealggá #0" = -1
-	"Biergá #0" = -1
-	"Sáráhkká #0" = -1
 }
 ship_names = {
 	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 

@@ -214,11 +214,11 @@ monarch_names = {
 	"Rædwald #0" = 0
 
 
-	"Judith #0" = -1
-	"Cynehild #0" = -1
-	"Beorhtwynn #0" = -1
-	"Beorhtwaru #0" = -1
-	"Cwenburg #0" = -1
+	"Wulfthryth #0" = -1
+	"Gytha #0" = -1
+	"Ælfwynn #0" = -1
+	"Cynegyth #0" = -1
+	"Æthelflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

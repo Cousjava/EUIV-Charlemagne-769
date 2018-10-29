@@ -387,11 +387,11 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Augusta #0" = -1
-	"Aurelia #0" = -1
-	"Filomena #0" = -1
-	"Felicia #0" = -1
-	"Francesca #0" = -1
+	"Giulia #0" = -1
+	"Benedetta #0" = -1
+	"Nunzia #0" = -1
+	"Agnese #0" = -1
+	"Candida #0" = -1
 }
 ship_names = {
 	"Amazzone Guerriera" Amburgense "Anna Bonaventura" Apollo "Aquila Coronato" 

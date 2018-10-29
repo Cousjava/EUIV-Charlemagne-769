@@ -32,7 +32,7 @@ leader_names = {
 	"Yasovarman" }
 monarch_names = {
 	"Jhetpala #1" = 18
-	"Narpal #0" = 1
+	"Narpal #0" = -1
 	"Achalraj #0" = 0
 	"Achalraja #0" = 0
 	"Adhandev #0" = 0
@@ -244,10 +244,9 @@ monarch_names = {
 	"Yasovarman #0" = 0
 
 
+	"Shrimitradevi #0" = -1
+	"Dhruvasvamini #0" = -1
+	"Prabhavati #0" = -1
 	"Kumaradevi #0" = -1
-	"Dehanagadevi #0" = -1
-	"Kanchuka #0" = -1
-	"Kanwar #0" = -1
-	"Akal #0" = -1
 }
 

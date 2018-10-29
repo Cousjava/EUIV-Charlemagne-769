@@ -192,10 +192,10 @@ monarch_names = {
 	"Vasumitra #0" = 0
 
 
-	"Devavati #0" = -1
-	"Kanchani #0" = -1
-	"Malavyadevi #0" = -1
-	"Bhogavati #0" = -1
+	"Mahendrani #0" = -1
 	"Himadrija #0" = -1
+	"Rani #0" = -1
+	"Amritakala #0" = -1
+	"Ratnadevi #0" = -1
 }
 

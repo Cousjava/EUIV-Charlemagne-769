@@ -1,5 +1,6 @@
 # Bukhal
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,12 +13,12 @@ capital = 286
 		name = "Simsam"
 		birth_date = 1392.1.1
 		dynasty = "Bukhal"
-		adm = 3
+		adm = 2
 		dip = 0
-		mil = 4
+		mil = 3
 	}
 	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 286

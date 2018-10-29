@@ -1,5 +1,6 @@
 # Hamzahbid
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -13,10 +14,10 @@ capital = 4289
 		birth_date = 1413.1.1
 		dynasty = "Hamzahbid"
 		adm = 3
-		dip = 2
-		mil = 4
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 4289

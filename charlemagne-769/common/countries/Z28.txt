@@ -349,11 +349,11 @@ monarch_names = {
 	"Ysfael #0" = 0
 
 
-	"Lleigy #0" = -1
-	"Gwenasedd #0" = -1
-	"Mair #0" = -1
-	"Ffelis #0" = -1
-	"Aeronwen #0" = -1
+	"Morien #0" = -1
+	"Ellyn #0" = -1
+	"Ffion #0" = -1
+	"Heulwen #0" = -1
+	"Mawd #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

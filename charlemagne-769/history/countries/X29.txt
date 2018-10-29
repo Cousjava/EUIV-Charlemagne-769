@@ -1,5 +1,6 @@
 # Bhatti
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 513
 		name = "Kehar"
 		birth_date = 1390.1.1
 		dynasty = "Bhatti"
-		adm = 2
+		adm = 3
 		dip = 2
-		mil = 5
+		mil = 6
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
 	capital = 513

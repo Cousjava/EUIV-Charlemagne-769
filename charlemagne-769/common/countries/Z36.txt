@@ -191,11 +191,11 @@ monarch_names = {
 	"Wolfram #0" = 0
 
 
-	"Hiltrude #0" = -1
-	"Lanthechilde #0" = -1
-	"Radegund #0" = -1
-	"Leutgardis #0" = -1
-	"Bertilla #0" = -1
+	"Rigunth #0" = -1
+	"Ingunde #0" = -1
+	"Rictrude #0" = -1
+	"Gautlindis #0" = -1
+	"Marcatrude #0" = -1
 }
 ship_names = {
 	Ariadne Habicht Adler Albatross Amazone

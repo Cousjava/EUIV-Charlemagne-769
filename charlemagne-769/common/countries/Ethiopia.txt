@@ -8,7 +8,7 @@ color = { 120 62 20 }
 
 leader_names = {
 
-	"Degna Mikael" "Oda Gosh" "Ayzur" "Wededem" "Rema Armah" "Wedem Asfare" "Dedem" "Bahr Ikela" "Gum" "Asgwomgum" 
+	"Degna Mikael" "Oda Gosh" "Ayzur" "Wededem" "Wedem Asfare" "Rema Armah" "Dedem" "Bahr Ikela" "Gum" "Asgwomgum" 
 	"Letem" "Talatem" "Amare" "Dahnay" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
 	"Abebe" "Afework" "Aman" "Assefa" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" 
 	"Berihun" "Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" 
@@ -23,8 +23,8 @@ monarch_names = {
 	"Oda Gosh #1" = 18
 	"Ayzur #0" = 1
 	"Wededem #0" = 1
-	"Rema Armah #0" = 1
 	"Wedem Asfare #0" = 1
+	"Rema Armah #0" = 1
 	"Dedem #0" = 1
 	"Bahr Ikela #1" = 18
 	"Gum #1" = 18
@@ -116,10 +116,10 @@ monarch_names = {
 	"Zula #0" = 0
 
 
-	"Dilla #0" = -1
-	"Tsage #0" = -1
-	"Sela #0" = -1
-	"Zenia #0" = -1
-	"Amhara #0" = -1
+	"Makda #0" = -1
+	"Hagos #0" = -1
+	"Desse #0" = -1
+	"Abrihet #0" = -1
+	"Semhar #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Vidin
-government = despotic_monarchy
+government = monarchy
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 2746
 		name = "Uturgur"
 		birth_date = 1403.1.1
 		dynasty = "Ukil"
-		adm = 3
+		adm = 1
 		dip = 3
-		mil = 0
+		mil = 1
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 2746

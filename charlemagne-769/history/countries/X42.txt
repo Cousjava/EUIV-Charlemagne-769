@@ -1,5 +1,6 @@
 # Yadava
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,12 +13,12 @@ capital = 524
 		name = "Kamal"
 		birth_date = 1410.1.1
 		dynasty = "Yadava"
-		adm = 3
-		dip = 4
-		mil = 3
+		adm = 4
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
 	capital = 524

@@ -117,10 +117,10 @@ monarch_names = {
 	"Viranarasimha #0" = 0
 
 
-	"Thirumalambike #0" = -1
-	"Chinnambike #0" = -1
+	"Mailaladevi #0" = -1
+	"Bijjabbe #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Kundakadevi #0" = -1
 	"Vijamba #0" = -1
-	"Hoysaladevi #0" = -1
-	"Mahadevi #0" = -1
 }
 

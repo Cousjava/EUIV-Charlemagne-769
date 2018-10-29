@@ -1,5 +1,6 @@
 # Canarias
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 366
 		name = "Mahtar"
 		birth_date = 1415.1.1
 		dynasty = "Mahtarid"
-		adm = 1
-		dip = 2
-		mil = 5
+		adm = 3
+		dip = 0
+		mil = 6
 	}
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
 	capital = 366

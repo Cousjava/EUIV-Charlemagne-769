@@ -1,5 +1,6 @@
 # Sijilmasa
-government = ottoman_government
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,11 +13,11 @@ capital = 346
 		name = "Al-Qasim"
 		birth_date = 1400.1.1
 		dynasty = "Midrarid"
-		adm = 1
-		dip = 3
-		mil = 4
+		adm = 0
+		dip = 0
+		mil = 2
 	}
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 346

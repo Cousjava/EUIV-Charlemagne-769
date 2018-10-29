@@ -1,5 +1,6 @@
 # Benevento
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 1933
 		name = "Arechis II"
 		birth_date = 1410.1.1
 		dynasty = "Gausian"
-		adm = 2
-		dip = 4
-		mil = 0
+		adm = 4
+		dip = 2
+		mil = 4
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 1933

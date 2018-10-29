@@ -1,5 +1,6 @@
 # Flanders
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 1744
 		name = "Roding"
 		birth_date = 1395.1.1
 		dynasty = "Roding"
-		adm = 4
+		adm = 1
 		dip = 1
-		mil = 4
+		mil = 2
 	}
+	add_ruler_personality = bold_fighter_personality
 	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
 }
 1444.11.11 = {
 	capital = 1744

@@ -1,5 +1,6 @@
 # Powys
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,23 +13,23 @@ capital = 240
 		name = "Brochfael II"
 		birth_date = 1395.1.1
 		dynasty = "Gwerthrynion"
-		adm = 3
-		dip = 2
-		mil = 1
+		adm = 5
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = naive_personality
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
 	heir = {
 		name = "Cadell"
 		monarch_name = "Cadell II"
 		dynasty = "Gwerthrynion"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
-		adm = 3
+		adm = 2
 		dip = 2
 		mil = 6
 	}
-	add_heir_personality = strict_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 240

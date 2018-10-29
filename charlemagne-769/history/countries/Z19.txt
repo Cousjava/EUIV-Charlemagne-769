@@ -1,5 +1,6 @@
 # Wessex
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,12 +13,12 @@ capital = 234
 		name = "Cynewulf"
 		birth_date = 1395.1.1
 		dynasty = "Cerdicing"
-		adm = 0
-		dip = 3
+		adm = 3
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = tolerant_personality
 	heir = {
 		name = "Beorhtric"
 		monarch_name = "Beorhtric"
@@ -26,9 +27,9 @@ capital = 234
 		death_date = 1505.1.1
 		adm = 4
 		dip = 3
-		mil = 5
+		mil = 2
 	}
-	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = just_personality
 }
 1444.11.11 = {
 	capital = 234

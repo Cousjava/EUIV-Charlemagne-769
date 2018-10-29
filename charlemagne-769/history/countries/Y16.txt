@@ -1,5 +1,6 @@
 # Latgale
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,11 +13,11 @@ capital = 273
 		name = "Pukuveras"
 		birth_date = 1412.1.1
 		dynasty = "Ugandi"
-		adm = 4
+		adm = 0
 		dip = 4
-		mil = 5
+		mil = 2
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = sinner_personality
 }
 1444.11.11 = {
 	capital = 273

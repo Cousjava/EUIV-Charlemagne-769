@@ -8,7 +8,7 @@ color = { 250 184 31 }
 
 leader_names = {
 
-	"Muhan" "Baghatur" "Yilig" "Kibar" "Obadiah" "Bulan" "Kundaç" "Bagha-Shad" "Tun-Yagbu" "Böri-Shad" 
+	"Muhan" "Baghatur" "Kibar" "Obadiah" "Bulan" "Yilig" "Kundaç" "Bagha-Shad" "Tun-Yagbu" "Böri-Shad" 
 	"Irbis" "Khalga" "Theodora" "Busir" "Barjik" "Kaban" "Bihar" "Eirene" "Alp" "Araslan" 
 	"Bagha" "Bälgiçi" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulçan" "Buzer" 
 	"Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" 
@@ -18,10 +18,10 @@ leader_names = {
 monarch_names = {
 	"Muhan #0" = 1
 	"Baghatur #1" = 18
-	"Yilig #0" = 1
 	"Kibar #0" = 1
 	"Obadiah #0" = 1
 	"Bulan #0" = 1
+	"Yilig #0" = 1
 	"Kundaç #0" = 1
 	"Bagha-Shad #0" = 1
 	"Tun-Yagbu #0" = 1
@@ -80,8 +80,8 @@ monarch_names = {
 	"Yeçtirek #0" = 0
 
 
-	"Çiltanesi #0" = -1
-	"Shurkka #0" = -1
-	"Sirma #0" = -1
+	"Ayten #0" = -1
+	"Patiyer #0" = -1
+	"Ikalay #0" = -1
 }
 

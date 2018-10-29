@@ -148,9 +148,9 @@ monarch_names = {
 	"Batir #0" = 0
 
 
-	"Çeçeppi #0" = -1
-	"Yartilek #0" = -1
-	"Özlem #0" = -1
-	"Maturkka #0" = -1
+	"Tekçe #0" = -1
+	"Peksen #0" = -1
+	"Gunduz #0" = -1
+	"Akgul #0" = -1
 }
 

@@ -1,5 +1,6 @@
 # Silesia
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
@@ -12,12 +13,12 @@ capital = 60
 		name = "Witosz"
 		birth_date = 1408.1.1
 		dynasty = "of the Slezanie"
-		adm = 4
-		dip = 4
-		mil = 4
+		adm = 1
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = malevolent_personality
 }
 1444.11.11 = {
 	capital = 60

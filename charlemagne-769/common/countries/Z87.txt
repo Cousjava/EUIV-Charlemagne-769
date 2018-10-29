@@ -111,11 +111,11 @@ monarch_names = {
 	"Zviad #0" = 0
 
 
-	"Tamari #0" = -1
+	"Tinatini #0" = -1
 	"Lamzira #0" = -1
-	"Shorena #0" = -1
-	"Kekela #0" = -1
-	"Borena #0" = -1
+	"Lamara #0" = -1
+	"Dedika #0" = -1
+	"Elene #0" = -1
 }
 ship_names = {
 	Aragveti Anacopia Artaani Abkhazeti

@@ -1,5 +1,6 @@
 # Rashtrakuta
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -12,11 +13,11 @@ capital = 526
 		name = "Nandaraja"
 		birth_date = 1355.1.1
 		dynasty = "Rashtrakuta"
-		adm = 1
-		dip = 3
-		mil = 1
+		adm = 3
+		dip = 2
+		mil = 0
 	}
-	add_ruler_personality = conqueror_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 526

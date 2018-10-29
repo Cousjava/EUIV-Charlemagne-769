@@ -1,5 +1,6 @@
 # Medelpad
-government = tribal_despotism
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
@@ -12,11 +13,11 @@ capital = 9
 		name = "Tryggve"
 		birth_date = 1417.1.1
 		dynasty = "Stafr"
-		adm = 0
-		dip = 0
-		mil = 3
+		adm = 6
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 9

@@ -1,5 +1,6 @@
 # Tomara
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = indian
@@ -13,22 +14,22 @@ capital = 522
 		birth_date = 1380.1.1
 		dynasty = "Tomara"
 		adm = 3
-		dip = 1
-		mil = 5
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = just_personality
 	heir = {
 		name = "Gangeya"
 		monarch_name = "Gangeya"
 		dynasty = "Tomara"
 		birth_date = 1410.1.1
 		death_date = 1490.1.1
-		adm = 3
-		dip = 4
-		mil = 2
+		adm = 4
+		dip = 1
+		mil = 1
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
 	capital = 522

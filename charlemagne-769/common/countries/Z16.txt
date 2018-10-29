@@ -347,11 +347,11 @@ monarch_names = {
 	"Ysfael #0" = 0
 
 
-	"Delyth #0" = -1
-	"Olwen #0" = -1
-	"Ragnell #0" = -1
-	"Ystradwel #0" = -1
-	"Nest #0" = -1
+	"Lleuca #0" = -1
+	"Tangwystl #0" = -1
+	"Mabyn #0" = -1
+	"Ellyn #0" = -1
+	"Hawys #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

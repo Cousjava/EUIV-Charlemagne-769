@@ -1,5 +1,6 @@
 # Nepal
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = chinese
@@ -13,11 +14,11 @@ capital = 557
 		birth_date = 1421.1.1
 		dynasty = "Licchavi"
 		adm = 2
-		dip = 3
-		mil = 2
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
-	add_ruler_personality = pious_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 557

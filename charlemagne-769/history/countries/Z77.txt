@@ -1,5 +1,6 @@
 # Zunbil
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
@@ -12,23 +13,23 @@ capital = 448
 		name = "Jimofuta"
 		birth_date = 1386.1.1
 		dynasty = "Zunbil"
-		adm = 3
-		dip = 3
-		mil = 3
+		adm = 4
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	heir = {
 		name = "Barha"
 		monarch_name = "Barha"
 		dynasty = "Zunbil"
 		birth_date = 1407.6.16
 		death_date = 1487.6.16
-		adm = 3
-		dip = 2
+		adm = 4
+		dip = 1
 		mil = 2
 	}
-	add_heir_personality = drunkard_personality
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
 	capital = 448

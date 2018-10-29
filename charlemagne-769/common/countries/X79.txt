@@ -173,10 +173,10 @@ monarch_names = {
 	"Zutse #0" = 0
 
 
+	"Tricham #0" = -1
+	"Lhathrimo #0" = -1
 	"Pongza #0" = -1
-	"Kyeden #0" = -1
-	"Tsogyal #0" = -1
-	"Choden #0" = -1
-	"Cogrobza #0" = -1
+	"Dzeden #0" = -1
+	"Kunga #0" = -1
 }
 

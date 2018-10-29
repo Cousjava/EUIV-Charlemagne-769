@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Garibald" "Regarde" "Liutfrid" "Hnabi" "Imma" "Erbio" "Ruadbert" "Theodo" "Tassilo" "Theodelinda" 
+	"Garibald" "Regarde" "Liutfrid" "Hnabi" "Ruadbert" "Erbio" "Imma" "Theodo" "Tassilo" "Theodelinda" 
 	"Ramhilde" "Lantpert" "Gotfrid" "Theodbert" "Theobald" "Grimoald" "Lantfrid" "Hugbert" "Huoching" "Suanachildis" 
 	"Guntrud" "Theodorata" "Odilo" "Uta" "Grifo" "Adalbero" "Adalbert" "Adalhard" "Adam" "Ademar" 
 	"Adolf" "Alarich" "Alberich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" "Andreas" "Anselm" 
@@ -55,9 +55,9 @@ monarch_names = {
 	"Regarde #0" = -1
 	"Liutfrid #0" = 1
 	"Hnabi #0" = 1
-	"Imma #0" = -1
-	"Erbio #0" = 1
 	"Ruadbert #0" = 1
+	"Erbio #0" = 1
+	"Imma #0" = -1
 	"Theodo #2" = 24
 	"Tassilo #3" = 24
 	"Theodelinda #0" = -1

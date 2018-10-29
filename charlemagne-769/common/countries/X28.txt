@@ -8,7 +8,7 @@ color = { 194 67 10 }
 
 leader_names = {
 
-	"Harichandra" "Jhota" "Bhilladitya" "Kakka" "Vatsraja" "Kakustha" "Devasakti" "Dadda" "Rajjila" "Jayabhata" 
+	"Harichandra" "Jhota" "Bhilladitya" "Vatsraja" "Kakka" "Kakustha" "Devasakti" "Dadda" "Rajjila" "Jayabhata" 
 	"Narabbhata" "Nagabhata" "Tata" "Bhoja" "Yashovardhana" "Ahirola" "Chanduka" "Siluka" "Vinaykpala" "Achalraj" 
 	"Achalraja" "Adhandev" "Adityadeva" "Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" "Anupapala" "Anuppal" 
 	"Apara Gangeya" "Arjunpal" "Arjunpala" "Arjunavarman" "Bacchdev" "Bachraj" "Baghpal" "Baghpala" "Bahadur-Singh" "Beejpal" 
@@ -51,8 +51,8 @@ monarch_names = {
 	"Harichandra #1" = 18
 	"Jhota #1" = 18
 	"Bhilladitya #0" = 1
-	"Kakka #0" = 1
 	"Vatsraja #0" = 1
+	"Kakka #0" = 1
 	"Kakustha #0" = 1
 	"Devasakti #0" = 1
 	"Dadda #0" = 1
@@ -437,10 +437,10 @@ monarch_names = {
 	"Yograj #0" = 0
 
 
-	"Prasadhanadevi #0" = -1
-	"Kanwar #0" = -1
-	"Kumaradevi #0" = -1
-	"Maharani #0" = -1
-	"Tihunaka #0" = -1
+	"Dhruvasvamini #0" = -1
+	"Sanyukta #0" = -1
+	"Prabhavatigupta #0" = -1
+	"Rudaladevi #0" = -1
+	"Lakshman #0" = -1
 }
 

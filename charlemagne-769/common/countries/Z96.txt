@@ -127,11 +127,11 @@ monarch_names = {
 	"Zarmihr #0" = 0
 
 
-	"Anthe #0" = -1
-	"Dorothea #0" = -1
-	"Theochariste #0" = -1
-	"Hypatia #0" = -1
-	"Kyriake #0" = -1
+	"Eusebia #0" = -1
+	"Agne #0" = -1
+	"Theodosia #0" = -1
+	"Sophia #0" = -1
+	"Antipatra #0" = -1
 }
 ship_names = {
 	Aramu Argishtis Ararat Ani Artsakh

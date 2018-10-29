@@ -1,5 +1,6 @@
 # Magyar
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
@@ -12,22 +13,22 @@ capital = 2406
 		name = "Jenö"
 		birth_date = 1416.1.1
 		dynasty = "Jenö"
-		adm = 2
-		dip = 1
-		mil = 5
+		adm = 3
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = greedy_personality
 	heir = {
 		name = "Dezsõ"
 		monarch_name = "Dezsõ"
 		dynasty = "Jenö"
 		birth_date = 1433.1.1
 		death_date = 1513.1.1
-		adm = 3
-		dip = 2
+		adm = 2
+		dip = 3
 		mil = 2
 	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 2406

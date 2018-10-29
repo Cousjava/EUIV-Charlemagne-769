@@ -1,7 +1,7 @@
 # Karadakhu
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 210 166 150 }
+color = { 246 231 75 }
 
 
 
@@ -69,9 +69,9 @@ monarch_names = {
 	"Yilig #0" = 0
 
 
-	"Çiltanesi #0" = -1
-	"Shurkka #0" = -1
+	"Lärkka #0" = -1
+	"Ipek #0" = -1
 	"Sirma #0" = -1
-	"Samur #0" = -1
+	"Parsbit #0" = -1
 }
 

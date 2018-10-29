@@ -1,5 +1,6 @@
 # Pratihara
-government = feudal_monarchy
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
 technology_group = indian
@@ -12,22 +13,22 @@ capital = 526
 		name = "Kakustha"
 		birth_date = 1405.1.1
 		dynasty = "Pratihara"
-		adm = 5
+		adm = 3
 		dip = 2
 		mil = 1
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = secretive_personality
 	heir = {
 		name = "Devasakti"
 		monarch_name = "Devasakti"
 		dynasty = "Pratihara"
 		birth_date = 1407.1.1
 		death_date = 1487.1.1
-		adm = 1
+		adm = 3
 		dip = 1
-		mil = 3
+		mil = 6
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 526

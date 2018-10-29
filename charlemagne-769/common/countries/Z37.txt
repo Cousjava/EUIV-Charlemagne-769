@@ -179,10 +179,10 @@ monarch_names = {
 	"Wulff #0" = 0
 
 
-	"Frederuna #0" = -1
-	"Wienke #0" = -1
-	"Bithild #0" = -1
-	"Alof #0" = -1
-	"Mathilde #0" = -1
+	"Radegund #0" = -1
+	"Bertha #0" = -1
+	"Suanhilde #0" = -1
+	"Hrothwina #0" = -1
+	"Hildegard #0" = -1
 }
 

@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Walperto" "Alperto" "Tachiperto" "Tachiperga" "Lupo" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" 
+	"Walperto" "Alperto" "Tachiperga" "Lupo" "Tachiperto" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" 
 	"Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" "Aimone" "Alamanno" 
 	"Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" "Aleardo" "Aleramo" 
 	"Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Annibale" 
@@ -68,9 +68,9 @@ leader_names = {
 monarch_names = {
 	"Walperto #1" = 18
 	"Alperto #1" = 18
-	"Tachiperto #0" = 1
 	"Tachiperga #0" = -1
 	"Lupo #0" = 1
+	"Tachiperto #0" = 1
 	"Abbondanzio #0" = 0
 	"Abbondio #0" = 0
 	"Abelardo #0" = 0
@@ -387,10 +387,10 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Sunilda #0" = -1
-	"Theodota #0" = -1
-	"Gaila #0" = -1
-	"Adelgrima #0" = -1
+	"Gudeliva #0" = -1
+	"Gundeperga #0" = -1
+	"Theodarada #0" = -1
+	"Appa #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

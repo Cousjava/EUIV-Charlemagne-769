@@ -1,5 +1,6 @@
 # Bilar
-government = steppe_horde
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
@@ -14,9 +15,9 @@ capital = 2421
 		dynasty = "Bilar"
 		adm = 4
 		dip = 1
-		mil = 4
+		mil = 2
 	}
-	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
 	capital = 2421
