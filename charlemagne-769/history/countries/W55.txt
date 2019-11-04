@@ -1,0 +1,38 @@
+# Daura
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = hausa
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2279
+1441.1.1 = {
+	monarch = {
+		name = "Najibu"
+		birth_date = 1425.1.1
+		dynasty = "Daura"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = pious_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Yaji"
+		monarch_name = "Yaji"
+		dynasty = "Daura"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2279
+	add_treasury = 4
+	add_prestige = 2
+}

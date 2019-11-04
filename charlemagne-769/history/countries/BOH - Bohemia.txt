@@ -13,26 +13,26 @@ capital = 266
 		name = "Nezamysl"
 		birth_date = 1390.1.1
 		dynasty = "Premyslid"
-		adm = 3
-		dip = 1
-		mil = 4
+		adm = 1
+		dip = 6
+		mil = 3
 	}
-	add_ruler_personality = conqueror_personality
-	add_ruler_personality = expansionist_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = infertile_personality
 	heir = {
 		name = "Mnata"
 		monarch_name = "Mnata"
 		dynasty = "Premyslid"
 		birth_date = 1407.1.1
 		death_date = 1487.1.1
-		adm = 4
-		dip = 6
+		adm = 6
+		dip = 2
 		mil = 3
 	}
-	add_heir_personality = pious_personality
+	add_heir_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 266
 	add_treasury = 6
-	add_prestige = 11
+	add_prestige = 7
 }

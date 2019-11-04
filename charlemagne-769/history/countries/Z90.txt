@@ -1,4 +1,4 @@
-# Armeniacon
+# Adrianopolis
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,20 +7,21 @@ technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 2304
-1438.1.1 = {
+capital = 149
+1420.1.1 = {
 	monarch = {
-		name = "Olvianos"
-		birth_date = 1418.1.1
-		dynasty = "Leontares"
+		name = "Theophanes"
+		birth_date = 1385.1.1
+		dynasty = "Monotes"
 		adm = 4
 		dip = 2
-		mil = 4
+		mil = 2
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
-	capital = 2304
+	capital = 149
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 5
 }

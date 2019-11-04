@@ -33,361 +33,203 @@ historical_units = {
 
 leader_names = {
 
-	"Martino" "Claudia" "Callisto" "Gregorio" "Lucia" "Abbondanzio" "Abbondio" "Abelardo" "Abelino" "Achille" 
-	"Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" "Aimone" "Alamanno" 
-	"Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" "Aleardo" "Aleramo" 
-	"Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" "Angelo" "Annibale" 
-	"Anselmo" "Antonino" "Antonio" "Antoniotto" "Arcibaldo" "Arderico" "Armando" "Arnolfo" "Arrigo" "Arsenio" 
-	"Artemio" "Ascanio" "Astorre" "Atenolfo" "Attilio" "Augusto" "Aurelio" "Ausilio" "Ausonio" "Averado" 
-	"Azzo" "Azzone" "Baldassarre" "Baldovino" "Barnaba" "Bartolomeo" "Basilio" "Bassiano" "Basso" "Battista" 
-	"Beltrano" "Benedetto" "Benvenuto" "Berardo" "Bernabò" "Bernardo" "Berto" "Bertoldo" "Biagio" "Bonaventura" 
-	"Bonifacio" "Borso" "Bruno" "Bruto" "Buonconte" "Buoso" "Camillo" "Candido" "Cangrande" "Carlo" 
-	"Cassio" "Castore" "Cataldo" "Catone" "Cecco" "Cesare" "Chiaffredo" "Chiano" "Ciro" "Ciuccio" 
-	"Claudio" "Clemente" "Comita" "Conone" "Cornelio" "Corradino" "Corrado" "Cosimo" "Cosma" "Costante" 
-	"Costantino" "Costanzo" "Cristoforo" "Damiano" "Davide" "Demetrio" "Dioniso" "Doménico" "Durante" "Eduardo" 
-	"Elio" "Emmanuele" "Ennio" "Enrico" "Enzio" "Enzo" "Ercole" "Eriprando" "Ermenegildo" "Ettore" 
-	"Eugenio" "Ezio" "Ezzelino" "Fabrizio" "Fausto" "Federigo" "Felice" "Ferdinando" "Ferruccio" "Filippo" 
-	"Fiorello" "Flavio" "Folco" "Fortunato" "Fosco" "Francesco" "Fresco" "Gabriele" "Gabrino" "Gaetano" 
-	"Galasso" "Galeazzo" "Galeotto" "Gaspare" "Gastone" "Gelasio" "Gentile" "Geraldo" "Gerardo" "Germano" 
-	"Gerolamo" "Gherardo" "Giacinto" "Giacomo" "Gian" "Gianfranco" "Gianleone" "Giano" "Giberto" "Gilberto" 
-	"Giolio" "Giordano" "Giorgio" "Giovanni" "Giulio" "Giuseppe" "Goffredo" "Gualtiero" "Guarnito" "Guerrino" 
-	"Guglielmo" "Guido" "Guidone" "Guigliadore" "Iacopo" "Igino" "Innocenzo" "Ippolito" "Isnardo" "Jacopo" 
-	"Lamberto" "Landolfo" "Landone" "Lanfranco" "Lattanzio" "Lazzarino" "Lazzaro" "Lealdo" "Leonardo" "Leone" 
-	"Leonello" "Leopoldo" "Libero" "Lionello" "Livio" "Lodovico" "Lorenzo" "Luca" "Luchino" "Lucio" 
-	"Luigi" "Malacresta" "Manfredo" "Manuele" "Marco" "Mariano" "Marino" "Mario" "Marsiglio" "Massimo" 
-	"Mastino" "Matteo" "Merigo" "Michelangelo" "Michele" "Napoleone" "Nazareno" "Nestore" "Niccolò" "Nicola" 
-	"Nino" "Nolfo" "Oberto" "Obizzino" "Obizzo" "Oddone" "Omero" "Onorio" "Oreste" "Orlando" 
-	"Ottavio" "Ottobono" "Ottone" "Pagano" "Pancrazio" "Pandolfo" "Paolo" "Pasquale" "Patrizio" "Pellegrino" 
-	"Pericle" "Pietro" "Pio" "Prospero" "Rafaello" "Radul" "Raimondo" "Rainero" "Raineri" "Riccardo" 
-	"Rinaldo" "Rizzardo" "Roberto" "Rodolfo" "Rolando" "Rosso" "Ruggiero" "Salinguerra" "Salvatore" "Salvestro" 
-	"Sante" "Saverio" "Sciarra" "Sebastiano" "Secondotto" "Serafino" "Sergio" "Sesto" "Settimio" "Severino" 
-	"Severo" "Silvano" "Silvestro" "Simone" "Simonetto" "Sinibaldo" "Sinucello" "Sozzo" "Spinetto" "Stefano" 
-	"Stentore" "Taddeo" "Tedaldo" "Tedice" "Teodoro" "Tibaldo" "Tiziano" "Tommaso" "Torgodorio" "Torquato" 
-	"Ubaldo" "Uberto" "Ugo" "Ugoccione" "Ugolino" "Umberto" "Urbano" "Valentino" "Valerio" "Vincentello" 
-	"Vincenzo" "Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
+	"Martino" "Claudia" "Lucia" "Gregorio" "Callisto" "Gosantinu" "Abisatu" "Adàmu" "Adriànu" "Alaverru" 
+	"Albertu" "Albu" "Alessandru" "Alfonsu" "Ambròsu" "Andria" "Antine" "Antiogu" "Antòni" "Antoninu" 
+	"Armannu" "Arrammundu" "Arzoccu" "Austinu" "Austu" "Baldu" "Barisoni" "Bartholumeu" "Barumini" "Barusone" 
+	"Basili" "Bassu" "Batkillu" "Benedettu" "Bernardu" "Bigenzu" "Bissente" "Bonnannaro" "Bustianu" "Carlus" 
+	"Carule" "Celestìnu" "Cipare" "Clementi" "Comita" "Corona" "Corràdu" "Costantìnu" "Crabiele" "Cristolu" 
+	"Danelu" "Dominigu" "Egizu" "Enzu" "Evisu" "Fabritziu" "Floru" "Franku" "Frevare" "Furadiza" 
+	"Furatu" "Gabini" "Gabinu" "Gajetànu" "Gallu" "Gasparru" "Gavini" "Gitimel" "Giuanne" "Giustinu" 
+	"Giustu" "Gonariu" "Gòsamu" "Grabrielle" "Granuzu" "Gregoriu" "Guantine" "Guglielmu" "Iginu" "Ignatziu" 
+	"Istevene" "Ittocorre" "Izocor" "Jacopu" "Jagu" "Jerone" "Jisepu" "Juanne" "Kipriane" "Kiprianu" 
+	"Larentu" "Leonardu" "Lisandru" "Loce" "Luca" "Lussuria" "Manfredu" "Mankia" "Marcu" "Marianu" 
+	"Massimilla" "Matia" "Mauru" "Mazeu" "Micheli" "Migali" "Mikelli" "Mugedi" "Murtina" "Nigola" 
+	"Nurake" "Okeri" "Olisae" "Orsocorre" "Orzocor" "Pagiti" "Pascale" "Patriziu" "Paulu" "Pedru" 
+	"Pelegrine" "Perdu" "Pirillu" "Ponzu" "Porcellu" "Porkinu" "Presnage" "Pretu" "Pupa" "Rafiele" 
+	"Ramundu" "Robertu" "Rodulfu" "Sadurre" "Sadurru" "Salluri" "Saltaro" "Salusi" "Salusiu" "Salvennor" 
+	"Samaritanu" "Samuèli" "Saragina" "Saraginu" "Sauina" "Serafinu" "Serbestianu" "Serighe" "Setilo" "Simione" 
+	"Sisinni" "Tedore" "Thanthalu" "Thipircu" "Thomas" "Thurungone" "Tobias" "Tomasso" "Torbinu" "Torchitoriu" 
+	"Trauessu" "Trogodori" "Uanios" "Ubertu" "Ugu" "Urieke" "Urse" "Urule" "Villanu" "Vivianu" 
+	"Zinga" "Zirominu" }
 monarch_names = {
 	"Martino #0" = 1
 	"Claudia #0" = -1
-	"Callisto #0" = 1
-	"Gregorio #0" = 1
 	"Lucia #1" = 18
-	"Abbondanzio #0" = 0
-	"Abbondio #0" = 0
-	"Abelardo #0" = 0
-	"Abelino #0" = 0
-	"Achille #0" = 0
-	"Adalberto #0" = 0
-	"Adelfo #0" = 0
-	"Adelmio #0" = 0
-	"Adelmo #0" = 0
-	"Adone #0" = 0
-	"Adriano #0" = 0
-	"Agapito #0" = 0
-	"Agostino #0" = 0
-	"Aimone #0" = 0
-	"Alamanno #0" = 0
-	"Alarico #0" = 0
-	"Albano #0" = 0
-	"Alberico #0" = 0
-	"Alberto #0" = 0
-	"Albino #0" = 0
-	"Alboino #0" = 0
-	"Alcide #0" = 0
-	"Aldobrandino #0" = 0
-	"Aleardo #0" = 0
-	"Aleramo #0" = 0
-	"Alessandro #0" = 0
-	"Alessio #0" = 0
-	"Alighiero #0" = 0
-	"Alvise #0" = 0
-	"Ambrogio #0" = 0
-	"Amedeo #0" = 0
-	"Anastasio #0" = 0
-	"Andrea #0" = 0
-	"Angelo #0" = 0
-	"Annibale #0" = 0
-	"Anselmo #0" = 0
-	"Antonino #0" = 0
-	"Antonio #0" = 0
-	"Antoniotto #0" = 0
-	"Arcibaldo #0" = 0
-	"Arderico #0" = 0
-	"Armando #0" = 0
-	"Arnolfo #0" = 0
-	"Arrigo #0" = 0
-	"Arsenio #0" = 0
-	"Artemio #0" = 0
-	"Ascanio #0" = 0
-	"Astorre #0" = 0
-	"Atenolfo #0" = 0
-	"Attilio #0" = 0
-	"Augusto #0" = 0
-	"Aurelio #0" = 0
-	"Ausilio #0" = 0
-	"Ausonio #0" = 0
-	"Averado #0" = 0
-	"Azzo #0" = 0
-	"Azzone #0" = 0
-	"Baldassarre #0" = 0
-	"Baldovino #0" = 0
-	"Barnaba #0" = 0
-	"Bartolomeo #0" = 0
-	"Basilio #0" = 0
-	"Bassiano #0" = 0
-	"Basso #0" = 0
-	"Battista #0" = 0
-	"Beltrano #0" = 0
-	"Benedetto #0" = 0
-	"Benvenuto #0" = 0
-	"Berardo #0" = 0
-	"Bernabò #0" = 0
-	"Bernardo #0" = 0
-	"Berto #0" = 0
-	"Bertoldo #0" = 0
-	"Biagio #0" = 0
-	"Bonaventura #0" = 0
-	"Bonifacio #0" = 0
-	"Borso #0" = 0
-	"Bruno #0" = 0
-	"Bruto #0" = 0
-	"Buonconte #0" = 0
-	"Buoso #0" = 0
-	"Camillo #0" = 0
-	"Candido #0" = 0
-	"Cangrande #0" = 0
-	"Carlo #0" = 0
-	"Cassio #0" = 0
-	"Castore #0" = 0
-	"Cataldo #0" = 0
-	"Catone #0" = 0
-	"Cecco #0" = 0
-	"Cesare #0" = 0
-	"Chiaffredo #0" = 0
-	"Chiano #0" = 0
-	"Ciro #0" = 0
-	"Ciuccio #0" = 0
-	"Claudio #0" = 0
-	"Clemente #0" = 0
+	"Gregorio #0" = 1
+	"Callisto #0" = 1
+	"Gosantinu #0" = 1
+	"Abisatu #0" = 0
+	"Adàmu #0" = 0
+	"Adriànu #0" = 0
+	"Alaverru #0" = 0
+	"Albertu #0" = 0
+	"Albu #0" = 0
+	"Alessandru #0" = 0
+	"Alfonsu #0" = 0
+	"Ambròsu #0" = 0
+	"Andria #0" = 0
+	"Antine #0" = 0
+	"Antiogu #0" = 0
+	"Antòni #0" = 0
+	"Antoninu #0" = 0
+	"Armannu #0" = 0
+	"Arrammundu #0" = 0
+	"Arzoccu #0" = 0
+	"Austinu #0" = 0
+	"Austu #0" = 0
+	"Baldu #0" = 0
+	"Barisoni #0" = 0
+	"Bartholumeu #0" = 0
+	"Barumini #0" = 0
+	"Barusone #0" = 0
+	"Basili #0" = 0
+	"Bassu #0" = 0
+	"Batkillu #0" = 0
+	"Benedettu #0" = 0
+	"Bernardu #0" = 0
+	"Bigenzu #0" = 0
+	"Bissente #0" = 0
+	"Bonnannaro #0" = 0
+	"Bustianu #0" = 0
+	"Carlus #0" = 0
+	"Carule #0" = 0
+	"Celestìnu #0" = 0
+	"Cipare #0" = 0
+	"Clementi #0" = 0
 	"Comita #0" = 0
-	"Conone #0" = 0
-	"Cornelio #0" = 0
-	"Corradino #0" = 0
-	"Corrado #0" = 0
-	"Cosimo #0" = 0
-	"Cosma #0" = 0
-	"Costante #0" = 0
-	"Costantino #0" = 0
-	"Costanzo #0" = 0
-	"Cristoforo #0" = 0
-	"Damiano #0" = 0
-	"Davide #0" = 0
-	"Demetrio #0" = 0
-	"Dioniso #0" = 0
-	"Doménico #0" = 0
-	"Durante #0" = 0
-	"Eduardo #0" = 0
-	"Elio #0" = 0
-	"Emmanuele #0" = 0
-	"Ennio #0" = 0
-	"Enrico #0" = 0
-	"Enzio #0" = 0
-	"Enzo #0" = 0
-	"Ercole #0" = 0
-	"Eriprando #0" = 0
-	"Ermenegildo #0" = 0
-	"Ettore #0" = 0
-	"Eugenio #0" = 0
-	"Ezio #0" = 0
-	"Ezzelino #0" = 0
-	"Fabrizio #0" = 0
-	"Fausto #0" = 0
-	"Federigo #0" = 0
-	"Felice #0" = 0
-	"Ferdinando #0" = 0
-	"Ferruccio #0" = 0
-	"Filippo #0" = 0
-	"Fiorello #0" = 0
-	"Flavio #0" = 0
-	"Folco #0" = 0
-	"Fortunato #0" = 0
-	"Fosco #0" = 0
-	"Francesco #0" = 0
-	"Fresco #0" = 0
-	"Gabriele #0" = 0
-	"Gabrino #0" = 0
-	"Gaetano #0" = 0
-	"Galasso #0" = 0
-	"Galeazzo #0" = 0
-	"Galeotto #0" = 0
-	"Gaspare #0" = 0
-	"Gastone #0" = 0
-	"Gelasio #0" = 0
-	"Gentile #0" = 0
-	"Geraldo #0" = 0
-	"Gerardo #0" = 0
-	"Germano #0" = 0
-	"Gerolamo #0" = 0
-	"Gherardo #0" = 0
-	"Giacinto #0" = 0
-	"Giacomo #0" = 0
-	"Gian #0" = 0
-	"Gianfranco #0" = 0
-	"Gianleone #0" = 0
-	"Giano #0" = 0
-	"Giberto #0" = 0
-	"Gilberto #0" = 0
-	"Giolio #0" = 0
-	"Giordano #0" = 0
-	"Giorgio #0" = 0
-	"Giovanni #0" = 0
-	"Giulio #0" = 0
-	"Giuseppe #0" = 0
-	"Goffredo #0" = 0
-	"Gualtiero #0" = 0
-	"Guarnito #0" = 0
-	"Guerrino #0" = 0
-	"Guglielmo #0" = 0
-	"Guido #0" = 0
-	"Guidone #0" = 0
-	"Guigliadore #0" = 0
-	"Iacopo #0" = 0
-	"Igino #0" = 0
-	"Innocenzo #0" = 0
-	"Ippolito #0" = 0
-	"Isnardo #0" = 0
-	"Jacopo #0" = 0
-	"Lamberto #0" = 0
-	"Landolfo #0" = 0
-	"Landone #0" = 0
-	"Lanfranco #0" = 0
-	"Lattanzio #0" = 0
-	"Lazzarino #0" = 0
-	"Lazzaro #0" = 0
-	"Lealdo #0" = 0
-	"Leonardo #0" = 0
-	"Leone #0" = 0
-	"Leonello #0" = 0
-	"Leopoldo #0" = 0
-	"Libero #0" = 0
-	"Lionello #0" = 0
-	"Livio #0" = 0
-	"Lodovico #0" = 0
-	"Lorenzo #0" = 0
+	"Corona #0" = 0
+	"Corràdu #0" = 0
+	"Costantìnu #0" = 0
+	"Crabiele #0" = 0
+	"Cristolu #0" = 0
+	"Danelu #0" = 0
+	"Dominigu #0" = 0
+	"Egizu #0" = 0
+	"Enzu #0" = 0
+	"Evisu #0" = 0
+	"Fabritziu #0" = 0
+	"Floru #0" = 0
+	"Franku #0" = 0
+	"Frevare #0" = 0
+	"Furadiza #0" = 0
+	"Furatu #0" = 0
+	"Gabini #0" = 0
+	"Gabinu #0" = 0
+	"Gajetànu #0" = 0
+	"Gallu #0" = 0
+	"Gasparru #0" = 0
+	"Gavini #0" = 0
+	"Gitimel #0" = 0
+	"Giuanne #0" = 0
+	"Giustinu #0" = 0
+	"Giustu #0" = 0
+	"Gonariu #0" = 0
+	"Gòsamu #0" = 0
+	"Grabrielle #0" = 0
+	"Granuzu #0" = 0
+	"Gregoriu #0" = 0
+	"Guantine #0" = 0
+	"Guglielmu #0" = 0
+	"Iginu #0" = 0
+	"Ignatziu #0" = 0
+	"Istevene #0" = 0
+	"Ittocorre #0" = 0
+	"Izocor #0" = 0
+	"Jacopu #0" = 0
+	"Jagu #0" = 0
+	"Jerone #0" = 0
+	"Jisepu #0" = 0
+	"Juanne #0" = 0
+	"Kipriane #0" = 0
+	"Kiprianu #0" = 0
+	"Larentu #0" = 0
+	"Leonardu #0" = 0
+	"Lisandru #0" = 0
+	"Loce #0" = 0
 	"Luca #0" = 0
-	"Luchino #0" = 0
-	"Lucio #0" = 0
-	"Luigi #0" = 0
-	"Malacresta #0" = 0
-	"Manfredo #0" = 0
-	"Manuele #0" = 0
-	"Marco #0" = 0
-	"Mariano #0" = 0
-	"Marino #0" = 0
-	"Mario #0" = 0
-	"Marsiglio #0" = 0
-	"Massimo #0" = 0
-	"Mastino #0" = 0
-	"Matteo #0" = 0
-	"Merigo #0" = 0
-	"Michelangelo #0" = 0
-	"Michele #0" = 0
-	"Napoleone #0" = 0
-	"Nazareno #0" = 0
-	"Nestore #0" = 0
-	"Niccolò #0" = 0
-	"Nicola #0" = 0
-	"Nino #0" = 0
-	"Nolfo #0" = 0
-	"Oberto #0" = 0
-	"Obizzino #0" = 0
-	"Obizzo #0" = 0
-	"Oddone #0" = 0
-	"Omero #0" = 0
-	"Onorio #0" = 0
-	"Oreste #0" = 0
-	"Orlando #0" = 0
-	"Ottavio #0" = 0
-	"Ottobono #0" = 0
-	"Ottone #0" = 0
-	"Pagano #0" = 0
-	"Pancrazio #0" = 0
-	"Pandolfo #0" = 0
-	"Paolo #0" = 0
-	"Pasquale #0" = 0
-	"Patrizio #0" = 0
-	"Pellegrino #0" = 0
-	"Pericle #0" = 0
-	"Pietro #0" = 0
-	"Pio #0" = 0
-	"Prospero #0" = 0
-	"Rafaello #0" = 0
-	"Radul #0" = 0
-	"Raimondo #0" = 0
-	"Rainero #0" = 0
-	"Raineri #0" = 0
-	"Riccardo #0" = 0
-	"Rinaldo #0" = 0
-	"Rizzardo #0" = 0
-	"Roberto #0" = 0
-	"Rodolfo #0" = 0
-	"Rolando #0" = 0
-	"Rosso #0" = 0
-	"Ruggiero #0" = 0
-	"Salinguerra #0" = 0
-	"Salvatore #0" = 0
-	"Salvestro #0" = 0
-	"Sante #0" = 0
-	"Saverio #0" = 0
-	"Sciarra #0" = 0
-	"Sebastiano #0" = 0
-	"Secondotto #0" = 0
-	"Serafino #0" = 0
-	"Sergio #0" = 0
-	"Sesto #0" = 0
-	"Settimio #0" = 0
-	"Severino #0" = 0
-	"Severo #0" = 0
-	"Silvano #0" = 0
-	"Silvestro #0" = 0
-	"Simone #0" = 0
-	"Simonetto #0" = 0
-	"Sinibaldo #0" = 0
-	"Sinucello #0" = 0
-	"Sozzo #0" = 0
-	"Spinetto #0" = 0
-	"Stefano #0" = 0
-	"Stentore #0" = 0
-	"Taddeo #0" = 0
-	"Tedaldo #0" = 0
-	"Tedice #0" = 0
-	"Teodoro #0" = 0
-	"Tibaldo #0" = 0
-	"Tiziano #0" = 0
-	"Tommaso #0" = 0
-	"Torgodorio #0" = 0
-	"Torquato #0" = 0
-	"Ubaldo #0" = 0
-	"Uberto #0" = 0
-	"Ugo #0" = 0
-	"Ugoccione #0" = 0
-	"Ugolino #0" = 0
-	"Umberto #0" = 0
-	"Urbano #0" = 0
-	"Valentino #0" = 0
-	"Valerio #0" = 0
-	"Vincentello #0" = 0
-	"Vincenzo #0" = 0
-	"Virginio #0" = 0
-	"Vitale #0" = 0
-	"Vittore #0" = 0
-	"Vittorio #0" = 0
-	"Zaccaria #0" = 0
+	"Lussuria #0" = 0
+	"Manfredu #0" = 0
+	"Mankia #0" = 0
+	"Marcu #0" = 0
+	"Marianu #0" = 0
+	"Massimilla #0" = 0
+	"Matia #0" = 0
+	"Mauru #0" = 0
+	"Mazeu #0" = 0
+	"Micheli #0" = 0
+	"Migali #0" = 0
+	"Mikelli #0" = 0
+	"Mugedi #0" = 0
+	"Murtina #0" = 0
+	"Nigola #0" = 0
+	"Nurake #0" = 0
+	"Okeri #0" = 0
+	"Olisae #0" = 0
+	"Orsocorre #0" = 0
+	"Orzocor #0" = 0
+	"Pagiti #0" = 0
+	"Pascale #0" = 0
+	"Patriziu #0" = 0
+	"Paulu #0" = 0
+	"Pedru #0" = 0
+	"Pelegrine #0" = 0
+	"Perdu #0" = 0
+	"Pirillu #0" = 0
+	"Ponzu #0" = 0
+	"Porcellu #0" = 0
+	"Porkinu #0" = 0
+	"Presnage #0" = 0
+	"Pretu #0" = 0
+	"Pupa #0" = 0
+	"Rafiele #0" = 0
+	"Ramundu #0" = 0
+	"Robertu #0" = 0
+	"Rodulfu #0" = 0
+	"Sadurre #0" = 0
+	"Sadurru #0" = 0
+	"Salluri #0" = 0
+	"Saltaro #0" = 0
+	"Salusi #0" = 0
+	"Salusiu #0" = 0
+	"Salvennor #0" = 0
+	"Samaritanu #0" = 0
+	"Samuèli #0" = 0
+	"Saragina #0" = 0
+	"Saraginu #0" = 0
+	"Sauina #0" = 0
+	"Serafinu #0" = 0
+	"Serbestianu #0" = 0
+	"Serighe #0" = 0
+	"Setilo #0" = 0
+	"Simione #0" = 0
+	"Sisinni #0" = 0
+	"Tedore #0" = 0
+	"Thanthalu #0" = 0
+	"Thipircu #0" = 0
+	"Thomas #0" = 0
+	"Thurungone #0" = 0
+	"Tobias #0" = 0
+	"Tomasso #0" = 0
+	"Torbinu #0" = 0
+	"Torchitoriu #0" = 0
+	"Trauessu #0" = 0
+	"Trogodori #0" = 0
+	"Uanios #0" = 0
+	"Ubertu #0" = 0
+	"Ugu #0" = 0
+	"Urieke #0" = 0
+	"Urse #0" = 0
+	"Urule #0" = 0
+	"Villanu #0" = 0
+	"Vivianu #0" = 0
+	"Zinga #0" = 0
+	"Zirominu #0" = 0
 
 
-	"Mariana #0" = -1
-	"Silvana #0" = -1
-	"Virginia #0" = -1
-	"Martina #0" = -1
+	"Paola #0" = -1
+	"Angioletta #0" = -1
+	"Teresa #0" = -1
+	"Bitoria #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

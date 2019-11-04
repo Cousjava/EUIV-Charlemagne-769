@@ -1,4 +1,4 @@
-# Manaw
+# Strathclyde
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,34 +7,32 @@ technology_group = western
 primary_culture = welsh
 religion = catholic
 clear_scripted_personalities = yes
-capital = 4365
-1405.1.1 = {
+capital = 249
+1435.1.1 = {
 	monarch = {
-		name = "Elidyr"
-		birth_date = 1405.1.1
-		dynasty = "Manaw"
-		adm = 4
-		dip = 1
+		name = "Owain II"
+		birth_date = 1425.1.1
+		dynasty = "Alt Clut"
+		adm = 2
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = zealot_personality
+	add_ruler_personality = malevolent_personality
 }
-1435.1.1 = {
+1443.1.1 = {
 	heir = {
-		name = "Gwriad"
-		monarch_name = "Gwriad"
-		dynasty = "Manaw"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 3
-		dip = 3
-		mil = 3
+		name = "Rhydderch"
+		monarch_name = "Rhydderch III"
+		dynasty = "Alt Clut"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
 	}
-	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 4365
+	capital = 249
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 51
 }

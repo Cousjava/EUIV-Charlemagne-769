@@ -31,7 +31,7 @@ historical_units = {
 
 leader_names = {
 
-	"Shabib" "Al-Hasan" "Homayd" "Muhammad" "Abdallah" "Ali" "Sa'id" "Qahtaba" "Abdul-Azeem" "Abdul-Hamid" 
+	"Shabib" "Al-Hasan" "Homayd" "Sa'id" "Ali" "Abdallah" "Muhammad" "Qahtaba" "Abdul-Azeem" "Abdul-Hamid" 
 	"Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" "Abdullah" "Adhid" "Adil" "Akab" "Ala'i" "Amir" "Ashraf" 
 	"Aziz" "Bashar" "Boutros" "Da'ud" "Faisal" "Fayiz" "Ghazi" "Hakam" "Hamdan" "Hashmaddin" 
 	"Hussayn" "Ibrahim" "Imamaddin" "Isa" "Is'mail" "Ismat" "Jahan" "Jamil" "Kamran" "Khalid" 
@@ -42,10 +42,10 @@ monarch_names = {
 	"Shabib #1" = 18
 	"Al-Hasan #1" = 18
 	"Homayd #0" = 1
-	"Muhammad #0" = 1
-	"Abdallah #0" = 1
-	"Ali #0" = 1
 	"Sa'id #0" = 1
+	"Ali #0" = 1
+	"Abdallah #0" = 1
+	"Muhammad #0" = 1
 	"Qahtaba #1" = 18
 	"Abdul-Azeem #0" = 0
 	"Abdul-Hamid #0" = 0
@@ -110,11 +110,11 @@ monarch_names = {
 	"Zahir #0" = 0
 
 
-	"Shararah #0" = -1
-	"Hanifa #0" = -1
-	"Jahaira #0" = -1
-	"Paywand #0" = -1
-	"Semeah #0" = -1
+	"Shameem #0" = -1
+	"Nafisa #0" = -1
+	"Shahzadah #0" = -1
+	"Yasmin #0" = -1
+	"Taliba #0" = -1
 }
 ship_names = {
 	Arif

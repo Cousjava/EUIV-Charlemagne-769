@@ -186,11 +186,11 @@ monarch_names = {
 	"Öysteinn #0" = 0
 
 
-	"Gloð #0" = -1
-	"Maria #0" = -1
-	"Asa #0" = -1
-	"Anna #0" = -1
-	"Asta #0" = -1
+	"Kraka #0" = -1
+	"Halla #0" = -1
+	"Alfrið #0" = -1
+	"Rögnfrið #0" = -1
+	"Hafrid #0" = -1
 }
 ship_names = {
 	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 

@@ -1,38 +1,26 @@
-# Yugra
-government = tribal
-add_government_reform = tribal_despotism
+# Tujibid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = khanty
-religion = animism
+technology_group = muslim
+primary_culture = coptic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1078
-1427.1.1 = {
+capital = 1231
+1437.1.1 = {
 	monarch = {
-		name = "Nalka"
-		birth_date = 1405.1.1
-		dynasty = "Yugra"
-		adm = 6
-		dip = 0
-		mil = 3
-	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = conqueror_personality
-	heir = {
-		name = "Setyamka"
-		monarch_name = "Setyamka"
-		dynasty = "Yugra"
-		birth_date = 1427.1.1
-		death_date = 1507.1.1
+		name = "Abdullah"
+		birth_date = 1400.1.1
+		dynasty = "Tujibid"
 		adm = 2
 		dip = 2
-		mil = 5
+		mil = 3
 	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 1078
-	add_treasury = 6
-	add_prestige = 5
+	capital = 1231
+	add_treasury = 7
+	add_prestige = 6
 }

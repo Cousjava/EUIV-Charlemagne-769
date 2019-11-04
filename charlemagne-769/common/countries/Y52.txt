@@ -1,146 +1,152 @@
-# Taid
+# Ohrid
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 99 150 9 }
+graphical_culture = easterngfx
+color = { 150 30 70 }
 historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
 	offensive_ideas
-	trade_ideas
-	spy_ideas
+	religious_ideas
 	economic_ideas
-	diplomatic_ideas
-	administrative_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
 }
 
 
 
 leader_names = {
 
-	"Shabib" "Al-Hasan" "Homayd" "Muhammad" "Abdallah" "Ali" "Sa'id" "Qahtaba" "Khazim" "Abu-Bakr" 
-	"Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" "Aghlab" "Akin" "Alim" 
-	"Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" 
-	"Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" 
-	"Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Murad" "Musa" 
-	"Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" 
-	"Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" 
-	"Youkhanna" "Yusuf" "Zeyd" }
+	"Mislav" "Miroslav" "Aldimir" "Asen" "Berbat" "Blaz" "Boleslav" "Borna" "Branimir" "Budimir" 
+	"Kosmin" "Danilo" "Djordje" "Dmitar" "Dobroslav" "Dragija" "Dragos" "Dragutin" "Gavrilo" "Godimir" 
+	"Goran" "Grgur" "Ilija" "Ivan" "Josif" "Josip" "Jovan" "Kasjan" "Konstantin" "Krsto" 
+	"Lazar" "Ljudevit" "Luka" "Marko" "Matija" "Mihailo" "Mihovil" "Milorad" "Milutin" "Mircea" 
+	"Nenad" "Nikodim" "Nikola" "Ninoslav" "Petar" "Porin" "Prvoslav" "Radoslav" "Rastko" "Ratomir" 
+	"Roman" "Serapion" "Sinisa" "Slavko" "Slobodan" "Stefan" "Teodosije" "Trajan" "Uros" "Visarion" 
+	"Vladimir" "Vladislav" "Vlastimir" "Vuk" "Vukan" "Vukasin" "Vukoman" "Zoran" "Zvonimir" }
 monarch_names = {
-	"Shabib #0" = 1
-	"Al-Hasan #0" = 1
-	"Homayd #1" = 18
-	"Muhammad #0" = 1
-	"Abdallah #0" = 1
-	"Ali #0" = 1
-	"Sa'id #0" = 1
-	"Qahtaba #0" = 1
-	"Khazim #1" = 0
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
+	"Mislav #1" = 18
+	"Miroslav #0" = 1
+	"Aldimir #0" = 0
+	"Asen #0" = 0
+	"Berbat #0" = 0
+	"Blaz #0" = 0
+	"Boleslav #0" = 0
+	"Borna #0" = 0
+	"Branimir #0" = 0
+	"Budimir #0" = 0
+	"Kosmin #0" = 0
+	"Danilo #0" = 0
+	"Djordje #0" = 0
+	"Dmitar #0" = 0
+	"Dobroslav #0" = 0
+	"Dragija #0" = 0
+	"Dragos #0" = 0
+	"Dragutin #0" = 0
+	"Gavrilo #0" = 0
+	"Godimir #0" = 0
+	"Goran #0" = 0
+	"Grgur #0" = 0
+	"Ilija #0" = 0
+	"Ivan #0" = 0
+	"Josif #0" = 0
+	"Josip #0" = 0
+	"Jovan #0" = 0
+	"Kasjan #0" = 0
+	"Konstantin #0" = 0
+	"Krsto #0" = 0
+	"Lazar #0" = 0
+	"Ljudevit #0" = 0
+	"Luka #0" = 0
+	"Marko #0" = 0
+	"Matija #0" = 0
+	"Mihailo #0" = 0
+	"Mihovil #0" = 0
+	"Milorad #0" = 0
+	"Milutin #0" = 0
+	"Mircea #0" = 0
+	"Nenad #0" = 0
+	"Nikodim #0" = 0
+	"Nikola #0" = 0
+	"Ninoslav #0" = 0
+	"Petar #0" = 0
+	"Porin #0" = 0
+	"Prvoslav #0" = 0
+	"Radoslav #0" = 0
+	"Rastko #0" = 0
+	"Ratomir #0" = 0
+	"Roman #0" = 0
+	"Serapion #0" = 0
+	"Sinisa #0" = 0
+	"Slavko #0" = 0
+	"Slobodan #0" = 0
+	"Stefan #0" = 0
+	"Teodosije #0" = 0
+	"Trajan #0" = 0
+	"Uros #0" = 0
+	"Visarion #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Vlastimir #0" = 0
+	"Vuk #0" = 0
+	"Vukan #0" = 0
+	"Vukasin #0" = 0
+	"Vukoman #0" = 0
+	"Zoran #0" = 0
+	"Zvonimir #0" = 0
 
 
-	"Nyawela #0" = -1
-	"Yagana #0" = -1
-	"Shameem #0" = -1
-	"Sheeftah #0" = -1
-	"Nafisa #0" = -1
+	"Hicela #0" = -1
+	"Casna #0" = -1
+	"Elena #0" = -1
+	"Bistrina #0" = -1
+	"Ljubica #0" = -1
 }
 ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
 }
 

@@ -1,0 +1,38 @@
+# Warzazat
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = shiite
+clear_scripted_personalities = yes
+capital = 2464
+1423.1.1 = {
+	monarch = {
+		name = "Salih"
+		birth_date = 1395.1.1
+		dynasty = "Barghawata"
+		adm = 1
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = sinner_personality
+	heir = {
+		name = "Akateiaji"
+		monarch_name = "Akateiaji"
+		dynasty = "Barghawata"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 0
+	}
+	add_heir_personality = loose_lips_personality
+}
+1444.11.11 = {
+	capital = 2464
+	add_treasury = 4
+	add_prestige = 2
+}

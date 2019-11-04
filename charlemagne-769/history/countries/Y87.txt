@@ -1,26 +1,27 @@
-# Figuig
-government = monarchy
-add_government_reform = ottoman_government
+# Kani-Kara
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = berber
-religion = ibadi
+technology_group = nomad_group
+primary_culture = pecheneg
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 349
-1442.1.1 = {
+capital = 439
+1427.1.1 = {
 	monarch = {
-		name = "Abdul-Rahman"
-		birth_date = 1407.1.1
-		dynasty = "Rahmanid"
+		name = "Kostas"
+		birth_date = 1413.1.1
+		dynasty = "Kani-Kara"
 		adm = 3
-		dip = 1
-		mil = 4
+		dip = 2
+		mil = 0
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = infertile_personality
 }
 1444.11.11 = {
-	capital = 349
-	add_treasury = 4
-	add_prestige = 3
+	capital = 439
+	add_treasury = 8
+	add_prestige = 8
 }

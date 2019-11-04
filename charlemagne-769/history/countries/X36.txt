@@ -1,27 +1,38 @@
-# Uzur
-government = tribal
-add_government_reform = steppe_horde
+# Azd Umanid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = uyghur
-religion = manichean
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = ibadi
 clear_scripted_personalities = yes
-capital = 2117
-1419.1.1 = {
+capital = 2341
+1426.1.1 = {
 	monarch = {
-		name = "Üge"
-		birth_date = 1414.6.12
-		dynasty = "Uzur"
-		adm = 3
+		name = "al-Julanda"
+		birth_date = 1386.1.1
+		dynasty = "Azd Umanid"
+		adm = 0
 		dip = 1
-		mil = 4
+		mil = 3
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Muhammad"
+		monarch_name = "Muhammad"
+		dynasty = "Azd Umanid"
+		birth_date = 1409.1.1
+		death_date = 1489.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 2117
-	add_treasury = 8
-	add_prestige = 8
+	capital = 2341
+	add_treasury = 6
+	add_prestige = 5
 }

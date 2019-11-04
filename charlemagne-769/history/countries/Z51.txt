@@ -1,26 +1,26 @@
-# Asturias
+# Saadid
 government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
+add_government_reform = ottoman_government
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = visigothic
-religion = catholic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 207
-1443.1.1 = {
+capital = 214
+1444.1.1 = {
 	monarch = {
-		name = "Aurelio"
-		birth_date = 1390.1.1
-		dynasty = "de Cantabria"
+		name = "Husayn"
+		birth_date = 1415.1.1
+		dynasty = "Saadid"
 		adm = 2
-		dip = 2
+		dip = 4
 		mil = 3
 	}
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = pious_personality
 }
 1444.11.11 = {
-	capital = 207
-	add_treasury = 9
-	add_prestige = 13
+	capital = 214
+	add_treasury = 6
+	add_prestige = 6
 }

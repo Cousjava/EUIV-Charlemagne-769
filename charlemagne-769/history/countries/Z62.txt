@@ -1,4 +1,4 @@
-# Nidaros
+# Rygjafylki
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
@@ -7,20 +7,31 @@ technology_group = western
 primary_culture = norse
 religion = animism
 clear_scripted_personalities = yes
-capital = 2752
+capital = 24
 1435.1.1 = {
 	monarch = {
-		name = "Grimr"
-		birth_date = 1408.1.1
-		dynasty = "av Askø"
-		adm = 3
-		dip = 2
+		name = "Geir"
+		birth_date = 1410.1.1
+		dynasty = "av Hafrsfjord"
+		adm = 2
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Olafr"
+		monarch_name = "Olafr"
+		dynasty = "av Hafrsfjord"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 2752
+	capital = 24
 	add_treasury = 4
 	add_prestige = 2
 }

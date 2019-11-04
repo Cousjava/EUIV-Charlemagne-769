@@ -1,26 +1,38 @@
-# Rashtrakuta
+# Makuria
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = avadhi
-religion = hinduism
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
 clear_scripted_personalities = yes
-capital = 526
-1435.1.1 = {
+capital = 1228
+1443.1.1 = {
 	monarch = {
-		name = "Nandaraja"
-		birth_date = 1355.1.1
-		dynasty = "Rashtrakuta"
+		name = "Khael"
+		birth_date = 1425.1.1
+		dynasty = "Azim"
 		adm = 3
-		dip = 2
-		mil = 0
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Soizuros"
+		monarch_name = "Soizuros"
+		dynasty = "Azim"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 526
+	capital = 1228
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 27
 }

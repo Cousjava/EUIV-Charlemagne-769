@@ -1,0 +1,38 @@
+# Mazovia
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = animism
+clear_scripted_personalities = yes
+capital = 256
+1440.2.8 = {
+	monarch = {
+		name = "Pawel"
+		birth_date = 1424.2.8
+		dynasty = "Ogonczyk"
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Przemyslaw"
+		monarch_name = "Przemyslaw"
+		dynasty = "Ogonczyk"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 256
+	add_treasury = 6
+	add_prestige = 5
+}

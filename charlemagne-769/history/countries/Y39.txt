@@ -1,27 +1,36 @@
-# Mochkava
+# Krivichia
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = mordvin
+primary_culture = ilmenian
 religion = animism
 clear_scripted_personalities = yes
-capital = 295
-1425.1.1 = {
+capital = 275
+1444.1.1 = {
 	monarch = {
-		name = "Inzhay"
-		birth_date = 1408.1.1
-		dynasty = "Inzhayid"
-		adm = 6
-		dip = 3
-		mil = 3
+		name = "Svetozar"
+		birth_date = 1425.1.1
+		dynasty = "Kryvich"
+		adm = 4
+		dip = 0
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Gleb"
+		monarch_name = "Gleb"
+		dynasty = "Kryvich"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 295
+	capital = 275
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

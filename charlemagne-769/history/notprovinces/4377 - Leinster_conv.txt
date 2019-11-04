@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+owner = Z09
+controller = Z09
+add_core = Z09
+culture = irish
+religion = catholic
+citysize = 2000
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1444.11.11 = {
+	hre = no
+	base_tax = 3
+	base_production = 3
+	base_manpower = 3
+
+}
+1444.11.11 = {
+	owner = Z09
+	controller = Z09
+	culture = irish
+	religion = catholic
+}

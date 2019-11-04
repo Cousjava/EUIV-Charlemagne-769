@@ -1,38 +1,40 @@
-# Gwynedd
-government = monarchy
-add_government_reform = feudalism_reform
+# Manaw
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = welsh
 religion = catholic
 clear_scripted_personalities = yes
-capital = 242
-1429.1.1 = {
+capital = 4365
+1405.1.1 = {
 	monarch = {
-		name = "Caradog"
+		name = "Elidyr"
 		birth_date = 1405.1.1
-		dynasty = "Rhos"
-		adm = 2
-		dip = 3
-		mil = 0
+		dynasty = "Manaw"
+		adm = 1
+		dip = 2
+		mil = 5
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = naive_personality
+	add_ruler_personality = sinner_personality
+	add_ruler_personality = lawgiver_personality
+}
+1435.1.1 = {
 	heir = {
-		name = "Hywel"
-		monarch_name = "Hywel"
-		dynasty = "Rhos"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+		name = "Gwriad"
+		monarch_name = "Gwriad"
+		dynasty = "Manaw"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 3
+		dip = 4
+		mil = 4
 	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_heir_personality = fertile_personality
 }
 1444.11.11 = {
-	capital = 242
+	capital = 4365
 	add_treasury = 6
 	add_prestige = 4
 }

@@ -13,21 +13,21 @@ capital = 239
 		name = "Uhtred"
 		birth_date = 1391.1.1
 		dynasty = "Oswalding"
-		adm = 5
+		adm = 3
 		dip = 1
-		mil = 3
+		mil = 2
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = embezzler_personality
 	heir = {
 		name = "Ealdred"
 		monarch_name = "Ealdred"
 		dynasty = "Oswalding"
 		birth_date = 1392.1.1
 		death_date = 1472.1.1
-		adm = 1
-		dip = 1
-		mil = 2
+		adm = 4
+		dip = 2
+		mil = 4
 	}
 	add_heir_personality = greedy_personality
 }

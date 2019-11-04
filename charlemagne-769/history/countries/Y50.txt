@@ -1,26 +1,37 @@
-# Bozok
+# Carantania
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = turkish
-religion = tengri_pagan_reformed
+technology_group = western
+primary_culture = carantanian
+religion = catholic
 clear_scripted_personalities = yes
-capital = 465
-1437.1.1 = {
+capital = 128
+1444.1.1 = {
 	monarch = {
-		name = "Baytas"
-		birth_date = 1405.1.1
-		dynasty = "Bozok"
-		adm = 2
-		dip = 3
-		mil = 1
+		name = "Valhun"
+		birth_date = 1413.1.1
+		dynasty = "Carantania"
+		adm = 5
+		dip = 2
+		mil = 4
 	}
-	add_ruler_personality = tolerant_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Domitian"
+		monarch_name = "Domitian"
+		dynasty = "Carantania"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
+		adm = 4
+		dip = 4
+		mil = 2
+	}
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 465
-	add_treasury = 8
-	add_prestige = 8
+	capital = 128
+	add_treasury = 6
+	add_prestige = 9
 }

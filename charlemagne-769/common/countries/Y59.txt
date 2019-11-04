@@ -1,201 +1,187 @@
-# Bavandid
+# Lesser Poland
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 92 155 187 }
+graphical_culture = easterngfx
+color = { 245 163 176 }
 historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
 	trade_ideas
-	spy_ideas
-	economic_ideas
+	defensive_ideas
+	offensive_ideas
 	diplomatic_ideas
+	economic_ideas
+	spy_ideas
 	administrative_ideas
+	religious_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Kavadh" "Sorkhab" "Shahryar" "Shervin" "Bav" "Mehr Mardan" "Gavbarih" "Dabuya" "Farrukhan" "Dadhburzmihr" 
-	"Khurshid" "Afshar" "Amin" "Anushirvan" "Aram" "Ardahan" "Ardavan" "Ardeshir" "Assad" "Aurang" 
-	"Ayeshah" "Babak" "Bahman" "Bahram" "Bakhtiar" "Behrad" "Behrouz" "Bozorg" "Danush" "Darab" 
-	"Dariush" "Davud" "Djamasp" "Ebrahim" "Ehsan" "Esfandiar" "Eskander" "Esma'il" "Faramarz" "Faraz" 
-	"Fareed" "Farhad" "Fariborz" "Farroukh" "Farrukhzad" "Farzad" "Fath" "Ferdows" "Fereedun" "Ghobad" 
-	"Gholam" "Godarz" "Goshtasb" "Hafez" "Hassan" "Hazarasp" "Hedayat" "Hooshyar" "Hormazd" "Hormoz" 
-	"Humayun" "Jahandar" "Jahangir" "Jahanshah" "Jamshid" "Javeed" "Kambiz" "Kamran" "Kavoos" "Keyghobad" 
-	"Keykhosrau" "Kharmandar" "Khashayar" "Khodadad" "Khosrau" "Khudayar" "Kurush" "Manuchihr" "Manushihr" "Marzuban" 
-	"Mashad" "Maziar" "Mehrab" "Mehrzad" "Morad" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" 
-	"Nezam" "Parviz" "Pashang" "Peroz" "Pujman" "Reza" "Rostam" "Ruhollah" "Sadri" "Salman" 
-	"Shahab" "Shahbaz" "Shahin" "Shahram" "Shahrokh" "Shahruz" "Shapur" "Shayan" "Sina" "Tahmasb" 
-	"Vahhab" "Vahid" "Vali" "Vandad" "Varshasb" "Vishtasb" "Yazdegerd" "Yousef" "Zahak" "Zakaria" 
-	"Zand" "Zartosht" "Zia" }
+	"Siemowit" "Pelka" "Matylda" "Aleksander" "Andrzej" "Bartosz" "Bezprym" "Boguchwal" "Bogumil" "Boleslaw" 
+	"Boncza" "Borzyslaw" "Bozydar" "Borzywoj" "Budziwuj" "Czcibor" "Czyrzniech" "Dalimir" "Dobieslaw" "Dobrogost" 
+	"Dobromir" "Doman" "Domawuj" "Dytryk" "Eustachy" "Gaudenty" "Gierolt" "Gniewomir" "Gniewosz" "Gosciwuj" 
+	"Goszczon" "Henryk" "Imram" "Izbor" "Józef" "Jacek" "Jaksa" "Jakub" "Jakusz" "Jan" 
+	"Janislaw" "Janko" "Janusz" "Jaroslaw" "Jerzy" "Karol" "Kazimierz" "Konrad" "Krystyn" "Krzeslaw" 
+	"Lambert" "Leszek" "Maciej" "Macko" "Malowuj" "Marcin" "Maslaw" "Mateusz" "Mieszko" "Mikolaj" 
+	"Milobrat" "Milosz" "Miroslaw" "Msciwoj" "Mszczuj" "Nadbor" "Niezamysl" "Odon" "Pawel" "Piotr" 
+	"Piskla" "Prendota" "Przemyslaw" "Przybor" "Sambor" "Sedziej" "Sedzimir" "Sieciech" "Siemomysl" "Skarbimir" 
+	"Snowid" "Spytko" "Stanislaw" "Stefan" "Stoigniew" "Strasz" "Sulislaw" "Sulistryj" "Swietopelk" "Swietoslaw" 
+	"Szczesny" "Tomasz" "Trojden" "Twardomir" "Usciech" "Waclaw" "Wanko" "Wawrzyniec" "Wielislaw" "Wieslaw" 
+	"Wincenty" "Wit" "Witosz" "Wladyslaw" "Wojciech" "Wojuta" "Wszebor" "Zbigniew" "Zbyszko" "Zegota" 
+	"Zelibrat" "Zygmunt" }
 monarch_names = {
-	"Kavadh #0" = 1
-	"Sorkhab #1" = 21
-	"Shahryar #0" = 1
-	"Shervin #0" = 1
-	"Bav #0" = 1
-	"Mehr Mardan #0" = 1
-	"Gavbarih #1" = 0
-	"Dabuya #1" = 0
-	"Farrukhan #1" = 0
-	"Dadhburzmihr #1" = 0
-	"Khurshid #1" = 0
-	"Afshar #0" = 0
-	"Amin #0" = 0
-	"Anushirvan #0" = 0
-	"Aram #0" = 0
-	"Ardahan #0" = 0
-	"Ardavan #0" = 0
-	"Ardeshir #0" = 0
-	"Assad #0" = 0
-	"Aurang #0" = 0
-	"Ayeshah #0" = 0
-	"Babak #0" = 0
-	"Bahman #0" = 0
-	"Bahram #0" = 0
-	"Bakhtiar #0" = 0
-	"Behrad #0" = 0
-	"Behrouz #0" = 0
-	"Bozorg #0" = 0
-	"Danush #0" = 0
-	"Darab #0" = 0
-	"Dariush #0" = 0
-	"Davud #0" = 0
-	"Djamasp #0" = 0
-	"Ebrahim #0" = 0
-	"Ehsan #0" = 0
-	"Esfandiar #0" = 0
-	"Eskander #0" = 0
-	"Esma'il #0" = 0
-	"Faramarz #0" = 0
-	"Faraz #0" = 0
-	"Fareed #0" = 0
-	"Farhad #0" = 0
-	"Fariborz #0" = 0
-	"Farroukh #0" = 0
-	"Farrukhzad #0" = 0
-	"Farzad #0" = 0
-	"Fath #0" = 0
-	"Ferdows #0" = 0
-	"Fereedun #0" = 0
-	"Ghobad #0" = 0
-	"Gholam #0" = 0
-	"Godarz #0" = 0
-	"Goshtasb #0" = 0
-	"Hafez #0" = 0
-	"Hassan #0" = 0
-	"Hazarasp #0" = 0
-	"Hedayat #0" = 0
-	"Hooshyar #0" = 0
-	"Hormazd #0" = 0
-	"Hormoz #0" = 0
-	"Humayun #0" = 0
-	"Jahandar #0" = 0
-	"Jahangir #0" = 0
-	"Jahanshah #0" = 0
-	"Jamshid #0" = 0
-	"Javeed #0" = 0
-	"Kambiz #0" = 0
-	"Kamran #0" = 0
-	"Kavoos #0" = 0
-	"Keyghobad #0" = 0
-	"Keykhosrau #0" = 0
-	"Kharmandar #0" = 0
-	"Khashayar #0" = 0
-	"Khodadad #0" = 0
-	"Khosrau #0" = 0
-	"Khudayar #0" = 0
-	"Kurush #0" = 0
-	"Manuchihr #0" = 0
-	"Manushihr #0" = 0
-	"Marzuban #0" = 0
-	"Mashad #0" = 0
-	"Maziar #0" = 0
-	"Mehrab #0" = 0
-	"Mehrzad #0" = 0
-	"Morad #0" = 0
-	"Morteza #0" = 0
-	"Mozaffar #0" = 0
-	"Nard #0" = 0
-	"Naveed #0" = 0
-	"Nawid #0" = 0
-	"Nezam #0" = 0
-	"Parviz #0" = 0
-	"Pashang #0" = 0
-	"Peroz #0" = 0
-	"Pujman #0" = 0
-	"Reza #0" = 0
-	"Rostam #0" = 0
-	"Ruhollah #0" = 0
-	"Sadri #0" = 0
-	"Salman #0" = 0
-	"Shahab #0" = 0
-	"Shahbaz #0" = 0
-	"Shahin #0" = 0
-	"Shahram #0" = 0
-	"Shahrokh #0" = 0
-	"Shahruz #0" = 0
-	"Shapur #0" = 0
-	"Shayan #0" = 0
-	"Sina #0" = 0
-	"Tahmasb #0" = 0
-	"Vahhab #0" = 0
-	"Vahid #0" = 0
-	"Vali #0" = 0
-	"Vandad #0" = 0
-	"Varshasb #0" = 0
-	"Vishtasb #0" = 0
-	"Yazdegerd #0" = 0
-	"Yousef #0" = 0
-	"Zahak #0" = 0
-	"Zakaria #0" = 0
-	"Zand #0" = 0
-	"Zartosht #0" = 0
-	"Zia #0" = 0
+	"Siemowit #1" = 18
+	"Pelka #0" = 1
+	"Matylda #0" = -1
+	"Aleksander #0" = 0
+	"Andrzej #0" = 0
+	"Bartosz #0" = 0
+	"Bezprym #0" = 0
+	"Boguchwal #0" = 0
+	"Bogumil #0" = 0
+	"Boleslaw #0" = 0
+	"Boncza #0" = 0
+	"Borzyslaw #0" = 0
+	"Bozydar #0" = 0
+	"Borzywoj #0" = 0
+	"Budziwuj #0" = 0
+	"Czcibor #0" = 0
+	"Czyrzniech #0" = 0
+	"Dalimir #0" = 0
+	"Dobieslaw #0" = 0
+	"Dobrogost #0" = 0
+	"Dobromir #0" = 0
+	"Doman #0" = 0
+	"Domawuj #0" = 0
+	"Dytryk #0" = 0
+	"Eustachy #0" = 0
+	"Gaudenty #0" = 0
+	"Gierolt #0" = 0
+	"Gniewomir #0" = 0
+	"Gniewosz #0" = 0
+	"Gosciwuj #0" = 0
+	"Goszczon #0" = 0
+	"Henryk #0" = 0
+	"Imram #0" = 0
+	"Izbor #0" = 0
+	"Józef #0" = 0
+	"Jacek #0" = 0
+	"Jaksa #0" = 0
+	"Jakub #0" = 0
+	"Jakusz #0" = 0
+	"Jan #0" = 0
+	"Janislaw #0" = 0
+	"Janko #0" = 0
+	"Janusz #0" = 0
+	"Jaroslaw #0" = 0
+	"Jerzy #0" = 0
+	"Karol #0" = 0
+	"Kazimierz #0" = 0
+	"Konrad #0" = 0
+	"Krystyn #0" = 0
+	"Krzeslaw #0" = 0
+	"Lambert #0" = 0
+	"Leszek #0" = 0
+	"Maciej #0" = 0
+	"Macko #0" = 0
+	"Malowuj #0" = 0
+	"Marcin #0" = 0
+	"Maslaw #0" = 0
+	"Mateusz #0" = 0
+	"Mieszko #0" = 0
+	"Mikolaj #0" = 0
+	"Milobrat #0" = 0
+	"Milosz #0" = 0
+	"Miroslaw #0" = 0
+	"Msciwoj #0" = 0
+	"Mszczuj #0" = 0
+	"Nadbor #0" = 0
+	"Niezamysl #0" = 0
+	"Odon #0" = 0
+	"Pawel #0" = 0
+	"Piotr #0" = 0
+	"Piskla #0" = 0
+	"Prendota #0" = 0
+	"Przemyslaw #0" = 0
+	"Przybor #0" = 0
+	"Sambor #0" = 0
+	"Sedziej #0" = 0
+	"Sedzimir #0" = 0
+	"Sieciech #0" = 0
+	"Siemomysl #0" = 0
+	"Skarbimir #0" = 0
+	"Snowid #0" = 0
+	"Spytko #0" = 0
+	"Stanislaw #0" = 0
+	"Stefan #0" = 0
+	"Stoigniew #0" = 0
+	"Strasz #0" = 0
+	"Sulislaw #0" = 0
+	"Sulistryj #0" = 0
+	"Swietopelk #0" = 0
+	"Swietoslaw #0" = 0
+	"Szczesny #0" = 0
+	"Tomasz #0" = 0
+	"Trojden #0" = 0
+	"Twardomir #0" = 0
+	"Usciech #0" = 0
+	"Waclaw #0" = 0
+	"Wanko #0" = 0
+	"Wawrzyniec #0" = 0
+	"Wielislaw #0" = 0
+	"Wieslaw #0" = 0
+	"Wincenty #0" = 0
+	"Wit #0" = 0
+	"Witosz #0" = 0
+	"Wladyslaw #0" = 0
+	"Wojciech #0" = 0
+	"Wojuta #0" = 0
+	"Wszebor #0" = 0
+	"Zbigniew #0" = 0
+	"Zbyszko #0" = 0
+	"Zegota #0" = 0
+	"Zelibrat #0" = 0
+	"Zygmunt #0" = 0
 
 
-	"Navvaba #0" = -1
-	"Noor #0" = -1
-	"Behnaz #0" = -1
-	"Golpari #0" = -1
-	"Ghamze #0" = -1
+	"Nawoja #0" = -1
+	"Malgorzata #0" = -1
+	"Adleta #0" = -1
+	"Samboja #0" = -1
 }
 ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
 }
 

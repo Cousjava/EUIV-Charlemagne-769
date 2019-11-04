@@ -1,0 +1,27 @@
+# Üül
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 718
+1419.1.1 = {
+	monarch = {
+		name = "Bukha"
+		birth_date = 1417.1.1
+		dynasty = "Üül"
+		adm = 1
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 8
+	add_prestige = 7
+}

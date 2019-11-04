@@ -1,26 +1,40 @@
-# Makuria
-government = monarchy
-add_government_reform = feudalism_reform
+# Cheremisa
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = nubian
-religion = coptic
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
 clear_scripted_personalities = yes
-capital = 1228
-1443.1.1 = {
+capital = 304
+1425.1.1 = {
 	monarch = {
-		name = "Khael"
-		birth_date = 1425.1.1
-		dynasty = "Azim"
-		adm = 4
+		name = "Varaka"
+		birth_date = 1408.1.1
+		dynasty = "Cheremisid"
+		adm = 3
 		dip = 2
-		mil = 2
+		mil = 4
 	}
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1435.1.1 = {
+	heir = {
+		name = "Nuyat"
+		monarch_name = "Nuyat"
+		dynasty = "Cheremisid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
-	capital = 1228
-	add_treasury = 7
-	add_prestige = 27
+	capital = 304
+	add_treasury = 6
+	add_prestige = 5
 }

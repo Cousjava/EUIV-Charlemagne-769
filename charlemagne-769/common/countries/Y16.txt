@@ -1,51 +1,25 @@
-# Latgale
+# Zemigallians
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 125 18 18 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	diplomatic_ideas
-	spy_ideas
-	economic_ideas
-	administrative_ideas
-	quantity_ideas
-}
+color = { 183 21 21 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	russian_lancer
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
-}
 
 
 
 leader_names = {
 
-	"Pukuveras" "Aishno" "Ako" "Ankad" "Baise" "Balodis" "Bikshe" "Borut" "Bulei" "Butovit" 
-	"Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Demas" "Dobre" "Dovyat" "Dzintis" "Elmede" 
-	"Erasts" "Erdzivil" "Galeine" "Gastile" "Gedere" "Gerden" "Gibedats" "Giemund" "Golovke" "Gotene" 
+	"Gibedats" "Visheiv" "Aishno" "Ako" "Ankad" "Baise" "Balodis" "Bikshe" "Borut" "Bulei" 
+	"Butovit" "Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Demas" "Dobre" "Dovyat" "Dzintis" 
+	"Elmede" "Erasts" "Erdzivil" "Galeine" "Gastile" "Gedere" "Gerden" "Giemund" "Golovke" "Gotene" 
 	"Gunvald" "Imanta" "Janis" "Jaunule" "Jedetus" "Juvage" "Kage" "Kaire" "Karijotas" "Karnak" 
 	"Kaupo" "Kerstigens" "Kiten" "Klavess" "Kodere" "Kuliens" "Kurlemuse" "Lammekinus" "Likiik" "Litto" 
-	"Lonkogveni" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pliksov" "Pukiik" "Ringaudas" "Rushky" 
-	"Rusins" "Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Skornand" "Sprudeik" "Stegut" "Steikint" 
-	"Sviendorog" "Talivaldis" "Tautvila" "Traidenis" "Treniota" "Vaishvilkas" "Valikaila" "Vetseke" "Viesturs" "Visheiv" 
+	"Lonkogveni" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pliksov" "Pukiik" "Pukuveras" "Ringaudas" 
+	"Rushky" "Rusins" "Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Skornand" "Sprudeik" "Stegut" 
+	"Steikint" "Sviendorog" "Talivaldis" "Tautvila" "Traidenis" "Treniota" "Vaishvilkas" "Valikaila" "Vetseke" "Viesturs" 
 	"Vishikut" "Vishly" "Vykantas" "Yudki" }
 monarch_names = {
-	"Pukuveras #0" = 1
+	"Gibedats #1" = 18
+	"Visheiv #0" = 1
 	"Aishno #0" = 0
 	"Ako #0" = 0
 	"Ankad #0" = 0
@@ -71,7 +45,6 @@ monarch_names = {
 	"Gastile #0" = 0
 	"Gedere #0" = 0
 	"Gerden #0" = 0
-	"Gibedats #0" = 0
 	"Giemund #0" = 0
 	"Golovke #0" = 0
 	"Gotene #0" = 0
@@ -103,6 +76,7 @@ monarch_names = {
 	"Narvait #0" = 0
 	"Pliksov #0" = 0
 	"Pukiik #0" = 0
+	"Pukuveras #0" = 0
 	"Ringaudas #0" = 0
 	"Rushky #0" = 0
 	"Rusins #0" = 0
@@ -124,33 +98,16 @@ monarch_names = {
 	"Valikaila #0" = 0
 	"Vetseke #0" = 0
 	"Viesturs #0" = 0
-	"Visheiv #0" = 0
 	"Vishikut #0" = 0
 	"Vishly #0" = 0
 	"Vykantas #0" = 0
 	"Yudki #0" = 0
 
 
-	"Zigne #0" = -1
-	"Marite #0" = -1
-	"Greze #0" = -1
-	"Dose #0" = -1
+	"Dzeguze #0" = -1
 	"Ruta #0" = -1
-}
-ship_names = {
-	Alytus
-	Birzai
-	Druskininkai
-	Gardinas
-	Jonava
-	Kaunas Kretinga Kreva
-	Lazdijai
-	Naugardukas
-	Palanga
-	Raseiniai
-	Siauliai Sventoji
-	Taurage Telsiai Trakai
-	Utena
-	Vilkmerge
+	"Liga #0" = -1
+	"Savna #0" = -1
+	"Maija #0" = -1
 }
 

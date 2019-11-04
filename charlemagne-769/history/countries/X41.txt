@@ -1,27 +1,38 @@
-# Gahirawar
-government = monarchy
-add_government_reform = feudalism_reform
+# Hayya
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = avadhi
-religion = hinduism
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
 clear_scripted_personalities = yes
-capital = 559
-1425.1.1 = {
+capital = 1229
+1442.1.1 = {
 	monarch = {
-		name = "Jayasimha"
-		birth_date = 1410.1.1
-		dynasty = "Gahirawar"
-		adm = 1
+		name = "Soizuros"
+		birth_date = 1423.1.1
+		dynasty = "Hadendiwa"
+		adm = 3
 		dip = 2
-		mil = 1
+		mil = 3
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = cruel_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Solomôn"
+		monarch_name = "Solomôn"
+		dynasty = "Hadendiwa"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 559
-	add_treasury = 6
-	add_prestige = 15
+	capital = 1229
+	add_treasury = 4
+	add_prestige = 2
 }

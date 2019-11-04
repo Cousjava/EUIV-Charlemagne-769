@@ -1,0 +1,38 @@
+# Hvamna
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = saka
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 710
+1431.1.1 = {
+	monarch = {
+		name = "Sata II"
+		birth_date = 1411.1.1
+		dynasty = "Vijaya"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = embezzler_personality
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Ananta"
+		monarch_name = "Ananta II"
+		dynasty = "Vijaya"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 6
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 710
+	add_treasury = 6
+	add_prestige = 97
+}

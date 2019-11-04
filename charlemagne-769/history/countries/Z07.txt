@@ -1,4 +1,4 @@
-# Connachta
+# Westmeath
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,31 +7,31 @@ technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 376
-1443.7.1 = {
+capital = 4379
+1438.11.20 = {
 	monarch = {
-		name = "Flaithrí"
-		birth_date = 1389.1.1
-		dynasty = "Ua Briúin Aí"
-		adm = 3
-		dip = 1
-		mil = 2
-	}
-	add_ruler_personality = malevolent_personality
-	heir = {
-		name = "Colla"
-		monarch_name = "Colla"
-		dynasty = "Ua Briúin Aí"
-		birth_date = 1407.1.1
-		death_date = 1487.1.1
-		adm = 3
-		dip = 2
+		name = "Donnachad"
+		birth_date = 1408.1.1
+		dynasty = "Ua Néill Noígiallaich"
+		adm = 1
+		dip = 0
 		mil = 3
 	}
-	add_heir_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Fothad"
+		monarch_name = "Fothad"
+		dynasty = "Ua Néill Noígiallaich"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 376
+	capital = 4379
 	add_treasury = 4
-	add_prestige = 7
+	add_prestige = 26
 }

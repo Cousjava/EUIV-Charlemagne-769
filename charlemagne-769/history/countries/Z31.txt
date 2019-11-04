@@ -1,4 +1,4 @@
-# Powys
+# Gwynedd
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,32 +7,32 @@ technology_group = western
 primary_culture = welsh
 religion = catholic
 clear_scripted_personalities = yes
-capital = 240
-1430.1.1 = {
+capital = 242
+1429.1.1 = {
 	monarch = {
-		name = "Brochfael II"
-		birth_date = 1395.1.1
-		dynasty = "Gwerthrynion"
-		adm = 5
-		dip = 0
-		mil = 3
+		name = "Caradog"
+		birth_date = 1405.1.1
+		dynasty = "Rhos"
+		adm = 1
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = greedy_personality
 	heir = {
-		name = "Cadell"
-		monarch_name = "Cadell II"
-		dynasty = "Gwerthrynion"
+		name = "Hywel"
+		monarch_name = "Hywel"
+		dynasty = "Rhos"
 		birth_date = 1425.1.1
 		death_date = 1505.1.1
 		adm = 2
-		dip = 2
-		mil = 6
+		dip = 1
+		mil = 2
 	}
-	add_heir_personality = tactical_genius_personality
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11 = {
-	capital = 240
+	capital = 242
 	add_treasury = 6
-	add_prestige = 17
+	add_prestige = 10
 }

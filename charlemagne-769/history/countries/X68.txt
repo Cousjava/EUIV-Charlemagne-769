@@ -1,37 +1,37 @@
-# Kirghiz
-government = tribal
-add_government_reform = steppe_horde
+# Pratihara
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 2
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = kirgiz
-religion = manichean
+technology_group = indian
+primary_culture = rajput
+religion = hinduism
 clear_scripted_personalities = yes
-capital = 2433
-1434.6.1 = {
+capital = 526
+1440.1.1 = {
 	monarch = {
-		name = "Seitek"
-		birth_date = 1407.4.15
-		dynasty = "Tiele"
+		name = "Kakustha"
+		birth_date = 1405.1.1
+		dynasty = "Pratihara"
 		adm = 3
-		dip = 3
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
 	heir = {
-		name = "Sotan"
-		monarch_name = "Sotan"
-		dynasty = "Tiele"
-		birth_date = 1427.3.24
-		death_date = 1507.3.24
+		name = "Devasakti"
+		monarch_name = "Devasakti"
+		dynasty = "Pratihara"
+		birth_date = 1407.1.1
+		death_date = 1487.1.1
 		adm = 2
 		dip = 1
-		mil = 1
+		mil = 3
 	}
-	add_heir_personality = malevolent_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 2433
-	add_treasury = 10
-	add_prestige = 12
+	capital = 526
+	add_treasury = 9
+	add_prestige = 77
 }

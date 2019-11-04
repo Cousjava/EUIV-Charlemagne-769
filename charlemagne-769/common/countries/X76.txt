@@ -1,257 +1,283 @@
-# Katyuri
+# Uyghur
 ck2_converter_generated = yes
-graphical_culture = indiangfx
-color = { 200 180 50 }
+graphical_culture = muslimgfx
+color = { 100 100 250 }
 
 
 
 
 leader_names = {
 
-	"Vashudeva" "Basudeva" "Kalasiddhi" "Brahmadeva" "Ashokdeva" "Rawatdeva" "Achalraj" "Achalraja" "Adhandev" "Adityadeva" 
-	"Ajmal" "Alsi" "Amir" "Anangpal" "Anangpala" "Anupapala" "Anuppal" "Apara Gangeya" "Arjunpal" "Arjunpala" 
-	"Arjunavarman" "Bacchdev" "Bachraj" "Baghpal" "Baghpala" "Bahadur-Singh" "Beejpal" "Beejpala" "Bhaadar" "Bhilpala" 
-	"Bhoj" "Bhoja" "Bhojavarman" "Bhopal" "Bhumpal" "Bhumpala" "Birpal" "Birpala" "Bisaldeva" "Brahmapala" 
-	"Brahmdevpal" "Chand" "Devapala" "Devavarman" "Dhanga" "Dhangadeva" "Dharmapala" "Dhaulshaya" "Dilipapala" "Dilippal" 
-	"Doth" "Draupad" "Draupada" "Dugarendra" "Gambhir" "Ganapatideva" "Gandadeva" "Gangeya" "Ghatamdeva" "Gopal" 
-	"Gopala" "Govindachandra" "Govindapala" "Govindaraja" "Govindraj" "Hamir" "Hammiravarman" "Harpal" "Harsa" "Harshapala" 
-	"Hirapal" "Hirapala" "Indrapal" "Indrapala" "Ishtpala" "Jaganpal" "Jaganpala" "Jagatpal" "Jagatpala" "Jagdev" 
-	"Jagdeva" "Jaidas" "Jaipal" "Jaitugideva" "Jasapala" "Jaspal" "Jatanpal" "Jatanpala" "Jayapala" "Jayasakti" 
-	"Jayasimha" "Jayavarman" "Jhetpal" "Jhetpala" "Junpala" "Kailaspal" "Kailaspala" "Kalkurna" "Kalyanachandra" "Kakhopal" 
-	"Kakhopala" "Kamal" "Kanhad" "Kanvarpal" "Kanvarpala" "Karnpal" "Keeratdeva" "Khadag" "Khetrapal" "Khetrapala" 
-	"Kiratpal" "Kiratpala" "Krishnray" "Krsnapa" "Kumarapala" "Kunwar" "Kunwarpal" "Ladahachandra" "Lakshmandeva" "Lokpala" 
-	"Madanapala" "Madanavarman" "Maharana" "Mahendrapal" "Mahendrapala" "Mahipal" "Mahipala" "Mahipata" "Mahlakadeva" "Mandandeva" 
-	"Mangaldeva" "Margdeva" "Mihira" "Nagapala" "Nagdeo" "Nannuka" "Naravarman" "Narayanapala" "Narpal" "Nayapala" 
-	"Nihaal" "Nihalray" "Paramardideva" "Pavak" "Peepalraj" "Popatraj" "Pritampal" "Pritampala" "Prithipala" "Prithvi" 
-	"Prithvipal" "Prithviraj" "Prithviraja" "Prithvivarman" "Rahila" "Rajapala" "Rajyapala" "Ramabhadra" "Ramachandra" "Rampal" 
-	"Rampala" "Rana" "Rangraj" "Rangraja" "Ratnapala" "Rijhpala" "Roshandeva" "Salivaahan" "Sallaksanavarman" "Saugandeva" 
-	"Shurapala" "Sisupal" "Sisupala" "Sohanpal" "Somasi" "Someshvara" "Sonpal" "Sonpala" "Srichandra" "Subhatavarman" 
-	"Sukhinpal" "Sukhinpala" "Sulakshanpal" "Sultanpal" "Sultanpala" "Surajpal" "Surajpala" "Traillokyachandra" "Tejapala" "Tejpal" 
-	"Tolpal" "Trailokyavarman" "Trilochanpala" "Udayaditya" "Udaysangh" "Uddharandeva" "Vachhal" "Vakpati" "Vapyata" "Varshapala" 
-	"Varshpal" "Vasudev" "Vidurathpal" "Vidurathpala" "Vidyadhara" "Vigrahapala" "Vigraharaja" "Vihangpal" "Vijayapala" "Vijayasakti" 
-	"Vinayakapala" "Vindhyavarman" "Viramdeva" "Viravarman" "Virsinghadeva" "Yasovarman" }
+	"Qutlugh" "Alp-Qutlugh" "Tolossu" "Bönek" "Tengri Bögü" "Bayanchur" "Bilge" "Çor" "Üge" "Barchuq" 
+	"Tömür" "Bars" "Adigh" "Buqa" "Mänglik" "Özmish" "Adïgh" "Aghulïq" "Agut" "Alïp" 
+	"Alïpqutlugh" "Alïpshalçi" "Alïpshul" "Anar" "Apategin" "Apït" "Aqunçï" "Arslan" "Aruq" "Asuq" 
+	"Atutuq" "Aydaq" "Ayçur" "Baatur" "Bagha" "Baghïr" "Barghut" "Barçuk" "Barçuq" "Barïs" 
+	"Barïsbek" "Basmil" "Bayan" "Bayançur" "Bayça" "Bayïrqu" "Bilgä" "Boyla" "Bughra" "Bumin" 
+	"Bumïn" "Buqaçuq" "Buquq" "Buyruq" "Bögü" "Bögübilgä" "Bökiye" "Böri" "Börtil" "Börä" 
+	"Bülin" "Bülün" "Büri" "Ebiztir" "Elig" "Eltugun" "Elçi" "Eneligçur" "Enoz" "Erdem" 
+	"Eregje" "Erin" "Erkin" "Esdem" "Eshime" "Eshinke" "Etmish" "Eçshün" "Ilbilgä" "Iletmish" 
+	"Iltämür" "Ilterish" "Iltughun" "Ilçur" "Inançu" "Inek" "Inel" "Irkin" "Isbar" "Istämi" 
+	"Jegen" "Jegin" "Jelme" "Jükün" "Jüküntirig" "Jürküñ" "Jürüküm" "Jüz" "Jüzyapïq" "Jüçi" 
+	"Jämï" "Kara" "Kesmez" "Ketim" "Keçig" "Kiräsiz" "Kutan" "Känçiq" "Kökmish" "Könçög" 
+	"Köpek" "Körtile" "Kügir" "Kül" "Kültegin" "Kültudun" "Külçur" "Külüg" "Küni" "Kürebir" 
+	"Kürtel" "Küçlüg" "Küçurï" "Mamuraq" "Maqaraç" "Maqraç" "Moyançur" "Mukan" "Mäñlik" "Negüril" 
+	"Oghlan" "Oghul" "Oghulbarïs" "Ontutuq" "Ormïzt" "Ormuz" "Ozmush" "Pülüñ" "Qapaghan" "Qarabarïs" 
+	"Qaya" "Qazghaq" "Qoshun" "Qosqar" "Qumash" "Qunï" "Qutadmish" "Rukshin" "Saghunaq" "Saghçïq" 
+	"Salïndï" "Señgi" "Señram" "Shalçi" "Shughur" "Shöñüz" "Shümül" "Süçüg" "Süñülug" "Tadqïsh" 
+	"Tadqïshçor" "Tamghan" "Tamghançur" "Tapa" "Tardu" "Tardush" "Tarkhan" "Tarqan" "Tatpar" "Taypindu" 
+	"Tämirbuqa" "Tegin" "Tekesh" "Tersin" "Teñribögü" "Teñirikän" "Tigin" "Timür" "Tinsi" "Tirig" 
+	"Toghan" "Toghrïl" "Togluq" "Tojgan" "Toñra" "Toñrategin" "Toñuz" "Tugan" "Tugun" "Tunyuquq" 
+	"Tutun" "Tutuq" "Tämir" "Töles" "Tüzmish" "Udun" "Udur" "Umaç" "Uqugh" "Uruñ" 
+	"Yaghïzçor" "Yaghïçi" "Yamtar" "Yapïq" "Yaraq" "Yargat" "Yaruq" "Yaruqtegin" "Yarïsh" "Yasu" 
+	"Yigençur" "Yola" "Yollughtegin" "Yolluq" "Yorçïn" "Yïlqï" "Çaça" "Çañ" "Çeküñ" "Çeçem" 
+	"Çigshi" "Çigsü" "Çiñtimür" "Çuçi" "Çuçibüri" "Ïshbara" "Ïtaçïq" "Öge" "Öghrünç" "Ögüne" 
+	"Örge" "Öztoghdï" "Özyegen" "Özüge" "Özünçü" "Öçen" "Ülüg" "Ülük" "Üçsi" }
 monarch_names = {
-	"Vashudeva #1" = 18
-	"Basudeva #1" = 18
-	"Kalasiddhi #0" = -1
-	"Brahmadeva #0" = 1
-	"Ashokdeva #1" = 18
-	"Rawatdeva #1" = 18
-	"Achalraj #0" = 0
-	"Achalraja #0" = 0
-	"Adhandev #0" = 0
-	"Adityadeva #0" = 0
-	"Ajmal #0" = 0
-	"Alsi #0" = 0
-	"Amir #0" = 0
-	"Anangpal #0" = 0
-	"Anangpala #0" = 0
-	"Anupapala #0" = 0
-	"Anuppal #0" = 0
-	"Apara Gangeya #0" = 0
-	"Arjunpal #0" = 0
-	"Arjunpala #0" = 0
-	"Arjunavarman #0" = 0
-	"Bacchdev #0" = 0
-	"Bachraj #0" = 0
-	"Baghpal #0" = 0
-	"Baghpala #0" = 0
-	"Bahadur-Singh #0" = 0
-	"Beejpal #0" = 0
-	"Beejpala #0" = 0
-	"Bhaadar #0" = 0
-	"Bhilpala #0" = 0
-	"Bhoj #0" = 0
-	"Bhoja #0" = 0
-	"Bhojavarman #0" = 0
-	"Bhopal #0" = 0
-	"Bhumpal #0" = 0
-	"Bhumpala #0" = 0
-	"Birpal #0" = 0
-	"Birpala #0" = 0
-	"Bisaldeva #0" = 0
-	"Brahmapala #0" = 0
-	"Brahmdevpal #0" = 0
-	"Chand #0" = 0
-	"Devapala #0" = 0
-	"Devavarman #0" = 0
-	"Dhanga #0" = 0
-	"Dhangadeva #0" = 0
-	"Dharmapala #0" = 0
-	"Dhaulshaya #0" = 0
-	"Dilipapala #0" = 0
-	"Dilippal #0" = 0
-	"Doth #0" = 0
-	"Draupad #0" = 0
-	"Draupada #0" = 0
-	"Dugarendra #0" = 0
-	"Gambhir #0" = 0
-	"Ganapatideva #0" = 0
-	"Gandadeva #0" = 0
-	"Gangeya #0" = 0
-	"Ghatamdeva #0" = 0
-	"Gopal #0" = 0
-	"Gopala #0" = 0
-	"Govindachandra #0" = 0
-	"Govindapala #0" = 0
-	"Govindaraja #0" = 0
-	"Govindraj #0" = 0
-	"Hamir #0" = 0
-	"Hammiravarman #0" = 0
-	"Harpal #0" = 0
-	"Harsa #0" = 0
-	"Harshapala #0" = 0
-	"Hirapal #0" = 0
-	"Hirapala #0" = 0
-	"Indrapal #0" = 0
-	"Indrapala #0" = 0
-	"Ishtpala #0" = 0
-	"Jaganpal #0" = 0
-	"Jaganpala #0" = 0
-	"Jagatpal #0" = 0
-	"Jagatpala #0" = 0
-	"Jagdev #0" = 0
-	"Jagdeva #0" = 0
-	"Jaidas #0" = 0
-	"Jaipal #0" = 0
-	"Jaitugideva #0" = 0
-	"Jasapala #0" = 0
-	"Jaspal #0" = 0
-	"Jatanpal #0" = 0
-	"Jatanpala #0" = 0
-	"Jayapala #0" = 0
-	"Jayasakti #0" = 0
-	"Jayasimha #0" = 0
-	"Jayavarman #0" = 0
-	"Jhetpal #0" = 0
-	"Jhetpala #0" = 0
-	"Junpala #0" = 0
-	"Kailaspal #0" = 0
-	"Kailaspala #0" = 0
-	"Kalkurna #0" = 0
-	"Kalyanachandra #0" = 0
-	"Kakhopal #0" = 0
-	"Kakhopala #0" = 0
-	"Kamal #0" = 0
-	"Kanhad #0" = 0
-	"Kanvarpal #0" = 0
-	"Kanvarpala #0" = 0
-	"Karnpal #0" = 0
-	"Keeratdeva #0" = 0
-	"Khadag #0" = 0
-	"Khetrapal #0" = 0
-	"Khetrapala #0" = 0
-	"Kiratpal #0" = 0
-	"Kiratpala #0" = 0
-	"Krishnray #0" = 0
-	"Krsnapa #0" = 0
-	"Kumarapala #0" = 0
-	"Kunwar #0" = 0
-	"Kunwarpal #0" = 0
-	"Ladahachandra #0" = 0
-	"Lakshmandeva #0" = 0
-	"Lokpala #0" = 0
-	"Madanapala #0" = 0
-	"Madanavarman #0" = 0
-	"Maharana #0" = 0
-	"Mahendrapal #0" = 0
-	"Mahendrapala #0" = 0
-	"Mahipal #0" = 0
-	"Mahipala #0" = 0
-	"Mahipata #0" = 0
-	"Mahlakadeva #0" = 0
-	"Mandandeva #0" = 0
-	"Mangaldeva #0" = 0
-	"Margdeva #0" = 0
-	"Mihira #0" = 0
-	"Nagapala #0" = 0
-	"Nagdeo #0" = 0
-	"Nannuka #0" = 0
-	"Naravarman #0" = 0
-	"Narayanapala #0" = 0
-	"Narpal #0" = 0
-	"Nayapala #0" = 0
-	"Nihaal #0" = 0
-	"Nihalray #0" = 0
-	"Paramardideva #0" = 0
-	"Pavak #0" = 0
-	"Peepalraj #0" = 0
-	"Popatraj #0" = 0
-	"Pritampal #0" = 0
-	"Pritampala #0" = 0
-	"Prithipala #0" = 0
-	"Prithvi #0" = 0
-	"Prithvipal #0" = 0
-	"Prithviraj #0" = 0
-	"Prithviraja #0" = 0
-	"Prithvivarman #0" = 0
-	"Rahila #0" = 0
-	"Rajapala #0" = 0
-	"Rajyapala #0" = 0
-	"Ramabhadra #0" = 0
-	"Ramachandra #0" = 0
-	"Rampal #0" = 0
-	"Rampala #0" = 0
-	"Rana #0" = 0
-	"Rangraj #0" = 0
-	"Rangraja #0" = 0
-	"Ratnapala #0" = 0
-	"Rijhpala #0" = 0
-	"Roshandeva #0" = 0
-	"Salivaahan #0" = 0
-	"Sallaksanavarman #0" = 0
-	"Saugandeva #0" = 0
-	"Shurapala #0" = 0
-	"Sisupal #0" = 0
-	"Sisupala #0" = 0
-	"Sohanpal #0" = 0
-	"Somasi #0" = 0
-	"Someshvara #0" = 0
-	"Sonpal #0" = 0
-	"Sonpala #0" = 0
-	"Srichandra #0" = 0
-	"Subhatavarman #0" = 0
-	"Sukhinpal #0" = 0
-	"Sukhinpala #0" = 0
-	"Sulakshanpal #0" = 0
-	"Sultanpal #0" = 0
-	"Sultanpala #0" = 0
-	"Surajpal #0" = 0
-	"Surajpala #0" = 0
-	"Traillokyachandra #0" = 0
-	"Tejapala #0" = 0
-	"Tejpal #0" = 0
-	"Tolpal #0" = 0
-	"Trailokyavarman #0" = 0
-	"Trilochanpala #0" = 0
-	"Udayaditya #0" = 0
-	"Udaysangh #0" = 0
-	"Uddharandeva #0" = 0
-	"Vachhal #0" = 0
-	"Vakpati #0" = 0
-	"Vapyata #0" = 0
-	"Varshapala #0" = 0
-	"Varshpal #0" = 0
-	"Vasudev #0" = 0
-	"Vidurathpal #0" = 0
-	"Vidurathpala #0" = 0
-	"Vidyadhara #0" = 0
-	"Vigrahapala #0" = 0
-	"Vigraharaja #0" = 0
-	"Vihangpal #0" = 0
-	"Vijayapala #0" = 0
-	"Vijayasakti #0" = 0
-	"Vinayakapala #0" = 0
-	"Vindhyavarman #0" = 0
-	"Viramdeva #0" = 0
-	"Viravarman #0" = 0
-	"Virsinghadeva #0" = 0
-	"Yasovarman #0" = 0
+	"Qutlugh #1" = 21
+	"Alp-Qutlugh #0" = 1
+	"Tolossu #0" = 1
+	"Bönek #0" = 1
+	"Tengri Bögü #1" = 18
+	"Bayanchur #1" = 18
+	"Bilge #0" = 0
+	"Çor #0" = 0
+	"Üge #0" = 0
+	"Barchuq #0" = 0
+	"Tömür #0" = 0
+	"Bars #0" = 0
+	"Adigh #0" = 0
+	"Buqa #0" = 0
+	"Mänglik #0" = 0
+	"Özmish #0" = 0
+	"Adïgh #0" = 0
+	"Aghulïq #0" = 0
+	"Agut #0" = 0
+	"Alïp #0" = 0
+	"Alïpqutlugh #0" = 0
+	"Alïpshalçi #0" = 0
+	"Alïpshul #0" = 0
+	"Anar #0" = 0
+	"Apategin #0" = 0
+	"Apït #0" = 0
+	"Aqunçï #0" = 0
+	"Arslan #0" = 0
+	"Aruq #0" = 0
+	"Asuq #0" = 0
+	"Atutuq #0" = 0
+	"Aydaq #0" = 0
+	"Ayçur #0" = 0
+	"Baatur #0" = 0
+	"Bagha #0" = 0
+	"Baghïr #0" = 0
+	"Barghut #0" = 0
+	"Barçuk #0" = 0
+	"Barçuq #0" = 0
+	"Barïs #0" = 0
+	"Barïsbek #0" = 0
+	"Basmil #0" = 0
+	"Bayan #0" = 0
+	"Bayançur #0" = 0
+	"Bayça #0" = 0
+	"Bayïrqu #0" = 0
+	"Bilgä #0" = 0
+	"Boyla #0" = 0
+	"Bughra #0" = 0
+	"Bumin #0" = 0
+	"Bumïn #0" = 0
+	"Buqaçuq #0" = 0
+	"Buquq #0" = 0
+	"Buyruq #0" = 0
+	"Bögü #0" = 0
+	"Bögübilgä #0" = 0
+	"Bökiye #0" = 0
+	"Böri #0" = 0
+	"Börtil #0" = 0
+	"Börä #0" = 0
+	"Bülin #0" = 0
+	"Bülün #0" = 0
+	"Büri #0" = 0
+	"Ebiztir #0" = 0
+	"Elig #0" = 0
+	"Eltugun #0" = 0
+	"Elçi #0" = 0
+	"Eneligçur #0" = 0
+	"Enoz #0" = 0
+	"Erdem #0" = 0
+	"Eregje #0" = 0
+	"Erin #0" = 0
+	"Erkin #0" = 0
+	"Esdem #0" = 0
+	"Eshime #0" = 0
+	"Eshinke #0" = 0
+	"Etmish #0" = 0
+	"Eçshün #0" = 0
+	"Ilbilgä #0" = 0
+	"Iletmish #0" = 0
+	"Iltämür #0" = 0
+	"Ilterish #0" = 0
+	"Iltughun #0" = 0
+	"Ilçur #0" = 0
+	"Inançu #0" = 0
+	"Inek #0" = 0
+	"Inel #0" = 0
+	"Irkin #0" = 0
+	"Isbar #0" = 0
+	"Istämi #0" = 0
+	"Jegen #0" = 0
+	"Jegin #0" = 0
+	"Jelme #0" = 0
+	"Jükün #0" = 0
+	"Jüküntirig #0" = 0
+	"Jürküñ #0" = 0
+	"Jürüküm #0" = 0
+	"Jüz #0" = 0
+	"Jüzyapïq #0" = 0
+	"Jüçi #0" = 0
+	"Jämï #0" = 0
+	"Kara #0" = 0
+	"Kesmez #0" = 0
+	"Ketim #0" = 0
+	"Keçig #0" = 0
+	"Kiräsiz #0" = 0
+	"Kutan #0" = 0
+	"Känçiq #0" = 0
+	"Kökmish #0" = 0
+	"Könçög #0" = 0
+	"Köpek #0" = 0
+	"Körtile #0" = 0
+	"Kügir #0" = 0
+	"Kül #0" = 0
+	"Kültegin #0" = 0
+	"Kültudun #0" = 0
+	"Külçur #0" = 0
+	"Külüg #0" = 0
+	"Küni #0" = 0
+	"Kürebir #0" = 0
+	"Kürtel #0" = 0
+	"Küçlüg #0" = 0
+	"Küçurï #0" = 0
+	"Mamuraq #0" = 0
+	"Maqaraç #0" = 0
+	"Maqraç #0" = 0
+	"Moyançur #0" = 0
+	"Mukan #0" = 0
+	"Mäñlik #0" = 0
+	"Negüril #0" = 0
+	"Oghlan #0" = 0
+	"Oghul #0" = 0
+	"Oghulbarïs #0" = 0
+	"Ontutuq #0" = 0
+	"Ormïzt #0" = 0
+	"Ormuz #0" = 0
+	"Ozmush #0" = 0
+	"Pülüñ #0" = 0
+	"Qapaghan #0" = 0
+	"Qarabarïs #0" = 0
+	"Qaya #0" = 0
+	"Qazghaq #0" = 0
+	"Qoshun #0" = 0
+	"Qosqar #0" = 0
+	"Qumash #0" = 0
+	"Qunï #0" = 0
+	"Qutadmish #0" = 0
+	"Rukshin #0" = 0
+	"Saghunaq #0" = 0
+	"Saghçïq #0" = 0
+	"Salïndï #0" = 0
+	"Señgi #0" = 0
+	"Señram #0" = 0
+	"Shalçi #0" = 0
+	"Shughur #0" = 0
+	"Shöñüz #0" = 0
+	"Shümül #0" = 0
+	"Süçüg #0" = 0
+	"Süñülug #0" = 0
+	"Tadqïsh #0" = 0
+	"Tadqïshçor #0" = 0
+	"Tamghan #0" = 0
+	"Tamghançur #0" = 0
+	"Tapa #0" = 0
+	"Tardu #0" = 0
+	"Tardush #0" = 0
+	"Tarkhan #0" = 0
+	"Tarqan #0" = 0
+	"Tatpar #0" = 0
+	"Taypindu #0" = 0
+	"Tämirbuqa #0" = 0
+	"Tegin #0" = 0
+	"Tekesh #0" = 0
+	"Tersin #0" = 0
+	"Teñribögü #0" = 0
+	"Teñirikän #0" = 0
+	"Tigin #0" = 0
+	"Timür #0" = 0
+	"Tinsi #0" = 0
+	"Tirig #0" = 0
+	"Toghan #0" = 0
+	"Toghrïl #0" = 0
+	"Togluq #0" = 0
+	"Tojgan #0" = 0
+	"Toñra #0" = 0
+	"Toñrategin #0" = 0
+	"Toñuz #0" = 0
+	"Tugan #0" = 0
+	"Tugun #0" = 0
+	"Tunyuquq #0" = 0
+	"Tutun #0" = 0
+	"Tutuq #0" = 0
+	"Tämir #0" = 0
+	"Töles #0" = 0
+	"Tüzmish #0" = 0
+	"Udun #0" = 0
+	"Udur #0" = 0
+	"Umaç #0" = 0
+	"Uqugh #0" = 0
+	"Uruñ #0" = 0
+	"Yaghïzçor #0" = 0
+	"Yaghïçi #0" = 0
+	"Yamtar #0" = 0
+	"Yapïq #0" = 0
+	"Yaraq #0" = 0
+	"Yargat #0" = 0
+	"Yaruq #0" = 0
+	"Yaruqtegin #0" = 0
+	"Yarïsh #0" = 0
+	"Yasu #0" = 0
+	"Yigençur #0" = 0
+	"Yola #0" = 0
+	"Yollughtegin #0" = 0
+	"Yolluq #0" = 0
+	"Yorçïn #0" = 0
+	"Yïlqï #0" = 0
+	"Çaça #0" = 0
+	"Çañ #0" = 0
+	"Çeküñ #0" = 0
+	"Çeçem #0" = 0
+	"Çigshi #0" = 0
+	"Çigsü #0" = 0
+	"Çiñtimür #0" = 0
+	"Çuçi #0" = 0
+	"Çuçibüri #0" = 0
+	"Ïshbara #0" = 0
+	"Ïtaçïq #0" = 0
+	"Öge #0" = 0
+	"Öghrünç #0" = 0
+	"Ögüne #0" = 0
+	"Örge #0" = 0
+	"Öztoghdï #0" = 0
+	"Özyegen #0" = 0
+	"Özüge #0" = 0
+	"Özünçü #0" = 0
+	"Öçen #0" = 0
+	"Ülüg #0" = 0
+	"Ülük #0" = 0
+	"Üçsi #0" = 0
 
 
-	"Dattadevi #0" = -1
-	"Lakshman #0" = -1
-	"Damayanti #0" = -1
-	"Karmavati #0" = -1
+	"Ilbeslik #0" = -1
+	"Beslik #0" = -1
+	"Azgan #0" = -1
+	"Bulït #0" = -1
+	"Ötüken #0" = -1
 }
 

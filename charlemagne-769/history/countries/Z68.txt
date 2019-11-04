@@ -1,4 +1,4 @@
-# Medelpad
+# Naumadal
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
@@ -7,20 +7,31 @@ technology_group = western
 primary_culture = norse
 religion = animism
 clear_scripted_personalities = yes
-capital = 9
+capital = 20
 1435.1.1 = {
 	monarch = {
-		name = "Tryggve"
-		birth_date = 1417.1.1
-		dynasty = "Stafr"
-		adm = 6
+		name = "Ulfr"
+		birth_date = 1414.1.1
+		dynasty = "av Røra"
+		adm = 4
 		dip = 2
-		mil = 2
+		mil = 6
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Ivar"
+		monarch_name = "Ivar"
+		dynasty = "av Røra"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 9
+	capital = 20
 	add_treasury = 4
-	add_prestige = 3
+	add_prestige = 2
 }

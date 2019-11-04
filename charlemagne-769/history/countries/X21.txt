@@ -1,27 +1,26 @@
-# Kalyani Chalukya
+# Awzalid
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = kannada
-religion = hinduism
+technology_group = muslim
+primary_culture = berber
+religion = sunni
 clear_scripted_personalities = yes
-capital = 532
-1425.1.1 = {
+capital = 339
+1442.1.1 = {
 	monarch = {
-		name = "Bhima"
-		birth_date = 1395.1.1
-		dynasty = "Kalyani Chalukya"
-		adm = 1
-		dip = 3
+		name = "Hashim"
+		birth_date = 1410.1.1
+		dynasty = "Awzalid"
+		adm = 0
+		dip = 2
 		mil = 1
 	}
-	add_ruler_personality = free_thinker_personality
 	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 532
-	add_treasury = 6
-	add_prestige = 5
+	capital = 339
+	add_treasury = 7
+	add_prestige = 8
 }

@@ -1,26 +1,38 @@
-# Ilmen
+# Skalva
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = ilmenian
+primary_culture = lithuanian
 religion = animism
 clear_scripted_personalities = yes
-capital = 310
-1435.1.1 = {
+capital = 40
+1425.1.1 = {
 	monarch = {
-		name = "Rodislav"
-		birth_date = 1418.1.1
-		dynasty = "Slovensky"
-		adm = 4
+		name = "Vidvuti"
+		birth_date = 1404.2.18
+		dynasty = "Schalauosunus"
+		adm = 1
 		dip = 1
 		mil = 2
 	}
-	add_ruler_personality = calm_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = malevolent_personality
+	heir = {
+		name = "Viduuti"
+		monarch_name = "Viduuti"
+		dynasty = "Schalauosunus"
+		birth_date = 1423.11.20
+		death_date = 1503.11.20
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 310
+	capital = 40
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 5
 }

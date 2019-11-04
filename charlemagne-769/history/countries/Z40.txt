@@ -1,36 +1,26 @@
-# Kernev
-government = monarchy
-add_government_reform = feudalism_reform
+# Albingia
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = breton
-religion = catholic
+primary_culture = hannoverian
+religion = animism
 clear_scripted_personalities = yes
-capital = 170
-1444.1.1 = {
+capital = 1775
+1436.1.1 = {
 	monarch = {
-		name = "Custentin"
-		birth_date = 1415.1.1
-		dynasty = "de Cornouaille"
-		adm = 2
+		name = "Hesso"
+		birth_date = 1412.1.1
+		dynasty = "Hessing"
+		adm = 1
 		dip = 3
-		mil = 2
+		mil = 1
 	}
-	add_ruler_personality = malevolent_personality
-	heir = {
-		name = "Gestin"
-		monarch_name = "Gestin"
-		dynasty = "de Cornouaille"
-		birth_date = 1444.1.1
-		death_date = 1524.1.1
-		adm = 4
-		dip = 4
-		mil = 4
-	}
+	add_ruler_personality = silver_tongue_personality
 }
 1444.11.11 = {
-	capital = 170
-	add_treasury = 4
-	add_prestige = 2
+	capital = 1775
+	add_treasury = 6
+	add_prestige = 5
 }

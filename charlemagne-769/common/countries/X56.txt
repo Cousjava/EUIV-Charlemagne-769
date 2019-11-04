@@ -1,179 +1,176 @@
-# Kalat
+# Pandya
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 152 185 96 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	economic_ideas
-	diplomatic_ideas
-	administrative_ideas
-}
+graphical_culture = indiangfx
+color = { 180 80 130 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
-}
 
 
 
 leader_names = {
 
-	"Nihaal" "Aaban" "Aabdar" "Aalem" "Aakrama" "Aamir" "Aaqel" "Aarash" "Aarif" "Aazar" 
-	"Abas" "Abdiesus" "Abed" "Abu-zar" "Afzal" "Adel" "Afrooz" "Afsar" "Afshin" "Ajmal" 
-	"Akhtar" "Akram" "Alaudin" "Akbarkhan" "Almeida" "Amardad" "Amooz" "Anoushiravan" "Anwaaraddin" "Ariabood" 
-	"Armeen" "Aryo" "Arzhang" "Asadi" "Ashtak" "Azfaar" "Azoom" "Azyan" "Azzami" "Azzat" 
-	"Baddar" "Badeed" "Badih" "Badilayn" "Badrawi" "Baghish" "Bahiri" "Bahirun" "Bahlul" "Bahnam" 
-	"Dadvar" "Faireh" "Farjaad" "Farzaad" "Futtehkhan" "Gulraiz" "Gulrez" "Gulru" "Isfandiyar" "Jaah" 
-	"Jabroot" "Jammas" "Jansher" "Jehanzaib" "Kardaar" "Lodhi" "Maiwand" "Mateen" "Mehrang" "Mirwais" 
-	"Mohammadi" "Moinkhan" "Mukhtar" "Mursalin" "Musa" "Naseefa" "Nawaskhan" "Nouman" "Painda" "Parwaiz" 
-	"Pazir" "Poya" "Qammar" "Rayi" "Shahmeer" "Shahou" "Shahpar" "Shahpur" "Shahu" "Shehzad" 
-	"Soban" "Tabish" "Tabsheer" "Taimur" "Tajj" "Tashfeen" "Wamiq" "Yar" "Yesal" "Zadfar" 
-	"Zakariya" "Zarak" "Zartash" }
+	"Katunkon" "Parântaka" "Irâcacimman" "Mâravarman" "Celiyancentan" "Cayantavarman" "Arikêcari" "Ranatîran" "Amarapuyankan" "Aparâcita" 
+	"Aparâcitavarman" "Appûtaiyân" "Ariñcaya" "Arulmolitêvar" "Arulmolivarman" "Atirâcêntira" "Atitta" "Avaniyâlappirantâr" "Avraaham" "Brahmamârâyar" 
+	"Cadayan" "Cankili" "Cataiyavarman" "Catturukâlamakalâtittan" "Cekarâcacêkaran" "Cevakattevan" "Ceyavîra" "Chaacko" "Chaandy" "Cimmavisnu" 
+	"Cinkapâku" "Civakkoluntân" "Cuntara" "Câramutaiyân" "Câttanân" "Cîvallapa" "Cîvallapan" "Daniyel" "Eappen" "Eccavarâkan" 
+	"Eisow" "Impânâyarpattan" "Irattapadikonda" "Irâcakecaripanmar" "Irâcarâca" "Irâcâcekara" "Irâcâtirâca" "Irâcâtirâcatevar" "Irâcâtitta" "Irâcêntira" 
+	"Ittac" "Iyob" "Kadarangkonda" "Kanakacûriya" "Kantarâtitta" "Karaikkiyemarrayilaiyân" "Karunandadakkan" "Karunandan" "Kilân" "Kirâmarâcapattan" 
+	"Kontân" "Kossy" "Kotukulapattan" "Kulacêkara" "Kulacêkaran" "Kulôttunka" "Kunapûsana" "Kunavîra" "Kurian" "Kutameratiruvatikal" 
+	"Kôpperuñcimman" "Lukose" "Makêntiravarman" "Manappâkkîlan" "Manavâlapperumâl" "Munnûrruvappattan" "Mâmpâkkamutaiyân" "Mânaticcuran" "Mârapanmar" "Mârkantaiyan" 
+	"Markose" "Mâtevapattan" "Mâtevipattan" "Nantivarman" "Naracimmavarman" "Nirupatunkavarman" "Niyâyaparipâlapattan" "Nârpattennâyirapattan" "Nâtittañcâttan" "Pantâram" 
+	"Parakesaripanmar" "Paramêsvaravarman" "Paranirupacinkam" "Pararâcacêkaran" "Parâkkirama" "Parânkucan" "Pathrose" "Pañcavan" "Paulose" "Periyapillai" 
+	"Perumâl" "Peruñcintevar" "Piramârâyan" "Piyliypaos" "Puvirâca" "Pâkkilân" "Pâlarâvâyan" "Ranatitta" "Ravivarman" "Tantivarman" 
+	"Tennavan" "Thoma" "Tiruccirrampalapattan" "Tirunattapperumâl" "Tirupuvanavîratevar" "Tripuvanacakkaravattikal" "Uravâkkinân" "Utaiya" "Uttama" "Varakunan" 
+	"Varakunavarman" "Varôtaya" "Varughese" "Vellantânkinân" "Vicayâlaya" "Vicayâraka" "Vicayâtitta" "Vikkirama" "Vikramâtittâ" "Viranârâyanapattan" 
+	"Virâcakecaripanmar" "Vîracêkara" "Vîrakêcari" "Vîrarâcêntira" "Vîrôtaya" "Yohannaan" "Yosef" "Zacharria" "Âccinataratippan" "Ânûrrenmanpiccan" 
+	"Âyirattalipattan" }
 monarch_names = {
-	"Nihaal #0" = 1
-	"Aaban #0" = 0
-	"Aabdar #0" = 0
-	"Aalem #0" = 0
-	"Aakrama #0" = 0
-	"Aamir #0" = 0
-	"Aaqel #0" = 0
-	"Aarash #0" = 0
-	"Aarif #0" = 0
-	"Aazar #0" = 0
-	"Abas #0" = 0
-	"Abdiesus #0" = 0
-	"Abed #0" = 0
-	"Abu-zar #0" = 0
-	"Afzal #0" = 0
-	"Adel #0" = 0
-	"Afrooz #0" = 0
-	"Afsar #0" = 0
-	"Afshin #0" = 0
-	"Ajmal #0" = 0
-	"Akhtar #0" = 0
-	"Akram #0" = 0
-	"Alaudin #0" = 0
-	"Akbarkhan #0" = 0
-	"Almeida #0" = 0
-	"Amardad #0" = 0
-	"Amooz #0" = 0
-	"Anoushiravan #0" = 0
-	"Anwaaraddin #0" = 0
-	"Ariabood #0" = 0
-	"Armeen #0" = 0
-	"Aryo #0" = 0
-	"Arzhang #0" = 0
-	"Asadi #0" = 0
-	"Ashtak #0" = 0
-	"Azfaar #0" = 0
-	"Azoom #0" = 0
-	"Azyan #0" = 0
-	"Azzami #0" = 0
-	"Azzat #0" = 0
-	"Baddar #0" = 0
-	"Badeed #0" = 0
-	"Badih #0" = 0
-	"Badilayn #0" = 0
-	"Badrawi #0" = 0
-	"Baghish #0" = 0
-	"Bahiri #0" = 0
-	"Bahirun #0" = 0
-	"Bahlul #0" = 0
-	"Bahnam #0" = 0
-	"Dadvar #0" = 0
-	"Faireh #0" = 0
-	"Farjaad #0" = 0
-	"Farzaad #0" = 0
-	"Futtehkhan #0" = 0
-	"Gulraiz #0" = 0
-	"Gulrez #0" = 0
-	"Gulru #0" = 0
-	"Isfandiyar #0" = 0
-	"Jaah #0" = 0
-	"Jabroot #0" = 0
-	"Jammas #0" = 0
-	"Jansher #0" = 0
-	"Jehanzaib #0" = 0
-	"Kardaar #0" = 0
-	"Lodhi #0" = 0
-	"Maiwand #0" = 0
-	"Mateen #0" = 0
-	"Mehrang #0" = 0
-	"Mirwais #0" = 0
-	"Mohammadi #0" = 0
-	"Moinkhan #0" = 0
-	"Mukhtar #0" = 0
-	"Mursalin #0" = 0
-	"Musa #0" = 0
-	"Naseefa #0" = 0
-	"Nawaskhan #0" = 0
-	"Nouman #0" = 0
-	"Painda #0" = 0
-	"Parwaiz #0" = 0
-	"Pazir #0" = 0
-	"Poya #0" = 0
-	"Qammar #0" = 0
-	"Rayi #0" = 0
-	"Shahmeer #0" = 0
-	"Shahou #0" = 0
-	"Shahpar #0" = 0
-	"Shahpur #0" = 0
-	"Shahu #0" = 0
-	"Shehzad #0" = 0
-	"Soban #0" = 0
-	"Tabish #0" = 0
-	"Tabsheer #0" = 0
-	"Taimur #0" = 0
-	"Tajj #0" = 0
-	"Tashfeen #0" = 0
-	"Wamiq #0" = 0
-	"Yar #0" = 0
-	"Yesal #0" = 0
-	"Zadfar #0" = 0
-	"Zakariya #0" = 0
-	"Zarak #0" = 0
-	"Zartash #0" = 0
+	"Katunkon #0" = 1
+	"Parântaka #1" = 18
+	"Irâcacimman #0" = 1
+	"Mâravarman #0" = 1
+	"Celiyancentan #0" = 1
+	"Cayantavarman #0" = 1
+	"Arikêcari #0" = 1
+	"Ranatîran #0" = 1
+	"Amarapuyankan #0" = 0
+	"Aparâcita #0" = 0
+	"Aparâcitavarman #0" = 0
+	"Appûtaiyân #0" = 0
+	"Ariñcaya #0" = 0
+	"Arulmolitêvar #0" = 0
+	"Arulmolivarman #0" = 0
+	"Atirâcêntira #0" = 0
+	"Atitta #0" = 0
+	"Avaniyâlappirantâr #0" = 0
+	"Avraaham #0" = 0
+	"Brahmamârâyar #0" = 0
+	"Cadayan #0" = 0
+	"Cankili #0" = 0
+	"Cataiyavarman #0" = 0
+	"Catturukâlamakalâtittan #0" = 0
+	"Cekarâcacêkaran #0" = 0
+	"Cevakattevan #0" = 0
+	"Ceyavîra #0" = 0
+	"Chaacko #0" = 0
+	"Chaandy #0" = 0
+	"Cimmavisnu #0" = 0
+	"Cinkapâku #0" = 0
+	"Civakkoluntân #0" = 0
+	"Cuntara #0" = 0
+	"Câramutaiyân #0" = 0
+	"Câttanân #0" = 0
+	"Cîvallapa #0" = 0
+	"Cîvallapan #0" = 0
+	"Daniyel #0" = 0
+	"Eappen #0" = 0
+	"Eccavarâkan #0" = 0
+	"Eisow #0" = 0
+	"Impânâyarpattan #0" = 0
+	"Irattapadikonda #0" = 0
+	"Irâcakecaripanmar #0" = 0
+	"Irâcarâca #0" = 0
+	"Irâcâcekara #0" = 0
+	"Irâcâtirâca #0" = 0
+	"Irâcâtirâcatevar #0" = 0
+	"Irâcâtitta #0" = 0
+	"Irâcêntira #0" = 0
+	"Ittac #0" = 0
+	"Iyob #0" = 0
+	"Kadarangkonda #0" = 0
+	"Kanakacûriya #0" = 0
+	"Kantarâtitta #0" = 0
+	"Karaikkiyemarrayilaiyân #0" = 0
+	"Karunandadakkan #0" = 0
+	"Karunandan #0" = 0
+	"Kilân #0" = 0
+	"Kirâmarâcapattan #0" = 0
+	"Kontân #0" = 0
+	"Kossy #0" = 0
+	"Kotukulapattan #0" = 0
+	"Kulacêkara #0" = 0
+	"Kulacêkaran #0" = 0
+	"Kulôttunka #0" = 0
+	"Kunapûsana #0" = 0
+	"Kunavîra #0" = 0
+	"Kurian #0" = 0
+	"Kutameratiruvatikal #0" = 0
+	"Kôpperuñcimman #0" = 0
+	"Lukose #0" = 0
+	"Makêntiravarman #0" = 0
+	"Manappâkkîlan #0" = 0
+	"Manavâlapperumâl #0" = 0
+	"Munnûrruvappattan #0" = 0
+	"Mâmpâkkamutaiyân #0" = 0
+	"Mânaticcuran #0" = 0
+	"Mârapanmar #0" = 0
+	"Mârkantaiyan #0" = 0
+	"Markose #0" = 0
+	"Mâtevapattan #0" = 0
+	"Mâtevipattan #0" = 0
+	"Nantivarman #0" = 0
+	"Naracimmavarman #0" = 0
+	"Nirupatunkavarman #0" = 0
+	"Niyâyaparipâlapattan #0" = 0
+	"Nârpattennâyirapattan #0" = 0
+	"Nâtittañcâttan #0" = 0
+	"Pantâram #0" = 0
+	"Parakesaripanmar #0" = 0
+	"Paramêsvaravarman #0" = 0
+	"Paranirupacinkam #0" = 0
+	"Pararâcacêkaran #0" = 0
+	"Parâkkirama #0" = 0
+	"Parânkucan #0" = 0
+	"Pathrose #0" = 0
+	"Pañcavan #0" = 0
+	"Paulose #0" = 0
+	"Periyapillai #0" = 0
+	"Perumâl #0" = 0
+	"Peruñcintevar #0" = 0
+	"Piramârâyan #0" = 0
+	"Piyliypaos #0" = 0
+	"Puvirâca #0" = 0
+	"Pâkkilân #0" = 0
+	"Pâlarâvâyan #0" = 0
+	"Ranatitta #0" = 0
+	"Ravivarman #0" = 0
+	"Tantivarman #0" = 0
+	"Tennavan #0" = 0
+	"Thoma #0" = 0
+	"Tiruccirrampalapattan #0" = 0
+	"Tirunattapperumâl #0" = 0
+	"Tirupuvanavîratevar #0" = 0
+	"Tripuvanacakkaravattikal #0" = 0
+	"Uravâkkinân #0" = 0
+	"Utaiya #0" = 0
+	"Uttama #0" = 0
+	"Varakunan #0" = 0
+	"Varakunavarman #0" = 0
+	"Varôtaya #0" = 0
+	"Varughese #0" = 0
+	"Vellantânkinân #0" = 0
+	"Vicayâlaya #0" = 0
+	"Vicayâraka #0" = 0
+	"Vicayâtitta #0" = 0
+	"Vikkirama #0" = 0
+	"Vikramâtittâ #0" = 0
+	"Viranârâyanapattan #0" = 0
+	"Virâcakecaripanmar #0" = 0
+	"Vîracêkara #0" = 0
+	"Vîrakêcari #0" = 0
+	"Vîrarâcêntira #0" = 0
+	"Vîrôtaya #0" = 0
+	"Yohannaan #0" = 0
+	"Yosef #0" = 0
+	"Zacharria #0" = 0
+	"Âccinataratippan #0" = 0
+	"Ânûrrenmanpiccan #0" = 0
+	"Âyirattalipattan #0" = 0
 
 
-	"Aabroo #0" = -1
-	"Kushaaneh #0" = -1
-	"Sharjeela #0" = -1
-	"Larmina #0" = -1
-	"Samaneh #0" = -1
-}
-ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	"Kaucalaiyâr #0" = -1
+	"Kûttâtunâcci #0" = -1
+	"Tânatonkiyâr #0" = -1
+	"Têmpâvai #0" = -1
+	"Tiruvênkatam #0" = -1
 }
 

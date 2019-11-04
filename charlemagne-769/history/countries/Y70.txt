@@ -1,26 +1,38 @@
-# Midhhalbid
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Khazaria
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = baluchi
-religion = sunni
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 575
-1440.1.1 = {
+capital = 464
+1424.1.1 = {
 	monarch = {
-		name = "Uways"
-		birth_date = 1398.1.1
-		dynasty = "Midhhalbid"
-		adm = 4
+		name = "Baghatur"
+		birth_date = 1391.1.1
+		dynasty = "Ashina"
+		adm = 2
 		dip = 3
 		mil = 4
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = embezzler_personality
+	heir = {
+		name = "Bulan"
+		monarch_name = "Bulan"
+		dynasty = "Ashina"
+		birth_date = 1409.1.1
+		death_date = 1489.1.1
+		adm = 4
+		dip = 1
+		mil = 6
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 575
-	add_treasury = 6
-	add_prestige = 4
+	capital = 464
+	add_treasury = 10
+	add_prestige = 79
 }

@@ -1,26 +1,37 @@
-# Quadirid
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Magyar
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_misr_arabic
-religion = sunni
+technology_group = nomad_group
+primary_culture = hungarian
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 358
-1437.1.1 = {
+capital = 1943
+1439.1.1 = {
 	monarch = {
-		name = "Abdul-Aziz"
-		birth_date = 1415.1.1
-		dynasty = "Quadirid"
-		adm = 6
+		name = "Jenö"
+		birth_date = 1416.1.1
+		dynasty = "Jenö"
+		adm = 2
 		dip = 2
-		mil = 3
+		mil = 1
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Dezsõ"
+		monarch_name = "Dezsõ"
+		dynasty = "Jenö"
+		birth_date = 1433.1.1
+		death_date = 1513.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 358
-	add_treasury = 7
-	add_prestige = 6
+	capital = 1943
+	add_treasury = 10
+	add_prestige = 12
 }

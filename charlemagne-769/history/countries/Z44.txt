@@ -1,26 +1,36 @@
-# Upper Burgundy
+# Léon
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = frankish
+primary_culture = breton
 religion = catholic
 clear_scripted_personalities = yes
-capital = 205
-1435.1.1 = {
+capital = 170
+1444.1.1 = {
 	monarch = {
-		name = "Hugh"
-		birth_date = 1416.1.1
-		dynasty = "Hucberting"
-		adm = 4
-		dip = 1
+		name = "Morvan"
+		birth_date = 1415.1.1
+		dynasty = "Leon"
+		adm = 1
+		dip = 2
 		mil = 5
 	}
 	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Concar"
+		monarch_name = "Concar"
+		dynasty = "Leon"
+		birth_date = 1440.1.1
+		death_date = 1520.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
 1444.11.11 = {
-	capital = 205
-	add_treasury = 6
-	add_prestige = 4
+	capital = 170
+	add_treasury = 4
+	add_prestige = 2
 }

@@ -1,0 +1,36 @@
+# Slutsk
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
+clear_scripted_personalities = yes
+capital = 4545
+1444.1.1 = {
+	monarch = {
+		name = "Lyubomir"
+		birth_date = 1426.1.1
+		dynasty = "Pripyatich"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Sviatopolk"
+		monarch_name = "Sviatopolk"
+		dynasty = "Pripyatich"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 4545
+	add_treasury = 4
+	add_prestige = 3
+}

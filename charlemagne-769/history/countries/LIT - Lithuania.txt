@@ -13,12 +13,25 @@ capital = 272
 		name = "Cirulis"
 		birth_date = 1408.1.1
 		dynasty = "Palemonaitis"
-		adm = 1
-		dip = 3
-		mil = 5
+		adm = 2
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = lawgiver_personality
 	add_ruler_personality = charismatic_negotiator_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Traidenis"
+		monarch_name = "Traidenis"
+		dynasty = "Palemonaitis"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
 	capital = 272

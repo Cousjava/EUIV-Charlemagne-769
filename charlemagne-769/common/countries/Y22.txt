@@ -1,150 +1,167 @@
-# Esztergom
+# Rovaniemi
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 230 55 55 }
+color = { 235 85 22 }
 historical_idea_groups = {
+	trade_ideas
 	defensive_ideas
 	offensive_ideas
-	spy_ideas
-	trade_ideas
-	diplomatic_ideas
 	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
 	innovativeness_ideas
-	religious_ideas
+	naval_ideas
 }
 
 historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	germanized_pike
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Vetam" "Almish" "Kajd" "Vakrim" "Albert" "Albrecht" "Ales" "Arnost" "Bavor" "Bedrich" 
-	"Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" "Budivoj" "Castolov" "Cenek" 
-	"Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" "Havel" "Heralt" "Herman" 
-	"Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" "Jirík" "Karel" "Kojata" 
-	"Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" "Mojmír" "Ojír" "Oldrich" 
-	"Ondrej" "Ota" "Otakar" "Pelhrim" "Petr" "Premysl" "Prokop" "Rajmund" "Rostislav" "Sezima" 
-	"Slavibor" "Slavomír" "Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Svatopluk" "Tobiás" "Václav" 
-	"Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" "Vsebor" "Závis" 
-	"Zbynek" "Zdík" "Zdirad" "Zikmund" }
+	"Haapa" "Kaleva" "Aatos" "Ahma" "Aimo" "Armas" "Arvo" "Asikko" "Ensio" "Hannu" 
+	"Havu" "Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kalevi" "Kettu" "Kolli" "Lalli" 
+	"Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" "Päiviö" 
+	"Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" "Toivo" 
+	"Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
+	"Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" 
+	"Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" "Kauro" 
+	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
 monarch_names = {
-	"Vetam #1" = 18
-	"Almish #0" = 1
-	"Kajd #0" = 1
-	"Vakrim #0" = 1
-	"Albert #0" = 0
-	"Albrecht #0" = 0
-	"Ales #0" = 0
-	"Arnost #0" = 0
-	"Bavor #0" = 0
-	"Bedrich #0" = 0
-	"Benes #0" = 0
-	"Bocek #0" = 0
-	"Bohuslav #0" = 0
-	"Boleslav #0" = 0
-	"Bores #0" = 0
-	"Borijov #0" = 0
-	"Bretislav #0" = 0
-	"Budivoj #0" = 0
-	"Castolov #0" = 0
-	"Cenek #0" = 0
-	"Chval #0" = 0
-	"Ctirad #0" = 0
-	"Diepold #0" = 0
-	"Detrich #0" = 0
-	"Drslav #0" = 0
-	"Gerhard #0" = 0
-	"Hanus #0" = 0
-	"Havel #0" = 0
-	"Heralt #0" = 0
-	"Herman #0" = 0
-	"Hrabis #0" = 0
-	"Hynek #0" = 0
-	"Jan #0" = 0
-	"Jaromír #0" = 0
-	"Jaroslav #0" = 0
-	"Jesek #0" = 0
-	"Jindrich #0" = 0
-	"Jirík #0" = 0
-	"Karel #0" = 0
-	"Kojata #0" = 0
-	"Konrád #0" = 0
-	"Kuník #0" = 0
-	"Litold #0" = 0
-	"Markvart #0" = 0
-	"Matous #0" = 0
-	"Mikulás #0" = 0
-	"Milic #0" = 0
-	"Mojmír #0" = 0
-	"Ojír #0" = 0
-	"Oldrich #0" = 0
-	"Ondrej #0" = 0
-	"Ota #0" = 0
-	"Otakar #0" = 0
-	"Pelhrim #0" = 0
-	"Petr #0" = 0
-	"Premysl #0" = 0
-	"Prokop #0" = 0
-	"Rajmund #0" = 0
-	"Rostislav #0" = 0
-	"Sezima #0" = 0
-	"Slavibor #0" = 0
-	"Slavomír #0" = 0
-	"Smil #0" = 0
-	"Sobieslav #0" = 0
-	"Spytihnev #0" = 0
-	"Strachkvas #0" = 0
-	"Svatobor #0" = 0
-	"Svatopluk #0" = 0
-	"Tobiás #0" = 0
-	"Václav #0" = 0
-	"Viktorín #0" = 0
-	"Vítek #0" = 0
-	"Vanek #0" = 0
-	"Vilém #0" = 0
-	"Vladimír #0" = 0
-	"Vladislav #0" = 0
-	"Vojtech #0" = 0
-	"Vratislav #0" = 0
-	"Vsebor #0" = 0
-	"Závis #0" = 0
-	"Zbynek #0" = 0
-	"Zdík #0" = 0
-	"Zdirad #0" = 0
-	"Zikmund #0" = 0
+	"Haapa #0" = 1
+	"Kaleva #0" = 1
+	"Aatos #0" = 0
+	"Ahma #0" = 0
+	"Aimo #0" = 0
+	"Armas #0" = 0
+	"Arvo #0" = 0
+	"Asikko #0" = 0
+	"Ensio #0" = 0
+	"Hannu #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Ihanti #0" = 0
+	"Into #0" = 0
+	"Jalo #0" = 0
+	"Jurva #0" = 0
+	"Kalevi #0" = 0
+	"Kettu #0" = 0
+	"Kolli #0" = 0
+	"Lalli #0" = 0
+	"Lauri #0" = 0
+	"Lemetti #0" = 0
+	"Mielitty #0" = 0
+	"Miemo #0" = 0
+	"Mikko #0" = 0
+	"Oiva #0" = 0
+	"Onni #0" = 0
+	"Otso #0" = 0
+	"Pyry #0" = 0
+	"Päiviö #0" = 0
+	"Pentti #0" = 0
+	"Reko #0" = 0
+	"Sampo #0" = 0
+	"Satajalka #0" = 0
+	"Satatieto #0" = 0
+	"Seppo #0" = 0
+	"Susi #0" = 0
+	"Tapani #0" = 0
+	"Terho #0" = 0
+	"Toivo #0" = 0
+	"Ukko #0" = 0
+	"Uoti #0" = 0
+	"Urho #0" = 0
+	"Väinö #0" = 0
+	"Valta #0" = 0
+	"Valto #0" = 0
+	"Veli #0" = 0
+	"Vesa #0" = 0
+	"Voitto #0" = 0
+	"Erkki #0" = 0
+	"Kaarle #0" = 0
+	"Johannes #0" = 0
+	"Risto #0" = 0
+	"Olavi #0" = 0
+	"Petri #0" = 0
+	"Henri #0" = 0
+	"Yrjö #0" = 0
+	"Valteri #0" = 0
+	"Riku #0" = 0
+	"Matti #0" = 0
+	"Jaakoppi #0" = 0
+	"Taisto #0" = 0
+	"Paavo #0" = 0
+	"Aatso #0" = 0
+	"Ahvo #0" = 0
+	"Aarto #0" = 0
+	"Asko #0" = 0
+	"Tuokko #0" = 0
+	"Rieti #0" = 0
+	"Kauro #0" = 0
+	"Kuuti #0" = 0
+	"Pekko #0" = 0
+	"Soini #0" = 0
+	"Tuure #0" = 0
+	"Turo #0" = 0
+	"Tommo #0" = 0
+	"Tohmas #0" = 0
 
 
-	"Savkëlti #0" = -1
-	"Songul #0" = -1
-	"Paykëlti #0" = -1
-	"Khatun #0" = -1
-	"Sarantay #0" = -1
+	"Hertta #0" = -1
+	"Tyyne #0" = -1
+	"Aino #0" = -1
+	"Ilona #0" = -1
+	"Kivutar #0" = -1
 }
 ship_names = {
-	Aranybulla 
-	Arpad
-	Magyar
-	Sigismund
-	"Szent Istvan kiraly"
-	"Hunyadi Matyas"
-	"Karoly Robert"
-	"Nagy Lajos"
-	Laszlo
-	Kalman
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
 }
 

@@ -1,38 +1,40 @@
-# Addauid
-government = monarchy
-add_government_reform = ottoman_government
+# Murom
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_suryah_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
 clear_scripted_personalities = yes
-capital = 2313
-1433.1.1 = {
+capital = 1754
+1425.1.1 = {
 	monarch = {
-		name = "Hasan"
+		name = "Varaka"
 		birth_date = 1408.1.1
-		dynasty = "Addauid"
-		adm = 2
-		dip = 5
-		mil = 5
-	}
-	add_ruler_personality = naive_personality
-	add_ruler_personality = tactical_genius_personality
-	heir = {
-		name = "Abd al-Kadir"
-		monarch_name = "Abd al-Kadir"
-		dynasty = "Addauid"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 3
-		dip = 2
+		dynasty = "Muromid"
+		adm = 4
+		dip = 3
 		mil = 3
 	}
-	add_heir_personality = craven_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Shkay"
+		monarch_name = "Shkay"
+		dynasty = "Muromid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 2313
-	add_treasury = 7
-	add_prestige = 5
+	capital = 1754
+	add_treasury = 6
+	add_prestige = 6
 }

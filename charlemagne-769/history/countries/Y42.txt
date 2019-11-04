@@ -1,27 +1,40 @@
-# Murom
+# Kuyavia
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = mordvin
+primary_culture = polish
 religion = animism
 clear_scripted_personalities = yes
-capital = 307
+capital = 1939
 1425.1.1 = {
 	monarch = {
-		name = "Varaka"
+		name = "Witosz"
 		birth_date = 1408.1.1
-		dynasty = "Muromid"
-		adm = 2
+		dynasty = "Kujawski"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = craven_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Gierolt"
+		monarch_name = "Gierolt"
+		dynasty = "Kujawski"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
 		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = lawgiver_personality
-	add_ruler_personality = scholar_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 307
+	capital = 1939
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

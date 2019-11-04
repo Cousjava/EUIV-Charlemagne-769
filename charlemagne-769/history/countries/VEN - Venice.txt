@@ -13,22 +13,22 @@ capital = 112
 		name = "Maurizio"
 		birth_date = 1401.1.1
 		dynasty = "Galbaio"
-		adm = 2
-		dip = 5
+		adm = 1
+		dip = 4
 		mil = 3
 	}
-	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = bold_fighter_personality
 	heir = {
 		name = "Giovanni"
 		monarch_name = "Giovanni"
 		dynasty = "Galbaio"
 		birth_date = 1423.1.1
 		death_date = 1503.1.1
-		adm = 1
-		dip = 3
-		mil = 4
+		adm = 0
+		dip = 2
+		mil = 1
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
 	capital = 112

@@ -1,26 +1,27 @@
-# The Iconoclast Patriarchate
-government = theocracy
-add_government_reform = leading_clergy_reform
+# Boukellarion
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 151
-1441.11.16 = {
+capital = 326
+1428.1.1 = {
 	monarch = {
-		name = "Niketas"
-		birth_date = 1395.1.1
-		dynasty = "Polites"
+		name = "Misael"
+		birth_date = 1408.1.1
+		dynasty = "Karteroukas"
 		adm = 3
 		dip = 3
-		mil = 1
+		mil = 3
 	}
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
-	capital = 151
+	capital = 326
 	add_treasury = 6
-	add_prestige = 90
+	add_prestige = 5
 }

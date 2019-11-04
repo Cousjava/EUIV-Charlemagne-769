@@ -13,22 +13,22 @@ capital = 2762
 		name = "Afework"
 		birth_date = 1418.1.1
 		dynasty = "Na'akuelo"
-		adm = 0
-		dip = 0
+		adm = 1
+		dip = 3
 		mil = 1
 	}
-	add_ruler_personality = pious_personality
+	add_ruler_personality = free_thinker_personality
 	heir = {
 		name = "Hackeem"
 		monarch_name = "Hackeem"
 		dynasty = "Na'akuelo"
 		birth_date = 1435.1.1
 		death_date = 1515.1.1
-		adm = 3
-		dip = 2
-		mil = 2
+		adm = 4
+		dip = 3
+		mil = 4
 	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
 	capital = 2762

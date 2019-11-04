@@ -1,26 +1,24 @@
-# Araouane
-government = tribal
-add_government_reform = tribal_despotism
+# Faiyum
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = sub_saharan
-primary_culture = berber
-religion = shamanism
+technology_group = muslim
+primary_culture = coptic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1128
-1440.1.1 = {
+1437.1.1 = {
 	monarch = {
-		name = "Gulusa"
-		birth_date = 1425.1.1
-		dynasty = "Masuna"
+		name = "Rawh"
+		birth_date = 1400.1.1
+		dynasty = "Muhallabid"
 		adm = 0
-		dip = 2
-		mil = 4
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 1128
-	add_treasury = 4
-	add_prestige = 2
+	add_treasury = 6
+	add_prestige = 19
 }

@@ -13,8 +13,8 @@ capital = 2787
 		name = "Oda Gosh"
 		birth_date = 1393.1.1
 		dynasty = "Solomonid"
-		adm = 1
-		dip = 5
+		adm = 3
+		dip = 4
 		mil = 2
 	}
 	add_ruler_personality = charismatic_negotiator_personality

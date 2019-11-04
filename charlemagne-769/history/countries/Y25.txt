@@ -1,26 +1,36 @@
-# Karvuna
-government = monarchy
-add_government_reform = autocracy_reform
+# Sortavala
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = bulgarian
-religion = tengri_pagan_reformed
+technology_group = western
+primary_culture = finnish
+religion = animism
 clear_scripted_personalities = yes
-capital = 159
-1442.1.1 = {
+capital = 32
+1443.1.1 = {
 	monarch = {
-		name = "Krum"
-		birth_date = 1425.1.2
-		dynasty = "Dulo"
-		adm = 3
-		dip = 3
-		mil = 6
+		name = "Ahma"
+		birth_date = 1419.1.1
+		dynasty = "Itkonen"
+		adm = 0
+		dip = 5
+		mil = 0
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	heir = {
+		name = "Ukko"
+		monarch_name = "Ukko"
+		dynasty = "Itkonen"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 159
-	add_treasury = 7
-	add_prestige = 87
+	capital = 32
+	add_treasury = 4
+	add_prestige = 3
 }

@@ -1,0 +1,26 @@
+# Purang
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = zhangzhung
+religion = bon
+clear_scripted_personalities = yes
+capital = 4518
+1443.1.1 = {
+	monarch = {
+		name = "Likmigyal"
+		birth_date = 1412.1.1
+		dynasty = "Lig"
+		adm = 3
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 4518
+	add_treasury = 6
+	add_prestige = 24
+}

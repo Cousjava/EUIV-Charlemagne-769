@@ -7,18 +7,31 @@ technology_group = eastern
 primary_culture = estonian
 religion = animism
 clear_scripted_personalities = yes
+capital = 38
 1440.1.1 = {
 	monarch = {
 		name = "Ihanus"
 		birth_date = 1418.1.1
 		dynasty = "Ridala"
-		adm = 3
-		dip = 1
+		adm = 0
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Heatõiv"
+		monarch_name = "Heatõiv"
+		dynasty = "Ridala"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = embezzler_personality
 }
 1444.11.11 = {
+	capital = 38
 	add_treasury = 6
 	add_prestige = 5
 }

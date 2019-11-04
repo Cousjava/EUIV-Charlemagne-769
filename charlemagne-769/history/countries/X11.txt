@@ -1,26 +1,26 @@
-# Sijilmasa
+# Amrubid
 government = monarchy
 add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = berber
-religion = ibadi
+primary_culture = persian
+religion = sunni
 clear_scripted_personalities = yes
-capital = 346
-1442.1.1 = {
+capital = 432
+1440.1.1 = {
 	monarch = {
-		name = "Al-Qasim"
-		birth_date = 1400.1.1
-		dynasty = "Midrarid"
-		adm = 0
-		dip = 0
+		name = "Hisham"
+		birth_date = 1404.1.1
+		dynasty = "Amrubid"
+		adm = 2
+		dip = 1
 		mil = 2
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = tolerant_personality
 }
 1444.11.11 = {
-	capital = 346
-	add_treasury = 4
-	add_prestige = 2
+	capital = 432
+	add_treasury = 6
+	add_prestige = 4
 }

@@ -1,27 +1,26 @@
-# Sulamid
+# Karvuna
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_suryah_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = bulgarian
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 378
-1429.1.1 = {
+capital = 159
+1442.1.1 = {
 	monarch = {
-		name = "Yazid"
-		birth_date = 1395.1.1
-		dynasty = "Sulamid"
-		adm = 1
-		dip = 2
-		mil = 1
+		name = "Krum"
+		birth_date = 1425.1.2
+		dynasty = "Dulo"
+		adm = 4
+		dip = 3
+		mil = 6
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 378
+	capital = 159
 	add_treasury = 7
-	add_prestige = 18
+	add_prestige = 86
 }

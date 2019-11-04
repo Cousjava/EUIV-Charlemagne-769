@@ -1,139 +1,130 @@
-# Bajanid
+# Slavonia
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 155 170 132 }
+graphical_culture = easterngfx
+color = { 184 137 137 }
 historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
 	trade_ideas
+	defensive_ideas
+	offensive_ideas
 	spy_ideas
-	economic_ideas
 	diplomatic_ideas
-	administrative_ideas
+	innovativeness_ideas
+	religious_ideas
+	quality_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
 }
 
 
 
 leader_names = {
 
-	"Yahya" "Jibril" "Maslama" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" 
-	"Abdullah" "Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" 
-	"Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" 
-	"Is'mail" "Isa" "Jabir" "Jalil" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
-	"Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" 
-	"Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" 
-	"Talib" "Ubayd" "Uways" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Senulat" "Vojnomir" "Silimir" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" "Branimir" 
+	"Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Dragomir" "Drzislav" "Dujam" "Duym" "Filip" 
+	"Gaspar" "Gheorghe" "Grigorii" "Hranislav" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" "Jitej" 
+	"Karlo" "Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Milman" 
+	"Mislav" "Mutimir" "Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Ratimir" "Sebeslav" "Seslav" 
+	"Slavich" "Stanislav" "Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrdoslav" "Tvrtko" "Ulfo" "Vid" 
+	"Vitomir" "Vlaicu" "Vukan" "Zvonimir" }
 monarch_names = {
-	"Yahya #0" = 1
-	"Jibril #1" = 18
-	"Maslama #0" = 1
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
+	"Senulat #1" = 18
+	"Vojnomir #0" = 1
+	"Silimir #0" = 1
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Branimir #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dmitar #0" = 0
+	"Dobromir #0" = 0
+	"Dragan #0" = 0
+	"Dragomir #0" = 0
+	"Drzislav #0" = 0
+	"Dujam #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Hranislav #0" = 0
+	"Hrvoje #0" = 0
+	"Igor #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Jitej #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Ljutomisl #0" = 0
+	"Lovro #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Ratimir #0" = 0
+	"Sebeslav #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Stjepan #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrdoslav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Vlaicu #0" = 0
+	"Vukan #0" = 0
+	"Zvonimir #0" = 0
 
 
-	"Nyawela #0" = -1
-	"Yagana #0" = -1
-	"Shameem #0" = -1
-	"Sheeftah #0" = -1
-	"Nafisa #0" = -1
+	"Helena #0" = -1
+	"Emilija #0" = -1
+	"Ekaterina #0" = -1
+	"Dragana #0" = -1
+	"Rijeka #0" = -1
 }
 ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	Cres
+	"Dugi Otok"
+	Goli
+	Krl
+	Pag Plavnik
+	Susak "Sveti Grgur"
+	Tijat
+	Unije
+	"Vele Srankane"
+	Zlarin Zmajan
 }
 

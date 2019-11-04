@@ -1,27 +1,39 @@
-# The Patriarchate of the East
-government = theocracy
-add_government_reform = leading_clergy_reform
-government_rank = 1
+# Burtas
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_suryah_arabic
-religion = nestorian
+technology_group = nomad_group
+primary_culture = alan
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 410
-1428.6.1 = {
+capital = 2408
+1429.1.1 = {
 	monarch = {
-		name = "Ya'qob II"
-		birth_date = 1381.1.1
-		dynasty = "mn  Baghdad"
-		adm = 2
-		dip = 5
-		mil = 2
+		name = "Khatir"
+		birth_date = 1423.1.1
+		dynasty = "Burtas"
+		adm = 3
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = righteous_personality
-	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = martial_educator_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Gætæg"
+		monarch_name = "Gætæg"
+		dynasty = "Burtas"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 410
-	add_treasury = 6
-	add_prestige = 3
+	capital = 2408
+	add_treasury = 10
+	add_prestige = 13
 }

@@ -1,30 +1,29 @@
-# Vyatich
+# Latgale
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 169 183 125 }
+color = { 125 18 18 }
 historical_idea_groups = {
-	defensive_ideas
 	trade_ideas
+	defensive_ideas
 	offensive_ideas
-	spy_ideas
-	naval_ideas
-	administrative_ideas
-	quality_ideas
 	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
 }
 
 historical_units = {
 	bardiche_infantry
-	druzhina_cavalry
+	eastern_knights
 	slavic_stradioti
 	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
 	russian_lancer
-	russian_green_coat
 	russian_cuirassier
 	eastern_skirmisher
 	eastern_uhlan
@@ -36,70 +35,122 @@ historical_units = {
 
 leader_names = {
 
-	"Volodar" "Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" 
-	"Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" 
-	"Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" "Voislav" 
-	"Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
+	"Pukuveras" "Rusins" "Aishno" "Ako" "Ankad" "Baise" "Balodis" "Bikshe" "Borut" "Bulei" 
+	"Butovit" "Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Demas" "Dobre" "Dovyat" "Dzintis" 
+	"Elmede" "Erasts" "Erdzivil" "Galeine" "Gastile" "Gedere" "Gerden" "Gibedats" "Giemund" "Golovke" 
+	"Gotene" "Gunvald" "Imanta" "Janis" "Jaunule" "Jedetus" "Juvage" "Kage" "Kaire" "Karijotas" 
+	"Karnak" "Kaupo" "Kerstigens" "Kiten" "Klavess" "Kodere" "Kuliens" "Kurlemuse" "Lammekinus" "Likiik" 
+	"Litto" "Lonkogveni" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pliksov" "Pukiik" "Ringaudas" 
+	"Rushky" "Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Skornand" "Sprudeik" "Stegut" "Steikint" 
+	"Sviendorog" "Talivaldis" "Tautvila" "Traidenis" "Treniota" "Vaishvilkas" "Valikaila" "Vetseke" "Viesturs" "Visheiv" 
+	"Vishikut" "Vishly" "Vykantas" "Yudki" }
 monarch_names = {
-	"Volodar #1" = 18
-	"Briachislav #0" = 0
-	"Demid #0" = 0
-	"Dobrynia #0" = 0
-	"Fedot #0" = 0
-	"Gleb #0" = 0
-	"Igor #0" = 0
-	"Iliya #0" = 0
-	"Iziaslav #0" = 0
-	"Lev #0" = 0
-	"Mitrofan #0" = 0
-	"Mstislav #0" = 0
-	"Nikita #0" = 0
-	"Putiata #0" = 0
-	"Radoslav #0" = 0
-	"Rodislav #0" = 0
-	"Rogvolod #0" = 0
-	"Rostislav #0" = 0
-	"Ruslan #0" = 0
-	"Stanislav #0" = 0
-	"Sudislav #0" = 0
-	"Svetozar #0" = 0
-	"Sviatopolk #0" = 0
-	"Sviatoslav #0" = 0
-	"Terentiy #0" = 0
-	"Trifon #0" = 0
-	"Viacheslav #0" = 0
-	"Vladimir #0" = 0
-	"Vladislav #0" = 0
-	"Voislav #0" = 0
-	"Vseslav #0" = 0
-	"Vsevolod #0" = 0
-	"Vyshata #0" = 0
-	"Vysheslav #0" = 0
-	"Yaropolk #0" = 0
-	"Yaroslav #0" = 0
-	"Yefimiy #0" = 0
-	"Yelisey #0" = 0
-	"Yeremey #0" = 0
-	"Yevstafiy #0" = 0
+	"Pukuveras #0" = 1
+	"Rusins #0" = 1
+	"Aishno #0" = 0
+	"Ako #0" = 0
+	"Ankad #0" = 0
+	"Baise #0" = 0
+	"Balodis #0" = 0
+	"Bikshe #0" = 0
+	"Borut #0" = 0
+	"Bulei #0" = 0
+	"Butovit #0" = 0
+	"Cirulis #0" = 0
+	"Dangeruthe #0" = 0
+	"Darbeslave #0" = 0
+	"Dausprungas #0" = 0
+	"Davins #0" = 0
+	"Demas #0" = 0
+	"Dobre #0" = 0
+	"Dovyat #0" = 0
+	"Dzintis #0" = 0
+	"Elmede #0" = 0
+	"Erasts #0" = 0
+	"Erdzivil #0" = 0
+	"Galeine #0" = 0
+	"Gastile #0" = 0
+	"Gedere #0" = 0
+	"Gerden #0" = 0
+	"Gibedats #0" = 0
+	"Giemund #0" = 0
+	"Golovke #0" = 0
+	"Gotene #0" = 0
+	"Gunvald #0" = 0
+	"Imanta #0" = 0
+	"Janis #0" = 0
+	"Jaunule #0" = 0
+	"Jedetus #0" = 0
+	"Juvage #0" = 0
+	"Kage #0" = 0
+	"Kaire #0" = 0
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
+	"Kaupo #0" = 0
+	"Kerstigens #0" = 0
+	"Kiten #0" = 0
+	"Klavess #0" = 0
+	"Kodere #0" = 0
+	"Kuliens #0" = 0
+	"Kurlemuse #0" = 0
+	"Lammekinus #0" = 0
+	"Likiik #0" = 0
+	"Litto #0" = 0
+	"Lonkogveni #0" = 0
+	"Manvydas #0" = 0
+	"Meinekinus #0" = 0
+	"Mendune #0" = 0
+	"Nameisis #0" = 0
+	"Narvait #0" = 0
+	"Pliksov #0" = 0
+	"Pukiik #0" = 0
+	"Ringaudas #0" = 0
+	"Rushky #0" = 0
+	"Sabe #0" = 0
+	"Sargun #0" = 0
+	"Scurdo #0" = 0
+	"Shutr #0" = 0
+	"Shvarnas #0" = 0
+	"Skornand #0" = 0
+	"Sprudeik #0" = 0
+	"Stegut #0" = 0
+	"Steikint #0" = 0
+	"Sviendorog #0" = 0
+	"Talivaldis #0" = 0
+	"Tautvila #0" = 0
+	"Traidenis #0" = 0
+	"Treniota #0" = 0
+	"Vaishvilkas #0" = 0
+	"Valikaila #0" = 0
+	"Vetseke #0" = 0
+	"Viesturs #0" = 0
+	"Visheiv #0" = 0
+	"Vishikut #0" = 0
+	"Vishly #0" = 0
+	"Vykantas #0" = 0
+	"Yudki #0" = 0
 
 
-	"Tatyana #0" = -1
-	"Dobronega #0" = -1
-	"Maria #0" = -1
-	"Praxida #0" = -1
-	"Premyslava #0" = -1
+	"Dzeguze #0" = -1
+	"Ruta #0" = -1
+	"Liga #0" = -1
+	"Savna #0" = -1
+	"Maija #0" = -1
 }
 ship_names = {
-	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
-	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
-	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
-	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
-	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
-	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
-	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
-	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
-	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
-	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
-	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
 }
 

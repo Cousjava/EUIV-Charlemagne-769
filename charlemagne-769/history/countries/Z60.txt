@@ -1,37 +1,27 @@
-# Gudbrandsdal
-government = tribal
-add_government_reform = tribal_despotism
+# Friuli
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = norse
-religion = animism
+primary_culture = old_lombard
+religion = catholic
 clear_scripted_personalities = yes
-capital = 22
-1439.1.1 = {
+capital = 1769
+1426.1.1 = {
 	monarch = {
-		name = "Öysteinn"
-		birth_date = 1415.1.1
-		dynasty = "Yngling"
+		name = "Peter"
+		birth_date = 1410.1.1
+		dynasty = "Munichingi"
 		adm = 1
 		dip = 3
-		mil = 2
-	}
-	add_ruler_personality = naive_personality
-	heir = {
-		name = "Guðröðr"
-		monarch_name = "Guðröðr"
-		dynasty = "Yngling"
-		birth_date = 1420.1.1
-		death_date = 1500.1.1
-		adm = 4
-		dip = 4
 		mil = 3
 	}
-	add_heir_personality = conqueror_personality
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
-	capital = 22
-	add_treasury = 4
-	add_prestige = 3
+	capital = 1769
+	add_treasury = 6
+	add_prestige = 6
 }

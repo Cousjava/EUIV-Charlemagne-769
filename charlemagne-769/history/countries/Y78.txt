@@ -1,26 +1,40 @@
-# Nubia
-government = monarchy
-add_government_reform = feudalism_reform
+# Mari
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = nubian
-religion = coptic
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
 clear_scripted_personalities = yes
-capital = 2323
-1441.1.1 = {
+capital = 1083
+1425.1.1 = {
 	monarch = {
-		name = "Maththias"
-		birth_date = 1425.1.1
-		dynasty = "Qamhat"
+		name = "Paksyut"
+		birth_date = 1408.1.1
+		dynasty = "Varakid"
 		adm = 2
-		dip = 3
-		mil = 4
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Tyushten"
+		monarch_name = "Tyushten"
+		dynasty = "Varakid"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 2323
-	add_treasury = 4
-	add_prestige = 2
+	capital = 1083
+	add_treasury = 6
+	add_prestige = 5
 }

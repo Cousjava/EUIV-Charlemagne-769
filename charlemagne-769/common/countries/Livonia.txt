@@ -6,55 +6,57 @@ historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
-	economic_ideas
 	diplomatic_ideas
-	plutocracy_ideas
 	spy_ideas
-	religious_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
 }
 
 historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Ihanus" "Aare" "Agul" "Ahas" "Aho" "Ahti" "Ahvo" "Alar" "Alo" "Alur" 
-	"Aopelg" "Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" 
-	"Hain" "Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" 
-	"Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" 
-	"Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" 
-	"Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" 
-	"Kiur" "Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" 
-	"Lättelemb" "Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" 
-	"Niglas" "Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" 
-	"Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" 
-	"Tarva" "Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" 
-	"Tõivulemb" "Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" 
-	"Veli" "Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" 
-	"Väino" "Värvo" "Õigemeel" "Ülo" }
+	"Ihanus" "Heatõiv" "Aho" "Taimi" "Aare" "Agul" "Ahas" "Ahti" "Ahvo" "Alar" 
+	"Alo" "Alur" "Aopelg" "Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" 
+	"Eeri" "Elmar" "Hain" "Haljas" "Heameel" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" 
+	"Hüvameel" "Hüvatõiv" "Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" 
+	"Ilmalemb" "Ilmar" "Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" 
+	"Kahus" "Kaido" "Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" 
+	"Kaur" "Kiur" "Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" 
+	"Lible" "Lättelemb" "Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" 
+	"Neeme" "Niglas" "Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" 
+	"Pikne" "Päevalemb" "Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" 
+	"Tambet" "Tarva" "Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" 
+	"Tõiv" "Tõivulemb" "Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" 
+	"Varjelemb" "Veli" "Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" 
+	"Vootele" "Väino" "Värvo" "Õigemeel" "Ülo" }
 monarch_names = {
 	"Ihanus #1" = 18
+	"Heatõiv #0" = 1
+	"Aho #0" = 1
+	"Taimi #0" = -1
 	"Aare #0" = 0
 	"Agul #0" = 0
 	"Ahas #0" = 0
-	"Aho #0" = 0
 	"Ahti #0" = 0
 	"Ahvo #0" = 0
 	"Alar #0" = 0
@@ -73,7 +75,6 @@ monarch_names = {
 	"Hain #0" = 0
 	"Haljas #0" = 0
 	"Heameel #0" = 0
-	"Heatõiv #0" = 0
 	"Hoovatõiv #0" = 0
 	"Hurmas #0" = 0
 	"Hurmetõiv #0" = 0
@@ -186,26 +187,25 @@ monarch_names = {
 	"Ülo #0" = 0
 
 
-	"Laine #0" = -1
-	"Oie #0" = -1
-	"Kaja #0" = -1
-	"Leek #0" = -1
-	"Helmi #0" = -1
+	"Linda #0" = -1
+	"Lill #0" = -1
+	"Maija #0" = -1
+	"Ahma #0" = -1
 }
 ship_names = {
-	Agricola Aura
-	Borgå "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
 }
 

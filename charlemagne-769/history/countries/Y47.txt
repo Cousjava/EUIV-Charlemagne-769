@@ -1,26 +1,39 @@
-# Bilar
+# Nitra
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = bolghar
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = slovieni
+religion = animism
 clear_scripted_personalities = yes
-capital = 2421
-1440.1.1 = {
+capital = 1772
+1431.1.1 = {
 	monarch = {
-		name = "Khudbard"
-		birth_date = 1408.1.1
-		dynasty = "Bilar"
-		adm = 4
-		dip = 1
+		name = "Nitrabor"
+		birth_date = 1415.1.1
+		dynasty = "Nitravský"
+		adm = 2
+		dip = 0
 		mil = 2
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = conqueror_personality
+}
+1442.1.1 = {
+	heir = {
+		name = "Drahoslav"
+		monarch_name = "Drahoslav"
+		dynasty = "Nitravský"
+		birth_date = 1442.1.1
+		death_date = 1522.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
 }
 1444.11.11 = {
-	capital = 2421
-	add_treasury = 8
-	add_prestige = 6
+	capital = 1772
+	add_treasury = 6
+	add_prestige = 4
 }

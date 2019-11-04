@@ -1,37 +1,26 @@
-# Pictland
+# Insee Cait
 government = tribal
 add_government_reform = tribal_kingdom
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = pictish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 250
-1438.1.1 = {
+capital = 1978
+1435.1.1 = {
 	monarch = {
-		name = "Ciniod II"
-		birth_date = 1398.1.1
-		dynasty = "Uib"
-		adm = 4
-		dip = 2
-		mil = 4
-	}
-	add_ruler_personality = craven_personality
-	heir = {
-		name = "Tarla"
-		monarch_name = "Tarla"
-		dynasty = "Uib"
-		birth_date = 1419.1.1
-		death_date = 1499.1.1
-		adm = 5
-		dip = 2
+		name = "Uipoig"
+		birth_date = 1425.1.1
+		dynasty = "Cait"
+		adm = 3
+		dip = 4
 		mil = 3
 	}
-	add_heir_personality = midas_touched_personality
+	add_ruler_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
-	capital = 250
-	add_treasury = 8
-	add_prestige = 83
+	capital = 1978
+	add_treasury = 4
+	add_prestige = 3
 }

@@ -1,56 +1,57 @@
-# Jamtaland
+# Nordland
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 45 85 255 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+color = { 190 95 95 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	innovativeness_ideas
+	naval_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Steinn" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
-	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
-	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
-	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
-	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" "Guðfrið" 
-	"Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" 
-	"Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" 
-	"Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" 
-	"Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" 
-	"Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" 
-	"Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" 
-	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
-	"Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
-	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Ormr" "Halla" "Froði" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" 
+	"Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" 
+	"Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" 
+	"Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" 
+	"Frirek" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Grimr" 
+	"Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" 
+	"Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" 
+	"Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" 
+	"Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" 
+	"Ofeig" "Olafr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" 
+	"Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" 
+	"Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" 
+	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" 
+	"Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Steinn #0" = 1
+	"Ormr #0" = 1
+	"Halla #0" = -1
+	"Froði #0" = 1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -89,7 +90,6 @@ monarch_names = {
 	"Filip #0" = 0
 	"Fredrik #0" = 0
 	"Frirek #0" = 0
-	"Froði #0" = 0
 	"Freyr #0" = 0
 	"Folki #0" = 0
 	"Gandalfr #0" = 0
@@ -141,7 +141,6 @@ monarch_names = {
 	"Oddr #0" = 0
 	"Ofeig #0" = 0
 	"Olafr #0" = 0
-	"Ormr #0" = 0
 	"Ottarr #0" = 0
 	"Refr #0" = 0
 	"Refil #0" = 0
@@ -154,6 +153,7 @@ monarch_names = {
 	"Sigtrygg #0" = 0
 	"Sigurðr #0" = 0
 	"Starkaðr #0" = 0
+	"Steinn #0" = 0
 	"Sturla #0" = 0
 	"Styrbjörn #0" = 0
 	"Styrkar #0" = 0
@@ -187,21 +187,45 @@ monarch_names = {
 	"Öysteinn #0" = 0
 
 
-	"Ingjerðr #0" = -1
-	"Sofia #0" = -1
-	"Sigrid #0" = -1
-	"Iliana #0" = -1
-	"Malmfrið #0" = -1
+	"Kraka #0" = -1
+	"Halla #0" = -1
+	"Alfrið #0" = -1
+	"Rögnfrið #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
 }
 

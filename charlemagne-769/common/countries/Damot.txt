@@ -8,10 +8,10 @@ color = { 198 93 30 }
 
 leader_names = {
 
-	"Afework" "Hackeem" "Amare" "Dahnay" "Desta" "Getachew" "Geteye" "Girma" "Iskinder" "Abai" 
-	"Abebe" "Aman" "Assefa" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" 
-	"Berta" "Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" 
-	"Gebereal" "Gebre" "Gondar" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" "Iskander" 
+	"Afework" "Hackeem" "Amare" "Dahnay" "Desta" "Getachew" "Geteye" "Girma" "Abai" "Abebe" 
+	"Aman" "Assefa" "Atoberhan" "Azmera" "Bekele" "Benaim" "Berhanu" "Berhanua" "Berihun" "Berta" 
+	"Bworo" "Daniachew" "Dawit" "Demissie" "Eremias" "Ezana" "Fasilidas" "Fethee" "Gabra" "Gebereal" 
+	"Gebre" "Gondar" "Haeran" "Hagos" "Hakeem" "Hakiem" "Hakim" "Hakym" "Iskander" "Iskinder" 
 	"Iyasu" "Jima" "Kafa" "Kaleb" "Kelile" "Kelyle" "Kifle" "Lebna" "Lema" "Loua" 
 	"Mamo" "Mekonnen" "Melaku" "Mengesha" "Merille" "Miruts" "Negash" "Negasi" "Negus" "Ogbae" 
 	"Ogbai" "Oromo" "Rahad" "Selassie" "Semer" "Semere" "Sisay" "Tamirat" "Tariku" "Taye" 
@@ -26,7 +26,6 @@ monarch_names = {
 	"Getachew #0" = 0
 	"Geteye #0" = 0
 	"Girma #0" = 0
-	"Iskinder #0" = 0
 	"Abai #0" = 0
 	"Abebe #0" = 0
 	"Aman #0" = 0
@@ -58,6 +57,7 @@ monarch_names = {
 	"Hakim #0" = 0
 	"Hakym #0" = 0
 	"Iskander #0" = 0
+	"Iskinder #0" = 0
 	"Iyasu #0" = 0
 	"Jima #0" = 0
 	"Kafa #0" = 0
@@ -103,10 +103,10 @@ monarch_names = {
 	"Zula #0" = 0
 
 
-	"Berhane #0" = -1
-	"Makeda #0" = -1
-	"Fana #0" = -1
-	"Alitash #0" = -1
-	"Habesha #0" = -1
+	"Jazarah #0" = -1
+	"Wagaye #0" = -1
+	"Misrak #0" = -1
+	"Maharene #0" = -1
+	"Magdala #0" = -1
 }
 

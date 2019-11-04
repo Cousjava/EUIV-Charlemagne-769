@@ -1,27 +1,27 @@
-# Bukhal
+# Luki
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = khazar
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = ilmenian
+religion = animism
 clear_scripted_personalities = yes
-capital = 286
-1418.1.1 = {
+capital = 4148
+1425.1.1 = {
 	monarch = {
-		name = "Simsam"
-		birth_date = 1392.1.1
-		dynasty = "Bukhal"
-		adm = 2
-		dip = 0
-		mil = 3
+		name = "Zbignev"
+		birth_date = 1425.1.1
+		dynasty = "Slovensky"
+		adm = 1
+		dip = 5
+		mil = 0
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
 }
 1444.11.11 = {
-	capital = 286
-	add_treasury = 8
-	add_prestige = 13
+	capital = 4148
+	add_treasury = 4
+	add_prestige = 7
 }

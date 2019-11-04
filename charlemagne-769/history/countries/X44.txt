@@ -1,27 +1,38 @@
-# Kalachuri
-government = monarchy
-add_government_reform = feudalism_reform
+# Gojjam
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = avadhi
-religion = hinduism
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
 clear_scripted_personalities = yes
-capital = 2094
-1400.1.1 = {
+capital = 1223
+1428.1.1 = {
 	monarch = {
-		name = "Rajaputra"
-		birth_date = 1385.1.1
-		dynasty = "Kalachuri"
-		adm = 2
+		name = "Aman"
+		birth_date = 1408.1.1
+		dynasty = "Desta"
+		adm = 3
 		dip = 1
-		mil = 2
+		mil = 5
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Gebereal"
+		monarch_name = "Gebereal"
+		dynasty = "Desta"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 1
+		mil = 4
+	}
+	add_heir_personality = lawgiver_personality
 }
 1444.11.11 = {
-	capital = 2094
+	capital = 1223
 	add_treasury = 6
 	add_prestige = 5
 }

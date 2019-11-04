@@ -33,35 +33,36 @@ historical_units = {
 
 leader_names = {
 
-	"Yilig" "Yani" "Ispor" "Yabghu" "Kayghalagh" "Gostum" "Khatir" "Yugurtu" "Dukum" "Alzek" 
-	"Zabergan" "Almish" "Alp" "Anzi" "Apskhih" "Araslan" "Asparukh" "Bagha" "Baghatur" "Balambär" 
-	"Barjik" "Bars" "Barsbek" "Bashtwa" "Bastu" "Bataul" "Batbayan" "Batoya" "Batulia" "Bayan" 
-	"Belkermak" "Bezmer" "Bihor" "Boyan" "Bugha" "Bughra" "Bulan" "Bulger" "Bulçan" "Busir" 
-	"Buzan" "Buzer" "Bälgiçi" "Böri" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" 
-	"Drong" "Elemag" "Ellak" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" 
-	"Ilik" "Iltäbär" "Irnek" "Isbul" "Islivan" "Isperikh" "Itakh" "Kamaj" "Kano" "Karadakh" 
-	"Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" "Khudbard" "Khuterkin" "Kibar" "Kisa" "Kordil" 
-	"Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kundaç" "Kundaçiq" "Kurt" 
-	"Kutrigur" "Kälaç" "Labertam" "Magotin" "Malamir" "Mugel" "Mänär" "Mänäs" "Mënümarót" "Odolgan" 
-	"Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" "Organa" "Ornag" "Oshi" "Ostro" 
-	"Pagan" "Pakhtiyar" "Papaçyz" "Paväl" "Praksa" "Rassate" "Rugila" "Sabin" "Samsam" "Sandil" 
-	"Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Simsam" "Sondoke" "Tabghaç" "Tarasiy" 
-	"Taridin" "Tarkhan" "Tarmaç" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timëreç" "Timërpälat" 
-	"Tingiz" "Tiradin" "Toghan" "Toghrïl" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" "Tuzniq" 
-	"Täbär" "Tähtaman" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yavantey" "Yençepi" 
-	"Yerneslu" "Yeçtirek" "Zenti" "Çat" "Çat'n" "Çorpan" "Ötemis" }
+	"Yilig" "Yani" "Ispor" "Kayghalagh" "Yabghu" "Gostum" "Khatir" "Yugurtu" "Dukum" "Alzek" 
+	"Zabergan" "Esin" "Almish" "Alp" "Anzi" "Apskhih" "Araslan" "Asparukh" "Bagha" "Baghatur" 
+	"Balambär" "Barjik" "Bars" "Barsbek" "Bashtwa" "Bastu" "Bataul" "Batbayan" "Batoya" "Batulia" 
+	"Bayan" "Belkermak" "Bezmer" "Bihor" "Boyan" "Bugha" "Bughra" "Bulan" "Bulger" "Bulçan" 
+	"Busir" "Buzan" "Buzer" "Bälgiçi" "Böri" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" 
+	"Dristar" "Drong" "Elemag" "Ellak" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" 
+	"Iani" "Ilik" "Iltäbär" "Irnek" "Isbul" "Islivan" "Isperikh" "Itakh" "Kamaj" "Kano" 
+	"Karadakh" "Karan" "Karaton" "Kardam" "Kharaton" "Khinialon" "Khudbard" "Khuterkin" "Kibar" "Kisa" 
+	"Kordil" "Kormesiy" "Kormisosh" "Kotrag" "Krovat" "Krum" "Kuber" "Kubrat" "Kundaç" "Kundaçiq" 
+	"Kurt" "Kutrigur" "Kälaç" "Labertam" "Magotin" "Malamir" "Mugel" "Mänär" "Mänäs" "Mënümarót" 
+	"Odolgan" "Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" "Organa" "Ornag" "Oshi" 
+	"Ostro" "Pagan" "Pakhtiyar" "Papaçyz" "Paväl" "Praksa" "Rassate" "Rugila" "Sabin" "Samsam" 
+	"Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Sevar" "Shilki" "Simsam" "Sondoke" "Tabghaç" 
+	"Tarasiy" "Taridin" "Tarkhan" "Tarmaç" "Tatra" "Telec" "Telerig" "Tervel" "Timër" "Timëreç" 
+	"Timërpälat" "Tingiz" "Tiradin" "Toghan" "Toghrïl" "Tokhtaman" "Toktu" "Tsog" "Tsul" "Tuk" 
+	"Tuzniq" "Täbär" "Tähtaman" "Umor" "Uturgur" "Vakrim" "Venda" "Vetam" "Vinekh" "Yavantey" 
+	"Yençepi" "Yerneslu" "Yeçtirek" "Zenti" "Çat" "Çat'n" "Çorpan" "Ötemis" }
 monarch_names = {
 	"Yilig #1" = 18
 	"Yani #1" = 18
 	"Ispor #0" = 1
-	"Yabghu #0" = 1
 	"Kayghalagh #0" = 1
+	"Yabghu #0" = 1
 	"Gostum #0" = 1
 	"Khatir #0" = 1
 	"Yugurtu #0" = 1
 	"Dukum #1" = 18
 	"Alzek #1" = 18
 	"Zabergan #1" = 18
+	"Esin #0" = -1
 	"Almish #0" = 0
 	"Alp #0" = 0
 	"Anzi #0" = 0
@@ -220,11 +221,10 @@ monarch_names = {
 	"Ötemis #0" = 0
 
 
-	"Savkëlti #0" = -1
-	"Songul #0" = -1
-	"Paykëlti #0" = -1
-	"Khatun #0" = -1
-	"Sarantay #0" = -1
+	"Këlyamal #0" = -1
+	"Karacik #0" = -1
+	"Tekçe #0" = -1
+	"Mutlu #0" = -1
 }
 ship_names = {
 	Aranybulla 

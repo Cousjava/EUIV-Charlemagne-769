@@ -1,37 +1,37 @@
-# Uyghur
+# Canarias
 government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+add_government_reform = tribal_despotism
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = uyghur
-religion = manichean
+technology_group = muslim
+primary_culture = berber
+religion = shamanism
 clear_scripted_personalities = yes
-capital = 2190
-1434.6.1 = {
+capital = 366
+1442.1.1 = {
 	monarch = {
-		name = "Tengri Bögü"
-		birth_date = 1420.1.1
-		dynasty = "Yaghlakar"
-		adm = 3
-		dip = 4
-		mil = 1
+		name = "Mahtar"
+		birth_date = 1415.1.1
+		dynasty = "Mahtarid"
+		adm = 2
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = craven_personality
 	heir = {
-		name = "Alp-Qutlugh"
-		monarch_name = "Alp-Qutlugh"
-		dynasty = "Yaghlakar"
-		birth_date = 1400.1.1
-		death_date = 1480.1.1
-		adm = 4
-		dip = 0
-		mil = 1
+		name = "Awdia"
+		monarch_name = "Awdia"
+		dynasty = "Mahtarid"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 2
+		dip = 2
+		mil = 2
 	}
 	add_heir_personality = careful_personality
 }
 1444.11.11 = {
-	capital = 2190
-	add_treasury = 10
-	add_prestige = 22
+	capital = 366
+	add_treasury = 4
+	add_prestige = 2
 }

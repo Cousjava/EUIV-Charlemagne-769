@@ -1,210 +1,156 @@
-# Ingria
+# Curonia
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 113 0 0 }
+color = { 182 16 16 }
 historical_idea_groups = {
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
-	economic_ideas
 	diplomatic_ideas
-	plutocracy_ideas
 	spy_ideas
-	religious_ideas
+	economic_ideas
+	administrative_ideas
+	quantity_ideas
 }
 
 historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	swiss_landsknechten
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Ahti" "Aare" "Agul" "Ahas" "Aho" "Ahvo" "Alar" "Alo" "Alur" "Aopelg" 
-	"Aotõiv" "Arp" "Arvet" "Arvo" "Atko" "Aul" "Aulemb" "Eeri" "Elmar" "Hain" 
-	"Haljas" "Heameel" "Heatõiv" "Hoovatõiv" "Hurmas" "Hurmetõiv" "Hõimulemb" "Hüvalemb" "Hüvameel" "Hüvatõiv" 
-	"Igalemb" "Igapäiv" "Ihalemb" "Ihameel" "Ihar" "Ihatõiv" "Ihavald" "Illimar" "Ilmalemb" "Ilmar" 
-	"Ilvelemb" "Jaolemb" "Kaalep" "Kaarel" "Kaaren" "Kahar" "Kahru" "Kahrulemb" "Kahus" "Kaido" 
-	"Kalev" "Kalju" "Kaljuvald" "Kalle" "Kaomeel" "Karuvald" "Kaugemeel" "Kaupo" "Kaur" "Kiur" 
-	"Kiurupelg" "Koit" "Kosk" "Kudres" "Küllelemb" "Leetõiv" "Lembit" "Leppetõiv" "Lible" "Lättelemb" 
-	"Manivald" "Mart" "Maru" "Mati" "Mats" "Meelis" "Mehis" "Meigo" "Neeme" "Niglas" 
-	"Ohetõiv" "Ohevald" "Olev" "Onni" "Otelemb" "Ott" "Pihl" "Piho" "Pikne" "Päevalemb" 
-	"Pärt" "Raak" "Raho" "Rahuleid" "Sulev" "Susi" "Sutemeel" "Sutepelg" "Tambet" "Tarva" 
-	"Tarvet" "Tasulemb" "Toivo" "Toom" "Tunne" "Tutkas" "Tuul" "Tõeleid" "Tõiv" "Tõivulemb" 
-	"Tõll" "Tõnn" "Uku" "Urmas" "Uru" "Valdur" "Vambola" "Vandemeel" "Varjelemb" "Veli" 
-	"Vello" "Venno" "Vesse" "Vihavald" "Vililemb" "Vilimeel" "Vilitõiv" "Vilivald" "Vootele" "Väino" 
-	"Värvo" "Õigemeel" "Ülo" }
+	"Pliksov" "Ankad" "Balodis" "Aishno" "Ako" "Baise" "Bikshe" "Borut" "Bulei" "Butovit" 
+	"Cirulis" "Dangeruthe" "Darbeslave" "Dausprungas" "Davins" "Demas" "Dobre" "Dovyat" "Dzintis" "Elmede" 
+	"Erasts" "Erdzivil" "Galeine" "Gastile" "Gedere" "Gerden" "Gibedats" "Giemund" "Golovke" "Gotene" 
+	"Gunvald" "Imanta" "Janis" "Jaunule" "Jedetus" "Juvage" "Kage" "Kaire" "Karijotas" "Karnak" 
+	"Kaupo" "Kerstigens" "Kiten" "Klavess" "Kodere" "Kuliens" "Kurlemuse" "Lammekinus" "Likiik" "Litto" 
+	"Lonkogveni" "Manvydas" "Meinekinus" "Mendune" "Nameisis" "Narvait" "Pukiik" "Pukuveras" "Ringaudas" "Rushky" 
+	"Rusins" "Sabe" "Sargun" "Scurdo" "Shutr" "Shvarnas" "Skornand" "Sprudeik" "Stegut" "Steikint" 
+	"Sviendorog" "Talivaldis" "Tautvila" "Traidenis" "Treniota" "Vaishvilkas" "Valikaila" "Vetseke" "Viesturs" "Visheiv" 
+	"Vishikut" "Vishly" "Vykantas" "Yudki" }
 monarch_names = {
-	"Ahti #0" = 1
-	"Aare #0" = 0
-	"Agul #0" = 0
-	"Ahas #0" = 0
-	"Aho #0" = 0
-	"Ahvo #0" = 0
-	"Alar #0" = 0
-	"Alo #0" = 0
-	"Alur #0" = 0
-	"Aopelg #0" = 0
-	"Aotõiv #0" = 0
-	"Arp #0" = 0
-	"Arvet #0" = 0
-	"Arvo #0" = 0
-	"Atko #0" = 0
-	"Aul #0" = 0
-	"Aulemb #0" = 0
-	"Eeri #0" = 0
-	"Elmar #0" = 0
-	"Hain #0" = 0
-	"Haljas #0" = 0
-	"Heameel #0" = 0
-	"Heatõiv #0" = 0
-	"Hoovatõiv #0" = 0
-	"Hurmas #0" = 0
-	"Hurmetõiv #0" = 0
-	"Hõimulemb #0" = 0
-	"Hüvalemb #0" = 0
-	"Hüvameel #0" = 0
-	"Hüvatõiv #0" = 0
-	"Igalemb #0" = 0
-	"Igapäiv #0" = 0
-	"Ihalemb #0" = 0
-	"Ihameel #0" = 0
-	"Ihar #0" = 0
-	"Ihatõiv #0" = 0
-	"Ihavald #0" = 0
-	"Illimar #0" = 0
-	"Ilmalemb #0" = 0
-	"Ilmar #0" = 0
-	"Ilvelemb #0" = 0
-	"Jaolemb #0" = 0
-	"Kaalep #0" = 0
-	"Kaarel #0" = 0
-	"Kaaren #0" = 0
-	"Kahar #0" = 0
-	"Kahru #0" = 0
-	"Kahrulemb #0" = 0
-	"Kahus #0" = 0
-	"Kaido #0" = 0
-	"Kalev #0" = 0
-	"Kalju #0" = 0
-	"Kaljuvald #0" = 0
-	"Kalle #0" = 0
-	"Kaomeel #0" = 0
-	"Karuvald #0" = 0
-	"Kaugemeel #0" = 0
+	"Pliksov #0" = 1
+	"Ankad #1" = 18
+	"Balodis #0" = 1
+	"Aishno #0" = 0
+	"Ako #0" = 0
+	"Baise #0" = 0
+	"Bikshe #0" = 0
+	"Borut #0" = 0
+	"Bulei #0" = 0
+	"Butovit #0" = 0
+	"Cirulis #0" = 0
+	"Dangeruthe #0" = 0
+	"Darbeslave #0" = 0
+	"Dausprungas #0" = 0
+	"Davins #0" = 0
+	"Demas #0" = 0
+	"Dobre #0" = 0
+	"Dovyat #0" = 0
+	"Dzintis #0" = 0
+	"Elmede #0" = 0
+	"Erasts #0" = 0
+	"Erdzivil #0" = 0
+	"Galeine #0" = 0
+	"Gastile #0" = 0
+	"Gedere #0" = 0
+	"Gerden #0" = 0
+	"Gibedats #0" = 0
+	"Giemund #0" = 0
+	"Golovke #0" = 0
+	"Gotene #0" = 0
+	"Gunvald #0" = 0
+	"Imanta #0" = 0
+	"Janis #0" = 0
+	"Jaunule #0" = 0
+	"Jedetus #0" = 0
+	"Juvage #0" = 0
+	"Kage #0" = 0
+	"Kaire #0" = 0
+	"Karijotas #0" = 0
+	"Karnak #0" = 0
 	"Kaupo #0" = 0
-	"Kaur #0" = 0
-	"Kiur #0" = 0
-	"Kiurupelg #0" = 0
-	"Koit #0" = 0
-	"Kosk #0" = 0
-	"Kudres #0" = 0
-	"Küllelemb #0" = 0
-	"Leetõiv #0" = 0
-	"Lembit #0" = 0
-	"Leppetõiv #0" = 0
-	"Lible #0" = 0
-	"Lättelemb #0" = 0
-	"Manivald #0" = 0
-	"Mart #0" = 0
-	"Maru #0" = 0
-	"Mati #0" = 0
-	"Mats #0" = 0
-	"Meelis #0" = 0
-	"Mehis #0" = 0
-	"Meigo #0" = 0
-	"Neeme #0" = 0
-	"Niglas #0" = 0
-	"Ohetõiv #0" = 0
-	"Ohevald #0" = 0
-	"Olev #0" = 0
-	"Onni #0" = 0
-	"Otelemb #0" = 0
-	"Ott #0" = 0
-	"Pihl #0" = 0
-	"Piho #0" = 0
-	"Pikne #0" = 0
-	"Päevalemb #0" = 0
-	"Pärt #0" = 0
-	"Raak #0" = 0
-	"Raho #0" = 0
-	"Rahuleid #0" = 0
-	"Sulev #0" = 0
-	"Susi #0" = 0
-	"Sutemeel #0" = 0
-	"Sutepelg #0" = 0
-	"Tambet #0" = 0
-	"Tarva #0" = 0
-	"Tarvet #0" = 0
-	"Tasulemb #0" = 0
-	"Toivo #0" = 0
-	"Toom #0" = 0
-	"Tunne #0" = 0
-	"Tutkas #0" = 0
-	"Tuul #0" = 0
-	"Tõeleid #0" = 0
-	"Tõiv #0" = 0
-	"Tõivulemb #0" = 0
-	"Tõll #0" = 0
-	"Tõnn #0" = 0
-	"Uku #0" = 0
-	"Urmas #0" = 0
-	"Uru #0" = 0
-	"Valdur #0" = 0
-	"Vambola #0" = 0
-	"Vandemeel #0" = 0
-	"Varjelemb #0" = 0
-	"Veli #0" = 0
-	"Vello #0" = 0
-	"Venno #0" = 0
-	"Vesse #0" = 0
-	"Vihavald #0" = 0
-	"Vililemb #0" = 0
-	"Vilimeel #0" = 0
-	"Vilitõiv #0" = 0
-	"Vilivald #0" = 0
-	"Vootele #0" = 0
-	"Väino #0" = 0
-	"Värvo #0" = 0
-	"Õigemeel #0" = 0
-	"Ülo #0" = 0
+	"Kerstigens #0" = 0
+	"Kiten #0" = 0
+	"Klavess #0" = 0
+	"Kodere #0" = 0
+	"Kuliens #0" = 0
+	"Kurlemuse #0" = 0
+	"Lammekinus #0" = 0
+	"Likiik #0" = 0
+	"Litto #0" = 0
+	"Lonkogveni #0" = 0
+	"Manvydas #0" = 0
+	"Meinekinus #0" = 0
+	"Mendune #0" = 0
+	"Nameisis #0" = 0
+	"Narvait #0" = 0
+	"Pukiik #0" = 0
+	"Pukuveras #0" = 0
+	"Ringaudas #0" = 0
+	"Rushky #0" = 0
+	"Rusins #0" = 0
+	"Sabe #0" = 0
+	"Sargun #0" = 0
+	"Scurdo #0" = 0
+	"Shutr #0" = 0
+	"Shvarnas #0" = 0
+	"Skornand #0" = 0
+	"Sprudeik #0" = 0
+	"Stegut #0" = 0
+	"Steikint #0" = 0
+	"Sviendorog #0" = 0
+	"Talivaldis #0" = 0
+	"Tautvila #0" = 0
+	"Traidenis #0" = 0
+	"Treniota #0" = 0
+	"Vaishvilkas #0" = 0
+	"Valikaila #0" = 0
+	"Vetseke #0" = 0
+	"Viesturs #0" = 0
+	"Visheiv #0" = 0
+	"Vishikut #0" = 0
+	"Vishly #0" = 0
+	"Vykantas #0" = 0
+	"Yudki #0" = 0
 
 
-	"Hele #0" = -1
-	"Käbi #0" = -1
-	"Ere #0" = -1
-	"Ilo #0" = -1
-	"Liis #0" = -1
+	"Dzeguze #0" = -1
+	"Ruta #0" = -1
+	"Liga #0" = -1
+	"Savna #0" = -1
+	"Maija #0" = -1
 }
 ship_names = {
-	Agricola Aura
-	Borgå "Birger Jarl"
-	Helsingfors Hakkapeliitta
-	Ilmarinen
-	Kullervo Karelen Kymi
-	Lemminkäinen Lapland
-	Nyland
-	Oulu
-	"Per Brahe"
-	Sampo "St. Henrik" Savolax
-	Tavastehus Tavastland
-	Väinämöinen Vasa Viborg Vanda Vuoksi
-	Åbo
-	Österbotten
+	Alytus
+	Birzai
+	Druskininkai
+	Gardinas
+	Jonava
+	Kaunas Kretinga Kreva
+	Lazdijai
+	Naugardukas
+	Palanga
+	Raseiniai
+	Siauliai Sventoji
+	Taurage Telsiai Trakai
+	Utena
+	Vilkmerge
 }
 

@@ -13,11 +13,11 @@ capital = 1248
 		name = "Aditya"
 		birth_date = 1435.1.1
 		dynasty = "Adityavansha"
-		adm = 3
-		dip = 2
+		adm = 4
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = naive_personality
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
 	capital = 1248

@@ -459,11 +459,11 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Joscella #0" = -1
-	"Ausonia #0" = -1
-	"Nunzia #0" = -1
-	"Ippolita #0" = -1
-	"Carola #0" = -1
+	"Virginia #0" = -1
+	"Laura #0" = -1
+	"Fortunata #0" = -1
+	"Clotilde #0" = -1
+	"Micaela #0" = -1
 }
 ship_names = {
 	Abraham Adam Angeli Archangeli "Archangelus Gabriel" "Archangelus Michael" "Archangelus Raphael"

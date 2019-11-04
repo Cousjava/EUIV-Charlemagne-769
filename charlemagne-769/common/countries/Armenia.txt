@@ -36,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Smbat" "Atrnerseh" "Ashot" "Bagrat" "Sahak" "Tiroc" "Vassak" "Spandiat" "Varaz-Tiroc" "Manvel" 
+	"Smbat" "Ashot" "Atrnerseh" "Bagrat" "Sahak" "Tiroc" "Vassak" "Spandiat" "Varaz-Tiroc" "Manvel" 
 	"Vasak" "Thoros" "Mushel" "Hamazasp" "Grigor" "Nerseh" "Adarnase" "Aghsartan" "Aleksandre" "Andronik" 
 	"Anzori" "Archili" "Bakur" "Davit" "Demetre" "Demna" "Djavakhi" "Erekle" "Gabrieli" "Gagiki" 
 	"Giorgi" "Grigoli" "Guaram" "Gubaz" "Gurgen" "Iese" "Ioane" "Ishkhanik" "Iveri" "Jarji" 
@@ -46,8 +46,8 @@ leader_names = {
 	"Zviad" }
 monarch_names = {
 	"Smbat #2" = 33
-	"Atrnerseh #0" = 1
 	"Ashot #2" = 27
+	"Atrnerseh #0" = 1
 	"Bagrat #0" = 1
 	"Sahak #1" = 21
 	"Tiroc #0" = 1
@@ -118,11 +118,11 @@ monarch_names = {
 	"Zviad #0" = 0
 
 
-	"Margarid #0" = -1
-	"Lousin #0" = -1
-	"Almasd #0" = -1
-	"Eliz #0" = -1
-	"Srpouhi #0" = -1
+	"Aghavni #0" = -1
+	"Baydzar #0" = -1
+	"Maria #0" = -1
+	"Hripsimeh #0" = -1
+	"Leyli #0" = -1
 }
 ship_names = {
 	Aramu Argishtis Ararat Ani Artsakh

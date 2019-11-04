@@ -1,0 +1,38 @@
+# Brycheiniog
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+clear_scripted_personalities = yes
+capital = 241
+1425.1.1 = {
+	monarch = {
+		name = "Nowy"
+		birth_date = 1396.1.1
+		dynasty = "Brycheiniog"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = righteous_personality
+	heir = {
+		name = "Gruffydd"
+		monarch_name = "Gruffydd"
+		dynasty = "Brycheiniog"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = expansionist_personality
+}
+1444.11.11 = {
+	capital = 241
+	add_treasury = 4
+	add_prestige = 2
+}

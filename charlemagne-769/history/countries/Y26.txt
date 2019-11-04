@@ -1,26 +1,37 @@
-# Vidin
-government = monarchy
-add_government_reform = autocracy_reform
+# Ääninen
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = romanian
-religion = tengri_pagan_reformed
+primary_culture = samoyed
+religion = animism
 clear_scripted_personalities = yes
-capital = 2746
-1441.1.1 = {
+capital = 4258
+1444.1.1 = {
 	monarch = {
-		name = "Uturgur"
-		birth_date = 1403.1.1
-		dynasty = "Ukil"
+		name = "Kako"
+		birth_date = 1406.1.1
+		dynasty = "Sayalid"
 		adm = 1
 		dip = 3
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Wayngachi"
+		monarch_name = "Wayngachi"
+		dynasty = "Sayalid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 2
 		mil = 1
 	}
-	add_ruler_personality = malevolent_personality
+	add_heir_personality = infertile_personality
 }
 1444.11.11 = {
-	capital = 2746
-	add_treasury = 6
-	add_prestige = 30
+	capital = 4258
+	add_treasury = 4
+	add_prestige = 3
 }

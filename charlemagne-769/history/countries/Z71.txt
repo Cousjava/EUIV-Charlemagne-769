@@ -1,26 +1,37 @@
-# Helsingland
+# Länsipohja
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = norse
+primary_culture = sapmi
 religion = animism
 clear_scripted_personalities = yes
-capital = 9
+capital = 11
 1435.1.1 = {
 	monarch = {
-		name = "Ragnarr"
-		birth_date = 1425.1.1
-		dynasty = "Refr"
-		adm = 4
-		dip = 1
+		name = "Sárra"
+		birth_date = 1410.1.1
+		dynasty = "Saiva"
+		adm = 2
+		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Dávgon"
+		monarch_name = "Dávgon"
+		dynasty = "Saiva"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+	add_heir_personality = entrepreneur_personality
 }
 1444.11.11 = {
-	capital = 9
+	capital = 11
 	add_treasury = 4
 	add_prestige = 2
 }

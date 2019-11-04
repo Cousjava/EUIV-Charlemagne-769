@@ -1,0 +1,39 @@
+# Fitri
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = zaghawa
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2288
+1425.1.1 = {
+	monarch = {
+		name = "Kay"
+		birth_date = 1425.1.1
+		dynasty = "Kayi"
+		adm = 2
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = greedy_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Baram"
+		monarch_name = "Baram"
+		dynasty = "Kayi"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2288
+	add_treasury = 4
+	add_prestige = 3
+}

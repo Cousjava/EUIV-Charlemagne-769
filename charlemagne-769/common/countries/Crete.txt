@@ -36,23 +36,25 @@ historical_units = {
 
 leader_names = {
 
-	"Ioannes" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" 
-	"Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" 
-	"Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" "Demetrios" 
-	"Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" 
-	"Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" 
-	"Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannikios" "Iordanes" 
-	"Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" "Kallinikos" "Kallistos" 
-	"Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" "Lazaros" 
-	"Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" "Maximos" "Megistos" 
-	"Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" "Nikolaos" "Niphon" 
-	"Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" "Philippos" 
-	"Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" "Romanos" "Sabas" 
-	"Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" "Theocharistos" "Theodoros" 
-	"Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" "Traianos" 
-	"Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
+	"Ioannes" "Anthemios" "Adriane" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" 
+	"Andronikos" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" 
+	"Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" 
+	"Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" 
+	"Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" 
+	"Helias" "Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannikios" 
+	"Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" "Kallinikos" 
+	"Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" 
+	"Lazaros" "Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" "Maximos" 
+	"Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" "Nikolaos" 
+	"Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" 
+	"Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" "Romanos" 
+	"Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" "Theocharistos" 
+	"Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" 
+	"Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
 	"Ioannes #1" = 18
+	"Anthemios #0" = 1
+	"Adriane #0" = -1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -61,7 +63,6 @@ monarch_names = {
 	"Anatolios #0" = 0
 	"Andreas #0" = 0
 	"Andronikos #0" = 0
-	"Anthemios #0" = 0
 	"Anthimos #0" = 0
 	"Antiochos #0" = 0
 	"Antonios #0" = 0
@@ -200,11 +201,10 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Eusebia #0" = -1
-	"Agne #0" = -1
-	"Theodosia #0" = -1
-	"Sophia #0" = -1
-	"Antipatra #0" = -1
+	"Eulalia #0" = -1
+	"Martha #0" = -1
+	"Eustathia #0" = -1
+	"Zenobia #0" = -1
 }
 ship_names = {
 	Hydra

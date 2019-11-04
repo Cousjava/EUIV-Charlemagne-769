@@ -1,27 +1,40 @@
-# Derbent
-government = monarchy
-add_government_reform = feudalism_reform
+# Meshchera
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = armenian
-religion = coptic
+primary_culture = meshchera
+religion = animism
 clear_scripted_personalities = yes
-capital = 425
-1415.1.1 = {
+capital = 301
+1425.1.1 = {
 	monarch = {
-		name = "Nerseh"
-		birth_date = 1375.1.1
-		dynasty = "Mihranian"
+		name = "Parush"
+		birth_date = 1408.1.1
+		dynasty = "Meshcheravid"
 		adm = 3
-		dip = 0
+		dip = 2
 		mil = 1
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = silver_tongue_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Kezhevat"
+		monarch_name = "Kezhevat"
+		dynasty = "Meshcheravid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = tolerant_personality
 }
 1444.11.11 = {
-	capital = 425
+	capital = 301
 	add_treasury = 6
-	add_prestige = 23
+	add_prestige = 5
 }

@@ -1,26 +1,38 @@
-# Avaria
+# Pohjanmaa
 government = tribal
 add_government_reform = tribal_despotism
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = avar
-religion = tengri_pagan_reformed
+technology_group = western
+primary_culture = finnish
+religion = animism
 clear_scripted_personalities = yes
-capital = 153
-1442.1.1 = {
+capital = 19
+1439.12.4 = {
 	monarch = {
-		name = "Dengizikh"
-		birth_date = 1397.1.1
-		dynasty = "Khunzakhal"
-		adm = 2
+		name = "Päiviö"
+		birth_date = 1423.12.4
+		dynasty = "Bottii"
+		adm = 3
 		dip = 2
-		mil = 2
+		mil = 4
 	}
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1443.1.1 = {
+	heir = {
+		name = "Ukko"
+		monarch_name = "Ukko"
+		dynasty = "Bottii"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 153
-	add_treasury = 8
-	add_prestige = 53
+	capital = 19
+	add_treasury = 6
+	add_prestige = 5
 }

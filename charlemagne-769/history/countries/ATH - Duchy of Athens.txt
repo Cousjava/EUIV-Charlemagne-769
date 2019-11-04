@@ -1,4 +1,4 @@
-# Athens
+# Hellas
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -13,11 +13,11 @@ capital = 146
 		name = "Konstantinos"
 		birth_date = 1406.1.1
 		dynasty = "Sarantapechos"
-		adm = 1
-		dip = 3
-		mil = 2
+		adm = 2
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
 	capital = 146

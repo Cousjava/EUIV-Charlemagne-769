@@ -1,26 +1,26 @@
-# Finnmárku
-government = tribal
-add_government_reform = tribal_despotism
+# Cephalonia
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = sapmi
-religion = animism
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 315
-1435.1.1 = {
+capital = 142
+1444.1.1 = {
 	monarch = {
-		name = "Áilu"
-		birth_date = 1404.1.1
-		dynasty = "Gájka"
+		name = "Theognostos"
+		birth_date = 1425.1.1
+		dynasty = "Demetrianos"
 		adm = 2
-		dip = 1
+		dip = 5
 		mil = 2
 	}
-	add_ruler_personality = naive_personality
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
-	capital = 315
-	add_treasury = 4
-	add_prestige = 2
+	capital = 142
+	add_treasury = 6
+	add_prestige = 5
 }

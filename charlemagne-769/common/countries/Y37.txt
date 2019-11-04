@@ -1,77 +1,100 @@
-# Karadakhu
+# Ilmenia
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 246 231 75 }
+graphical_culture = easterngfx
+color = { 107 164 64 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+	economic_ideas
+	religious_ideas
+	administrative_ideas
+	quality_ideas
+}
 
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
 
 
 
 leader_names = {
 
-	"Sartäç" "Yabghu" "Gulay" "Alp" "Araslan" "Bagha" "Baghatur" "Bälgiçi" "Barjik" "Barsbek" 
-	"Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" "Bulçan" "Busir" "Buzer" "Çat" 
-	"Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" "Khuterkin" 
-	"Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" 
-	"Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yavantey" "Yençepi" "Yerneslu" 
-	"Yeçtirek" "Yilig" }
+	"Vysheslav" "Rodislav" "Zbignev" "Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" 
+	"Iziaslav" "Lev" "Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rogvolod" "Rostislav" "Ruslan" 
+	"Stanislav" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" 
+	"Voislav" "Volodar" "Vseslav" "Vsevolod" "Vyshata" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" 
+	"Yevstafiy" }
 monarch_names = {
-	"Sartäç #0" = 1
-	"Yabghu #0" = 1
-	"Gulay #0" = -1
-	"Alp #0" = 0
-	"Araslan #0" = 0
-	"Bagha #0" = 0
-	"Baghatur #0" = 0
-	"Bälgiçi #0" = 0
-	"Barjik #0" = 0
-	"Barsbek #0" = 0
-	"Bastu #0" = 0
-	"Bashtwa #0" = 0
-	"Bihor #0" = 0
-	"Böri #0" = 0
-	"Bugha #0" = 0
-	"Bulan #0" = 0
-	"Bulçan #0" = 0
-	"Busir #0" = 0
-	"Buzer #0" = 0
-	"Çat #0" = 0
-	"Çat'n #0" = 0
-	"Çorpan #0" = 0
-	"Ilik #0" = 0
-	"Iltäbär #0" = 0
-	"Itakh #0" = 0
-	"Kamaj #0" = 0
-	"Karadakh #0" = 0
-	"Kayghalagh #0" = 0
-	"Khatir #0" = 0
-	"Khuterkin #0" = 0
-	"Kibar #0" = 0
-	"Kisa #0" = 0
-	"Kundaçiq #0" = 0
-	"Kundaç #0" = 0
-	"Mänär #0" = 0
-	"Mänäs #0" = 0
-	"Mënümarót #0" = 0
-	"Ötemis #0" = 0
-	"Papaçyz #0" = 0
-	"Samsam #0" = 0
-	"Simsam #0" = 0
-	"Täbär #0" = 0
-	"Tabghaç #0" = 0
-	"Tarkhan #0" = 0
-	"Tarmaç #0" = 0
-	"Tuzniq #0" = 0
-	"Vakrim #0" = 0
-	"Yavantey #0" = 0
-	"Yençepi #0" = 0
-	"Yerneslu #0" = 0
-	"Yeçtirek #0" = 0
-	"Yilig #0" = 0
+	"Vysheslav #0" = 1
+	"Rodislav #1" = 18
+	"Zbignev #0" = 1
+	"Briachislav #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Gleb #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Iziaslav #0" = 0
+	"Lev #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rogvolod #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yeremey #0" = 0
+	"Yevstafiy #0" = 0
 
 
-	"Lärkka #0" = -1
-	"Ipek #0" = -1
-	"Sirma #0" = -1
-	"Parsbit #0" = -1
+	"Dobronega #0" = -1
+	"Ulyana #0" = -1
+	"Darya #0" = -1
+	"Sviatoslava #0" = -1
+	"Malusha #0" = -1
+}
+ship_names = {
+	"Staraya Russa" Ladoga Torzhok Oreshek
+	"Alexander Nevsky" Pestrovo Valdai Kholm
+	Borovichi Luga Msta "Ozero I'lmen" Lovat
+	Polist Redja Pola Visera Volchov Selon Polomet
 }
 

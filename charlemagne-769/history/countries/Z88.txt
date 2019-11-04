@@ -1,4 +1,4 @@
-# Adrianopolis
+# Thessalonika
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,21 +7,21 @@ technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 149
-1420.1.1 = {
+capital = 1853
+1429.1.1 = {
 	monarch = {
-		name = "Theophanes"
-		birth_date = 1385.1.1
-		dynasty = "Monotes"
-		adm = 4
+		name = "Theoktistos"
+		birth_date = 1409.1.1
+		dynasty = "Kyritzios"
+		adm = 2
 		dip = 2
-		mil = 6
+		mil = 0
 	}
-	add_ruler_personality = benevolent_personality
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 149
+	capital = 1853
 	add_treasury = 6
 	add_prestige = 4
 }

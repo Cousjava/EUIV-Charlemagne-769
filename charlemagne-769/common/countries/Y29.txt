@@ -1,125 +1,55 @@
-# Chrobatia
+# Vashka
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 156 15 15 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	innovativeness_ideas
-	religious_ideas
-}
+color = { 106 151 104 }
 
-historical_units = {
-	bardiche_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	hungarian_hussar
-	germanized_pike
-	polish_musketeer
-	polish_hussar
-	polish_tercio
-	polish_winged_hussar
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-}
 
 
 
 leader_names = {
 
-	"Tvrdoslav" "Sebeslav" "Dragomir" "Hranislav" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
-	"Branimir" "Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Drzislav" "Dujam" "Duym" "Filip" 
-	"Gaspar" "Gheorghe" "Grigorii" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" "Jitej" "Karlo" 
-	"Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Milman" "Mislav" 
-	"Mutimir" "Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Ratimir" "Seslav" "Slavich" "Stanislav" 
-	"Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Vlaicu" "Vukan" 
-	"Zvonimir" }
+	"Hasaba" "Ngeva" "Alik" "Kako" "Kharuchi" "Kolik" "Mandak" "Nabtiko" "Nenyts" "Nga" 
+	"Ngënoh" "Noumea" "Num" "Nyalku" "Panay" "Pudak" "Salinder" "Samatu" "Sarak" "Sirtya" 
+	"Somatu" "Syudbya" "Tatva" "Tolik" "Vesei" "Wayngachi" "Xëryuchi" "Yadne" "Yapti" "Yar" 
+	"Yavlad" "Yurak" }
 monarch_names = {
-	"Tvrdoslav #1" = 18
-	"Sebeslav #0" = 1
-	"Dragomir #0" = 1
-	"Hranislav #0" = 1
-	"Adam #0" = 0
-	"Andrija #0" = 0
-	"Bartol #0" = 0
-	"Besar #0" = 0
-	"Bojan #0" = 0
-	"Boris #0" = 0
-	"Branimir #0" = 0
-	"Castimir #0" = 0
-	"Danail #0" = 0
-	"Dmitar #0" = 0
-	"Dobromir #0" = 0
-	"Dragan #0" = 0
-	"Drzislav #0" = 0
-	"Dujam #0" = 0
-	"Duym #0" = 0
-	"Filip #0" = 0
-	"Gaspar #0" = 0
-	"Gheorghe #0" = 0
-	"Grigorii #0" = 0
-	"Hrvoje #0" = 0
-	"Igor #0" = 0
-	"Ioan #0" = 0
-	"Ivan #0" = 0
-	"Ivanis #0" = 0
-	"Jitej #0" = 0
-	"Karlo #0" = 0
-	"Koloman #0" = 0
-	"Kresimir #0" = 0
-	"Ladislav #0" = 0
-	"Ljudevit #0" = 0
-	"Ljutomisl #0" = 0
-	"Lovro #0" = 0
-	"Matej #0" = 0
-	"Mihajlo #0" = 0
-	"Milman #0" = 0
-	"Mislav #0" = 0
-	"Mutimir #0" = 0
-	"Nikolitza #0" = 0
-	"Ognjen #0" = 0
-	"Petar #0" = 0
-	"Prohor #0" = 0
-	"Radomir #0" = 0
-	"Ratimir #0" = 0
-	"Seslav #0" = 0
-	"Slavich #0" = 0
-	"Stanislav #0" = 0
-	"Stjepan #0" = 0
-	"Sulvan #0" = 0
-	"Teodor #0" = 0
-	"Tomislav #0" = 0
-	"Tvrtko #0" = 0
-	"Ulfo #0" = 0
-	"Vid #0" = 0
-	"Vitomir #0" = 0
-	"Vlaicu #0" = 0
-	"Vukan #0" = 0
-	"Zvonimir #0" = 0
+	"Hasaba #0" = 1
+	"Ngeva #0" = -1
+	"Alik #0" = 0
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Mandak #0" = 0
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Wayngachi #0" = 0
+	"Xëryuchi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
 
 
-	"Mirna #0" = -1
-	"Suronja #0" = -1
-	"Doroteja #0" = -1
-	"Capeka #0" = -1
-	"Suzana #0" = -1
-}
-ship_names = {
-	Aranybulla 
-	Arpad
-	Magyar
-	Sigismund
-	"Szent Istvan kiraly"
-	"Hunyadi Matyas"
-	"Karoly Robert"
-	"Nagy Lajos"
-	Laszlo
-	Kalman
+	"Ngeva #0" = -1
+	"Laptsui #0" = -1
+	"Khatyako #0" = -1
+	"Tadane #0" = -1
 }
 

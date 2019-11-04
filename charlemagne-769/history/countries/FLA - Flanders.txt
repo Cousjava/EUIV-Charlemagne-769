@@ -13,15 +13,15 @@ capital = 1744
 		name = "Roding"
 		birth_date = 1395.1.1
 		dynasty = "Roding"
-		adm = 1
-		dip = 1
+		adm = 3
+		dip = 6
 		mil = 2
 	}
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
 }
 1444.11.11 = {
 	capital = 1744
-	add_treasury = 7
+	add_treasury = 6
 	add_prestige = 6
 }

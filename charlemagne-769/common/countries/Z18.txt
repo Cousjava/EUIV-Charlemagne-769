@@ -36,32 +36,33 @@ historical_units = {
 
 leader_names = {
 
-	"Icel" "Offa" "Ecgfrith" "Eadburh" "Ælfflæd" "Æthelburh" "Æthelswith" "Cnebba" "Cynewald" "Creoda" 
-	"Pybba" "Eowa" "Penda" "Peada" "Wulfhere" "Alweo" "Osmod" "Æthelred" "Coenred" "Ceolred" 
-	"Ceolwald" "Eanwulf" "Æthelbald" "Heardberht" "Thingfrith" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" 
-	"Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" 
-	"Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" 
-	"Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" 
-	"Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" "Ealdwine" "Ealdwulf" 
-	"Eanberht" "Eanfrith" "Eanhere" "Eardwulf" "Eastmund" "Ecgberht" "Gamall" "Godwine" "Gospatric" "Guthfrith" 
-	"Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" "Hereberht" "Hereweald" "Hereweard" "Hlothere" "Hrodberht" 
-	"Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" "Leofwine" "Maccus" "Morcar" "Mærleswegn" "Onlaf" 
-	"Ordgar" "Oscytel" "Oshere" "Osmund" "Osric" "Osræd" "Osulf" "Osweald" "Oswine" "Oswulf" 
-	"Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" "Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" 
-	"Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sælræd" "Sæweald" "Sæxbald" "Sæxræd" 
-	"Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" "Ulf" "Ulfcytel" "Waltheof" "Werestan" "Wiglaf" 
-	"Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" "Wulfmær" "Wulfnoth" "Wulfstan" "Ælfgar" 
-	"Ælfmær" "Ælfnoth" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" "Ælfwig" "Ælfwine" 
-	"Ælle" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" 
-	"Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
+	"Icel" "Offa" "Ecgfrith" "Eadburh" "Ælfflæd" "Æthelswith" "Æthelburh" "Cnebba" "Cynewald" "Creoda" 
+	"Pybba" "Eowa" "Penda" "Peada" "Wulfhere" "Cyneswitha" "Cyneburh" "Alweo" "Osmod" "Æthelred" 
+	"Coenred" "Ceolred" "Ceolwald" "Eanwulf" "Æthelbald" "Heardberht" "Thingfrith" "Arncytel" "Balthere" "Beorhtfrith" 
+	"Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" 
+	"Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" 
+	"Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" 
+	"Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" 
+	"Ealdwine" "Ealdwulf" "Eanberht" "Eanfrith" "Eanhere" "Eardwulf" "Eastmund" "Ecgberht" "Gamall" "Godwine" 
+	"Gospatric" "Guthfrith" "Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" "Hereberht" "Hereweald" "Hereweard" 
+	"Hlothere" "Hrodberht" "Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" "Leofwine" "Maccus" "Morcar" 
+	"Mærleswegn" "Onlaf" "Ordgar" "Oscytel" "Oshere" "Osmund" "Osric" "Osræd" "Osulf" "Osweald" 
+	"Oswine" "Oswulf" "Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" "Sigehelm" "Sigeric" "Sigeræd" 
+	"Sighere" "Siweard" "Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sælræd" "Sæweald" 
+	"Sæxbald" "Sæxræd" "Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" "Ulf" "Ulfcytel" "Waltheof" 
+	"Werestan" "Wiglaf" "Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" "Wulfmær" "Wulfnoth" 
+	"Wulfstan" "Ælfgar" "Ælfmær" "Ælfnoth" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" 
+	"Ælfwig" "Ælfwine" "Ælle" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" 
+	"Æthelstan" "Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" 
+	"Rædwald" }
 monarch_names = {
 	"Icel #1" = 18
 	"Offa #1" = 18
 	"Ecgfrith #0" = 1
 	"Eadburh #0" = -1
 	"Ælfflæd #0" = -1
-	"Æthelburh #0" = -1
 	"Æthelswith #0" = -1
+	"Æthelburh #0" = -1
 	"Cnebba #1" = 18
 	"Cynewald #1" = 18
 	"Creoda #1" = 18
@@ -70,6 +71,8 @@ monarch_names = {
 	"Penda #1" = 18
 	"Peada #1" = 18
 	"Wulfhere #1" = 18
+	"Cyneswitha #0" = -1
+	"Cyneburh #0" = -1
 	"Alweo #0" = 1
 	"Osmod #0" = 1
 	"Æthelred #1" = 18
@@ -234,9 +237,6 @@ monarch_names = {
 	"Eormenric #0" = 0
 	"Eadbald #0" = 0
 	"Rædwald #0" = 0
-
-
-	"Mildrith #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

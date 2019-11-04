@@ -1,0 +1,27 @@
+# Ayanga
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 718
+1419.1.1 = {
+	monarch = {
+		name = "Guchu"
+		birth_date = 1419.1.1
+		dynasty = "Ayanga"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 718
+	add_treasury = 8
+	add_prestige = 7
+}

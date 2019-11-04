@@ -1,37 +1,40 @@
-# Taid
+# Ohrid
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = serbian
+religion = animism
 clear_scripted_personalities = yes
-capital = 2236
-1443.1.1 = {
+capital = 4175
+1423.1.1 = {
 	monarch = {
-		name = "Homayd"
-		birth_date = 1395.1.1
-		dynasty = "Taid"
+		name = "Mislav"
+		birth_date = 1400.1.1
+		dynasty = "Mislavic"
 		adm = 3
-		dip = 3
+		dip = 2
 		mil = 5
 	}
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = careful_personality
+}
+1430.1.1 = {
 	heir = {
-		name = "Abdallah"
-		monarch_name = "Abdallah"
-		dynasty = "Taid"
-		birth_date = 1424.1.1
-		death_date = 1504.1.1
-		adm = 3
-		dip = 0
+		name = "Miroslav"
+		monarch_name = "Miroslav"
+		dynasty = "Mislavic"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 2
+		dip = 2
 		mil = 2
 	}
-	add_heir_personality = conqueror_personality
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 2236
-	add_treasury = 7
-	add_prestige = 16
+	capital = 4175
+	add_treasury = 6
+	add_prestige = 5
 }

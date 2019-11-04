@@ -13,12 +13,12 @@ capital = 1776
 		name = "Lemetti"
 		birth_date = 1399.1.1
 		dynasty = "Karjalainen"
-		adm = 1
-		dip = 0
-		mil = 1
+		adm = 3
+		dip = 4
+		mil = 3
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = strict_personality
 }
 1426.1.1 = {
 	heir = {
@@ -27,11 +27,11 @@ capital = 1776
 		dynasty = "Karjalainen"
 		birth_date = 1426.1.1
 		death_date = 1506.1.1
-		adm = 3
-		dip = 4
-		mil = 2
+		adm = 5
+		dip = 1
+		mil = 4
 	}
-	add_heir_personality = benevolent_personality
+	add_heir_personality = midas_touched_personality
 }
 1444.11.11 = {
 	capital = 1776

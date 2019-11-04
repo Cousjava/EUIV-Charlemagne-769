@@ -1,7 +1,7 @@
 # Yabghumakh
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 255 224 99 }
+color = { 186 171 62 }
 
 
 
@@ -71,9 +71,9 @@ monarch_names = {
 	"Yilig #0" = 0
 
 
-	"Lärkka #0" = -1
-	"Ipek #0" = -1
-	"Sirma #0" = -1
-	"Parsbit #0" = -1
+	"Ilkay #0" = -1
+	"Gunduz #0" = -1
+	"Savtilek #0" = -1
+	"Kätyarikka #0" = -1
 }
 

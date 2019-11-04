@@ -1,0 +1,40 @@
+# Makari
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = zaghawa
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2287
+1425.1.1 = {
+	monarch = {
+		name = "Shu"
+		birth_date = 1425.1.1
+		dynasty = "Sao"
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = industrious_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Fatima"
+		monarch_name = "Fatima"
+		dynasty = "Sao"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		female = yes
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2287
+	add_treasury = 4
+	add_prestige = 3
+}

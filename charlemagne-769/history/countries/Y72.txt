@@ -1,26 +1,26 @@
-# Nefoud
+# Karadakhu
 government = tribal
-add_government_reform = tribal_federation
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = sunni
+technology_group = nomad_group
+primary_culture = khazar
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 392
-1435.1.1 = {
+capital = 2409
+1438.1.1 = {
 	monarch = {
-		name = "Qutham"
-		birth_date = 1375.1.1
-		dynasty = "Abbasid"
-		adm = 3
-		dip = 4
-		mil = 2
+		name = "Sartäç"
+		birth_date = 1408.1.1
+		dynasty = "Karadakhu"
+		adm = 1
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 392
-	add_treasury = 6
-	add_prestige = 33
+	capital = 2409
+	add_treasury = 8
+	add_prestige = 8
 }

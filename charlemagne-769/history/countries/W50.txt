@@ -1,0 +1,40 @@
+# Kel Wi
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = berber
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2276
+1425.1.1 = {
+	monarch = {
+		name = "Awdia"
+		birth_date = 1405.1.1
+		dynasty = "Kel Wi"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = greedy_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Tacfin"
+		monarch_name = "Tacfin"
+		dynasty = "Kel Wi"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_heir_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 2276
+	add_treasury = 6
+	add_prestige = 5
+}

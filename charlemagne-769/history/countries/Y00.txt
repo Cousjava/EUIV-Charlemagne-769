@@ -1,27 +1,27 @@
-# Pruthenia
-government = tribal
-add_government_reform = tribal_despotism
+# Optimatoi
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = old_prussian
-religion = animism
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 1841
-1425.1.1 = {
+capital = 316
+1427.1.1 = {
 	monarch = {
-		name = "Bezprzym"
-		birth_date = 1408.1.1
-		dynasty = "Wilks"
-		adm = 4
-		dip = 3
-		mil = 3
+		name = "Andronikos"
+		birth_date = 1407.1.1
+		dynasty = "Drakokephalos"
+		adm = 1
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = conqueror_personality
 }
 1444.11.11 = {
-	capital = 1841
+	capital = 316
 	add_treasury = 6
 	add_prestige = 5
 }

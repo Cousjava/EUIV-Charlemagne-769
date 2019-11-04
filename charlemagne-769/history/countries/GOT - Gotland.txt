@@ -13,11 +13,11 @@ capital = 25
 		name = "Şorfinn"
 		birth_date = 1406.1.1
 		dynasty = "Gute"
-		adm = 4
-		dip = 4
-		mil = 2
+		adm = 2
+		dip = 3
+		mil = 4
 	}
-	add_ruler_personality = just_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1436.1.1 = {
 	heir = {
@@ -28,7 +28,7 @@ capital = 25
 		death_date = 1516.1.1
 		adm = 3
 		dip = 2
-		mil = 2
+		mil = 3
 	}
 	add_heir_personality = navigator_personality
 }

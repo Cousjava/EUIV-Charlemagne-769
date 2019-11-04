@@ -1,4 +1,4 @@
-# Cibyrrhaeot
+# Opsikion
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,21 +7,21 @@ technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 320
-1426.1.1 = {
+capital = 4312
+1433.1.1 = {
 	monarch = {
-		name = "Theophylaktos"
-		birth_date = 1406.1.1
-		dynasty = "Rangabes"
-		adm = 1
-		dip = 4
+		name = "Taxiarches"
+		birth_date = 1413.1.1
+		dynasty = "Katakylas"
+		adm = 4
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = expansionist_personality
 }
 1444.11.11 = {
-	capital = 320
+	capital = 4312
 	add_treasury = 6
 	add_prestige = 4
 }

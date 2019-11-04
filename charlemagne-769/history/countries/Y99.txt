@@ -1,26 +1,26 @@
-# Kassala
-government = tribal
-add_government_reform = tribal_kingdom
+# Quadirid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = nubian
-religion = coptic
+technology_group = muslim
+primary_culture = coptic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 4033
-1439.1.1 = {
+capital = 358
+1437.1.1 = {
 	monarch = {
-		name = "Thoma"
-		birth_date = 1419.1.1
-		dynasty = "Hadareb"
-		adm = 5
-		dip = 4
-		mil = 3
+		name = "Abdul-Aziz"
+		birth_date = 1415.1.1
+		dynasty = "Quadirid"
+		adm = 4
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 4033
-	add_treasury = 4
-	add_prestige = 2
+	capital = 358
+	add_treasury = 8
+	add_prestige = 6
 }

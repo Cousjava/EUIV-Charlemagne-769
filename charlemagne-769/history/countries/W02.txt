@@ -1,0 +1,26 @@
+# Talas
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = karluk
+religion = nestorian
+clear_scripted_personalities = yes
+capital = 2126
+1441.1.1 = {
+	monarch = {
+		name = "Asuq"
+		birth_date = 1418.1.1
+		dynasty = "Talas"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 2126
+	add_treasury = 8
+	add_prestige = 7
+}

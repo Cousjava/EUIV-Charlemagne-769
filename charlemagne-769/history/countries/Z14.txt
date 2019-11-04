@@ -1,38 +1,38 @@
-# Laigin
-government = tribal
-add_government_reform = tribal_kingdom
+# Glywysing
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = irish
+primary_culture = welsh
 religion = catholic
 clear_scripted_personalities = yes
-capital = 374
-1422.4.1 = {
+capital = 241
+1415.1.1 = {
 	monarch = {
-		name = "Forbasach"
-		birth_date = 1406.1.1
-		dynasty = "Ua Cheinnselaig"
+		name = "Rhys"
+		birth_date = 1384.1.1
+		dynasty = "Morgannwg"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = malevolent_personality
+	heir = {
+		name = "Brochfael"
+		monarch_name = "Brochfael"
+		dynasty = "Morgannwg"
+		birth_date = 1405.1.1
+		death_date = 1485.1.1
 		adm = 2
 		dip = 2
-		mil = 1
-	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = drunkard_personality
-	heir = {
-		name = "Diarmait"
-		monarch_name = "Diarmait"
-		dynasty = "Ua Cheinnselaig"
-		birth_date = 1376.1.1
-		death_date = 1456.1.1
-		adm = 3
-		dip = 6
 		mil = 2
 	}
-	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = drunkard_personality
 }
 1444.11.11 = {
-	capital = 374
-	add_treasury = 4
-	add_prestige = 9
+	capital = 241
+	add_treasury = 6
+	add_prestige = 11
 }

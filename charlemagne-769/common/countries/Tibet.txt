@@ -242,6 +242,6 @@ monarch_names = {
 	"Zungtsen #0" = 0
 
 
-	"Hariti #0" = -1
+	"Amala #0" = -1
 }
 

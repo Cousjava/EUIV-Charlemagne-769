@@ -33,7 +33,7 @@ historical_units = {
 
 leader_names = {
 
-	"Maurizio" "Leone" "Giovanni" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
+	"Maurizio" "Giovanni" "Leone" "Orso" "Teodato" "Galla" "Domenico" "Abbondanzio" "Abbondio" "Abelardo" 
 	"Abelino" "Achille" "Adalberto" "Adelfo" "Adelmio" "Adelmo" "Adone" "Adriano" "Agapito" "Agostino" 
 	"Aimone" "Alamanno" "Alarico" "Albano" "Alberico" "Alberto" "Albino" "Alboino" "Alcide" "Aldobrandino" 
 	"Aleardo" "Aleramo" "Alessandro" "Alessio" "Alighiero" "Alvise" "Ambrogio" "Amedeo" "Anastasio" "Andrea" 
@@ -67,8 +67,8 @@ leader_names = {
 	"Valentino" "Valerio" "Vincentello" "Vincenzo" "Virginio" "Vitale" "Vittore" "Vittorio" "Zaccaria" }
 monarch_names = {
 	"Maurizio #1" = 21
-	"Leone #0" = 1
 	"Giovanni #0" = 1
+	"Leone #0" = 1
 	"Orso #1" = 0
 	"Teodato #1" = 0
 	"Galla #1" = 0
@@ -387,11 +387,11 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Giulia #0" = -1
-	"Benedetta #0" = -1
-	"Nunzia #0" = -1
-	"Agnese #0" = -1
-	"Candida #0" = -1
+	"Virginia #0" = -1
+	"Laura #0" = -1
+	"Fortunata #0" = -1
+	"Clotilde #0" = -1
+	"Micaela #0" = -1
 }
 ship_names = {
 	"Amazzone Guerriera" Amburgense "Anna Bonaventura" Apollo "Aquila Coronato" 

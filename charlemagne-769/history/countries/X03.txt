@@ -1,38 +1,26 @@
-# Gojjam
-government = tribal
-add_government_reform = tribal_kingdom
+# Hamzahbid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = amhara
-religion = coptic
+technology_group = muslim
+primary_culture = persian
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1223
-1428.1.1 = {
+capital = 4289
+1444.1.1 = {
 	monarch = {
-		name = "Aman"
-		birth_date = 1408.1.1
-		dynasty = "Desta"
-		adm = 1
-		dip = 3
-		mil = 4
-	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = fierce_negotiator_personality
-	heir = {
-		name = "Gebereal"
-		monarch_name = "Gebereal"
-		dynasty = "Desta"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 2
-		dip = 1
+		name = "Umarah"
+		birth_date = 1413.1.1
+		dynasty = "Hamzahbid"
+		adm = 4
+		dip = 2
 		mil = 2
 	}
-	add_heir_personality = drunkard_personality
+	add_ruler_personality = midas_touched_personality
 }
 1444.11.11 = {
-	capital = 1223
+	capital = 4289
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

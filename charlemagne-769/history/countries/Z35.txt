@@ -1,26 +1,26 @@
-# Aquitaine
+# West Francia
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = occitain
+primary_culture = frankish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 4111
-1443.6.2 = {
+capital = 181
+1443.9.24 = {
 	monarch = {
-		name = "Hunoald"
-		birth_date = 1391.1.1
-		dynasty = "Louping"
-		adm = 3
-		dip = 6
-		mil = 3
+		name = "Karl"
+		birth_date = 1417.1.2
+		dynasty = "Karling"
+		adm = 5
+		dip = 4
+		mil = 6
 	}
-	add_ruler_personality = expansionist_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 4111
-	add_treasury = 6
-	add_prestige = 16
+	capital = 181
+	add_treasury = 9
+	add_prestige = 32
 }

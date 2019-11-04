@@ -1081,3 +1081,87 @@ ZAZ_ideas = {
 		always = no
 	}
 }
+
+HSA_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KBO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+AIR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ALH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+FRS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+GLH_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+HDR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KHO_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+KNI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LDK_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+LRI_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MHR_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MOS_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+MVA_ideas = {
+	trigger = {
+		always = no
+	}
+}

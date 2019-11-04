@@ -1,25 +1,23 @@
-# Taghlibid
+# Shirazid
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 225 135 20 }
+color = { 159 189 65 }
 
 
 
 
 leader_names = {
 
-	"Amr" "Hisam" "Bistam" "Sufyah" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" 
-	"Abdul" "Abdullah" "Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" 
-	"Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" 
-	"Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" 
-	"Mansur" "Mirza" "Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" 
-	"Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" 
-	"Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Talut" "Setara" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" 
+	"Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" 
+	"Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" 
+	"Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
+	"Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" 
+	"Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" 
+	"Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
 monarch_names = {
-	"Amr #0" = 1
-	"Hisam #1" = 18
-	"Bistam #0" = 1
-	"Sufyah #0" = 1
+	"Talut #1" = 18
+	"Setara #0" = -1
 	"Abu-Bakr #0" = 0
 	"Aarif #0" = 0
 	"Abdul-Gafur #0" = 0
@@ -88,10 +86,9 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Kamala #0" = -1
-	"Rafiqa #0" = -1
-	"Taneen #0" = -1
-	"Taliba #0" = -1
-	"Samira #0" = -1
+	"Adila #0" = -1
+	"Nafisa #0" = -1
+	"Yagana #0" = -1
+	"Shararah #0" = -1
 }
 

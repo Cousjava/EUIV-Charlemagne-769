@@ -13,11 +13,11 @@ capital = 284
 		name = "Mënümarót"
 		birth_date = 1406.1.1
 		dynasty = "Yabghumakh"
-		adm = 1
-		dip = 3
+		adm = 2
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
 	capital = 284

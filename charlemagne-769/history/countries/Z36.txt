@@ -1,27 +1,26 @@
-# Franconia
+# Aquitaine
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = german
+primary_culture = occitain
 religion = catholic
 clear_scripted_personalities = yes
-capital = 79
-1408.1.1 = {
+capital = 4111
+1443.6.2 = {
 	monarch = {
-		name = "Thuringus"
-		birth_date = 1394.1.1
-		dynasty = "Hetanid"
+		name = "Hunoald"
+		birth_date = 1391.1.1
+		dynasty = "Louping"
 		adm = 3
-		dip = 3
-		mil = 2
+		dip = 5
+		mil = 4
 	}
-	add_ruler_personality = conqueror_personality
-	add_ruler_personality = expansionist_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 79
+	capital = 4111
 	add_treasury = 6
-	add_prestige = 13
+	add_prestige = 16
 }

@@ -36,12 +36,15 @@ historical_units = {
 
 leader_names = {
 
-	"Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" "Iziaslav" "Lev" "Mitrofan" 
-	"Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" "Stanislav" "Sudislav" 
-	"Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" "Voislav" "Volodar" 
-	"Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" "Yelisey" "Yeremey" "Yevstafiy" }
+	"Briachislav" "Yefimiy" "Prebrana" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" "Iziaslav" 
+	"Lev" "Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" "Ruslan" 
+	"Stanislav" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" "Vladislav" 
+	"Voislav" "Volodar" "Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yelisey" "Yeremey" 
+	"Yevstafiy" }
 monarch_names = {
 	"Briachislav #1" = 18
+	"Yefimiy #0" = 1
+	"Prebrana #0" = -1
 	"Demid #0" = 0
 	"Dobrynia #0" = 0
 	"Fedot #0" = 0
@@ -77,17 +80,15 @@ monarch_names = {
 	"Vysheslav #0" = 0
 	"Yaropolk #0" = 0
 	"Yaroslav #0" = 0
-	"Yefimiy #0" = 0
 	"Yelisey #0" = 0
 	"Yeremey #0" = 0
 	"Yevstafiy #0" = 0
 
 
-	"Veleslava #0" = -1
-	"Yefimia #0" = -1
-	"Sbyslava #0" = -1
-	"Gremislava #0" = -1
-	"Praskovya #0" = -1
+	"Dobronega #0" = -1
+	"Ulyana #0" = -1
+	"Darya #0" = -1
+	"Sviatoslava #0" = -1
 }
 ship_names = {
 	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"

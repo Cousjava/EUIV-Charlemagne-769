@@ -1,125 +1,291 @@
-# Hayya
+# Barmakid
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 186 91 41 }
+graphical_culture = easterngfx
+color = { 11 205 70 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
 
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
 
 
 
 leader_names = {
 
-	"Soizuros" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
-	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
-	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
-	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
-	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
-	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" 
-	"Merkourios" "Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" 
-	"Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" 
-	"Sergios" "Simeoni" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" "Theodote" 
-	"Thoma" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
+	"Barmak" "Khalid" "Yahya" "Fadl" "Musa" "Jafar" "Aba" "Abahu" "Abaya" "Abaye" 
+	"Abayi" "Abba" "Abdima" "'Abdisho'" "Abgar" "Abimalek" "Abris" "Abrisius" "Acacius" "Achan" 
+	"Achina" "Addai" "Adlai" "Aggai" "Ahai" "Ahadabui" "Ahha" "Akha d'abuh'" "Akh-es-Samain" "Aqib-Alaha" 
+	"Asa" "Ashur" "Avahu" "Avda" "Avdima" "Avdimi" "Avina" "Avira" "Azai" "Babaeus" 
+	"Babai" "Babowai" "Babwahi" "Bar" "Bar-Abba" "Barba'shimin" "Bar-Nabha" "Bar-Talmai" "Bar-Timai" "Bar-Tolmai" 
+	"Bustan" "Caiaphas" "Cephas" "Cephus" "Chadlai" "Chama" "Chanin" "Chanina" "Chaninai" "Chinena" 
+	"Chozai" "Chuma" "Chunya" "Clopas" "Dadisho'" "Denha" "Dikla" "Diklah" "Dimi" "Dinkha" 
+	"Dunanu" "Elisha'" "Eliya" "Emmanuel" "Enosh" "Ezekiel" "Farbokht" "Foma" "Giwargis" "Grwgari" 
+	"Hanina" "Hnanisho'" "Hozai" "Idan" "Idra" "Ila" "Isho'" "Isho'yahb" "Israel" "Kaiapha" 
+	"Karna" "Katsiu" "Kelaya" "Laszio" "Lazar" "Lazare" "Lazaro" "Lazaros" "Lazarus" "Lazarz" 
+	"Lazer" "Lebbaeus" "Maadai" "Macabee" "Maccabee" "Magna" "Makkikha" "Maluch" "Ma'na" "Marabokht" 
+	"Maremmeh" "Mari" "Mikha'il" "Moqli" "Muna" "Nahir" "Nahor" "Nahur" "Narsai" "Nazuk" 
+	"Nechunya" "Nehor" "Nehorai" "Niv" "Nun" "Nur" "Oran" "Pappa" "Pethion" "Petros" 
+	"Petuel" "Qaligh" "Qayyoma" "Raca" "Rachim" "Rahim" "Raka" "Raz" "Raziel" "Rubil" 
+	"Saad" "Saba" "Sabah" "Sabba'e" "Sabrisho'" "Sabr-Ishu" "Salu" "Samal" "Sami" "Samiy" 
+	"Sagi" "Sargis" "Sava" "Sawma" "Shafer" "Shahdost" "Shahlufa" "Shai" "Shalmai" "Shama" 
+	"Shamir" "Shammai" "Shemaiah" "Shem'on" "Sheraga" "Shila" "Shovai" "Shraga" "Sima" "Sliba-zkha" 
+	"Surin" "Tabbai" "Taddai" "Talia" "Taliah" "Talmai" "Talya" "Tam" "Tam'as" "Ta'mhas" 
+	"Targhal" "Tauma" "Tavi" "Tavish" "Tevis" "Th'amhais" "Thoma" "Timai" "Tiv" "Toba" 
+	"Todos" "Tolmai" "Tomarsa" "Tamuza" "Tulmay" "Ukba" "Yahballaha" "Yanai" "Ya'qob" "Yeshua" 
+	"Yohannan" "Yosip" "Yousef" "Yunanis" "Zerika" }
 monarch_names = {
-	"Soizuros #0" = 1
-	"Aarôn #0" = 0
-	"Aberikos #0" = 0
-	"Abraam #0" = 0
-	"Añgelos #0" = 0
-	"Andreas #0" = 0
-	"Athanasios #0" = 0
-	"Balô #0" = 0
-	"Bartholomaios #0" = 0
-	"Birêl #0" = 0
-	"Chael #0" = 0
-	"Christophoros #0" = 0
-	"Dauid #0" = 0
-	"Dimetheos #0" = 0
-	"Dioskoros #0" = 0
-	"Diônisios #0" = 0
-	"Eliezer #0" = 0
-	"Eionkouda #0" = 0
-	"Emmanouel #0" = 0
-	"Enôch #0" = 0
-	"Ephannê #0" = 0
-	"Epimachos #0" = 0
-	"Epiphanios #0" = 0
-	"Gabriel #0" = 0
-	"Gabrielkouda #0" = 0
-	"Gabrielophorou #0" = 0
-	"Gennatios #0" = 0
-	"Geôrgios #0" = 0
-	"Hêlias #0" = 0
-	"Hoase #0" = 0
-	"Hoassi #0" = 0
-	"Hoasse #0" = 0
-	"Iacob #0" = 0
-	"Ieremias #0" = 0
-	"Iêsous #0" = 0
-	"Iêsousinkouda #0" = 0
-	"Iôannou #0" = 0
-	"Iôannês #0" = 0
-	"Iordanes #0" = 0
-	"Ioseph #0" = 0
-	"Kalinikos #0" = 0
-	"Kollouthos #0" = 0
-	"Krisanthos #0" = 0
-	"Kuriakos #0" = 0
-	"Kurillos #0" = 0
+	"Barmak #0" = 1
+	"Khalid #1" = 18
+	"Yahya #0" = 1
+	"Fadl #0" = 1
+	"Musa #0" = 1
+	"Jafar #0" = 1
+	"Aba #0" = 0
+	"Abahu #0" = 0
+	"Abaya #0" = 0
+	"Abaye #0" = 0
+	"Abayi #0" = 0
+	"Abba #0" = 0
+	"Abdima #0" = 0
+	"'Abdisho' #0" = 0
+	"Abgar #0" = 0
+	"Abimalek #0" = 0
+	"Abris #0" = 0
+	"Abrisius #0" = 0
+	"Acacius #0" = 0
+	"Achan #0" = 0
+	"Achina #0" = 0
+	"Addai #0" = 0
+	"Adlai #0" = 0
+	"Aggai #0" = 0
+	"Ahai #0" = 0
+	"Ahadabui #0" = 0
+	"Ahha #0" = 0
+	"Akha d'abuh' #0" = 0
+	"Akh-es-Samain #0" = 0
+	"Aqib-Alaha #0" = 0
+	"Asa #0" = 0
+	"Ashur #0" = 0
+	"Avahu #0" = 0
+	"Avda #0" = 0
+	"Avdima #0" = 0
+	"Avdimi #0" = 0
+	"Avina #0" = 0
+	"Avira #0" = 0
+	"Azai #0" = 0
+	"Babaeus #0" = 0
+	"Babai #0" = 0
+	"Babowai #0" = 0
+	"Babwahi #0" = 0
+	"Bar #0" = 0
+	"Bar-Abba #0" = 0
+	"Barba'shimin #0" = 0
+	"Bar-Nabha #0" = 0
+	"Bar-Talmai #0" = 0
+	"Bar-Timai #0" = 0
+	"Bar-Tolmai #0" = 0
+	"Bustan #0" = 0
+	"Caiaphas #0" = 0
+	"Cephas #0" = 0
+	"Cephus #0" = 0
+	"Chadlai #0" = 0
+	"Chama #0" = 0
+	"Chanin #0" = 0
+	"Chanina #0" = 0
+	"Chaninai #0" = 0
+	"Chinena #0" = 0
+	"Chozai #0" = 0
+	"Chuma #0" = 0
+	"Chunya #0" = 0
+	"Clopas #0" = 0
+	"Dadisho' #0" = 0
+	"Denha #0" = 0
+	"Dikla #0" = 0
+	"Diklah #0" = 0
+	"Dimi #0" = 0
+	"Dinkha #0" = 0
+	"Dunanu #0" = 0
+	"Elisha' #0" = 0
+	"Eliya #0" = 0
+	"Emmanuel #0" = 0
+	"Enosh #0" = 0
+	"Ezekiel #0" = 0
+	"Farbokht #0" = 0
+	"Foma #0" = 0
+	"Giwargis #0" = 0
+	"Grwgari #0" = 0
+	"Hanina #0" = 0
+	"Hnanisho' #0" = 0
+	"Hozai #0" = 0
+	"Idan #0" = 0
+	"Idra #0" = 0
+	"Ila #0" = 0
+	"Isho' #0" = 0
+	"Isho'yahb #0" = 0
+	"Israel #0" = 0
+	"Kaiapha #0" = 0
+	"Karna #0" = 0
+	"Katsiu #0" = 0
+	"Kelaya #0" = 0
+	"Laszio #0" = 0
+	"Lazar #0" = 0
+	"Lazare #0" = 0
+	"Lazaro #0" = 0
 	"Lazaros #0" = 0
-	"Leon #0" = 0
-	"Leontios #0" = 0
-	"Makarios #0" = 0
-	"Mariana #0" = 0
-	"Mariankouda #0" = 0
-	"Marianos #0" = 0
-	"Marios #0" = 0
-	"Markos #0" = 0
-	"Marturophoros #0" = 0
-	"Mašanñal #0" = 0
-	"Maththias #0" = 0
-	"Mêlênkouda #0" = 0
-	"Mena #0" = 0
-	"Menankouda #0" = 0
-	"Merkourios #0" = 0
-	"Michaêl #0" = 0
-	"Michaêlkouda #0" = 0
-	"Mouses #0" = 0
-	"Orna #0" = 0
-	"Panigiros #0" = 0
-	"Papasinen #0" = 0
-	"Papasinkouda #0" = 0
-	"Patrikios #0" = 0
-	"Paulos #0" = 0
+	"Lazarus #0" = 0
+	"Lazarz #0" = 0
+	"Lazer #0" = 0
+	"Lebbaeus #0" = 0
+	"Maadai #0" = 0
+	"Macabee #0" = 0
+	"Maccabee #0" = 0
+	"Magna #0" = 0
+	"Makkikha #0" = 0
+	"Maluch #0" = 0
+	"Ma'na #0" = 0
+	"Marabokht #0" = 0
+	"Maremmeh #0" = 0
+	"Mari #0" = 0
+	"Mikha'il #0" = 0
+	"Moqli #0" = 0
+	"Muna #0" = 0
+	"Nahir #0" = 0
+	"Nahor #0" = 0
+	"Nahur #0" = 0
+	"Narsai #0" = 0
+	"Nazuk #0" = 0
+	"Nechunya #0" = 0
+	"Nehor #0" = 0
+	"Nehorai #0" = 0
+	"Niv #0" = 0
+	"Nun #0" = 0
+	"Nur #0" = 0
+	"Oran #0" = 0
+	"Pappa #0" = 0
+	"Pethion #0" = 0
 	"Petros #0" = 0
-	"Petrou #0" = 0
-	"Philotheos #0" = 0
-	"Philemon #0" = 0
-	"Prochoros #0" = 0
-	"Raphael #0" = 0
-	"Raphaelkouda #0" = 0
-	"Samson #0" = 0
-	"Senouthios #0" = 0
-	"Sentiko #0" = 0
-	"Sergios #0" = 0
-	"Simeoni #0" = 0
-	"Solomôn #0" = 0
-	"Sotinkouda #0" = 0
-	"Stephanos #0" = 0
-	"Stephanou #0" = 0
-	"Thadeosi #0" = 0
-	"Theodôros #0" = 0
-	"Theodosios #0" = 0
-	"Theodote #0" = 0
+	"Petuel #0" = 0
+	"Qaligh #0" = 0
+	"Qayyoma #0" = 0
+	"Raca #0" = 0
+	"Rachim #0" = 0
+	"Rahim #0" = 0
+	"Raka #0" = 0
+	"Raz #0" = 0
+	"Raziel #0" = 0
+	"Rubil #0" = 0
+	"Saad #0" = 0
+	"Saba #0" = 0
+	"Sabah #0" = 0
+	"Sabba'e #0" = 0
+	"Sabrisho' #0" = 0
+	"Sabr-Ishu #0" = 0
+	"Salu #0" = 0
+	"Samal #0" = 0
+	"Sami #0" = 0
+	"Samiy #0" = 0
+	"Sagi #0" = 0
+	"Sargis #0" = 0
+	"Sava #0" = 0
+	"Sawma #0" = 0
+	"Shafer #0" = 0
+	"Shahdost #0" = 0
+	"Shahlufa #0" = 0
+	"Shai #0" = 0
+	"Shalmai #0" = 0
+	"Shama #0" = 0
+	"Shamir #0" = 0
+	"Shammai #0" = 0
+	"Shemaiah #0" = 0
+	"Shem'on #0" = 0
+	"Sheraga #0" = 0
+	"Shila #0" = 0
+	"Shovai #0" = 0
+	"Shraga #0" = 0
+	"Sima #0" = 0
+	"Sliba-zkha #0" = 0
+	"Surin #0" = 0
+	"Tabbai #0" = 0
+	"Taddai #0" = 0
+	"Talia #0" = 0
+	"Taliah #0" = 0
+	"Talmai #0" = 0
+	"Talya #0" = 0
+	"Tam #0" = 0
+	"Tam'as #0" = 0
+	"Ta'mhas #0" = 0
+	"Targhal #0" = 0
+	"Tauma #0" = 0
+	"Tavi #0" = 0
+	"Tavish #0" = 0
+	"Tevis #0" = 0
+	"Th'amhais #0" = 0
 	"Thoma #0" = 0
-	"Tophêna #0" = 0
-	"Tirsakouni #0" = 0
-	"Zacharias #0" = 0
-	"Zosima #0" = 0
+	"Timai #0" = 0
+	"Tiv #0" = 0
+	"Toba #0" = 0
+	"Todos #0" = 0
+	"Tolmai #0" = 0
+	"Tomarsa #0" = 0
+	"Tamuza #0" = 0
+	"Tulmay #0" = 0
+	"Ukba #0" = 0
+	"Yahballaha #0" = 0
+	"Yanai #0" = 0
+	"Ya'qob #0" = 0
+	"Yeshua #0" = 0
+	"Yohannan #0" = 0
+	"Yosip #0" = 0
+	"Yousef #0" = 0
+	"Yunanis #0" = 0
+	"Zerika #0" = 0
 
 
-	"Rahimah #0" = -1
-	"Iêsousyko #0" = -1
-	"Ñonnen #0" = -1
-	"Ñoltou #0" = -1
-	"Theozia #0" = -1
+	"Donya #0" = -1
+	"Jamileh #0" = -1
+	"Soraya #0" = -1
+	"Mariam #0" = -1
+	"Golbahar #0" = -1
+}
+ship_names = {
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas
+	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
+	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
+	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
+	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
+	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
+	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
+	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
+	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
+	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
+	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
+	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
+	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
+	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
+	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
+	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
+	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
+	"Zend-Avesta" Zurvan
 }
 

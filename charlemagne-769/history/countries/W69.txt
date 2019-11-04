@@ -1,0 +1,37 @@
+# Tui
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = animism
+clear_scripted_personalities = yes
+capital = 1069
+1444.1.1 = {
+	monarch = {
+		name = "Kyldysin"
+		birth_date = 1398.1.1
+		dynasty = "Arvoyid"
+		adm = 4
+		dip = 2
+		mil = 1
+	}
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Turush"
+		monarch_name = "Turush"
+		dynasty = "Arvoyid"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = just_personality
+}
+1444.11.11 = {
+	capital = 1069
+	add_treasury = 4
+	add_prestige = 3
+}

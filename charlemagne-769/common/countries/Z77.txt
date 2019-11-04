@@ -1,187 +1,208 @@
-# Zunbil
+# Járnberaland
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 179 120 64 }
+graphical_culture = westerngfx
+color = { 20 20 230 }
 historical_idea_groups = {
 	defensive_ideas
-	religious_ideas
 	offensive_ideas
-	trade_ideas
-	spy_ideas
-	economic_ideas
 	diplomatic_ideas
-	administrative_ideas
+	economic_ideas
+	trade_ideas
+	aristocracy_ideas
+	innovativeness_ideas
+	naval_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	french_caracolle
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Barhatakin" "Jimofuta" "Barha" "Shiquer" "Zerê" "Benaz" "Rumofuda" "Rutbil" "Shihyu" "Aaban" 
-	"Aabdar" "Aalem" "Aakrama" "Aamir" "Aaqel" "Aarash" "Aarif" "Aazar" "Abas" "Abdiesus" 
-	"Abed" "Abu-zar" "Afzal" "Adel" "Afrooz" "Afsar" "Afshin" "Ajmal" "Akhtar" "Akram" 
-	"Alaudin" "Akbarkhan" "Almeida" "Amardad" "Amooz" "Anoushiravan" "Anwaaraddin" "Ariabood" "Armeen" "Aryo" 
-	"Arzhang" "Asadi" "Ashtak" "Azfaar" "Azoom" "Azyan" "Azzami" "Azzat" "Baddar" "Badeed" 
-	"Badih" "Badilayn" "Badrawi" "Baghish" "Bahiri" "Bahirun" "Bahlul" "Bahnam" "Dadvar" "Faireh" 
-	"Farjaad" "Farzaad" "Futtehkhan" "Gulraiz" "Gulrez" "Gulru" "Isfandiyar" "Jaah" "Jabroot" "Jammas" 
-	"Jansher" "Jehanzaib" "Kardaar" "Lodhi" "Maiwand" "Mateen" "Mehrang" "Mirwais" "Mohammadi" "Moinkhan" 
-	"Mukhtar" "Mursalin" "Musa" "Naseefa" "Nawaskhan" "Nouman" "Painda" "Parwaiz" "Pazir" "Poya" 
-	"Qammar" "Rayi" "Shahmeer" "Shahou" "Shahpar" "Shahpur" "Shahu" "Shehzad" "Soban" "Tabish" 
-	"Tabsheer" "Taimur" "Tajj" "Tashfeen" "Wamiq" "Yar" "Yesal" "Zadfar" "Zakariya" "Zarak" 
-	"Zartash" }
+	"Þorbjörn" "Sumarliði" "Svanhildr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" 
+	"Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" 
+	"Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" 
+	"Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" 
+	"Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" 
+	"Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" 
+	"Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" 
+	"Hysing" "Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" 
+	"Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" 
+	"Oddr" "Ofeig" "Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" 
+	"Skuli" "Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" 
+	"Suni" "Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorfinn" 
+	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" 
+	"Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Barhatakin #0" = 1
-	"Jimofuta #1" = 18
-	"Barha #0" = 1
-	"Shiquer #0" = 1
-	"Zerê #0" = 1
-	"Benaz #0" = -1
-	"Rumofuda #1" = 21
-	"Rutbil #1" = 18
-	"Shihyu #1" = 18
-	"Aaban #0" = 0
-	"Aabdar #0" = 0
-	"Aalem #0" = 0
-	"Aakrama #0" = 0
-	"Aamir #0" = 0
-	"Aaqel #0" = 0
-	"Aarash #0" = 0
-	"Aarif #0" = 0
-	"Aazar #0" = 0
-	"Abas #0" = 0
-	"Abdiesus #0" = 0
-	"Abed #0" = 0
-	"Abu-zar #0" = 0
-	"Afzal #0" = 0
-	"Adel #0" = 0
-	"Afrooz #0" = 0
-	"Afsar #0" = 0
-	"Afshin #0" = 0
-	"Ajmal #0" = 0
-	"Akhtar #0" = 0
-	"Akram #0" = 0
-	"Alaudin #0" = 0
-	"Akbarkhan #0" = 0
-	"Almeida #0" = 0
-	"Amardad #0" = 0
-	"Amooz #0" = 0
-	"Anoushiravan #0" = 0
-	"Anwaaraddin #0" = 0
-	"Ariabood #0" = 0
-	"Armeen #0" = 0
-	"Aryo #0" = 0
-	"Arzhang #0" = 0
-	"Asadi #0" = 0
-	"Ashtak #0" = 0
-	"Azfaar #0" = 0
-	"Azoom #0" = 0
-	"Azyan #0" = 0
-	"Azzami #0" = 0
-	"Azzat #0" = 0
-	"Baddar #0" = 0
-	"Badeed #0" = 0
-	"Badih #0" = 0
-	"Badilayn #0" = 0
-	"Badrawi #0" = 0
-	"Baghish #0" = 0
-	"Bahiri #0" = 0
-	"Bahirun #0" = 0
-	"Bahlul #0" = 0
-	"Bahnam #0" = 0
-	"Dadvar #0" = 0
-	"Faireh #0" = 0
-	"Farjaad #0" = 0
-	"Farzaad #0" = 0
-	"Futtehkhan #0" = 0
-	"Gulraiz #0" = 0
-	"Gulrez #0" = 0
-	"Gulru #0" = 0
-	"Isfandiyar #0" = 0
-	"Jaah #0" = 0
-	"Jabroot #0" = 0
-	"Jammas #0" = 0
-	"Jansher #0" = 0
-	"Jehanzaib #0" = 0
-	"Kardaar #0" = 0
-	"Lodhi #0" = 0
-	"Maiwand #0" = 0
-	"Mateen #0" = 0
-	"Mehrang #0" = 0
-	"Mirwais #0" = 0
-	"Mohammadi #0" = 0
-	"Moinkhan #0" = 0
-	"Mukhtar #0" = 0
-	"Mursalin #0" = 0
-	"Musa #0" = 0
-	"Naseefa #0" = 0
-	"Nawaskhan #0" = 0
-	"Nouman #0" = 0
-	"Painda #0" = 0
-	"Parwaiz #0" = 0
-	"Pazir #0" = 0
-	"Poya #0" = 0
-	"Qammar #0" = 0
-	"Rayi #0" = 0
-	"Shahmeer #0" = 0
-	"Shahou #0" = 0
-	"Shahpar #0" = 0
-	"Shahpur #0" = 0
-	"Shahu #0" = 0
-	"Shehzad #0" = 0
-	"Soban #0" = 0
-	"Tabish #0" = 0
-	"Tabsheer #0" = 0
-	"Taimur #0" = 0
-	"Tajj #0" = 0
-	"Tashfeen #0" = 0
-	"Wamiq #0" = 0
-	"Yar #0" = 0
-	"Yesal #0" = 0
-	"Zadfar #0" = 0
-	"Zakariya #0" = 0
-	"Zarak #0" = 0
-	"Zartash #0" = 0
+	"Þorbjörn #0" = 1
+	"Sumarliði #0" = 1
+	"Svanhildr #0" = -1
+	"Ale #0" = 0
+	"Alfr #0" = 0
+	"Alfgeir #0" = 0
+	"Anders #0" = 0
+	"Anlaufr #0" = 0
+	"Anundr #0" = 0
+	"Arnbjörn #0" = 0
+	"Arngrimr #0" = 0
+	"Arni #0" = 0
+	"Arnfast #0" = 0
+	"Asbjörn #0" = 0
+	"Bagge #0" = 0
+	"Baldr #0" = 0
+	"Barid #0" = 0
+	"Bengt #0" = 0
+	"Bersi #0" = 0
+	"Bertil #0" = 0
+	"Birger #0" = 0
+	"Björn #0" = 0
+	"Bo #0" = 0
+	"Borkvard #0" = 0
+	"Botulfr #0" = 0
+	"Bragi #0" = 0
+	"Buðli #0" = 0
+	"Dag #0" = 0
+	"Dan #0" = 0
+	"Dyre #0" = 0
+	"Eilif #0" = 0
+	"Egill #0" = 0
+	"Emund #0" = 0
+	"Einarr #0" = 0
+	"Eirikr #0" = 0
+	"Eskild #0" = 0
+	"Falki #0" = 0
+	"Faste #0" = 0
+	"Filip #0" = 0
+	"Fredrik #0" = 0
+	"Frirek #0" = 0
+	"Froði #0" = 0
+	"Freyr #0" = 0
+	"Folki #0" = 0
+	"Gandalfr #0" = 0
+	"Geirr #0" = 0
+	"Georg #0" = 0
+	"Gnupa #0" = 0
+	"Gorm #0" = 0
+	"Greger #0" = 0
+	"Grimr #0" = 0
+	"Guðfrið #0" = 0
+	"Guðmundr #0" = 0
+	"Guðröðr #0" = 0
+	"Gunnarr #0" = 0
+	"Hakon #0" = 0
+	"Halsten #0" = 0
+	"Haraldr #0" = 0
+	"Haukr #0" = 0
+	"Helgi #0" = 0
+	"Hemming #0" = 0
+	"Holmger #0" = 0
+	"Hrafn #0" = 0
+	"Hrolfr #0" = 0
+	"Hrane #0" = 0
+	"Hæsteinn #0" = 0
+	"Hjalmar #0" = 0
+	"Hroðgar #0" = 0
+	"Hroðulfr #0" = 0
+	"Hrörekr #0" = 0
+	"Hysing #0" = 0
+	"Ingólfr #0" = 0
+	"Ingemar #0" = 0
+	"Ingjald #0" = 0
+	"Ivar #0" = 0
+	"Jedvard #0" = 0
+	"Jon #0" = 0
+	"Karl #0" = 0
+	"Kettil #0" = 0
+	"Kettilmund #0" = 0
+	"Kjartan #0" = 0
+	"Klas #0" = 0
+	"Knut #0" = 0
+	"Kol #0" = 0
+	"Kolbjörn #0" = 0
+	"Markus #0" = 0
+	"Magni #0" = 0
+	"Mats #0" = 0
+	"Nils #0" = 0
+	"Niklas #0" = 0
+	"Oddr #0" = 0
+	"Ofeig #0" = 0
+	"Olafr #0" = 0
+	"Ormr #0" = 0
+	"Ottarr #0" = 0
+	"Refr #0" = 0
+	"Refil #0" = 0
+	"Ragnarr #0" = 0
+	"Rikulfr #0" = 0
+	"Rögnvaldr #0" = 0
+	"Skuli #0" = 0
+	"Snorri #0" = 0
+	"Sigbjörn #0" = 0
+	"Sigtrygg #0" = 0
+	"Sigurðr #0" = 0
+	"Starkaðr #0" = 0
+	"Steinn #0" = 0
+	"Sturla #0" = 0
+	"Styrbjörn #0" = 0
+	"Styrkar #0" = 0
+	"Suni #0" = 0
+	"Sveinn #0" = 0
+	"Sverker #0" = 0
+	"Sæmundr #0" = 0
+	"Sölvi #0" = 0
+	"Sörkver #0" = 0
+	"Tjudmund #0" = 0
+	"Toke #0" = 0
+	"Tolir #0" = 0
+	"Þorfinn #0" = 0
+	"Þorbrandr #0" = 0
+	"Þordr #0" = 0
+	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
+	"Þorolfr #0" = 0
+	"Toste #0" = 0
+	"Totil #0" = 0
+	"Tryggve #0" = 0
+	"Tyke #0" = 0
+	"Ulfr #0" = 0
+	"Vagn #0" = 0
+	"Valdemar #0" = 0
+	"Åke #0" = 0
+	"Yngvar #0" = 0
+	"Örvar #0" = 0
+	"Öysteinn #0" = 0
 
 
-	"Yalqoot #0" = -1
-	"Berezira #0" = -1
-	"Kaasheen #0" = -1
-	"Kashm #0" = -1
+	"Kraka #0" = -1
+	"Halla #0" = -1
+	"Alfrið #0" = -1
+	"Rögnfrið #0" = -1
 }
 ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	Akilles Amarant Andromeda Anklam Bohus "Böse Lejon" Calmar Camilla Carolus Charlotte Cossacken 
+	Crono-Solen David Disa Draken Drottningen Elefanten Elfsborg Elisabet Engel "Engel Gabriel" 
+	Enighet Euridice Falk Fenix Finland "Flygande Wargen" Fortuna Fredrika "Fredrika Amalia" 
+	Fröija Galathe "Gamla Fortuna" "Gamla Rikssvärdet" "Gotha Lejon" Grip Gustavus "Gyllende Lejon" 
+	Göta Göteborg Halland Havsfru Hektor Herkules Hieronymus Hjalmar Hök Illerim Ingeborg Jomfru 
+	Jupiter Jägare "Kalmar Nyckel" Kalmarkastell Karlskrona Kronan Laxen Leopard Lejon Lodbrok 
+	Mars Mercurius Morgonstjärna Norden Nordstjärna Nyckeln Nyland Oden Pelikanen Postillion 
+	"Prins Carl" Prinsessan Regina Rosa Skåne Småland Solen "St. Erik" "St. Göran" "St. Johannes" 
+	"St. Thomas" Starkoster Stenbock Stockholm "Stora Cronan" Svan "Svenska Falk" "Svenska Lejonet" 
+	Sverige Svärdet Södermanland Tapper Thetis Tigern "Tre Kronor" Troilus Ulrica Uppland 
+	Vasen Victoria Warberg Wasa Wenden Werden Vestervik Wästmanland Victoria Witduve Öland Örn
 }
 

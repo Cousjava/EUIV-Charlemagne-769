@@ -1,0 +1,37 @@
+# Vasyugan
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = animism
+clear_scripted_personalities = yes
+capital = 2445
+1444.1.1 = {
+	monarch = {
+		name = "Biur"
+		birth_date = 1409.1.1
+		dynasty = "Kezhayid"
+		adm = 6
+		dip = 2
+		mil = 4
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Azeg"
+		monarch_name = "Azeg"
+		dynasty = "Kezhayid"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = kind_hearted_personality
+}
+1444.11.11 = {
+	capital = 2445
+	add_treasury = 4
+	add_prestige = 3
+}

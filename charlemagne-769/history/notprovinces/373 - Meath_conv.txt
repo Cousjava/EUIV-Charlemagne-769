@@ -1,0 +1,37 @@
+ck2_converter_generated = yes
+owner = Z09
+controller = Z09
+add_core = Z09
+culture = irish
+religion = catholic
+citysize = 2000
+add_permanent_claim = Z08
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = Y30
+discovered_by = Y35
+discovered_by = Y44
+discovered_by = Y46
+discovered_by = Y48
+discovered_by = Y49
+discovered_by = X05
+discovered_by = X06
+discovered_by = X34
+discovered_by = X57
+discovered_by = X63
+discovered_by = X66
+discovered_by = X68
+1444.11.11 = {
+	hre = no
+	base_tax = 3
+	base_production = 3
+	base_manpower = 2
+}
+1444.11.11 = {
+	owner = Z09
+	controller = Z09
+	culture = irish
+	religion = catholic
+}

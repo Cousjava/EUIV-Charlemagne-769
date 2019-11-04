@@ -1,26 +1,37 @@
-# Sápmi
+# Nidaros
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = sapmi
+primary_culture = norse
 religion = animism
 clear_scripted_personalities = yes
-capital = 18
+capital = 20
 1435.1.1 = {
 	monarch = {
-		name = "Leammá"
-		birth_date = 1414.1.1
-		dynasty = "Kaise"
+		name = "Grimr"
+		birth_date = 1408.1.1
+		dynasty = "av Askø"
 		adm = 1
-		dip = 4
-		mil = 0
+		dip = 2
+		mil = 4
 	}
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Asbjörn"
+		monarch_name = "Asbjörn"
+		dynasty = "av Askø"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 18
+	capital = 20
 	add_treasury = 4
 	add_prestige = 2
 }

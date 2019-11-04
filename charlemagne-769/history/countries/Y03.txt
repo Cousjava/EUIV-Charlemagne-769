@@ -1,39 +1,26 @@
-# Satakunta
-government = tribal
-add_government_reform = tribal_despotism
+# Cappadocia
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = finnish
-religion = animism
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 4123
-1430.1.1 = {
+capital = 4307
+1444.1.1 = {
 	monarch = {
-		name = "Ihala"
-		birth_date = 1413.1.1
-		dynasty = "Virtanen"
+		name = "Dositheos"
+		birth_date = 1420.1.1
+		dynasty = "Mamoulianos"
 		adm = 2
-		dip = 2
-		mil = 3
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = infertile_personality
-}
-1442.1.1 = {
-	heir = {
-		name = "Terho"
-		monarch_name = "Terho"
-		dynasty = "Virtanen"
-		birth_date = 1442.1.1
-		death_date = 1522.1.1
-		adm = 3
-		dip = 4
-		mil = 4
-	}
+	add_ruler_personality = pious_personality
 }
 1444.11.11 = {
-	capital = 4123
+	capital = 4307
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 5
 }

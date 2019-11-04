@@ -1,0 +1,36 @@
+# Kutch
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = gujarati
+religion = jain
+clear_scripted_personalities = yes
+capital = 503
+1443.1.1 = {
+	monarch = {
+		name = "Barappa"
+		birth_date = 1425.1.1
+		dynasty = "Sankhyavat"
+		adm = 0
+		dip = 3
+		mil = 5
+	}
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Dabir"
+		monarch_name = "Dabir"
+		dynasty = "Sankhyavat"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 503
+	add_treasury = 4
+	add_prestige = 2
+}

@@ -1,0 +1,37 @@
+# Sibir
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1071
+1435.1.1 = {
+	monarch = {
+		name = "Bonyak"
+		birth_date = 1403.1.1
+		dynasty = "Kipchaki"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Tura"
+		monarch_name = "Tura"
+		dynasty = "Kipchaki"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 1
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1071
+	add_treasury = 10
+	add_prestige = 12
+}

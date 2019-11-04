@@ -1,27 +1,40 @@
-# Merya
+# Pruthenia
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = mordvin
+primary_culture = old_prussian
 religion = animism
 clear_scripted_personalities = yes
-capital = 1753
+capital = 1841
 1425.1.1 = {
 	monarch = {
-		name = "Surt"
+		name = "Bezprzym"
 		birth_date = 1408.1.1
-		dynasty = "Meryavid"
+		dynasty = "Wilks"
 		adm = 3
 		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Milzas"
+		monarch_name = "Milzas"
+		dynasty = "Wilks"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+	add_heir_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
-	capital = 1753
+	capital = 1841
 	add_treasury = 6
 	add_prestige = 5
 }

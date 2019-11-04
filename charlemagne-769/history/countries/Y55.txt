@@ -1,26 +1,26 @@
-# Damashq
+# Bessarabia
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_suryah_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = bolghar
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 382
-1441.1.1 = {
+capital = 1756
+1443.1.1 = {
 	monarch = {
-		name = "Al-Fadl"
-		birth_date = 1415.1.1
-		dynasty = "Abbasid"
-		adm = 1
-		dip = 3
-		mil = 3
+		name = "Kardam"
+		birth_date = 1410.1.2
+		dynasty = "Dulo"
+		adm = 3
+		dip = 2
+		mil = 5
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 382
+	capital = 1756
 	add_treasury = 6
-	add_prestige = 33
+	add_prestige = 96
 }

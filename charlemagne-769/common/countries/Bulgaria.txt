@@ -35,26 +35,26 @@ historical_units = {
 
 leader_names = {
 
-	"Kubrat" "Toktu" "Krum" "Omortag" "Telerig" "Irkhan" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
-	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Kormisosh" "Vinekh" 
-	"Telets" "Sabin" "Umor" "Pagan" "Almish" "Alzek" "Anzi" "Apskhih" "Araslan" "Balamber" 
-	"Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" "Boyan" "Bulger" "Buzan" "Chepa" 
-	"Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" "Ellak" "Elemag" "Ernakh" 
-	"Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" "Islivan" "Isperikh" 
-	"Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kharaton" "Khinialon" "Khudbard" "Kordil" "Krovat" 
-	"Kurt" "Kutrigur" "Kuvrat" "Labertam" "Magotin" "Malamir" "Mugel" "Odolgan" "Okhsi" "Okhsun" 
-	"Okors" "Omurtag" "Onegavon" "Organ" "Organa" "Ornag" "Oshi" "Ostro" "Pakhtiyar" "Paväl" 
-	"Praksa" "Rassate" "Rugila" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Shilki" "Sondoke" 
-	"Tähtaman" "Tarasiy" "Taridin" "Tatra" "Telec" "Timër" "Timëreç" "Timërpälat" "Tingiz" "Tiradin" 
-	"Tokhtaman" "Tsog" "Tsul" "Tuk" "Uturgur" "Vakrim" "Venda" "Vetam" "Yani" "Yavantey" 
-	"Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Batir" }
+	"Kubrat" "Toktu" "Krum" "Omortag" "Irkhan" "Telerig" "Kardam" "Asparukh" "Batbayan" "Kotrag" 
+	"Kuber" "Tervel" "Ajjar" "Sevar" "Kormesiy" "Bozok" "Kermek" "Bayan" "Savkëlti" "Rugila" 
+	"Kormisosh" "Vinekh" "Telets" "Sabin" "Umor" "Pagan" "Almish" "Alzek" "Anzi" "Apskhih" 
+	"Araslan" "Balamber" "Bars" "Bataul" "Batoya" "Batulia" "Belkermak" "Bezmer" "Boyan" "Bulger" 
+	"Buzan" "Chepa" "Chinialush" "Dengizikh" "Dizeng" "Dometa" "Dristar" "Drong" "Dukum" "Ellak" 
+	"Elemag" "Ernakh" "Eskhakh" "Goleda" "Gostun" "Guar" "Hudbad" "Iani" "Irnek" "Isbul" 
+	"Islivan" "Isperikh" "Ispor" "Kälaç" "Kano" "Karan" "Karaton" "Kharaton" "Khinialon" "Khudbard" 
+	"Kordil" "Krovat" "Kurt" "Kutrigur" "Kuvrat" "Labertam" "Magotin" "Malamir" "Mugel" "Odolgan" 
+	"Okhsi" "Okhsun" "Okors" "Omurtag" "Onegavon" "Organ" "Organa" "Ornag" "Oshi" "Ostro" 
+	"Pakhtiyar" "Paväl" "Praksa" "Rassate" "Sandil" "Sandilkh" "Sarkhan" "Sartäç" "Savin" "Shilki" 
+	"Sondoke" "Tähtaman" "Tarasiy" "Taridin" "Tatra" "Telec" "Timër" "Timëreç" "Timërpälat" "Tingiz" 
+	"Tiradin" "Tokhtaman" "Tsog" "Tsul" "Tuk" "Uturgur" "Vakrim" "Venda" "Vetam" "Yani" 
+	"Yavantey" "Yençepi" "Yerneslu" "Yeçtirek" "Zabergan" "Zenti" "Tukiy" "Aydar" "Batir" }
 monarch_names = {
 	"Kubrat #1" = 18
 	"Toktu #1" = 21
 	"Krum #0" = 1
 	"Omortag #0" = 1
-	"Telerig #1" = 18
 	"Irkhan #0" = 1
+	"Telerig #1" = 18
 	"Kardam #0" = 1
 	"Asparukh #1" = 18
 	"Batbayan #1" = 18
@@ -67,6 +67,8 @@ monarch_names = {
 	"Bozok #0" = -1
 	"Kermek #0" = 1
 	"Bayan #0" = 1
+	"Savkëlti #0" = -1
+	"Rugila #0" = 1
 	"Kormisosh #1" = 0
 	"Vinekh #1" = 0
 	"Telets #1" = 0
@@ -141,7 +143,6 @@ monarch_names = {
 	"Paväl #0" = 0
 	"Praksa #0" = 0
 	"Rassate #0" = 0
-	"Rugila #0" = 0
 	"Sandil #0" = 0
 	"Sandilkh #0" = 0
 	"Sarkhan #0" = 0
@@ -179,10 +180,9 @@ monarch_names = {
 	"Batir #0" = 0
 
 
-	"Yildiz #0" = -1
-	"Peksen #0" = -1
-	"Çeçek #0" = -1
-	"Sirma #0" = -1
+	"Savtilek #0" = -1
+	"Gulçeçek #0" = -1
+	"Tura #0" = -1
 }
 ship_names = {
 	Alhtpolo

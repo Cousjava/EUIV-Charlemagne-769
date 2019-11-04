@@ -1,40 +1,26 @@
-# Bolghar
+# Bilar
 government = tribal
 add_government_reform = steppe_horde
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
 primary_culture = bolghar
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 4267
-1410.1.2 = {
+capital = 4265
+1440.1.1 = {
 	monarch = {
-		name = "Toktu"
-		birth_date = 1385.1.2
-		dynasty = "Dulo"
+		name = "Khudbard"
+		birth_date = 1408.1.1
+		dynasty = "Bilar"
 		adm = 3
-		dip = 5
-		mil = 1
+		dip = 3
+		mil = 2
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = charismatic_negotiator_personality
-}
-1415.1.2 = {
-	heir = {
-		name = "Irkhan"
-		monarch_name = "Irkhan"
-		dynasty = "Dulo"
-		birth_date = 1415.1.2
-		death_date = 1495.1.2
-		adm = 4
-		dip = 1
-		mil = 3
-	}
-	add_heir_personality = conqueror_personality
+	add_ruler_personality = naive_personality
 }
 1444.11.11 = {
-	capital = 4267
-	add_treasury = 10
-	add_prestige = 89
+	capital = 4265
+	add_treasury = 8
+	add_prestige = 7
 }

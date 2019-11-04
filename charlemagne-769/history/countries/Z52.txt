@@ -1,40 +1,26 @@
-# Lombardy
+# Seville
 government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
+add_government_reform = ottoman_government
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = old_lombard
-religion = catholic
+primary_culture = visigothic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 104
-1431.1.1 = {
+capital = 224
+1444.1.1 = {
 	monarch = {
-		name = "Desiderius"
-		birth_date = 1392.1.1
-		dynasty = "Alachisling"
-		adm = 4
-		dip = 0
-		mil = 2
-	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = drunkard_personality
-}
-1434.1.1 = {
-	heir = {
-		name = "Adelchis"
-		monarch_name = "Adelchis"
-		dynasty = "Alachisling"
-		birth_date = 1434.1.1
-		death_date = 1514.1.1
-		adm = 3
-		dip = 2
+		name = "Hisham"
+		birth_date = 1432.4.26
+		dynasty = "Umayyad"
+		adm = 5
+		dip = 3
 		mil = 3
 	}
-	add_heir_personality = naive_personality
+	add_ruler_personality = just_personality
 }
 1444.11.11 = {
-	capital = 104
-	add_treasury = 9
-	add_prestige = 7
+	capital = 224
+	add_treasury = 6
+	add_prestige = 122
 }

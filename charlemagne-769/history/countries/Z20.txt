@@ -13,11 +13,24 @@ capital = 4371
 		name = "Brorda"
 		birth_date = 1415.1.1
 		dynasty = "Godhelming"
-		adm = 1
-		dip = 2
+		adm = 5
+		dip = 0
 		mil = 1
 	}
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = scholar_personality
+}
+1436.1.1 = {
+	heir = {
+		name = "Æthelric"
+		monarch_name = "Æthelric"
+		dynasty = "Godhelming"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
 	capital = 4371

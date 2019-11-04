@@ -1,37 +1,37 @@
-# Magyar
+# Pinega
 government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+add_government_reform = tribal_despotism
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = hungarian
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
 clear_scripted_personalities = yes
-capital = 2406
-1439.1.1 = {
+capital = 4122
+1444.1.1 = {
 	monarch = {
-		name = "Jenö"
-		birth_date = 1416.1.1
-		dynasty = "Jenö"
+		name = "Somatu"
+		birth_date = 1396.1.1
+		dynasty = "Samayid"
 		adm = 3
 		dip = 2
 		mil = 1
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
 	heir = {
-		name = "Dezsõ"
-		monarch_name = "Dezsõ"
-		dynasty = "Jenö"
-		birth_date = 1433.1.1
-		death_date = 1513.1.1
-		adm = 2
-		dip = 3
-		mil = 2
+		name = "Noumea"
+		monarch_name = "Noumea"
+		dynasty = "Samayid"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 0
+		dip = 2
+		mil = 3
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = drunkard_personality
 }
 1444.11.11 = {
-	capital = 2406
-	add_treasury = 10
-	add_prestige = 13
+	capital = 4122
+	add_treasury = 4
+	add_prestige = 3
 }

@@ -1,27 +1,27 @@
-# Mordva
+# Zemaiteje
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = mordvin
+primary_culture = latvian
 religion = animism
 clear_scripted_personalities = yes
-capital = 302
+capital = 271
 1425.1.1 = {
 	monarch = {
-		name = "Uzhara"
-		birth_date = 1408.1.1
-		dynasty = "Mordvanid"
-		adm = 2
-		dip = 2
-		mil = 3
+		name = "Balodis"
+		birth_date = 1410.2.5
+		dynasty = "Penikis"
+		adm = 0
+		dip = 1
+		mil = 6
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = martial_educator_personality
 }
 1444.11.11 = {
-	capital = 302
-	add_treasury = 6
-	add_prestige = 6
+	capital = 271
+	add_treasury = 4
+	add_prestige = 5
 }

@@ -38,22 +38,22 @@ leader_names = {
 
 	"Oswald" "Uhtred" "Ealdred" "Æthelmund" "Æthelric" "Osmod" "Oshere" "Eanfrith" "Eanhere" "Osric" 
 	"Eafe" "Æthelheard" "Æthelweard" "Æthelmod" "Osred" "Ingeld" "Eanberht" "Gloyw" "Gwydolin" "Gwydol" 
-	"Pasgen" "Cadeyrn" "Cadell" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" 
-	"Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" 
-	"Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" 
-	"Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" 
-	"Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" "Ealdwine" "Ealdwulf" "Eardwulf" "Eastmund" 
-	"Ecgberht" "Ecgfrith" "Gamall" "Godwine" "Gospatric" "Guthfrith" "Guthmund" "Gyrth" "Hacon" "Harold" 
-	"Heahberht" "Hereberht" "Hereweald" "Hereweard" "Hlothere" "Hrodberht" "Inwær" "Leofheah" "Leofhelm" "Leofric" 
-	"Leofweald" "Leofwine" "Maccus" "Morcar" "Mærleswegn" "Offa" "Onlaf" "Ordgar" "Oscytel" "Osmund" 
-	"Osræd" "Osulf" "Osweald" "Oswine" "Oswulf" "Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" 
-	"Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" "Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" 
-	"Sæbert" "Sælræd" "Sæweald" "Sæxbald" "Sæxræd" "Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" 
-	"Ulf" "Ulfcytel" "Waltheof" "Werestan" "Wiglaf" "Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" 
-	"Wulfhelm" "Wulfhere" "Wulfmær" "Wulfnoth" "Wulfstan" "Ælfgar" "Ælfmær" "Ælfnoth" "Ælfric" "Ælfræd" 
-	"Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" "Ælfwig" "Ælfwine" "Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" 
-	"Æthelhere" "Æthelmær" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" 
-	"Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
+	"Pasgen" "Cadeyrn" "Ieliyn" "Emrys" "Arthfael" "Emyr" "Cynan" "Caradog" "Arncytel" "Balthere" 
+	"Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" 
+	"Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" 
+	"Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" 
+	"Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" 
+	"Ealdræd" "Ealdwine" "Ealdwulf" "Eardwulf" "Eastmund" "Ecgberht" "Ecgfrith" "Gamall" "Godwine" "Gospatric" 
+	"Guthfrith" "Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" "Hereberht" "Hereweald" "Hereweard" "Hlothere" 
+	"Hrodberht" "Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" "Leofwine" "Maccus" "Morcar" "Mærleswegn" 
+	"Offa" "Onlaf" "Ordgar" "Oscytel" "Osmund" "Osræd" "Osulf" "Osweald" "Oswine" "Oswulf" 
+	"Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" "Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" 
+	"Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sælræd" "Sæweald" "Sæxbald" "Sæxræd" 
+	"Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" "Ulf" "Ulfcytel" "Waltheof" "Werestan" "Wiglaf" 
+	"Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" "Wulfhere" "Wulfmær" "Wulfnoth" "Wulfstan" 
+	"Ælfgar" "Ælfmær" "Ælfnoth" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" "Ælfwig" 
+	"Ælfwine" "Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelræd" "Æthelsige" "Æthelstan" 
+	"Æthelweald" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
 monarch_names = {
 	"Oswald #0" = 1
 	"Uhtred #1" = 18
@@ -77,7 +77,12 @@ monarch_names = {
 	"Gwydol #1" = 0
 	"Pasgen #1" = 0
 	"Cadeyrn #1" = 0
-	"Cadell #1" = 0
+	"Ieliyn #1" = 0
+	"Emrys #2" = 0
+	"Arthfael #1" = 0
+	"Emyr #1" = 0
+	"Cynan #1" = 0
+	"Caradog #1" = 0
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -231,10 +236,10 @@ monarch_names = {
 	"Rædwald #0" = 0
 
 
-	"Mildrith #0" = -1
 	"Ælfgyth #0" = -1
-	"Sigrid #0" = -1
-	"Wynnflæd #0" = -1
+	"Hextilda #0" = -1
+	"Beorhtflæd #0" = -1
+	"Beorngyth #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

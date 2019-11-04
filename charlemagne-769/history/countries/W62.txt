@@ -1,0 +1,37 @@
+# Zavarot
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1444.1.1 = {
+	monarch = {
+		name = "Tatva"
+		birth_date = 1416.1.1
+		dynasty = "Tobyid"
+		adm = 3
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Pudak"
+		monarch_name = "Pudak"
+		dynasty = "Tobyid"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 6
+	add_prestige = 5
+}

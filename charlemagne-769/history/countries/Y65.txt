@@ -1,26 +1,26 @@
-# Abd al-Qays
-government = monarchy
-add_government_reform = ottoman_government
+# Tarján
+government = tribal
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = sunni
+technology_group = nomad_group
+primary_culture = hungarian
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 2347
+capital = 291
 1439.1.1 = {
 	monarch = {
-		name = "Sulayman"
-		birth_date = 1413.1.1
-		dynasty = "Abd al-Qays"
+		name = "Tarján"
+		birth_date = 1423.1.1
+		dynasty = "Tarján"
 		adm = 2
-		dip = 0
-		mil = 3
+		dip = 2
+		mil = 0
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 2347
-	add_treasury = 7
-	add_prestige = 6
+	capital = 291
+	add_treasury = 8
+	add_prestige = 9
 }

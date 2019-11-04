@@ -1,26 +1,38 @@
-# Marrakech
-government = tribal
-add_government_reform = tribal_despotism
-government_rank = 1
+# Abbasid
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 2
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = berber
-religion = shiite
+primary_culture = bedouin_arabic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 344
-1442.1.1 = {
+capital = 406
+1429.1.1 = {
 	monarch = {
-		name = "Masmud"
-		birth_date = 1408.1.1
-		dynasty = "Masmudid"
+		name = "Al-Mansur"
+		birth_date = 1389.1.1
+		dynasty = "Abbasid"
 		adm = 2
-		dip = 1
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = careful_personality
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = kind_hearted_personality
+	heir = {
+		name = "Al-Mahdi"
+		monarch_name = "Al-Mahdi"
+		dynasty = "Abbasid"
+		birth_date = 1410.1.1
+		death_date = 1490.1.1
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 344
-	add_treasury = 4
-	add_prestige = 3
+	capital = 406
+	add_treasury = 13
+	add_prestige = 35
 }

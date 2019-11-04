@@ -35,16 +35,18 @@ historical_units = {
 
 leader_names = {
 
-	"Cirulis" "Algirdas" "Antanas" "Antavas" "Aras" "Arunas" "Azuolas" "Budrys" "Bukantas" "Butavas" 
-	"Butigeidis" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" "Gediminas" 
-	"Gedivilas" "Gintaras" "Gintautas" "Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" "Kantibutas" "Karijotas" 
-	"Kesgaila" "Kestutis" "Korigaila" "Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" 
-	"Mindaugas" "Minigaila" "Mantvydas" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" 
-	"Ringaudas" "Sarunas" "Skirgaila" "Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" "Traidenis" "Treniotas" 
-	"Vainius" "Vaisvilkas" "Valimantas" "Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" 
-	"Vytenis" "Zivinbudas" "Zygimantas" }
+	"Cirulis" "Traidenis" "Giedre" "Algirdas" "Antanas" "Antavas" "Aras" "Arunas" "Azuolas" "Budrys" 
+	"Bukantas" "Butavas" "Butigeidis" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" 
+	"Gedigaudas" "Gediminas" "Gedivilas" "Gintaras" "Gintautas" "Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" 
+	"Kantibutas" "Karijotas" "Kesgaila" "Kestutis" "Korigaila" "Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" 
+	"Lutuveras" "Merkelis" "Mindaugas" "Minigaila" "Mantvydas" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" 
+	"Rimgaila" "Rimvydas" "Ringaudas" "Sarunas" "Skirgaila" "Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" 
+	"Treniotas" "Vainius" "Vaisvilkas" "Valimantas" "Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" 
+	"Vytautas" "Vytenis" "Zivinbudas" "Zygimantas" }
 monarch_names = {
 	"Cirulis #1" = 18
+	"Traidenis #0" = 1
+	"Giedre #0" = -1
 	"Algirdas #0" = 0
 	"Antanas #0" = 0
 	"Antavas #0" = 0
@@ -102,7 +104,6 @@ monarch_names = {
 	"Svitrigaila #0" = 0
 	"Tarvydas #0" = 0
 	"Tovtivilas #0" = 0
-	"Traidenis #0" = 0
 	"Treniotas #0" = 0
 	"Vainius #0" = 0
 	"Vaisvilkas #0" = 0
@@ -119,11 +120,10 @@ monarch_names = {
 	"Zygimantas #0" = 0
 
 
+	"Danute #0" = -1
 	"Vida #0" = -1
-	"Aldona #0" = -1
-	"Laima #0" = -1
-	"Gaudimante #0" = -1
-	"Svajone #0" = -1
+	"Roze #0" = -1
+	"Birute #0" = -1
 }
 ship_names = {
 	Alytus

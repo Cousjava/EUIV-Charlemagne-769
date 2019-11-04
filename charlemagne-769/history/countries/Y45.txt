@@ -1,26 +1,26 @@
-# Burtasid
+# Ezgil
 government = tribal
 add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
 technology_group = nomad_group
-primary_culture = alan
+primary_culture = bolghar
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 2417
-1444.1.1 = {
+capital = 4264
+1435.1.1 = {
 	monarch = {
-		name = "Syrdon"
-		birth_date = 1405.10.11
-		dynasty = "Burtasid"
-		adm = 2
-		dip = 3
+		name = "Islivan"
+		birth_date = 1410.1.1
+		dynasty = "Ezgil"
+		adm = 3
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 2417
-	add_treasury = 10
-	add_prestige = 52
+	capital = 4264
+	add_treasury = 8
+	add_prestige = 8
 }

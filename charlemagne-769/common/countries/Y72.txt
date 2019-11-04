@@ -1,150 +1,77 @@
-# Nefoud
+# Karadakhu
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 17 228 10 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	economic_ideas
-}
+color = { 169 147 89 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
-}
 
 
 
 leader_names = {
 
-	"Abbas" "Qutham" "Al-Mahdi" "Ja'far" "al-Hadi" "Harun al-Rashid" "Abd al-Malik" "Abdallah" "Al-Hadi" "Isa" 
-	"Al-Mansur" "Abd al-Bahhab" "Abd ar-Rahman" "Abbasa" "Ubaydallah" "Ibrahim" "Rayta" "Al-Fadl" "al-Sariyy" "Abdullah" 
-	"al-Harith" "Asma" "Ali" "Muhammad" "As-Saffah" "Musa" "Salih" "Abu-Bakr" "Aarif" "Abdul-Gafur" 
-	"Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Aghlab" "Akin" "Alim" "Aram" "Azam" "Bahir" 
-	"Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" 
-	"Idris" "Is'mail" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" 
-	"Mirza" "Mubarak" "Mukhtar" "Murad" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" 
-	"Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" 
-	"Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Sartäç" "Yabghu" "Gulay" "Alp" "Araslan" "Bagha" "Baghatur" "Bälgiçi" "Barjik" "Barsbek" 
+	"Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulan" "Bulçan" "Busir" "Buzer" "Çat" 
+	"Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" "Khuterkin" 
+	"Kibar" "Kisa" "Kundaçiq" "Kundaç" "Mänär" "Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" 
+	"Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yavantey" "Yençepi" "Yerneslu" 
+	"Yeçtirek" "Yilig" }
 monarch_names = {
-	"Abbas #0" = 1
-	"Qutham #1" = 18
-	"Al-Mahdi #0" = 1
-	"Ja'far #0" = 1
-	"al-Hadi #0" = 1
-	"Harun al-Rashid #0" = 1
-	"Abd al-Malik #0" = 1
-	"Abdallah #0" = 1
-	"Al-Hadi #0" = 1
-	"Isa #0" = 1
-	"Al-Mansur #0" = 1
-	"Abd al-Bahhab #0" = 1
-	"Abd ar-Rahman #0" = 1
-	"Abbasa #0" = -1
-	"Ubaydallah #0" = 1
-	"Ibrahim #0" = 1
-	"Rayta #0" = -1
-	"Al-Fadl #0" = 1
-	"al-Sariyy #0" = 1
-	"Abdullah #0" = 1
-	"al-Harith #0" = 1
-	"Asma #0" = -1
-	"Ali #0" = 1
-	"Muhammad #0" = 1
-	"As-Saffah #0" = 1
-	"Musa #0" = 1
-	"Salih #0" = 1
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mansur #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Muslihiddin #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
+	"Sartäç #0" = 1
+	"Yabghu #0" = 1
+	"Gulay #0" = -1
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Baghatur #0" = 0
+	"Bälgiçi #0" = 0
+	"Barjik #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulan #0" = 0
+	"Bulçan #0" = 0
+	"Busir #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kibar #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Kundaç #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
+	"Yilig #0" = 0
 
 
-	"Parand #0" = -1
-	"Asiya #0" = -1
-}
-ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	"Ilkay #0" = -1
+	"Gunduz #0" = -1
+	"Savtilek #0" = -1
+	"Kätyarikka #0" = -1
 }
 

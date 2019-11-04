@@ -1,106 +1,98 @@
-# Bréifne
+# Connachta
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 40 230 65 }
-historical_idea_groups = { 
-	naval_ideas
-	aristocracy_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	spy_ideas
-	innovativeness_ideas
-	offensive_ideas
+color = { 43 229 108 }
+historical_idea_groups = { 
+	naval_ideas
+	aristocracy_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	spy_ideas
+	innovativeness_ideas
+	offensive_ideas
 }
 
-historical_units = { 
-	western_medieval_infantry
-	western_medieval_knights
-	gaelic_galloglaigh
-	gaelic_mercenary
-	gaelic_free_shooter
-	irish_charge
-	anglofrench_line
-	british_redcoat
-	british_hussar
-	british_square
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = { 
+	western_medieval_infantry
+	western_medieval_knights
+	gaelic_galloglaigh
+	gaelic_mercenary
+	gaelic_free_shooter
+	irish_charge
+	anglofrench_line
+	british_redcoat
+	british_hussar
+	british_square
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Fergus" "Cernach" "Sellachán" "Fergnae" "Áed" "Scandlán" "Crimthann" "Báethine" "Máenach" "Dúnchad" 
-	"Dub-Dothra" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áedgen" "Áeducán" "Áedán" "Áengus" 
-	"Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" "Ailgus" "Ailill" 
-	"Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" "Airleid" "Airmedach" 
-	"Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" "Art" "Artbran" 
-	"Artgal" "Artgus" "Artucán" "Artúr" "Assiucc" "Augaire" "Augustín" "Aurthuile" "Báethgalach" "Báethíne" 
-	"Báetán" "Béoáed" "Barrfhind" "Beccán" "Berrach" "Bhátair" "Blathmacc" "Bran" "Brandub" "Brangen" 
-	"Bressal" "Brian" "Briccéne" "Briccíne" "Broccán" "Bruatur" "Bruide" "Brénaind" "Brénainn" "Bróen" 
-	"Búaidbéo" "Caicher" "Cailech" "Cailte" "Cairbre" "Cairell" "Caisséne" "Caissín" "Caissíne" "Canann" 
-	"Canannán" "Carlus" "Cathal" "Cathalán" "Cathassach" "Cathbad" "Cathmáel" "Cathmál" "Cathnio" "Cathub" 
-	"Causantín" "Caílte" "Caínchomrac" "Caíndelbán" "Ceithernach" "Cellach" "Cellachán" "Cennétig" "Cenn-Fáelad" "Cennlachán" 
-	"Cerball" "Cernachán" "Cian" "Ciarán" "Cilléne" "Cillíne" "Cináed" "Clemens" "Cobthach" "Coirpre" 
-	"Colcu" "Colmán" "Columb" "Comgán" "Conaing" "Conall" "Conallán" "Conamail" "Conán" "Conchenn" 
-	"Conchobar" "Condla" "Congal" "Congalach" "Congus" "Conlang" "Conmac" "Conmacc" "Conmáel" "Conmál" 
-	"Conn" "Connla" "Conrí" "Constans" "Constantín" "Corbb" "Corbán" "Corccán" "Corcrán" "Cormac" 
-	"Coscrach" "Coílboth" "Crundmáel" "Cruinnmáel" "Críchán" "Crónán" "Cuilén" "Cuindles" "Cuircthe" "Cummascach" 
-	"Cáemán" "Cóelbad" "Cóelub" "Cóemán" "Cú-Allaid" "Cú-Bretan" "Cú-Caech" "Cú-Cen" "Cú-Cen-Máthair" "Cú-Cúaráin" 
-	"Cú-Gamna" "Cú-Roí" "Cúanu" "Cúldub" "Cúán" "Cúánán" "Dabíd" "Daigre" "Dalbach" "Dallán" 
-	"Daniél" "Dathal" "Dathgus" "Demmán" "Diarmait" "Doedgus" "Domangart" "Domnall" "Donn" "Donnchad" 
-	"Donncuan" "Donndubán" "Donngal" "Donnucán" "Doélgus" "Drost" "Drust" "Dub-dá-Lethe" "Dubcenn" "Dubgenn" 
-	"Dubh" "Dubhghall" "Dubhglais" "Dubthach" "Dubáed" "Dubán" "Duiblesc" "Duibne" "Dunáed" "Dálach" 
-	"Dícuill" "Díglach" "Dímmae" "Dímmasach" "Dímmán" "Dínertach" "Dúnacán" "Dúnadach" "Dúngal" "Dúngalach" 
-	"Dúnlang" "Éamonn" "Echmarcach" "Échtgal" "Échtgus" "Echthigern" "Echuid" "Éicnech" "Éicnechán" "Eláir" 
-	"Énna" "Énri" "Éochad" "Eochaid" "Eochu" "Eochucán" "Éogan" "Erc" "Ercaid" "Ercáed" 
-	"Ercán" "Éremón" "Érennach" "Ernán" "Eterscél" "Eógan" "Eóganán" "Fachtna" "Fairchellach" "Fallaman" 
-	"Farannán" "Faílbe" "Fearghus" "Fechtnach" "Fedach" "Fearchar" "Fedelmid" "Feirgil" "Felic" "Fer-Fugaill" 
-	"Feradach" "Ferdomnach" "Fergal" "Fiachnae" "Fianchú" "Findbarr" "Fingen" "Finguine" "Finn" "Finnacán" 
-	"Finnbarr" "Finnchú" "Finnlagh" "Finnsnechtae" "Fintan" "Flaithbertach" "Flaithem" "Flaithemán" "Flaithgus" "Flaithrí" 
-	"Flann" "Flannacán" "Flannchad" "Flannán" "Fogartach" "Folachtach" "Forannán" "Forbassach" "Fothad" "Fothud" 
-	"Fuacarta" "Fubthad" "Fuirechtach" "Fursu" "Fáelcar" "Fáelchad" "Fáelchú" "Fáeldobur" "Fáelgus" "Fáelán" 
-	"Fáelbe" "Fíachnae" "Fíadchú" "Fíngin" "Fínsnechta" "Fócarta" "Gabrán" "Garalt" "Garbith" "Gilla-Íosa" 
-	"Gilla-Brígte" "Gilla-Coluim" "Gilla-Comgáin" "Gilla-Críst" "Gilla-na-Náem" "Gilla-Pátraic" "Gilla-Ruad" "Glaisiuc" "Glaschu" "Glún-Iairn" 
-	"Gofraid" "Gormacán" "Gormgus" "Gormán" "Guaire" "Gáethán" "Gáethíne" "Gósacht" "Iacob" "Iarlaithe" 
-	"Imchad" "Indrechtach" "Ioseph" "Íomhar" "Labraid" "Lachtnae" "Lachtnán" "Lachtnéne" "Laidcenn" "Laidgenn" 
-	"Laidíne" "Laisrén" "Lennán" "Lethlobur" "Liam" "Liber" "Lochlann" "Loingsech" "Lonán" "Lorcán" 
-	"Lugh" "Lugaid" "Lugáed" "Láegaire" "Lóchéne" "Lóchíne" "Lóeguire" "Mac-Laisre" "Mainchíne" "Maine" 
-	"Manchán" "Martan" "Mathgamain" "Matudán" "Minchán" "Mo-Chonna" "Mo-Lua" "Móenach" "Morand" "Morann" 
-	"Mugrón" "Muirchertach" "Muirecán" "Muiredach" "Muirgius" "Murchad" "Murchú" "Máel-Anfaid" "Máel-Bresail" "Máel-Brígte" 
-	"Máel-Cein" "Máel-Cianáin" "Máel-Ciaráin" "Máel-Coluim" "Máel-Corgis" "Máel-Dubh" "Máel-Dúin" "Máel-Fothartaig" "Máel-Fábaill" "Máel-Íosa" 
-	"Máel-Máedóc" "Máel-Martain" "Máel-Mórda" "Máel-Muire" "Máel-Míchíl" "Máel-Petair" "Máel-Pátraic" "Máel-Ruanaid" "Máel-Sechnaill" "Máel-Tólai" 
-	"Máelán" "Máthair" "Múadán" "Nadarchu" "Nannid" "Natfraech" "Natfraich" "Natsluaig" "Nechtan" "Niall" 
-	"Niallgus" "Niallán" "Nuadu" "Odrán" "Óengus" "Óenucán" "Oisséne" "Oissíne" "Olcán" "Ólchobar" 
-	"Onchú" "Orthanach" "Oscar" "Pátraic" "Petair" "Pilib" "Pól" "Proinsias" "Rechtabra" "Riacán" 
-	"Riaguil" "Robartach" "Rogallach" "Rogellach" "Ruah" "Ruaidrí" "Ruarcc" "Rumann" "Ráthach" "Rígán" 
-	"Ríán" "Ródán" "Rónchú" "Rónán" "Rúadacán" "Rúadán" "Scandal" "Scellán" "Scolaige" "Séaghdha" 
-	"Séafra" "Séamas" "Seán" "Sechnassach" "Selbach" "Senchán" "Seoán" "Sinach" "Siothrún" "Slébíne" 
-	"Snedgus" "Sogan" "Somhairle" "Suibne" "Sáerbrethach" "Sárán" "Séigíne" "Sétna" "Sétnae" "Tadg" 
-	"Taithlech" "Talorc" "Talorcán" "Temnén" "Tigernach" "Tigernán" "Tipraite" "Tomaltach" "Tomás" "Torccán" 
-	"Trenchad" "Trengus" "Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" 
-	"Ualtar" "Úamnachán" "Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
+	"Donn Cothaid" "Cathmug" "Aaron" "Abbán" "Abner" "Abél" "Adomnán" "Áed" "Áedgen" "Áeducán" 
+	"Áedán" "Áengus" "Affiath" "Ailbe" "Ailbrend" "Ailbrenn" "Ailchú" "Aildobur" "Ailgel" "Áilgenán" 
+	"Ailgus" "Ailill" "Ailpín" "Ainbchellach" "Áindle" "Ainftech" "Ainmere" "Airechtach" "Airfhindán" "Airfhinnán" 
+	"Airleid" "Airmedach" "Amalgaid" "Amlaíb" "Anfudán" "Anlón" "Anmchaid" "Ánrothán" "Ardgal" "Ardgar" 
+	"Art" "Artbran" "Artgal" "Artgus" "Artucán" "Artúr" "Assiucc" "Augaire" "Augustín" "Aurthuile" 
+	"Báethgalach" "Báethíne" "Báetán" "Béoáed" "Barrfhind" "Beccán" "Berrach" "Bhátair" "Blathmacc" "Bran" 
+	"Brandub" "Brangen" "Bressal" "Brian" "Briccéne" "Briccíne" "Broccán" "Bruatur" "Bruide" "Brénaind" 
+	"Brénainn" "Bróen" "Búaidbéo" "Caicher" "Cailech" "Cailte" "Cairbre" "Cairell" "Caisséne" "Caissín" 
+	"Caissíne" "Canann" "Canannán" "Carlus" "Cathal" "Cathalán" "Cathassach" "Cathbad" "Cathmáel" "Cathmál" 
+	"Cathnio" "Cathub" "Causantín" "Caílte" "Caínchomrac" "Caíndelbán" "Ceithernach" "Cellach" "Cellachán" "Cennétig" 
+	"Cenn-Fáelad" "Cennlachán" "Cerball" "Cernach" "Cernachán" "Cian" "Ciarán" "Cilléne" "Cillíne" "Cináed" 
+	"Clemens" "Cobthach" "Coirpre" "Colcu" "Colmán" "Columb" "Comgán" "Conaing" "Conall" "Conallán" 
+	"Conamail" "Conán" "Conchenn" "Conchobar" "Condla" "Congal" "Congalach" "Congus" "Conlang" "Conmac" 
+	"Conmacc" "Conmáel" "Conmál" "Conn" "Connla" "Conrí" "Constans" "Constantín" "Corbb" "Corbán" 
+	"Corccán" "Corcrán" "Cormac" "Coscrach" "Coílboth" "Crimthann" "Crundmáel" "Cruinnmáel" "Críchán" "Crónán" 
+	"Cuilén" "Cuindles" "Cuircthe" "Cummascach" "Cáemán" "Cóelbad" "Cóelub" "Cóemán" "Cú-Allaid" "Cú-Bretan" 
+	"Cú-Caech" "Cú-Cen" "Cú-Cen-Máthair" "Cú-Cúaráin" "Cú-Gamna" "Cú-Roí" "Cúanu" "Cúldub" "Cúán" "Cúánán" 
+	"Dabíd" "Daigre" "Dalbach" "Dallán" "Daniél" "Dathal" "Dathgus" "Demmán" "Diarmait" "Doedgus" 
+	"Domangart" "Domnall" "Donn" "Donnchad" "Donncuan" "Donndubán" "Donngal" "Donnucán" "Doélgus" "Drost" 
+	"Drust" "Dub-dá-Lethe" "Dubcenn" "Dubgenn" "Dubh" "Dubhghall" "Dubhglais" "Dubthach" "Dubáed" "Dubán" 
+	"Duiblesc" "Duibne" "Dunáed" "Dálach" "Dícuill" "Díglach" "Dímmae" "Dímmasach" "Dímmán" "Dínertach" 
+	"Dúnacán" "Dúnadach" "Dúnchad" "Dúngal" "Dúngalach" "Dúnlang" "Éamonn" "Echmarcach" "Échtgal" "Échtgus" 
+	"Echthigern" "Echuid" "Éicnech" "Éicnechán" "Eláir" "Énna" "Énri" "Éochad" "Eochaid" "Eochu" 
+	"Eochucán" "Éogan" "Erc" "Ercaid" "Ercáed" "Ercán" "Éremón" "Érennach" "Ernán" "Eterscél" 
+	"Eógan" "Eóganán" "Fachtna" "Fairchellach" "Fallaman" "Farannán" "Faílbe" "Fearghus" "Fechtnach" "Fedach" 
+	"Fearchar" "Fedelmid" "Feirgil" "Felic" "Fer-Fugaill" "Feradach" "Ferdomnach" "Fergal" "Fergus" "Fiachnae" 
+	"Fianchú" "Findbarr" "Fingen" "Finguine" "Finn" "Finnacán" "Finnbarr" "Finnchú" "Finnlagh" "Finnsnechtae" 
+	"Fintan" "Flaithbertach" "Flaithem" "Flaithemán" "Flaithgus" "Flaithrí" "Flann" "Flannacán" "Flannchad" "Flannán" 
+	"Fogartach" "Folachtach" "Forannán" "Forbassach" "Fothad" "Fothud" "Fuacarta" "Fubthad" "Fuirechtach" "Fursu" 
+	"Fáelcar" "Fáelchad" "Fáelchú" "Fáeldobur" "Fáelgus" "Fáelán" "Fáelbe" "Fíachnae" "Fíadchú" "Fíngin" 
+	"Fínsnechta" "Fócarta" "Gabrán" "Garalt" "Garbith" "Gilla-Íosa" "Gilla-Brígte" "Gilla-Coluim" "Gilla-Comgáin" "Gilla-Críst" 
+	"Gilla-na-Náem" "Gilla-Pátraic" "Gilla-Ruad" "Glaisiuc" "Glaschu" "Glún-Iairn" "Gofraid" "Gormacán" "Gormgus" "Gormán" 
+	"Guaire" "Gáethán" "Gáethíne" "Gósacht" "Iacob" "Iarlaithe" "Imchad" "Indrechtach" "Ioseph" "Íomhar" 
+	"Labraid" "Lachtnae" "Lachtnán" "Lachtnéne" "Laidcenn" "Laidgenn" "Laidíne" "Laisrén" "Lennán" "Lethlobur" 
+	"Liam" "Liber" "Lochlann" "Loingsech" "Lonán" "Lorcán" "Lugh" "Lugaid" "Lugáed" "Láegaire" 
+	"Lóchéne" "Lóchíne" "Lóeguire" "Mac-Laisre" "Mainchíne" "Maine" "Manchán" "Martan" "Mathgamain" "Matudán" 
+	"Minchán" "Mo-Chonna" "Mo-Lua" "Móenach" "Morand" "Morann" "Mugrón" "Muirchertach" "Muirecán" "Muiredach" 
+	"Muirgius" "Murchad" "Murchú" "Máel-Anfaid" "Máel-Bresail" "Máel-Brígte" "Máel-Cein" "Máel-Cianáin" "Máel-Ciaráin" "Máel-Coluim" 
+	"Máel-Corgis" "Máel-Dubh" "Máel-Dúin" "Máel-Fothartaig" "Máel-Fábaill" "Máel-Íosa" "Máel-Máedóc" "Máel-Martain" "Máel-Mórda" "Máel-Muire" 
+	"Máel-Míchíl" "Máel-Petair" "Máel-Pátraic" "Máel-Ruanaid" "Máel-Sechnaill" "Máel-Tólai" "Máelán" "Máenach" "Máthair" "Múadán" 
+	"Nadarchu" "Nannid" "Natfraech" "Natfraich" "Natsluaig" "Nechtan" "Niall" "Niallgus" "Niallán" "Nuadu" 
+	"Odrán" "Óengus" "Óenucán" "Oisséne" "Oissíne" "Olcán" "Ólchobar" "Onchú" "Orthanach" "Oscar" 
+	"Pátraic" "Petair" "Pilib" "Pól" "Proinsias" "Rechtabra" "Riacán" "Riaguil" "Robartach" "Rogallach" 
+	"Rogellach" "Ruah" "Ruaidrí" "Ruarcc" "Rumann" "Ráthach" "Rígán" "Ríán" "Ródán" "Rónchú" 
+	"Rónán" "Rúadacán" "Rúadán" "Scandal" "Scandlán" "Scellán" "Scolaige" "Séaghdha" "Séafra" "Séamas" 
+	"Seán" "Sechnassach" "Selbach" "Senchán" "Seoán" "Sinach" "Siothrún" "Slébíne" "Snedgus" "Sogan" 
+	"Somhairle" "Suibne" "Sáerbrethach" "Sárán" "Séigíne" "Sétna" "Sétnae" "Tadg" "Taithlech" "Talorc" 
+	"Talorcán" "Temnén" "Tigernach" "Tigernán" "Tipraite" "Tomaltach" "Tomás" "Torccán" "Trenchad" "Trengus" 
+	"Tressach" "Tuathalán" "Tuireann" "Tálán" "Tóla" "Túathal" "Ualgarg" "Ualan" "Ualtar" "Úamnachán" 
+	"Uargal" "Uargalach" "Uargus" "Uilliam" "Ultán" }
 monarch_names = {
-	"Fergus #0" = 1
-	"Cernach #0" = 1
-	"Sellachán #0" = 1
-	"Fergnae #0" = 1
-	"Áed #0" = 1
-	"Scandlán #0" = 1
-	"Crimthann #0" = 1
-	"Báethine #0" = 1
-	"Máenach #0" = 1
-	"Dúnchad #0" = 1
-	"Dub-Dothra #0" = 1
+	"Donn Cothaid #1" = 18
+	"Cathmug #0" = 1
 	"Aaron #0" = 0
 	"Abbán #0" = 0
 	"Abner #0" = 0
 	"Abél #0" = 0
 	"Adomnán #0" = 0
+	"Áed #0" = 0
 	"Áedgen #0" = 0
 	"Áeducán #0" = 0
 	"Áedán #0" = 0
@@ -196,6 +188,7 @@ monarch_names = {
 	"Cenn-Fáelad #0" = 0
 	"Cennlachán #0" = 0
 	"Cerball #0" = 0
+	"Cernach #0" = 0
 	"Cernachán #0" = 0
 	"Cian #0" = 0
 	"Ciarán #0" = 0
@@ -237,6 +230,7 @@ monarch_names = {
 	"Cormac #0" = 0
 	"Coscrach #0" = 0
 	"Coílboth #0" = 0
+	"Crimthann #0" = 0
 	"Crundmáel #0" = 0
 	"Cruinnmáel #0" = 0
 	"Críchán #0" = 0
@@ -303,6 +297,7 @@ monarch_names = {
 	"Dínertach #0" = 0
 	"Dúnacán #0" = 0
 	"Dúnadach #0" = 0
+	"Dúnchad #0" = 0
 	"Dúngal #0" = 0
 	"Dúngalach #0" = 0
 	"Dúnlang #0" = 0
@@ -348,6 +343,7 @@ monarch_names = {
 	"Feradach #0" = 0
 	"Ferdomnach #0" = 0
 	"Fergal #0" = 0
+	"Fergus #0" = 0
 	"Fiachnae #0" = 0
 	"Fianchú #0" = 0
 	"Findbarr #0" = 0
@@ -486,6 +482,7 @@ monarch_names = {
 	"Máel-Sechnaill #0" = 0
 	"Máel-Tólai #0" = 0
 	"Máelán #0" = 0
+	"Máenach #0" = 0
 	"Máthair #0" = 0
 	"Múadán #0" = 0
 	"Nadarchu #0" = 0
@@ -532,6 +529,7 @@ monarch_names = {
 	"Rúadacán #0" = 0
 	"Rúadán #0" = 0
 	"Scandal #0" = 0
+	"Scandlán #0" = 0
 	"Scellán #0" = 0
 	"Scolaige #0" = 0
 	"Séaghdha #0" = 0
@@ -584,11 +582,11 @@ monarch_names = {
 	"Ultán #0" = 0
 
 
-	"Sáerlaith #0" = -1
-	"Brigit #0" = -1
-	"Caisséne #0" = -1
-	"Lerben #0" = -1
-	"Echrad #0" = -1
+	"Uallach #0" = -1
+	"Finnguala #0" = -1
+	"Anlaith #0" = -1
+	"Mór #0" = -1
+	"Der-bForgaill #0" = -1
 }
 ship_names = {
 	Aoife

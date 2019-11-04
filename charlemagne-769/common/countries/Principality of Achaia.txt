@@ -36,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Christophoros" "Aniketos" "Eudokia" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" 
+	"Christophoros" "Eudokia" "Aniketos" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" 
 	"Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" 
 	"Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" 
 	"Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" 
@@ -53,8 +53,8 @@ leader_names = {
 	"Tiberios" "Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
 	"Christophoros #1" = 18
-	"Aniketos #0" = 1
 	"Eudokia #0" = -1
+	"Aniketos #0" = 1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -203,9 +203,9 @@ monarch_names = {
 
 
 	"Eulalia #0" = -1
-	"Leontia #0" = -1
+	"Martha #0" = -1
 	"Eustathia #0" = -1
-	"Nikarete #0" = -1
+	"Zenobia #0" = -1
 }
 ship_names = {
 	Hydra

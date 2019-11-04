@@ -1,40 +1,38 @@
-# Chawda
+# Berbera
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = gujarati
-religion = jain
+technology_group = east_african
+primary_culture = somali
+religion = sunni
 clear_scripted_personalities = yes
-capital = 521
-1420.1.1 = {
+capital = 1209
+1432.1.1 = {
 	monarch = {
-		name = "Vanaraja"
-		birth_date = 1395.1.1
-		dynasty = "Chawda"
+		name = "Hil"
+		birth_date = 1412.1.1
+		dynasty = "Abrone"
 		adm = 2
-		dip = 1
+		dip = 3
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Jamal"
+		monarch_name = "Jamal"
+		dynasty = "Abrone"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = cruel_personality
-}
-1435.1.1 = {
-	heir = {
-		name = "Yogaraja"
-		monarch_name = "Yogaraja"
-		dynasty = "Chawda"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 3
-		dip = 2
-		mil = 4
-	}
-	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = scholar_personality
 }
 1444.11.11 = {
-	capital = 521
-	add_treasury = 7
-	add_prestige = 6
+	capital = 1209
+	add_treasury = 6
+	add_prestige = 5
 }

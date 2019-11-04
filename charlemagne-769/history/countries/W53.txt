@@ -1,0 +1,36 @@
+# Munio
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = kanuri
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 2282
+1444.1.1 = {
+	monarch = {
+		name = "Dala"
+		birth_date = 1426.1.1
+		dynasty = "Ajawa"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+	heir = {
+		name = "Gana"
+		monarch_name = "Gana"
+		dynasty = "Ajawa"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 2282
+	add_treasury = 4
+	add_prestige = 3
+}

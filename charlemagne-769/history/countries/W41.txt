@@ -1,0 +1,37 @@
+# Romerike
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = animism
+clear_scripted_personalities = yes
+capital = 22
+1439.1.1 = {
+	monarch = {
+		name = "Alfgeir"
+		birth_date = 1407.1.1
+		dynasty = "af Raumariki"
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Ingólfr"
+		monarch_name = "Ingólfr"
+		dynasty = "af Raumariki"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = drunkard_personality
+}
+1444.11.11 = {
+	capital = 22
+	add_treasury = 4
+	add_prestige = 2
+}

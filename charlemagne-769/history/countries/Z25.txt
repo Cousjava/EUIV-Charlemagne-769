@@ -1,26 +1,37 @@
-# Fortriu
+# Dál Riata
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = pictish
+primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 251
-1438.1.1 = {
+capital = 253
+1437.1.1 = {
 	monarch = {
-		name = "Urguist"
-		birth_date = 1405.1.1
-		dynasty = "Circinn"
+		name = "Áed III"
+		birth_date = 1389.1.1
+		dynasty = "Mac Gabráin"
 		adm = 3
-		dip = 5
-		mil = 3
+		dip = 6
+		mil = 2
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Eochaid"
+		monarch_name = "Eochaid IV"
+		dynasty = "Mac Gabráin"
+		birth_date = 1429.1.1
+		death_date = 1509.1.1
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = conqueror_personality
 }
 1444.11.11 = {
-	capital = 251
+	capital = 253
 	add_treasury = 6
-	add_prestige = 15
+	add_prestige = 37
 }

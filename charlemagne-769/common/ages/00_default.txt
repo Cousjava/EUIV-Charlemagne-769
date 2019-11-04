@@ -49,8 +49,8 @@ age_of_discovery = {
 			calc_true_if = {
 				all_owned_province = {
 					OR = {
-						has_province_modifier = center_of_trade_modifier
-						has_province_modifier = inland_center_of_trade_modifier
+						province_has_center_of_trade_of_level = 2
+						province_has_center_of_trade_of_level = 3
 					}
 					controlled_by = owner
 					is_core = ROOT
@@ -161,6 +161,10 @@ age_of_discovery = {
 			}
 			ai_will_do = {
 				factor = 10
+				modifier = {
+					factor = 0
+					NOT = { num_of_colonists = 1 }
+				}
 			}
 		}
 		
@@ -207,6 +211,14 @@ age_of_discovery = {
 			}
 			ai_will_do = {
 				factor = 100
+				modifier = {
+					factor = 0
+					NOT = {
+						any_subject_country = {
+							liberty_desire = 20
+						}
+					}
+				}
 			}
 		}
 		ab_venice_ship_trade = {
@@ -242,6 +254,7 @@ age_of_reformation = {
 			OR = {
 				religion = protestant
 				religion = reformed
+				religion = anglican
 			}
 		}
 		
@@ -291,6 +304,7 @@ age_of_reformation = {
 		}
 		
 		obj_unify_culture = {	
+			is_subject = no
 			has_unified_culture_group = yes
 		}
 	}	
@@ -304,7 +318,7 @@ age_of_reformation = {
 				set_country_flag = religion_enforced_edict
 			}
 			ai_will_do = {
-				factor = 10
+				factor = 0
 			}
 		}
 	
@@ -511,7 +525,7 @@ age_of_absolutism = {
 				rival_change_cost = -0.5
 			}
 			ai_will_do = {
-				factor = 10
+				factor = 0
 			}
 		}
 
@@ -559,7 +573,7 @@ age_of_absolutism = {
 				yearly_absolutism = 1
 			}
 			ai_will_do = {
-				factor = 10
+				factor = 100
 			}
 		}
 	
@@ -659,7 +673,7 @@ age_of_revolutions = {
 				value = 0.25
 				extra_shortcut = yes
 			}
-		}	
+		}
 		obj_huge_capital = {
 			capital_scope = {
 				development = 50

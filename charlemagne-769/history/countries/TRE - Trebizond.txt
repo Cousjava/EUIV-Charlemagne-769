@@ -13,11 +13,11 @@ capital = 330
 		name = "Konstantios"
 		birth_date = 1424.1.1
 		dynasty = "Krinites"
-		adm = 1
-		dip = 2
+		adm = 0
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = fierce_negotiator_personality
 }
 1444.11.11 = {
 	capital = 330

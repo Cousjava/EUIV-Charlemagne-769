@@ -1,38 +1,26 @@
-# Gondar
+# Abd al-Qays
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = amhara
-religion = coptic
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1224
-1423.1.1 = {
+capital = 2347
+1439.1.1 = {
 	monarch = {
-		name = "Ogbae"
-		birth_date = 1403.1.1
-		dynasty = "Zagwe"
-		adm = 4
-		dip = 0
+		name = "Sulayman"
+		birth_date = 1413.1.1
+		dynasty = "Abd al-Qays"
+		adm = 3
+		dip = 4
 		mil = 3
 	}
-	add_ruler_personality = industrious_personality
-	add_ruler_personality = entrepreneur_personality
-	heir = {
-		name = "Dahnay"
-		monarch_name = "Dahnay"
-		dynasty = "Zagwe"
-		birth_date = 1420.1.1
-		death_date = 1500.1.1
-		adm = 4
-		dip = 3
-		mil = 3
-	}
-	add_heir_personality = expansionist_personality
+	add_ruler_personality = drunkard_personality
 }
 1444.11.11 = {
-	capital = 1224
-	add_treasury = 6
-	add_prestige = 5
+	capital = 2347
+	add_treasury = 7
+	add_prestige = 6
 }

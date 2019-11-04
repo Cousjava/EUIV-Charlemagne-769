@@ -1,37 +1,38 @@
-# Africa
+# Abkhazia
 government = monarchy
-add_government_reform = ottoman_government
-government_rank = 2
+add_government_reform = feudalism_reform
+government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = georgian
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 341
-1443.1.1 = {
+capital = 422
+1442.1.1 = {
 	monarch = {
-		name = "Umar"
-		birth_date = 1410.1.1
-		dynasty = "Muhallabid"
-		adm = 1
+		name = "Levan II"
+		birth_date = 1425.1.1
+		dynasty = "Anchabadze"
+		adm = 3
 		dip = 3
 		mil = 4
 	}
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1443.1.1 = {
 	heir = {
-		name = "Hafs"
-		monarch_name = "Hafs"
-		dynasty = "Muhallabid"
-		birth_date = 1385.1.1
-		death_date = 1465.1.1
-		adm = 0
-		dip = 6
-		mil = 1
+		name = "Teodos"
+		monarch_name = "Teodos II"
+		dynasty = "Anchabadze"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
 	}
-	add_heir_personality = well_connected_personality
 }
 1444.11.11 = {
-	capital = 341
-	add_treasury = 11
-	add_prestige = 14
+	capital = 422
+	add_treasury = 7
+	add_prestige = 20
 }

@@ -1,40 +1,27 @@
-# Ötüken
-government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+# Kalachuri
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = mongol
-religion = tengri_pagan_reformed
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
 clear_scripted_personalities = yes
-capital = 716
-1419.1.1 = {
+capital = 2094
+1400.1.1 = {
 	monarch = {
-		name = "Burkhan"
-		birth_date = 1407.10.4
-		dynasty = "Bayad"
-		adm = 2
-		dip = 6
-		mil = 3
-	}
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = well_connected_personality
-}
-1425.10.4 = {
-	heir = {
-		name = "Chigu"
-		monarch_name = "Chigu"
-		dynasty = "Bayad"
-		birth_date = 1425.10.4
-		death_date = 1505.10.4
-		adm = 1
-		dip = 4
+		name = "Rajaputra"
+		birth_date = 1385.1.1
+		dynasty = "Kalachuri"
+		adm = 0
+		dip = 2
 		mil = 1
 	}
-	add_heir_personality = cruel_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = careful_personality
 }
 1444.11.11 = {
-	capital = 716
-	add_treasury = 10
-	add_prestige = 12
+	capital = 2094
+	add_treasury = 6
+	add_prestige = 5
 }

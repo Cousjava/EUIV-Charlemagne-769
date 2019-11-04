@@ -1,27 +1,27 @@
-# Calabria
+# Paphlagonia
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
+technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 123
-1432.1.1 = {
+capital = 4313
+1434.1.1 = {
 	monarch = {
-		name = "Ionas"
-		birth_date = 1412.1.1
-		dynasty = "Glykomachaires"
-		adm = 1
-		dip = 3
-		mil = 2
+		name = "Aetios"
+		birth_date = 1414.1.1
+		dynasty = "Souanites"
+		adm = 2
+		dip = 5
+		mil = 3
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = craven_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 123
+	capital = 4313
 	add_treasury = 6
 	add_prestige = 4
 }

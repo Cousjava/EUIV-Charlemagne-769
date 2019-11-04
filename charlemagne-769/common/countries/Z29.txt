@@ -1,7 +1,7 @@
-# Manaw
+# Strathclyde
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 10 48 243 }
+color = { 77 116 208 }
 historical_idea_groups = {
 	defensive_ideas
 	aristocracy_ideas
@@ -34,47 +34,67 @@ historical_units = {
 
 leader_names = {
 
-	"Elidyr" "Gwriad" "Dingad" "Senyllt" "Neithon" "Rhun" "Tudwal" "Anllech" "Cynin" "Merfyn" 
-	"Anarawd" "Sandde" "Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" 
-	"Alured" "Alwyn" "Andreas" "Aneurin" "Anlaff" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
-	"Arthfoddw" "Arthwr" "Arthws" "Arthwys" "Asa" "Asaph" "Awst" "Bangar" "Bedwyr" "Beli" 
-	"Berthgwyn" "Berthwallt" "Bleddyn" "Bledrig" "Bleiddud" "Branwaladr" "Bride" "Briog" "Brochfael" "Brwt" 
-	"Brwyn" "Brychan" "Brân" "Cadell" "Cadeyrn" "Cadfael" "Cadfan" "Cadog" "Cadw" "Cadwal" 
-	"Cadwaladr" "Cadwallon" "Cadwared" "Cadwgan" "Cadwr" "Cai" "Caid" "Cain" "Caradog" "Casnar" 
-	"Caswallon" "Cawdaf" "Cedig" "Cedwyn" "Ceneu" "Ceredig" "Clydog" "Coel" "Corentin" "Cuhelyn" 
-	"Custennin" "Cwlfyn" "Cwrig" "Cydifor" "Cydrych" "Cynan" "Cynddelw" "Cyndyddan" "Cynddylan" "Cyndeyrn" 
-	"Cynfael" "Cynfarch" "Cynfawr" "Cynfeddw" "Cynfelyn" "Cynfran" "Cynfyn" "Cyngar" "Cyngen" "Cynwallon" 
-	"Cynwared" "Cynwrig" "Cynwyd" "Cynyr" "Cysteint" "Dafydd" "Deheuwant" "Deiniol" "Dewi" "Dogfael" 
-	"Drystan" "Dumnagual" "Dwyfan" "Dyfnarth" "Dyfnwal" "Dyfnwallon" "Dynod" "Dywel" "Edern" "Ednyfed" 
-	"Ednywain" "Edryd" "Edwyn" "Edylfred" "Einion" "Elfin" "Elis" "Elisedd" "Elud" "Elystan" 
-	"Emrys" "Enfidaig" "Erb" "Erclwf" "Eudaf" "Ewyas" "Ffernfael" "Ffilip" "Ffriog" "Ffwdwr" 
-	"Fragan" "Ffransis" "Fychan" "Fyrsil" "Gamon" "Garmon" "Geraint" "Gerallt" "Glwyddien" "Glywys" 
-	"Godwyn" "Goronwy" "Gronw" "Gruffydd" "Grygor" "Guret" "Gwalchmai" "Gwen" "Gwenwynwyn" "Gwerstan" 
-	"Gwerthefyr" "Gwerthern" "Gwydol" "Gwydolin" "Gwyn" "Gwidyr" "Gwilym" "Gwrfawr" "Gwrfoddw" "Gwrgant" 
-	"Gwrgeneu" "Gwrgi" "Harri" "Herewallt" "Huw" "Hywel" "Iago" "Ivor" "Idnerth" "Idwal" 
-	"Idwallon" "Iestyn" "Ieuan" "Ifor" "Io" "Ioan" "Iolo" "Iorwerth" "Ithel" "Lles" 
-	"Llew" "Llyr" "Llywarch" "Llywelyn" "Macsen" "Madog" "Mael" "Maelcwn" "Maelgwn" "Maenyrch" 
-	"March" "Maredudd" "Math" "Mawgan" "Meilyr" "Meirchion" "Meiriadog" "Meirion" "Meurig" "Mihangel" 
-	"Morfarch" "Morgan" "Morien" "Morydd" "Mwyn" "Myrddin" "Nowy" "Nynniaw" "Oswallt" "Owain" 
-	"Oucydd" "Padern" "Padrig" "Pandoff" "Pasgen" "Padarn" "Pawl" "Pedr" "Peredyr" "Publig" 
-	"Pyr" "Rheinallt" "Rhicert" "Rhigeneu" "Rhirid" "Rhiwal" "Rhiwallon" "Rhobert" "Rhodri" "Rhufon" 
-	"Rhydderch" "Rhydog" "Rhys" "Riaged" "Richwin" "Sawyl" "Seferus" "Seisyll" "Selyf" "Serigi" 
-	"Sieffre" "Sion" "Sior" "Siwauna" "Steffen" "Stinian" "Sulien" "Taliesin" "Tegonwy" "Tegwyd" 
-	"Teilo" "Teithfalch" "Teudebur" "Tewdos" "Tewdrig" "Tewdwr" "Tomos" "Trahaearn" "Tudur" "Tudwallon" 
-	"Tydy" "Tyfoedd" "Tysilio" "Urien" "Uthyr" "Ynyr" "Ysfael" }
+	"Madog" "Owain" "Rhydderch" "Cadwr" "Cadwgon" "Corbed" "Art Vroisc" "Fer" "Duibne Mawr" "Beinnie" 
+	"Art" "Cursalem" "Cluim" "Cinhil" "Cynloyp" "Ceretic Guletic" "Tutagual" "Cinuit" "Dumnagual" "Clinoch" 
+	"Dingat" "Guipno" "Sennylt" "Neithon" "Beli" "Custennin" "Guret" "Elfin" "Teudebur" "Rhodri" 
+	"Adda" "Adgar" "Adran" "Aeddan" "Alan" "Aldwr" "Algwyn" "Alisander" "Alured" "Alwyn" 
+	"Anarawd" "Andreas" "Aneurin" "Anlaff" "Anllech" "Annwn" "Argad" "Arod" "Arthen" "Arthfael" 
+	"Arthfoddw" "Arthwr" "Arthws" "Arthwys" "Asa" "Asaph" "Awst" "Bangar" "Bedwyr" "Berthgwyn" 
+	"Berthwallt" "Bleddyn" "Bledrig" "Bleiddud" "Branwaladr" "Bride" "Briog" "Brochfael" "Brwt" "Brwyn" 
+	"Brychan" "Brân" "Cadell" "Cadeyrn" "Cadfael" "Cadfan" "Cadog" "Cadw" "Cadwal" "Cadwaladr" 
+	"Cadwallon" "Cadwared" "Cadwgan" "Cai" "Caid" "Cain" "Caradog" "Casnar" "Caswallon" "Cawdaf" 
+	"Cedig" "Cedwyn" "Ceneu" "Ceredig" "Clydog" "Coel" "Corentin" "Cuhelyn" "Cwlfyn" "Cwrig" 
+	"Cydifor" "Cydrych" "Cynan" "Cynddelw" "Cyndyddan" "Cynddylan" "Cyndeyrn" "Cynfael" "Cynfarch" "Cynfawr" 
+	"Cynfeddw" "Cynfelyn" "Cynfran" "Cynfyn" "Cyngar" "Cyngen" "Cynwallon" "Cynwared" "Cynwrig" "Cynwyd" 
+	"Cynyr" "Cysteint" "Dafydd" "Deheuwant" "Deiniol" "Dewi" "Dogfael" "Drystan" "Dwyfan" "Dyfnarth" 
+	"Dyfnwal" "Dyfnwallon" "Dynod" "Dywel" "Edern" "Ednyfed" "Ednywain" "Edryd" "Edwyn" "Edylfred" 
+	"Einion" "Elidyr" "Elis" "Elisedd" "Elud" "Elystan" "Emrys" "Enfidaig" "Erb" "Erclwf" 
+	"Eudaf" "Ewyas" "Ffernfael" "Ffilip" "Ffriog" "Ffwdwr" "Fragan" "Ffransis" "Fychan" "Fyrsil" 
+	"Gamon" "Garmon" "Geraint" "Gerallt" "Glwyddien" "Glywys" "Godwyn" "Goronwy" "Gronw" "Gruffydd" 
+	"Grygor" "Gwalchmai" "Gwen" "Gwenwynwyn" "Gwerstan" "Gwerthefyr" "Gwerthern" "Gwydol" "Gwydolin" "Gwyn" 
+	"Gwidyr" "Gwilym" "Gwrfawr" "Gwrfoddw" "Gwrgant" "Gwrgeneu" "Gwrgi" "Gwriad" "Harri" "Herewallt" 
+	"Huw" "Hywel" "Iago" "Ivor" "Idnerth" "Idwal" "Idwallon" "Iestyn" "Ieuan" "Ifor" 
+	"Io" "Ioan" "Iolo" "Iorwerth" "Ithel" "Lles" "Llew" "Llyr" "Llywarch" "Llywelyn" 
+	"Macsen" "Mael" "Maelcwn" "Maelgwn" "Maenyrch" "March" "Maredudd" "Math" "Mawgan" "Meilyr" 
+	"Meirchion" "Meiriadog" "Meirion" "Merfyn" "Meurig" "Mihangel" "Morfarch" "Morgan" "Morien" "Morydd" 
+	"Mwyn" "Myrddin" "Nowy" "Nynniaw" "Oswallt" "Oucydd" "Padern" "Padrig" "Pandoff" "Pasgen" 
+	"Padarn" "Pawl" "Pedr" "Peredyr" "Publig" "Pyr" "Rheinallt" "Rhicert" "Rhigeneu" "Rhirid" 
+	"Rhiwal" "Rhiwallon" "Rhobert" "Rhufon" "Rhun" "Rhydog" "Rhys" "Riaged" "Richwin" "Sandde" 
+	"Sawyl" "Seferus" "Seisyll" "Selyf" "Senyllt" "Serigi" "Sieffre" "Sion" "Sior" "Siwauna" 
+	"Steffen" "Stinian" "Sulien" "Taliesin" "Tegonwy" "Tegwyd" "Teilo" "Teithfalch" "Tewdos" "Tewdrig" 
+	"Tewdwr" "Tomos" "Trahaearn" "Tudur" "Tudwal" "Tudwallon" "Tydy" "Tyfoedd" "Tysilio" "Urien" 
+	"Uthyr" "Ynyr" "Ysfael" }
 monarch_names = {
-	"Elidyr #1" = 18
-	"Gwriad #0" = 1
-	"Dingad #1" = 0
-	"Senyllt #1" = 0
-	"Neithon #1" = 0
-	"Rhun #1" = 0
-	"Tudwal #2" = 0
-	"Anllech #1" = 0
-	"Cynin #1" = 0
-	"Merfyn #1" = 0
-	"Anarawd #1" = 0
-	"Sandde #1" = 0
+	"Madog #1" = 18
+	"Owain #2" = 21
+	"Rhydderch #1" = 21
+	"Cadwr #1" = 18
+	"Cadwgon #1" = 18
+	"Corbed #1" = 18
+	"Art Vroisc #1" = 18
+	"Fer #2" = 21
+	"Duibne Mawr #1" = 18
+	"Beinnie #1" = 18
+	"Art #1" = 18
+	"Cursalem #1" = 18
+	"Cluim #1" = 18
+	"Cinhil #1" = 18
+	"Cynloyp #1" = 18
+	"Ceretic Guletic #1" = 18
+	"Tutagual #1" = 21
+	"Cinuit #1" = 18
+	"Dumnagual #3" = 24
+	"Clinoch #1" = 18
+	"Dingat #0" = 1
+	"Guipno #0" = 1
+	"Sennylt #0" = 1
+	"Neithon #1" = 18
+	"Beli #2" = 21
+	"Custennin #1" = 18
+	"Guret #1" = 18
+	"Elfin #1" = 18
+	"Teudebur #1" = 18
+	"Rhodri #1" = 0
 	"Adda #0" = 0
 	"Adgar #0" = 0
 	"Adran #0" = 0
@@ -85,9 +105,11 @@ monarch_names = {
 	"Alisander #0" = 0
 	"Alured #0" = 0
 	"Alwyn #0" = 0
+	"Anarawd #0" = 0
 	"Andreas #0" = 0
 	"Aneurin #0" = 0
 	"Anlaff #0" = 0
+	"Anllech #0" = 0
 	"Annwn #0" = 0
 	"Argad #0" = 0
 	"Arod #0" = 0
@@ -102,7 +124,6 @@ monarch_names = {
 	"Awst #0" = 0
 	"Bangar #0" = 0
 	"Bedwyr #0" = 0
-	"Beli #0" = 0
 	"Berthgwyn #0" = 0
 	"Berthwallt #0" = 0
 	"Bleddyn #0" = 0
@@ -127,7 +148,6 @@ monarch_names = {
 	"Cadwallon #0" = 0
 	"Cadwared #0" = 0
 	"Cadwgan #0" = 0
-	"Cadwr #0" = 0
 	"Cai #0" = 0
 	"Caid #0" = 0
 	"Cain #0" = 0
@@ -143,7 +163,6 @@ monarch_names = {
 	"Coel #0" = 0
 	"Corentin #0" = 0
 	"Cuhelyn #0" = 0
-	"Custennin #0" = 0
 	"Cwlfyn #0" = 0
 	"Cwrig #0" = 0
 	"Cydifor #0" = 0
@@ -174,7 +193,6 @@ monarch_names = {
 	"Dewi #0" = 0
 	"Dogfael #0" = 0
 	"Drystan #0" = 0
-	"Dumnagual #0" = 0
 	"Dwyfan #0" = 0
 	"Dyfnarth #0" = 0
 	"Dyfnwal #0" = 0
@@ -188,7 +206,7 @@ monarch_names = {
 	"Edwyn #0" = 0
 	"Edylfred #0" = 0
 	"Einion #0" = 0
-	"Elfin #0" = 0
+	"Elidyr #0" = 0
 	"Elis #0" = 0
 	"Elisedd #0" = 0
 	"Elud #0" = 0
@@ -218,7 +236,6 @@ monarch_names = {
 	"Gronw #0" = 0
 	"Gruffydd #0" = 0
 	"Grygor #0" = 0
-	"Guret #0" = 0
 	"Gwalchmai #0" = 0
 	"Gwen #0" = 0
 	"Gwenwynwyn #0" = 0
@@ -235,6 +252,7 @@ monarch_names = {
 	"Gwrgant #0" = 0
 	"Gwrgeneu #0" = 0
 	"Gwrgi #0" = 0
+	"Gwriad #0" = 0
 	"Harri #0" = 0
 	"Herewallt #0" = 0
 	"Huw #0" = 0
@@ -258,7 +276,6 @@ monarch_names = {
 	"Llywarch #0" = 0
 	"Llywelyn #0" = 0
 	"Macsen #0" = 0
-	"Madog #0" = 0
 	"Mael #0" = 0
 	"Maelcwn #0" = 0
 	"Maelgwn #0" = 0
@@ -271,6 +288,7 @@ monarch_names = {
 	"Meirchion #0" = 0
 	"Meiriadog #0" = 0
 	"Meirion #0" = 0
+	"Merfyn #0" = 0
 	"Meurig #0" = 0
 	"Mihangel #0" = 0
 	"Morfarch #0" = 0
@@ -282,7 +300,6 @@ monarch_names = {
 	"Nowy #0" = 0
 	"Nynniaw #0" = 0
 	"Oswallt #0" = 0
-	"Owain #0" = 0
 	"Oucydd #0" = 0
 	"Padern #0" = 0
 	"Padrig #0" = 0
@@ -301,17 +318,18 @@ monarch_names = {
 	"Rhiwal #0" = 0
 	"Rhiwallon #0" = 0
 	"Rhobert #0" = 0
-	"Rhodri #0" = 0
 	"Rhufon #0" = 0
-	"Rhydderch #0" = 0
+	"Rhun #0" = 0
 	"Rhydog #0" = 0
 	"Rhys #0" = 0
 	"Riaged #0" = 0
 	"Richwin #0" = 0
+	"Sandde #0" = 0
 	"Sawyl #0" = 0
 	"Seferus #0" = 0
 	"Seisyll #0" = 0
 	"Selyf #0" = 0
+	"Senyllt #0" = 0
 	"Serigi #0" = 0
 	"Sieffre #0" = 0
 	"Sion #0" = 0
@@ -325,13 +343,13 @@ monarch_names = {
 	"Tegwyd #0" = 0
 	"Teilo #0" = 0
 	"Teithfalch #0" = 0
-	"Teudebur #0" = 0
 	"Tewdos #0" = 0
 	"Tewdrig #0" = 0
 	"Tewdwr #0" = 0
 	"Tomos #0" = 0
 	"Trahaearn #0" = 0
 	"Tudur #0" = 0
+	"Tudwal #0" = 0
 	"Tudwallon #0" = 0
 	"Tydy #0" = 0
 	"Tyfoedd #0" = 0
@@ -342,11 +360,11 @@ monarch_names = {
 	"Ysfael #0" = 0
 
 
-	"Morien #0" = -1
-	"Ellyn #0" = -1
-	"Ffion #0" = -1
-	"Heulwen #0" = -1
-	"Mawd #0" = -1
+	"Eiliwedd #0" = -1
+	"Elen #0" = -1
+	"Sioned #0" = -1
+	"Fflur #0" = -1
+	"Gwenwyn #0" = -1
 }
 ship_names = {
 	Advantage "Ann of Anstruther"

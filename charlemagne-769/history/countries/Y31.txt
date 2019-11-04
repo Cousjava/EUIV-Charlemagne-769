@@ -1,26 +1,40 @@
-# Tarján
+# Veliky Ustug
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = hungarian
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
 clear_scripted_personalities = yes
-capital = 290
-1439.1.1 = {
+capital = 1755
+1425.1.1 = {
 	monarch = {
-		name = "Tarján"
-		birth_date = 1423.1.1
-		dynasty = "Tarján"
+		name = "Alik"
+		birth_date = 1408.1.1
+		dynasty = "Sarakid"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = malevolent_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Yapti"
+		monarch_name = "Yapti"
+		dynasty = "Sarakid"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
 		adm = 2
 		dip = 3
-		mil = 3
+		mil = 2
 	}
-	add_ruler_personality = infertile_personality
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 290
-	add_treasury = 8
-	add_prestige = 8
+	capital = 1755
+	add_treasury = 6
+	add_prestige = 4
 }

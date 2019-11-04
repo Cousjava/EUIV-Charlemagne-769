@@ -1,27 +1,37 @@
-# Kryvia
+# Sakala
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = ilmenian
+primary_culture = estonian
 religion = animism
 clear_scripted_personalities = yes
-capital = 293
-1425.1.1 = {
+capital = 37
+1440.1.1 = {
 	monarch = {
-		name = "Svetozar"
-		birth_date = 1425.1.1
-		dynasty = "Kryvich"
+		name = "Uku"
+		birth_date = 1395.6.18
+		dynasty = "kohta Sakala"
 		adm = 4
-		dip = 2
+		dip = 3
 		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Ilvelemb"
+		monarch_name = "Ilvelemb"
+		dynasty = "kohta Sakala"
+		birth_date = 1421.1.1
+		death_date = 1501.1.1
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 293
+	capital = 37
 	add_treasury = 6
 	add_prestige = 5
 }

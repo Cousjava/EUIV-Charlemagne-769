@@ -1,0 +1,37 @@
+# Suakin
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = east_african
+primary_culture = nubian
+religion = coptic
+clear_scripted_personalities = yes
+capital = 1232
+1437.1.1 = {
+	monarch = {
+		name = "Papasinen"
+		birth_date = 1417.1.1
+		dynasty = "Amarrar"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Marturophoros"
+		monarch_name = "Marturophoros"
+		dynasty = "Amarrar"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1232
+	add_treasury = 4
+	add_prestige = 2
+}

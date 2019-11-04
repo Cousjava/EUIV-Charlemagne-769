@@ -1,0 +1,26 @@
+# Kuci
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tocharian
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2121
+1435.1.1 = {
+	monarch = {
+		name = "Dharmawarme"
+		birth_date = 1414.1.1
+		dynasty = "Kuci"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2121
+	add_treasury = 4
+	add_prestige = 8
+}

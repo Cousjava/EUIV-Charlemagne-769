@@ -1,26 +1,37 @@
-# Silahara
+# Tuggurt
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = marathi
-religion = hinduism
+technology_group = muslim
+primary_culture = berber
+religion = ibadi
 clear_scripted_personalities = yes
-capital = 2030
-1440.1.1 = {
+capital = 2456
+1443.1.1 = {
 	monarch = {
-		name = "Sanahapulla"
-		birth_date = 1385.1.1
-		dynasty = "Silahara"
-		adm = 1
-		dip = 4
+		name = "Abdul-Rahman"
+		birth_date = 1403.1.1
+		dynasty = "Rustamid"
+		adm = 4
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = bold_fighter_personality
+	heir = {
+		name = "Wahab"
+		monarch_name = "Wahab"
+		dynasty = "Rustamid"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = industrious_personality
 }
 1444.11.11 = {
-	capital = 2030
-	add_treasury = 6
+	capital = 2456
+	add_treasury = 4
 	add_prestige = 4
 }

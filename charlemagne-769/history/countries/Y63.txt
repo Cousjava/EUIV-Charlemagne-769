@@ -1,27 +1,38 @@
-# Marwazid
-government = monarchy
-add_government_reform = ottoman_government
+# Olvia
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_suryah_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
 clear_scripted_personalities = yes
-capital = 1855
-1426.1.1 = {
+capital = 282
+1425.1.1 = {
 	monarch = {
-		name = "Sharaf"
-		birth_date = 1406.1.1
-		dynasty = "Marwazid"
-		adm = 3
-		dip = 3
-		mil = 4
+		name = "Tislavl"
+		birth_date = 1404.1.1
+		dynasty = "Olon"
+		adm = 2
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = sinner_personality
-	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Vysheslav"
+		monarch_name = "Vysheslav"
+		dynasty = "Olon"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 1855
-	add_treasury = 6
-	add_prestige = 5
+	capital = 282
+	add_treasury = 4
+	add_prestige = 3
 }

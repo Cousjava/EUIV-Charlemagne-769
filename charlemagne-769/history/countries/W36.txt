@@ -1,0 +1,40 @@
+# Ötüken
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = mongol
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 1060
+1419.1.1 = {
+	monarch = {
+		name = "Burkhan"
+		birth_date = 1407.10.4
+		dynasty = "Bayad"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = bold_fighter_personality
+}
+1425.10.4 = {
+	heir = {
+		name = "Chigu"
+		monarch_name = "Chigu"
+		dynasty = "Bayad"
+		birth_date = 1425.10.4
+		death_date = 1505.10.4
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 1060
+	add_treasury = 10
+	add_prestige = 12
+}

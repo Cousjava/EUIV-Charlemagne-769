@@ -1,26 +1,26 @@
-# Ouadane
+# Nefoud
 government = tribal
-add_government_reform = tribal_despotism
+add_government_reform = tribal_federation
 government_rank = 1
 mercantilism = 0.1
-technology_group = sub_saharan
-primary_culture = berber
-religion = shamanism
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1127
-1440.1.1 = {
+capital = 392
+1435.1.1 = {
 	monarch = {
-		name = "Ugdada"
-		birth_date = 1417.1.1
-		dynasty = "Ofodike"
-		adm = 1
+		name = "Qutham"
+		birth_date = 1375.1.1
+		dynasty = "Abbasid"
+		adm = 3
 		dip = 1
-		mil = 2
+		mil = 1
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = careful_personality
 }
 1444.11.11 = {
-	capital = 1127
-	add_treasury = 4
-	add_prestige = 2
+	capital = 392
+	add_treasury = 6
+	add_prestige = 33
 }

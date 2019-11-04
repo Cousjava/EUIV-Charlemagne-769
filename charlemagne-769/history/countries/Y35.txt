@@ -1,38 +1,40 @@
-# Khazaria
+# Merya
 government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+add_government_reform = tribal_despotism
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = khazar
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = mordvin
+religion = animism
 clear_scripted_personalities = yes
-capital = 464
-1424.1.1 = {
+capital = 4147
+1425.1.1 = {
 	monarch = {
-		name = "Baghatur"
-		birth_date = 1391.1.1
-		dynasty = "Ashina"
-		adm = 1
-		dip = 1
+		name = "Kardaz"
+		birth_date = 1408.1.1
+		dynasty = "Kardazid"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = tactical_genius_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Nishkepaz"
+		monarch_name = "Nishkepaz"
+		dynasty = "Kardazid"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 2
 		mil = 2
 	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = fertile_personality
-	heir = {
-		name = "Bulan"
-		monarch_name = "Bulan"
-		dynasty = "Ashina"
-		birth_date = 1409.1.1
-		death_date = 1489.1.1
-		adm = 2
-		dip = 3
-		mil = 3
-	}
-	add_heir_personality = righteous_personality
+	add_heir_personality = malevolent_personality
 }
 1444.11.11 = {
-	capital = 464
-	add_treasury = 10
-	add_prestige = 68
+	capital = 4147
+	add_treasury = 6
+	add_prestige = 6
 }

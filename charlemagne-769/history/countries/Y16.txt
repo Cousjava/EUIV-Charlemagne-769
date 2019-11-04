@@ -1,4 +1,4 @@
-# Latgale
+# Zemigallians
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
@@ -7,20 +7,34 @@ technology_group = eastern
 primary_culture = latvian
 religion = animism
 clear_scripted_personalities = yes
-capital = 273
-1443.1.1 = {
+capital = 1935
+1433.4.17 = {
 	monarch = {
-		name = "Pukuveras"
-		birth_date = 1412.1.1
-		dynasty = "Ugandi"
-		adm = 0
-		dip = 4
-		mil = 2
+		name = "Gibedats"
+		birth_date = 1417.4.17
+		dynasty = "gada Zagare"
+		adm = 1
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = sinner_personality
+	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = malevolent_personality
+}
+1436.1.1 = {
+	heir = {
+		name = "Visheiv"
+		monarch_name = "Visheiv"
+		dynasty = "gada Zagare"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = benevolent_personality
 }
 1444.11.11 = {
-	capital = 273
-	add_treasury = 4
-	add_prestige = 2
+	capital = 1935
+	add_treasury = 6
+	add_prestige = 4
 }

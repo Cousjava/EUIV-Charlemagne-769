@@ -13,11 +13,11 @@ capital = 115
 		name = "Alperto"
 		birth_date = 1397.1.1
 		dynasty = "Walpertingi"
-		adm = 2
-		dip = 1
-		mil = 0
+		adm = 4
+		dip = 0
+		mil = 5
 	}
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = strict_personality
 	add_ruler_personality = just_personality
 }
 1444.11.11 = {

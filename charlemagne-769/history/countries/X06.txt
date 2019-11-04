@@ -1,37 +1,24 @@
-# Tobol
-government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+# Asyut
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = cuman
-religion = tengri_pagan_reformed
+technology_group = muslim
+primary_culture = coptic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1076
-1443.1.1 = {
+1444.1.1 = {
 	monarch = {
-		name = "Bonyak"
-		birth_date = 1403.1.1
-		dynasty = "Kipchaki"
-		adm = 2
-		dip = 2
-		mil = 2
-	}
-	add_ruler_personality = tactical_genius_personality
-	heir = {
-		name = "Tura"
-		monarch_name = "Tura"
-		dynasty = "Kipchaki"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 1
+		name = "Dawud"
+		birth_date = 1415.1.1
+		dynasty = "Muhallabid"
+		adm = 3
 		dip = 1
-		mil = 2
+		mil = 4
 	}
-	add_heir_personality = greedy_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 1076
-	add_treasury = 10
-	add_prestige = 12
+	add_treasury = 6
+	add_prestige = 19
 }

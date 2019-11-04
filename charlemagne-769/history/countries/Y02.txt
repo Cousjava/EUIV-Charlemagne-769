@@ -1,36 +1,26 @@
-# Häme
-government = tribal
-add_government_reform = tribal_despotism
+# Aegean Islands
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = finnish
-religion = animism
+technology_group = eastern
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 29
-1442.1.1 = {
+capital = 164
+1436.1.1 = {
 	monarch = {
-		name = "Mielus"
-		birth_date = 1412.1.1
-		dynasty = "Hämäläinen"
-		adm = 4
-		dip = 4
-		mil = 3
+		name = "Demetrios"
+		birth_date = 1416.1.1
+		dynasty = "Bardouchos"
+		adm = 0
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = just_personality
-	heir = {
-		name = "Jalo"
-		monarch_name = "Jalo"
-		dynasty = "Hämäläinen"
-		birth_date = 1441.1.1
-		death_date = 1521.1.1
-		adm = 3
-		dip = 4
-		mil = 4
-	}
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 29
-	add_treasury = 4
-	add_prestige = 3
+	capital = 164
+	add_treasury = 6
+	add_prestige = 4
 }

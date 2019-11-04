@@ -34,23 +34,25 @@ historical_units = {
 
 leader_names = {
 
-	"Elpidios" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" "Anthemios" 
-	"Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" "Basileios" 
-	"Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" "Demetrios" 
-	"Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" "Eustathios" 
-	"Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" "Helias" 
-	"Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannes" "Ioannikios" 
-	"Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" "Kallinikos" 
-	"Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" "Laurentios" 
-	"Lazaros" "Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" "Maximos" 
-	"Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" "Nikolaos" 
-	"Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" 
-	"Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" "Romanos" 
-	"Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" "Theocharistos" 
-	"Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" 
-	"Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
+	"Elpidios" "Athanasios" "Theodosia" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" 
+	"Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Bardas" "Bartholomaios" 
+	"Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" 
+	"Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" 
+	"Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" "Hektorios" 
+	"Helias" "Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" "Ioannes" 
+	"Ioannikios" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" 
+	"Kallinikos" "Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" 
+	"Laurentios" "Lazaros" "Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" 
+	"Maximos" "Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" 
+	"Nikolaos" "Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" 
+	"Philaretos" "Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" 
+	"Romanos" "Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" 
+	"Theocharistos" "Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" 
+	"Tiberios" "Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
 	"Elpidios #1" = 18
+	"Athanasios #0" = 1
+	"Theodosia #0" = -1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -66,7 +68,6 @@ monarch_names = {
 	"Apollonios #0" = 0
 	"Arsenios #0" = 0
 	"Artemios #0" = 0
-	"Athanasios #0" = 0
 	"Bardas #0" = 0
 	"Bartholomaios #0" = 0
 	"Basileios #0" = 0
@@ -199,11 +200,10 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Eulalia #0" = -1
-	"Leontia #0" = -1
-	"Eustathia #0" = -1
-	"Nikarete #0" = -1
+	"Markia #0" = -1
 	"Thekla #0" = -1
+	"Iouliana #0" = -1
+	"Valeria #0" = -1
 }
 ship_names = {
 	Agatobles Altavilla Apollo Archimede Audaze Borbone

@@ -1,4 +1,4 @@
-# Cherson
+# Anatolia
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,21 +7,21 @@ technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 285
-1427.1.1 = {
+capital = 4311
+1425.1.1 = {
 	monarch = {
-		name = "Sebastos"
-		birth_date = 1407.1.1
-		dynasty = "Pyrrogenes"
-		adm = 2
-		dip = 3
-		mil = 2
+		name = "Michael"
+		birth_date = 1405.1.1
+		dynasty = "Melissenos"
+		adm = 3
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = strict_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 285
+	capital = 4311
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 5
 }

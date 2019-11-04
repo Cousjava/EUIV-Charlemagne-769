@@ -1,141 +1,55 @@
-# Vidin
+# Ääninen
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 122 103 58 }
-historical_idea_groups = {
-	defensive_ideas
-	offensive_ideas
-	spy_ideas
-	trade_ideas
-	diplomatic_ideas
-	economic_ideas
-	quality_ideas
-	quantity_ideas
-}
+color = { 103 118 58 }
 
-historical_units = {
-	eastern_medieval_infantry
-	eastern_knights
-	slavic_stradioti
-	eastern_militia
-	ottoman_sekban
-	ottoman_reformed_spahi
-	ottoman_reformed_janissary
-	ottoman_toprakli_hit_and_run
-	ottoman_nizami_cedid
-	ottoman_toprakli_dragoon
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	ottoman_new_model
-	ottoman_lancer
-}
 
 
 
 leader_names = {
 
-	"Urus" "Uturgur" "Sirma" "Vakrim" "Vinekh" "Umor" "Pagan" "Asparukh" "Adrian" "Alexandru" 
-	"Anghel" "Aron" "Bajan" "Balc" "Barbat" "Basarab" "Bogdan" "Carol" "Ciprian" "Ciubar" 
-	"Claudiu" "Corneliu" "Costin" "Damjan" "Dan" "Dragos" "Dumitru" "Emerik" "Florin" "Franjo" 
-	"Gavril" "Gheorghe" "Grigore" "Iacob" "Iancu" "Ieremia" "Ilie" "Ioan" "Iorghu" "Iosif" 
-	"Iuga" "Janos" "Ladislau" "Latcu" "Laurentiu" "Litovoi" "Lucian" "Marin" "Mihai" "Milos" 
-	"Mircea" "Moise" "Nicolaie" "Petre" "Pirvu" "Radovan" "Radu" "Roman" "Sas" "Seneslav" 
-	"Sergiu" "Simion" "Stefan" "Stelian" "Teodor" "Tepes" "Tibor" "Tihomir" "Timotei" "Tudor" 
-	"Valentin" "Valeriu" "Vasile" "Veaceslav" "Victor" "Vilhelm" "Vintila" "Vlad" }
+	"Kako" "Wayngachi" "Khatyako" "Ngeva" "Alik" "Hasaba" "Kharuchi" "Kolik" "Mandak" "Nabtiko" 
+	"Nenyts" "Nga" "Ngënoh" "Noumea" "Num" "Nyalku" "Panay" "Pudak" "Salinder" "Samatu" 
+	"Sarak" "Sirtya" "Somatu" "Syudbya" "Tatva" "Tolik" "Vesei" "Xëryuchi" "Yadne" "Yapti" 
+	"Yar" "Yavlad" "Yurak" }
 monarch_names = {
-	"Urus #1" = 18
-	"Uturgur #1" = 18
-	"Sirma #0" = -1
-	"Vakrim #0" = 1
-	"Vinekh #0" = 1
-	"Umor #1" = 18
-	"Pagan #0" = 1
-	"Asparukh #1" = 0
-	"Adrian #0" = 0
-	"Alexandru #0" = 0
-	"Anghel #0" = 0
-	"Aron #0" = 0
-	"Bajan #0" = 0
-	"Balc #0" = 0
-	"Barbat #0" = 0
-	"Basarab #0" = 0
-	"Bogdan #0" = 0
-	"Carol #0" = 0
-	"Ciprian #0" = 0
-	"Ciubar #0" = 0
-	"Claudiu #0" = 0
-	"Corneliu #0" = 0
-	"Costin #0" = 0
-	"Damjan #0" = 0
-	"Dan #0" = 0
-	"Dragos #0" = 0
-	"Dumitru #0" = 0
-	"Emerik #0" = 0
-	"Florin #0" = 0
-	"Franjo #0" = 0
-	"Gavril #0" = 0
-	"Gheorghe #0" = 0
-	"Grigore #0" = 0
-	"Iacob #0" = 0
-	"Iancu #0" = 0
-	"Ieremia #0" = 0
-	"Ilie #0" = 0
-	"Ioan #0" = 0
-	"Iorghu #0" = 0
-	"Iosif #0" = 0
-	"Iuga #0" = 0
-	"Janos #0" = 0
-	"Ladislau #0" = 0
-	"Latcu #0" = 0
-	"Laurentiu #0" = 0
-	"Litovoi #0" = 0
-	"Lucian #0" = 0
-	"Marin #0" = 0
-	"Mihai #0" = 0
-	"Milos #0" = 0
-	"Mircea #0" = 0
-	"Moise #0" = 0
-	"Nicolaie #0" = 0
-	"Petre #0" = 0
-	"Pirvu #0" = 0
-	"Radovan #0" = 0
-	"Radu #0" = 0
-	"Roman #0" = 0
-	"Sas #0" = 0
-	"Seneslav #0" = 0
-	"Sergiu #0" = 0
-	"Simion #0" = 0
-	"Stefan #0" = 0
-	"Stelian #0" = 0
-	"Teodor #0" = 0
-	"Tepes #0" = 0
-	"Tibor #0" = 0
-	"Tihomir #0" = 0
-	"Timotei #0" = 0
-	"Tudor #0" = 0
-	"Valentin #0" = 0
-	"Valeriu #0" = 0
-	"Vasile #0" = 0
-	"Veaceslav #0" = 0
-	"Victor #0" = 0
-	"Vilhelm #0" = 0
-	"Vintila #0" = 0
-	"Vlad #0" = 0
+	"Kako #0" = 1
+	"Wayngachi #0" = 1
+	"Khatyako #0" = -1
+	"Ngeva #0" = -1
+	"Alik #0" = 0
+	"Hasaba #0" = 0
+	"Kharuchi #0" = 0
+	"Kolik #0" = 0
+	"Mandak #0" = 0
+	"Nabtiko #0" = 0
+	"Nenyts #0" = 0
+	"Nga #0" = 0
+	"Ngënoh #0" = 0
+	"Noumea #0" = 0
+	"Num #0" = 0
+	"Nyalku #0" = 0
+	"Panay #0" = 0
+	"Pudak #0" = 0
+	"Salinder #0" = 0
+	"Samatu #0" = 0
+	"Sarak #0" = 0
+	"Sirtya #0" = 0
+	"Somatu #0" = 0
+	"Syudbya #0" = 0
+	"Tatva #0" = 0
+	"Tolik #0" = 0
+	"Vesei #0" = 0
+	"Xëryuchi #0" = 0
+	"Yadne #0" = 0
+	"Yapti #0" = 0
+	"Yar #0" = 0
+	"Yavlad #0" = 0
+	"Yurak #0" = 0
 
 
-	"Yildiz #0" = -1
-	"Peksen #0" = -1
-	"Çeçek #0" = -1
-	"Sirma #0" = -1
-}
-ship_names = {
-	Alhtpolo
-	Kiten Kraymorie
-	Lozenets
-	Promorsko
-	Rezovo
-	Sarafovo Sinemorets Sozopol
-	Varara
+	"Ngeva #0" = -1
+	"Laptsui #0" = -1
+	"Khatyako #0" = -1
 }
 

@@ -1,172 +1,107 @@
-# Tujibid
+# Galich
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 41 188 120 }
+graphical_culture = easterngfx
+color = { 224 112 130 }
 historical_idea_groups = {
 	defensive_ideas
-	religious_ideas
-	offensive_ideas
 	trade_ideas
+	offensive_ideas
 	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
 	diplomatic_ideas
-	innovativeness_ideas
-	economic_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
 }
 
 
 
 leader_names = {
 
-	"Hudayj al-Tujibi" "Abdullah" "Mu'awiyah" "Abderahman" "Aaron" "Abanoub" "Abdul-Aziz" "Abdul-Haq" "Abdul-Madjid" "Abdul-Salaam" 
-	"Abianos" "Abisalom" "Ablarion" "Abraam" "Abu-Bakr" "Adnan" "Agathon" "Agathonikos" "Agathos" "Ahmad" 
-	"Akbar" "Alam" "Ali" "Amr" "Androus" "Anthinos" "Arsenios" "Ashraf" "Asim" "Athanasios" 
-	"Badr" "Bashir" "Biktor" "Binyamin" "Bishoi" "Boutros" "Danyal" "Dawlat" "Da’oud" "Farhan" 
-	"Firuz" "Gabri’el" "Georgios" "Ghiyasaddin" "Habil" "Hakam" "Hammud" "Hanri" "Haroun" "Hisham" 
-	"Hussayn" "Ibrahim" "Ilyas" "Is'mail" "Izzaddin" "Jalaaladdin" "Jawdat" "Jerjer" "Kemaladdin" "Khalil" 
-	"Krystafer" "Latif" "Lot" "Malik" "Matta" "Mehtar" "Mikail" "Mikhael" "Milad" "Mina" 
-	"Muammar" "Muhammad" "Mukhtar" "Murad" "Murshid" "Musa" "Muzaffaraddin" "Nabil" "Nasir" "Nassib" 
-	"Nuraddin" "Pamin" "Qadir" "Ra'uf" "Rafiq" "Ridwan" "Sabah" "Salim" "Sha'ban" "Sharif" 
-	"Suhail" "Tadros" "Tajaddin" "Tayyib" "Touma" "Usama" "Walid" "Yahya" "Yared" "Yassir" 
-	"Youkhanna" "Youssef" "Zaia" "Zakariyah" }
+	"Premysl" "Sviatoslava" "Yevstafiy" "Briachislav" "Demid" "Dobrynia" "Fedot" "Gleb" "Igor" "Iliya" 
+	"Iziaslav" "Lev" "Mitrofan" "Mstislav" "Nikita" "Putiata" "Radoslav" "Rodislav" "Rogvolod" "Rostislav" 
+	"Ruslan" "Stanislav" "Sudislav" "Svetozar" "Sviatopolk" "Sviatoslav" "Terentiy" "Trifon" "Viacheslav" "Vladimir" 
+	"Vladislav" "Voislav" "Volodar" "Vseslav" "Vsevolod" "Vyshata" "Vysheslav" "Yaropolk" "Yaroslav" "Yefimiy" 
+	"Yelisey" "Yeremey" }
 monarch_names = {
-	"Hudayj al-Tujibi #0" = 1
-	"Abdullah #1" = 18
-	"Mu'awiyah #0" = 1
-	"Abderahman #0" = 1
-	"Aaron #0" = 0
-	"Abanoub #0" = 0
-	"Abdul-Aziz #0" = 0
-	"Abdul-Haq #0" = 0
-	"Abdul-Madjid #0" = 0
-	"Abdul-Salaam #0" = 0
-	"Abianos #0" = 0
-	"Abisalom #0" = 0
-	"Ablarion #0" = 0
-	"Abraam #0" = 0
-	"Abu-Bakr #0" = 0
-	"Adnan #0" = 0
-	"Agathon #0" = 0
-	"Agathonikos #0" = 0
-	"Agathos #0" = 0
-	"Ahmad #0" = 0
-	"Akbar #0" = 0
-	"Alam #0" = 0
-	"Ali #0" = 0
-	"Amr #0" = 0
-	"Androus #0" = 0
-	"Anthinos #0" = 0
-	"Arsenios #0" = 0
-	"Ashraf #0" = 0
-	"Asim #0" = 0
-	"Athanasios #0" = 0
-	"Badr #0" = 0
-	"Bashir #0" = 0
-	"Biktor #0" = 0
-	"Binyamin #0" = 0
-	"Bishoi #0" = 0
-	"Boutros #0" = 0
-	"Danyal #0" = 0
-	"Dawlat #0" = 0
-	"Da’oud #0" = 0
-	"Farhan #0" = 0
-	"Firuz #0" = 0
-	"Gabri’el #0" = 0
-	"Georgios #0" = 0
-	"Ghiyasaddin #0" = 0
-	"Habil #0" = 0
-	"Hakam #0" = 0
-	"Hammud #0" = 0
-	"Hanri #0" = 0
-	"Haroun #0" = 0
-	"Hisham #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Ilyas #0" = 0
-	"Is'mail #0" = 0
-	"Izzaddin #0" = 0
-	"Jalaaladdin #0" = 0
-	"Jawdat #0" = 0
-	"Jerjer #0" = 0
-	"Kemaladdin #0" = 0
-	"Khalil #0" = 0
-	"Krystafer #0" = 0
-	"Latif #0" = 0
-	"Lot #0" = 0
-	"Malik #0" = 0
-	"Matta #0" = 0
-	"Mehtar #0" = 0
-	"Mikail #0" = 0
-	"Mikhael #0" = 0
-	"Milad #0" = 0
-	"Mina #0" = 0
-	"Muammar #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Murshid #0" = 0
-	"Musa #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Nabil #0" = 0
-	"Nasir #0" = 0
-	"Nassib #0" = 0
-	"Nuraddin #0" = 0
-	"Pamin #0" = 0
-	"Qadir #0" = 0
-	"Ra'uf #0" = 0
-	"Rafiq #0" = 0
-	"Ridwan #0" = 0
-	"Sabah #0" = 0
-	"Salim #0" = 0
-	"Sha'ban #0" = 0
-	"Sharif #0" = 0
-	"Suhail #0" = 0
-	"Tadros #0" = 0
-	"Tajaddin #0" = 0
-	"Tayyib #0" = 0
-	"Touma #0" = 0
-	"Usama #0" = 0
-	"Walid #0" = 0
-	"Yahya #0" = 0
-	"Yared #0" = 0
-	"Yassir #0" = 0
-	"Youkhanna #0" = 0
-	"Youssef #0" = 0
-	"Zaia #0" = 0
-	"Zakariyah #0" = 0
+	"Premysl #1" = 18
+	"Sviatoslava #0" = -1
+	"Yevstafiy #0" = 1
+	"Briachislav #0" = 0
+	"Demid #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Gleb #0" = 0
+	"Igor #0" = 0
+	"Iliya #0" = 0
+	"Iziaslav #0" = 0
+	"Lev #0" = 0
+	"Mitrofan #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Putiata #0" = 0
+	"Radoslav #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Rostislav #0" = 0
+	"Ruslan #0" = 0
+	"Stanislav #0" = 0
+	"Sudislav #0" = 0
+	"Svetozar #0" = 0
+	"Sviatopolk #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Viacheslav #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Voislav #0" = 0
+	"Volodar #0" = 0
+	"Vseslav #0" = 0
+	"Vsevolod #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yaroslav #0" = 0
+	"Yefimiy #0" = 0
+	"Yelisey #0" = 0
+	"Yeremey #0" = 0
 
 
-	"Amunet #0" = -1
-	"Jamila #0" = -1
-	"Titi #0" = -1
-	"Asenet #0" = -1
-	"Safiya #0" = -1
+	"Dobronega #0" = -1
+	"Ulyana #0" = -1
+	"Darya #0" = -1
+	"Sviatoslava #0" = -1
 }
 ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
 }
 

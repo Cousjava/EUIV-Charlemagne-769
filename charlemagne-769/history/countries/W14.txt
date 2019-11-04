@@ -1,0 +1,26 @@
+# Anuy
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = kirgiz
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2355
+1434.6.1 = {
+	monarch = {
+		name = "Bughra"
+		birth_date = 1417.1.1
+		dynasty = "Anuy"
+		adm = 0
+		dip = 1
+		mil = 1
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+}
+1444.11.11 = {
+	capital = 2355
+	add_treasury = 8
+	add_prestige = 8
+}

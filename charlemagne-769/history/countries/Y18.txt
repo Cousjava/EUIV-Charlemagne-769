@@ -1,27 +1,37 @@
-# Yatvingia
+# Saaremaa
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = lithuanian
+primary_culture = estonian
 religion = animism
 clear_scripted_personalities = yes
-capital = 1937
-1425.1.1 = {
+capital = 35
+1438.1.1 = {
 	monarch = {
-		name = "Arunas"
-		birth_date = 1408.1.1
-		dynasty = "of Gardinas"
-		adm = 3
-		dip = 3
-		mil = 3
+		name = "Ylle"
+		birth_date = 1396.8.30
+		dynasty = "Saaremaai"
+		adm = 1
+		dip = 0
+		mil = 5
 	}
-	add_ruler_personality = benevolent_personality
-	add_ruler_personality = scholar_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Vilimeel"
+		monarch_name = "Vilimeel"
+		dynasty = "Saaremaai"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 3
+		dip = 0
+		mil = 4
+	}
+	add_heir_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 1937
-	add_treasury = 6
-	add_prestige = 5
+	capital = 35
+	add_treasury = 4
+	add_prestige = 2
 }

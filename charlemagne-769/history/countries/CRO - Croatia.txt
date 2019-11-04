@@ -7,17 +7,17 @@ technology_group = eastern
 primary_culture = croatian
 religion = animism
 clear_scripted_personalities = yes
-capital = 1826
+capital = 136
 1420.1.1 = {
 	monarch = {
 		name = "Budimir"
 		birth_date = 1393.1.1
 		dynasty = "Trpimirovic"
 		adm = 3
-		dip = 2
-		mil = 3
+		dip = 3
+		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = intricate_web_weaver_personality
 	add_ruler_personality = lawgiver_personality
 	heir = {
 		name = "Viseslav"
@@ -25,14 +25,14 @@ capital = 1826
 		dynasty = "Trpimirovic"
 		birth_date = 1413.1.1
 		death_date = 1493.1.1
-		adm = 4
+		adm = 2
 		dip = 2
 		mil = 5
 	}
-	add_heir_personality = conqueror_personality
+	add_heir_personality = secretive_personality
 }
 1444.11.11 = {
-	capital = 1826
+	capital = 136
 	add_treasury = 6
 	add_prestige = 5
 }

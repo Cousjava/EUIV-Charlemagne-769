@@ -1,4 +1,4 @@
-# Tír Eoghain
+# Ulaidh
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,34 +7,32 @@ technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 372
-1397.12.11 = {
+capital = 4121
+1425.1.1 = {
 	monarch = {
-		name = "Niall"
-		birth_date = 1393.1.1
-		dynasty = "Ua Néill Noígiallaich"
-		adm = 0
-		dip = 3
-		mil = 1
-	}
-	add_ruler_personality = craven_personality
-	add_ruler_personality = tactical_genius_personality
-}
-1435.1.1 = {
-	heir = {
-		name = "Áed"
-		monarch_name = "Áed"
-		dynasty = "Ua Néill Noígiallaich"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 4
-		dip = 3
+		name = "Fiachnae"
+		birth_date = 1375.1.1
+		dynasty = "Dál Fiatach"
+		adm = 3
+		dip = 4
 		mil = 3
 	}
-	add_heir_personality = naive_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Eochaid"
+		monarch_name = "Eochaid"
+		dynasty = "Dál Fiatach"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11 = {
-	capital = 372
+	capital = 4121
 	add_treasury = 4
-	add_prestige = 15
+	add_prestige = 2
 }

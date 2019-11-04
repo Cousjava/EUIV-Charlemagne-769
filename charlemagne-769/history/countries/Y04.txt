@@ -1,37 +1,27 @@
-# Pohjanmaa
-government = tribal
-add_government_reform = tribal_despotism
+# Cherson
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = western
-primary_culture = finnish
-religion = animism
+technology_group = eastern
+primary_culture = goths
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 19
-1436.1.1 = {
+capital = 285
+1427.1.1 = {
 	monarch = {
-		name = "Haapa"
+		name = "Sebastos"
 		birth_date = 1407.1.1
-		dynasty = "Kemiläinen"
-		adm = 1
-		dip = 5
-		mil = 3
-	}
-	add_ruler_personality = pious_personality
-	heir = {
-		name = "Kaleva"
-		monarch_name = "Kaleva"
-		dynasty = "Kemiläinen"
-		birth_date = 1434.1.1
-		death_date = 1514.1.1
+		dynasty = "Pyrrogenes"
 		adm = 3
-		dip = 2
-		mil = 2
+		dip = 1
+		mil = 6
 	}
-	add_heir_personality = craven_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 19
-	add_treasury = 4
-	add_prestige = 3
+	capital = 285
+	add_treasury = 6
+	add_prestige = 4
 }

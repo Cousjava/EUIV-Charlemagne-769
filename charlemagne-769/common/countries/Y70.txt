@@ -1,157 +1,87 @@
-# Midhhalbid
+# Khazaria
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 150 170 118 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	economic_ideas
-	diplomatic_ideas
-	administrative_ideas
-}
+color = { 250 184 31 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
-}
 
 
 
 leader_names = {
 
-	"Uways" "Aadam" "Aadeynag" "Aali" "Aalmaas" "Adham" "Allayaar" "Armaan" "Baahout" "Baalaach" 
-	"Baaraan" "Baarag" "Bahraam" "Ban'dag" "Bashshaam" "Behrouz" "Beh'zaad" "Bibagr" "Bohaador" "Buhaa'dor" 
-	"Bouheyr" "Braanz" "Chaakar" "Chaarshambeh" "Cheerag" "Delaa'waar" "Deedag" "Deleyr" "Del'shaad" "Didag" 
-	"Doudaa" "Dousteyn" "Gaazi" "Gam'shaad" "Gazzi" "Gishshar" "Gwahraam" "Haameyn" "Ham'bal" "Hammal" 
-	"Hayaat" "Haybat" "Horsond" "Jaafar" "Jalab" "Jehaangir" "Jiyand" "Joma" "Kamaal" "Kambar" 
-	"Mazaar" "Mallouk" "Mayaar" "Meer'zaad" "Meraan" "Meereen" "Mirbal" "Mirdoust" "Mirzaad" "Oumaan" 
-	"Omeyd" "Rahmat" "Rayhaan" "Rameen" "Roushen" "Rozhn" "Sabzal" "Sayaad" "Shaadaan" "Shaadmaan" 
-	"Shah'sawaar" "Shah'zaad" "Shah'daad" "Shahdoust" "Shahmir" "Shanbeh" "Shakkal" "Shamsheyr" "Sharif" "Sekandar" 
-	"Sheyrdel" "Soubaan" "Zangi" }
+	"Muhan" "Baghatur" "Yilig" "Kibar" "Bulan" "Obadiah" "Kundaç" "Bagha-Shad" "Tun-Yagbu" "Böri-Shad" 
+	"Irbis" "Khalga" "Theodora" "Busir" "Barjik" "Kaban" "Bihar" "Eirene" "Alp" "Araslan" 
+	"Bagha" "Bälgiçi" "Barsbek" "Bastu" "Bashtwa" "Bihor" "Böri" "Bugha" "Bulçan" "Buzer" 
+	"Çat" "Çat'n" "Çorpan" "Ilik" "Iltäbär" "Itakh" "Kamaj" "Karadakh" "Kayghalagh" "Khatir" 
+	"Khuterkin" "Kisa" "Kundaçiq" "Mänär" "Mänäs" "Mënümarót" "Ötemis" "Papaçyz" "Samsam" "Sartäç" 
+	"Simsam" "Täbär" "Tabghaç" "Tarkhan" "Tarmaç" "Tuzniq" "Vakrim" "Yabghu" "Yavantey" "Yençepi" 
+	"Yerneslu" "Yeçtirek" }
 monarch_names = {
-	"Uways #1" = 18
-	"Aadam #0" = 0
-	"Aadeynag #0" = 0
-	"Aali #0" = 0
-	"Aalmaas #0" = 0
-	"Adham #0" = 0
-	"Allayaar #0" = 0
-	"Armaan #0" = 0
-	"Baahout #0" = 0
-	"Baalaach #0" = 0
-	"Baaraan #0" = 0
-	"Baarag #0" = 0
-	"Bahraam #0" = 0
-	"Ban'dag #0" = 0
-	"Bashshaam #0" = 0
-	"Behrouz #0" = 0
-	"Beh'zaad #0" = 0
-	"Bibagr #0" = 0
-	"Bohaador #0" = 0
-	"Buhaa'dor #0" = 0
-	"Bouheyr #0" = 0
-	"Braanz #0" = 0
-	"Chaakar #0" = 0
-	"Chaarshambeh #0" = 0
-	"Cheerag #0" = 0
-	"Delaa'waar #0" = 0
-	"Deedag #0" = 0
-	"Deleyr #0" = 0
-	"Del'shaad #0" = 0
-	"Didag #0" = 0
-	"Doudaa #0" = 0
-	"Dousteyn #0" = 0
-	"Gaazi #0" = 0
-	"Gam'shaad #0" = 0
-	"Gazzi #0" = 0
-	"Gishshar #0" = 0
-	"Gwahraam #0" = 0
-	"Haameyn #0" = 0
-	"Ham'bal #0" = 0
-	"Hammal #0" = 0
-	"Hayaat #0" = 0
-	"Haybat #0" = 0
-	"Horsond #0" = 0
-	"Jaafar #0" = 0
-	"Jalab #0" = 0
-	"Jehaangir #0" = 0
-	"Jiyand #0" = 0
-	"Joma #0" = 0
-	"Kamaal #0" = 0
-	"Kambar #0" = 0
-	"Mazaar #0" = 0
-	"Mallouk #0" = 0
-	"Mayaar #0" = 0
-	"Meer'zaad #0" = 0
-	"Meraan #0" = 0
-	"Meereen #0" = 0
-	"Mirbal #0" = 0
-	"Mirdoust #0" = 0
-	"Mirzaad #0" = 0
-	"Oumaan #0" = 0
-	"Omeyd #0" = 0
-	"Rahmat #0" = 0
-	"Rayhaan #0" = 0
-	"Rameen #0" = 0
-	"Roushen #0" = 0
-	"Rozhn #0" = 0
-	"Sabzal #0" = 0
-	"Sayaad #0" = 0
-	"Shaadaan #0" = 0
-	"Shaadmaan #0" = 0
-	"Shah'sawaar #0" = 0
-	"Shah'zaad #0" = 0
-	"Shah'daad #0" = 0
-	"Shahdoust #0" = 0
-	"Shahmir #0" = 0
-	"Shanbeh #0" = 0
-	"Shakkal #0" = 0
-	"Shamsheyr #0" = 0
-	"Sharif #0" = 0
-	"Sekandar #0" = 0
-	"Sheyrdel #0" = 0
-	"Soubaan #0" = 0
-	"Zangi #0" = 0
+	"Muhan #0" = 1
+	"Baghatur #1" = 18
+	"Yilig #0" = 1
+	"Kibar #0" = 1
+	"Bulan #0" = 1
+	"Obadiah #0" = 1
+	"Kundaç #0" = 1
+	"Bagha-Shad #0" = 1
+	"Tun-Yagbu #0" = 1
+	"Böri-Shad #0" = 1
+	"Irbis #1" = 18
+	"Khalga #0" = 1
+	"Theodora #0" = -1
+	"Busir #1" = 18
+	"Barjik #1" = 18
+	"Kaban #0" = 1
+	"Bihar #1" = 18
+	"Eirene #0" = -1
+	"Alp #0" = 0
+	"Araslan #0" = 0
+	"Bagha #0" = 0
+	"Bälgiçi #0" = 0
+	"Barsbek #0" = 0
+	"Bastu #0" = 0
+	"Bashtwa #0" = 0
+	"Bihor #0" = 0
+	"Böri #0" = 0
+	"Bugha #0" = 0
+	"Bulçan #0" = 0
+	"Buzer #0" = 0
+	"Çat #0" = 0
+	"Çat'n #0" = 0
+	"Çorpan #0" = 0
+	"Ilik #0" = 0
+	"Iltäbär #0" = 0
+	"Itakh #0" = 0
+	"Kamaj #0" = 0
+	"Karadakh #0" = 0
+	"Kayghalagh #0" = 0
+	"Khatir #0" = 0
+	"Khuterkin #0" = 0
+	"Kisa #0" = 0
+	"Kundaçiq #0" = 0
+	"Mänär #0" = 0
+	"Mänäs #0" = 0
+	"Mënümarót #0" = 0
+	"Ötemis #0" = 0
+	"Papaçyz #0" = 0
+	"Samsam #0" = 0
+	"Sartäç #0" = 0
+	"Simsam #0" = 0
+	"Täbär #0" = 0
+	"Tabghaç #0" = 0
+	"Tarkhan #0" = 0
+	"Tarmaç #0" = 0
+	"Tuzniq #0" = 0
+	"Vakrim #0" = 0
+	"Yabghu #0" = 0
+	"Yavantey #0" = 0
+	"Yençepi #0" = 0
+	"Yerneslu #0" = 0
+	"Yeçtirek #0" = 0
 
 
-	"Parand #0" = -1
-	"Asiya #0" = -1
-	"Layla #0" = -1
-	"Faghira #0" = -1
-	"Qamara #0" = -1
-}
-ship_names = {
-	Abathur "Adamn Kasia" "Aesma Daeva" Agas
-	Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
-	"Aka Manah" Aladdin Allatum Amashaspan Ameratat
-	"Amesha Spentas" Anahita "Angra Mainyu" Anjuman
-	"Apam-natat" Apaosa Aredvi Arishtat Armaiti Arsaces
-	"Asha vahista" Asman "Asto Vidatu" "Astvat-Ereta"
-	Atar "Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta
-	Camros Daena Daevas Ahaka Dahhak Dena Dev Diwe Drug
-	Drvaspa Frashegird Fravashis Gandarewa "Gao-kerena"
-	Gayomard Gayomart "Geus-Tasan" "Geus-Urvan" Haoma
-	Haurvatat Humay Hvar Hvarekhshaeta Indar Indra Izha
-	Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya"
-	Kundrav Mah Mahre Mahrianag Manu Manuchihir Mao 
-	Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
-	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu
-	Rustam Saurva Simurgh "Spenta Mainyu" Sraosa Srosh
-	Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata
-	Verethragna "Vohu Manah" Vouruskasha Yam Yasht Yazata
-	Yezidi Yima Zal Zam "Zam-Armatay" Zarathustra Zarich
-	"Zend-Avesta" Zurvan
+	"Ilkay #0" = -1
+	"Gunduz #0" = -1
+	"Savtilek #0" = -1
 }
 

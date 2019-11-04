@@ -1,27 +1,26 @@
-# Benevento
+# Aslamid
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = old_lombard
-religion = catholic
+primary_culture = visigothic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1933
-1431.1.1 = {
+capital = 229
+1436.1.1 = {
 	monarch = {
-		name = "Arechis II"
-		birth_date = 1410.1.1
-		dynasty = "Gausian"
-		adm = 4
-		dip = 2
+		name = "Abdallah"
+		birth_date = 1413.1.1
+		dynasty = "Aslamid"
+		adm = 1
+		dip = 1
 		mil = 4
 	}
-	add_ruler_personality = pious_personality
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 1933
-	add_treasury = 6
-	add_prestige = 51
+	capital = 229
+	add_treasury = 7
+	add_prestige = 6
 }

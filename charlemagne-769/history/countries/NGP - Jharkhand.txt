@@ -13,23 +13,23 @@ capital = 2097
 		name = "Gandadeva"
 		birth_date = 1375.1.1
 		dynasty = "Sonhat"
-		adm = 2
-		dip = 1
-		mil = 3
+		adm = 3
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = kind_hearted_personality
 	heir = {
 		name = "Varnamana"
 		monarch_name = "Varnamana"
 		dynasty = "Sonhat"
 		birth_date = 1395.1.1
 		death_date = 1475.1.1
-		adm = 3
-		dip = 4
-		mil = 1
+		adm = 4
+		dip = 2
+		mil = 5
 	}
-	add_heir_personality = cruel_personality
+	add_heir_personality = entrepreneur_personality
 }
 1444.11.11 = {
 	capital = 2097

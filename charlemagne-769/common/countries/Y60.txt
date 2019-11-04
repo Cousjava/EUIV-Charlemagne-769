@@ -1,136 +1,125 @@
-# Palmyra
+# Užgorod
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 35 232 20 }
+graphical_culture = easterngfx
+color = { 156 15 15 }
 historical_idea_groups = {
 	defensive_ideas
-	religious_ideas
 	offensive_ideas
-	trade_ideas
 	spy_ideas
+	trade_ideas
 	diplomatic_ideas
-	innovativeness_ideas
 	economic_ideas
+	innovativeness_ideas
+	religious_ideas
 }
 
 historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	germanized_pike
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
 }
 
 
 
 leader_names = {
 
-	"Za'ida" "Ma'n" "Yazid" "Asad" "Sharahil" "Muhammad" "Salil" "Ahmad" "Mazyad" "Abdul-Azeem" 
-	"Abdul-Hamid" "Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" "Abdullah" "Adhid" "Adil" "Akab" "Ala'i" "Ali" 
-	"Amir" "Ashraf" "Aziz" "Bashar" "Boutros" "Da'ud" "Faisal" "Fayiz" "Ghazi" "Hakam" 
-	"Hamdan" "Hashmaddin" "Hussayn" "Ibrahim" "Imamaddin" "Isa" "Is'mail" "Ismat" "Jahan" "Jamil" 
-	"Kamran" "Khalid" "Khudayar" "Majid" "Mas'ud" "Muaddam" "Muhsin" "Mukhtar" "Murad" "Musa" 
-	"Muzaffar" "Muzaffaraddin" "Nasraddin" "Nuraddin" "Nuri" "Radhi" "Rasul" "Sa'ud" "Salahaddin" "Seyfullah" 
-	"Sharaf" "Sirhan" "Taimur" "Tawfiq" "Umaya" "Wahid" "Yahya" "Ya'qub" "Yasar" "Youkhanna" 
-	"Zahir" }
+	"Tvrdoslav" "Hranislav" "Sebeslav" "Dragomir" "Adam" "Andrija" "Bartol" "Besar" "Bojan" "Boris" 
+	"Branimir" "Castimir" "Danail" "Dmitar" "Dobromir" "Dragan" "Drzislav" "Dujam" "Duym" "Filip" 
+	"Gaspar" "Gheorghe" "Grigorii" "Hrvoje" "Igor" "Ioan" "Ivan" "Ivanis" "Jitej" "Karlo" 
+	"Koloman" "Kresimir" "Ladislav" "Ljudevit" "Ljutomisl" "Lovro" "Matej" "Mihajlo" "Milman" "Mislav" 
+	"Mutimir" "Nikolitza" "Ognjen" "Petar" "Prohor" "Radomir" "Ratimir" "Seslav" "Slavich" "Stanislav" 
+	"Stjepan" "Sulvan" "Teodor" "Tomislav" "Tvrtko" "Ulfo" "Vid" "Vitomir" "Vlaicu" "Vukan" 
+	"Zvonimir" }
 monarch_names = {
-	"Za'ida #1" = 21
-	"Ma'n #0" = 1
-	"Yazid #1" = 18
-	"Asad #0" = 1
-	"Sharahil #0" = 1
-	"Muhammad #0" = 1
-	"Salil #0" = 1
-	"Ahmad #0" = 1
-	"Mazyad #1" = 18
-	"Abdul-Azeem #0" = 0
-	"Abdul-Hamid #0" = 0
-	"Abdul-Lateef #0" = 0
-	"Abdul-Razzaq #0" = 0
-	"Abdul-Wahad #0" = 0
-	"Abdullah #0" = 0
-	"Adhid #0" = 0
-	"Adil #0" = 0
-	"Akab #0" = 0
-	"Ala'i #0" = 0
-	"Ali #0" = 0
-	"Amir #0" = 0
-	"Ashraf #0" = 0
-	"Aziz #0" = 0
-	"Bashar #0" = 0
-	"Boutros #0" = 0
-	"Da'ud #0" = 0
-	"Faisal #0" = 0
-	"Fayiz #0" = 0
-	"Ghazi #0" = 0
-	"Hakam #0" = 0
-	"Hamdan #0" = 0
-	"Hashmaddin #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Imamaddin #0" = 0
-	"Isa #0" = 0
-	"Is'mail #0" = 0
-	"Ismat #0" = 0
-	"Jahan #0" = 0
-	"Jamil #0" = 0
-	"Kamran #0" = 0
-	"Khalid #0" = 0
-	"Khudayar #0" = 0
-	"Majid #0" = 0
-	"Mas'ud #0" = 0
-	"Muaddam #0" = 0
-	"Muhsin #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muzaffar #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Nasraddin #0" = 0
-	"Nuraddin #0" = 0
-	"Nuri #0" = 0
-	"Radhi #0" = 0
-	"Rasul #0" = 0
-	"Sa'ud #0" = 0
-	"Salahaddin #0" = 0
-	"Seyfullah #0" = 0
-	"Sharaf #0" = 0
-	"Sirhan #0" = 0
-	"Taimur #0" = 0
-	"Tawfiq #0" = 0
-	"Umaya #0" = 0
-	"Wahid #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Yasar #0" = 0
-	"Youkhanna #0" = 0
-	"Zahir #0" = 0
+	"Tvrdoslav #1" = 18
+	"Hranislav #0" = 1
+	"Sebeslav #0" = 1
+	"Dragomir #0" = 1
+	"Adam #0" = 0
+	"Andrija #0" = 0
+	"Bartol #0" = 0
+	"Besar #0" = 0
+	"Bojan #0" = 0
+	"Boris #0" = 0
+	"Branimir #0" = 0
+	"Castimir #0" = 0
+	"Danail #0" = 0
+	"Dmitar #0" = 0
+	"Dobromir #0" = 0
+	"Dragan #0" = 0
+	"Drzislav #0" = 0
+	"Dujam #0" = 0
+	"Duym #0" = 0
+	"Filip #0" = 0
+	"Gaspar #0" = 0
+	"Gheorghe #0" = 0
+	"Grigorii #0" = 0
+	"Hrvoje #0" = 0
+	"Igor #0" = 0
+	"Ioan #0" = 0
+	"Ivan #0" = 0
+	"Ivanis #0" = 0
+	"Jitej #0" = 0
+	"Karlo #0" = 0
+	"Koloman #0" = 0
+	"Kresimir #0" = 0
+	"Ladislav #0" = 0
+	"Ljudevit #0" = 0
+	"Ljutomisl #0" = 0
+	"Lovro #0" = 0
+	"Matej #0" = 0
+	"Mihajlo #0" = 0
+	"Milman #0" = 0
+	"Mislav #0" = 0
+	"Mutimir #0" = 0
+	"Nikolitza #0" = 0
+	"Ognjen #0" = 0
+	"Petar #0" = 0
+	"Prohor #0" = 0
+	"Radomir #0" = 0
+	"Ratimir #0" = 0
+	"Seslav #0" = 0
+	"Slavich #0" = 0
+	"Stanislav #0" = 0
+	"Stjepan #0" = 0
+	"Sulvan #0" = 0
+	"Teodor #0" = 0
+	"Tomislav #0" = 0
+	"Tvrtko #0" = 0
+	"Ulfo #0" = 0
+	"Vid #0" = 0
+	"Vitomir #0" = 0
+	"Vlaicu #0" = 0
+	"Vukan #0" = 0
+	"Zvonimir #0" = 0
 
 
-	"Shararah #0" = -1
-	"Hanifa #0" = -1
-	"Jahaira #0" = -1
-	"Paywand #0" = -1
-	"Semeah #0" = -1
+	"Helena #0" = -1
+	"Emilija #0" = -1
+	"Ekaterina #0" = -1
+	"Dragana #0" = -1
+	"Rijeka #0" = -1
 }
 ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	Aranybulla 
+	Arpad
+	Magyar
+	Sigismund
+	"Szent Istvan kiraly"
+	"Hunyadi Matyas"
+	"Karoly Robert"
+	"Nagy Lajos"
+	Laszlo
+	Kalman
 }
 

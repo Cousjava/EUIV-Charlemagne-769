@@ -1,7 +1,7 @@
 # Provence
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 145 37 67 }
+color = { 145 37 20 }
 historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
@@ -36,13 +36,15 @@ historical_units = {
 
 leader_names = {
 
-	"Thomas" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" "Berengario" "Diaco" 
-	"Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" "Johan" "Liuva" 
-	"Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" "Petro" "Ranimiro" 
-	"Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" "Wifredo" "Wimarano" 
-	"Witiza" }
+	"Thomas" "Eberulf" "Liutgarde" "Adelfonso" "Agila" "Airmanagildo" "Alaricho" "Aloito" "Assur" "Athanagildo" 
+	"Berengario" "Diaco" "Fafila" "Friedenando" "Friednand" "Froila" "Garçi" "Gonçalo" "Gundemar" "Guttier" 
+	"Johan" "Liuva" "Liuvericho" "Lupo" "Mauregato" "Monnio" "Nunno" "Oliba" "Ordonno" "Pelagio" 
+	"Petro" "Ranimiro" "Rekkaredo" "Rodericho" "Sans" "Silo" "Suneario" "Suniefredo" "Theodoricho" "Veremondo" 
+	"Wifredo" "Wimarano" "Witiza" }
 monarch_names = {
 	"Thomas #1" = 18
+	"Eberulf #0" = 1
+	"Liutgarde #0" = -1
 	"Adelfonso #0" = 0
 	"Agila #0" = 0
 	"Airmanagildo #0" = 0
@@ -85,11 +87,10 @@ monarch_names = {
 	"Witiza #0" = 0
 
 
-	"Eldesendis #0" = -1
-	"Liutgarde #0" = -1
-	"Lanthechilde #0" = -1
-	"Monegund #0" = -1
-	"Arsindis #0" = -1
+	"Ermengildis #0" = -1
+	"Morberga #0" = -1
+	"Frotberga #0" = -1
+	"Eustadiola #0" = -1
 }
 ship_names = {
 	Armançon Arroux

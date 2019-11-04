@@ -1,40 +1,40 @@
-# Alania
+# Bolghar
 government = tribal
 add_government_reform = steppe_horde
 government_rank = 2
 mercantilism = 0.1
 technology_group = nomad_group
-primary_culture = alan
+primary_culture = bolghar
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 2197
-1416.1.1 = {
+capital = 4267
+1410.1.2 = {
 	monarch = {
-		name = "Buriberdi"
-		birth_date = 1395.1.1
-		dynasty = "Zmbalani"
-		adm = 2
-		dip = 4
+		name = "Toktu"
+		birth_date = 1385.1.2
+		dynasty = "Dulo"
+		adm = 3
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = zealot_personality
 }
-1421.1.1 = {
+1415.1.2 = {
 	heir = {
-		name = "Balsag"
-		monarch_name = "Balsag"
-		dynasty = "Zmbalani"
-		birth_date = 1421.1.1
-		death_date = 1501.1.1
-		adm = 2
-		dip = 0
-		mil = 1
+		name = "Irkhan"
+		monarch_name = "Irkhan"
+		dynasty = "Dulo"
+		birth_date = 1415.1.2
+		death_date = 1495.1.2
+		adm = 3
+		dip = 1
+		mil = 3
 	}
-	add_heir_personality = cruel_personality
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
-	capital = 2197
+	capital = 4267
 	add_treasury = 10
-	add_prestige = 12
+	add_prestige = 98
 }

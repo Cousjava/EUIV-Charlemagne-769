@@ -1,26 +1,39 @@
-# Hamzahbid
-government = monarchy
-add_government_reform = ottoman_government
+# Dregovichia
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = persian
-religion = sunni
+technology_group = eastern
+primary_culture = ilmenian
+religion = animism
 clear_scripted_personalities = yes
-capital = 4289
-1444.1.1 = {
+capital = 278
+1425.1.1 = {
 	monarch = {
-		name = "Umarah"
+		name = "Igor"
 		birth_date = 1413.1.1
-		dynasty = "Hamzahbid"
-		adm = 3
-		dip = 1
-		mil = 2
+		dynasty = "Dregovich"
+		adm = 2
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = tolerant_personality
+}
+1439.1.1 = {
+	heir = {
+		name = "Igor"
+		monarch_name = "Igor II"
+		dynasty = "Dregovich"
+		birth_date = 1439.1.1
+		death_date = 1519.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
 1444.11.11 = {
-	capital = 4289
+	capital = 278
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 6
 }

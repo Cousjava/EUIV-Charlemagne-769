@@ -1,27 +1,27 @@
-# Taglibid
-government = monarchy
-add_government_reform = ottoman_government
+# Severia
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = kurdish
-religion = sunni
+technology_group = eastern
+primary_culture = severian
+religion = animism
 clear_scripted_personalities = yes
-capital = 4295
-1417.1.1 = {
+capital = 289
+1425.1.1 = {
 	monarch = {
-		name = "Muhammad"
-		birth_date = 1397.1.1
-		dynasty = "Taglibid"
-		adm = 1
+		name = "Sviatoslav"
+		birth_date = 1421.1.1
+		dynasty = "Radimich"
+		adm = 0
 		dip = 2
-		mil = 1
+		mil = 0
 	}
+	add_ruler_personality = infertile_personality
 	add_ruler_personality = benevolent_personality
-	add_ruler_personality = kind_hearted_personality
 }
 1444.11.11 = {
-	capital = 4295
+	capital = 289
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 9
 }

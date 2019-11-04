@@ -1,0 +1,37 @@
+# Vel
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 4129
+1444.1.1 = {
+	monarch = {
+		name = "Parush"
+		birth_date = 1390.1.1
+		dynasty = "Tikshaykid"
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Nuyaksha"
+		monarch_name = "Nuyaksha"
+		dynasty = "Tikshaykid"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 3
+		dip = 3
+		mil = 0
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 4
+	add_prestige = 3
+}

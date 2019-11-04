@@ -1,41 +1,41 @@
-# Heidmark
+# Vingulsmark
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 110 140 235 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+color = { 120 158 235 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Þorsteinn" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
+	"Alfr" "Alfhildr" "Ale" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
 	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
 	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
 	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
@@ -47,12 +47,12 @@ leader_names = {
 	"Olafr" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" 
 	"Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" 
 	"Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" 
-	"Þorbrandr" "Þordr" "Þorgil" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
-	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" 
+	"Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Þorsteinn #0" = 1
+	"Alfr #0" = 1
+	"Alfhildr #0" = -1
 	"Ale #0" = 0
-	"Alfr #0" = 0
 	"Alfgeir #0" = 0
 	"Anders #0" = 0
 	"Anlaufr #0" = 0
@@ -173,6 +173,7 @@ monarch_names = {
 	"Þorbrandr #0" = 0
 	"Þordr #0" = 0
 	"Þorgil #0" = 0
+	"Þorsteinn #0" = 0
 	"Þorolfr #0" = 0
 	"Toste #0" = 0
 	"Totil #0" = 0
@@ -187,21 +188,20 @@ monarch_names = {
 	"Öysteinn #0" = 0
 
 
-	"Yrsa #0" = -1
-	"Aleta #0" = -1
-	"Sara #0" = -1
-	"Kristina #0" = -1
 	"Kraka #0" = -1
+	"Halla #0" = -1
+	"Alfrið #0" = -1
+	"Rögnfrið #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
 }
 

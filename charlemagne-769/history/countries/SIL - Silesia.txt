@@ -7,21 +7,34 @@ technology_group = eastern
 primary_culture = polish
 religion = animism
 clear_scripted_personalities = yes
-capital = 60
+capital = 4238
 1425.1.1 = {
 	monarch = {
 		name = "Witosz"
 		birth_date = 1408.1.1
 		dynasty = "of the Slezanie"
-		adm = 1
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = craven_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Lambert"
+		monarch_name = "Lambert"
+		dynasty = "of the Slezanie"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
 		dip = 3
 		mil = 2
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
-	add_ruler_personality = malevolent_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 60
+	capital = 4238
 	add_treasury = 6
 	add_prestige = 6
 }

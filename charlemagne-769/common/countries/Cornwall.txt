@@ -34,7 +34,7 @@ historical_units = {
 
 leader_names = {
 
-	"Iudhael" "Cawrdolli" "Hernam" "Hopkin" "Oswallt" "Hoël" "Donual" "Rodric" "Caradog" "Meurig" 
+	"Iudhael" "Cawrdolli" "Oswallt" "Hernam" "Hopkin" "Hoël" "Donual" "Rodric" "Caradog" "Meurig" 
 	"Dynod" "Cynan Meiriadog" "Cadfan" "Gwrfawr" "Tudwal" "Cynfawr" "Custennin" "Erbin" "Geraint" "Cadwy" 
 	"Gereint" "Bledric" "Clemen" "Petroc" "Culmin" "Dumnarth" "Adoyre" "Adrien" "Aedan" "Agustin" 
 	"Alan" "Alar" "Aldrien" "Alfrond" "Alor" "Alured" "Alwen" "Anaoc" "Anaubritou" "Anaugen" 
@@ -80,9 +80,9 @@ leader_names = {
 monarch_names = {
 	"Iudhael #1" = 18
 	"Cawrdolli #1" = 18
+	"Oswallt #0" = 1
 	"Hernam #0" = 1
 	"Hopkin #0" = 1
-	"Oswallt #0" = 1
 	"Hoël #1" = 18
 	"Donual #1" = 18
 	"Rodric #0" = 1
@@ -505,11 +505,11 @@ monarch_names = {
 	"Vincenne #0" = 0
 
 
-	"Nodguoret #0" = -1
-	"Berta #0" = -1
-	"Elwen #0" = -1
-	"Cleirui #0" = -1
-	"Iseult #0" = -1
+	"Herannuen #0" = -1
+	"Aeluit #0" = -1
+	"Stefania #0" = -1
+	"Guenguiu #0" = -1
+	"Trifine #0" = -1
 }
 ship_names = {
 	Bedwyr Brycheiniog

@@ -1,4 +1,4 @@
-#### Do not change tags in here without changing every other reference to them.
+﻿#### Do not change tags in here without changing every other reference to them.
 # Do not change tags in here without changing every other reference to them.
 # If adding new groups or ideas, make sure they are unique.
 
@@ -48,7 +48,9 @@ asturian_ideas = {
 	free = yes
 	
 	trigger = {
-		tag = Z50
+		AND {
+		    tag = Z56
+	    }
 	}
 	
 	start = {
@@ -88,7 +90,7 @@ umayyad_ideas = {
 	
 	trigger = {
 		OR = { 
-			tag = Z45
+			tag = Z50
 			dynasty = "Umayyad"
 		}
 	}
@@ -130,7 +132,7 @@ zunbil_ideas = {
 	free = yes
 
 	trigger = {
-		tag = Z75
+		tag = Z81
 	}
 	
 	start = {

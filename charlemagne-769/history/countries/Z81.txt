@@ -1,27 +1,38 @@
-# Samos
+# Zabulistan
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = greek
-religion = iconoclast
+technology_group = muslim
+primary_culture = afghani
+religion = zoroastrian
 clear_scripted_personalities = yes
-capital = 318
-1425.1.1 = {
+capital = 448
+1413.1.1 = {
 	monarch = {
-		name = "Theodoros"
-		birth_date = 1405.1.1
-		dynasty = "Krateros"
-		adm = 1
-		dip = 3
-		mil = 1
+		name = "Jimofuta"
+		birth_date = 1386.1.1
+		dynasty = "Zunbil"
+		adm = 4
+		dip = 4
+		mil = 2
 	}
-	add_ruler_personality = loose_lips_personality
-	add_ruler_personality = righteous_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = tolerant_personality
+	heir = {
+		name = "Barha"
+		monarch_name = "Barha"
+		dynasty = "Zunbil"
+		birth_date = 1407.6.16
+		death_date = 1487.6.16
+		adm = 0
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 318
+	capital = 448
 	add_treasury = 6
-	add_prestige = 4
+	add_prestige = 17
 }

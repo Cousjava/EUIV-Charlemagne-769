@@ -1,26 +1,38 @@
-# Bana
-government = monarchy
-add_government_reform = feudalism_reform
+# Ghana
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = oriya
-religion = hinduism
+technology_group = sub_saharan
+primary_culture = soninke
+religion = shamanism
 clear_scripted_personalities = yes
-capital = 4452
-1435.1.1 = {
+capital = 2245
+1420.1.1 = {
 	monarch = {
-		name = "Nandivarman"
-		birth_date = 1415.1.1
-		dynasty = "Bana"
-		adm = 2
-		dip = 4
-		mil = 5
+		name = "Seydou"
+		birth_date = 1400.1.1
+		dynasty = "Cisse"
+		adm = 3
+		dip = 3
+		mil = 4
 	}
-	add_ruler_personality = kind_hearted_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Drissa"
+		monarch_name = "Drissa"
+		dynasty = "Cisse"
+		birth_date = 1405.1.1
+		death_date = 1485.1.1
+		adm = 2
+		dip = 6
+		mil = 1
+	}
+	add_heir_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
-	capital = 4452
+	capital = 2245
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 8
 }

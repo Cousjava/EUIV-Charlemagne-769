@@ -1,27 +1,38 @@
-# Chud
-government = tribal
-add_government_reform = tribal_despotism
+# Benevento
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = finnish
-religion = animism
+technology_group = western
+primary_culture = old_lombard
+religion = catholic
 clear_scripted_personalities = yes
-capital = 2749
-1425.1.1 = {
+capital = 1933
+1431.1.1 = {
 	monarch = {
-		name = "Aimo"
-		birth_date = 1408.1.1
-		dynasty = "Tšuudit"
-		adm = 3
+		name = "Arechis II"
+		birth_date = 1410.1.1
+		dynasty = "Gausian"
+		adm = 1
 		dip = 2
-		mil = 2
+		mil = 4
 	}
+	add_ruler_personality = bold_fighter_personality
 	add_ruler_personality = cruel_personality
-	add_ruler_personality = infertile_personality
+	heir = {
+		name = "Romoald"
+		monarch_name = "Romoald"
+		dynasty = "Gausian"
+		birth_date = 1426.1.1
+		death_date = 1506.1.1
+		adm = 2
+		dip = 5
+		mil = 0
+	}
+	add_heir_personality = naive_personality
 }
 1444.11.11 = {
-	capital = 2749
+	capital = 1933
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 55
 }

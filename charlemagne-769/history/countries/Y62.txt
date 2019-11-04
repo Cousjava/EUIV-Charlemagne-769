@@ -1,26 +1,36 @@
-# Barmakid
-government = monarchy
-add_government_reform = ottoman_government
+# Tivertsians
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = assyrian
-religion = sunni
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
 clear_scripted_personalities = yes
-capital = 411
-1440.1.1 = {
+capital = 268
+1444.1.1 = {
 	monarch = {
-		name = "Khalid"
-		birth_date = 1380.1.1
-		dynasty = "Barmakid"
+		name = "Oleg"
+		birth_date = 1420.1.1
+		dynasty = "Tivertsi"
 		adm = 2
-		dip = 5
-		mil = 1
+		dip = 3
+		mil = 3
 	}
 	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Putiata"
+		monarch_name = "Putiata"
+		dynasty = "Tivertsi"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 411
+	capital = 268
 	add_treasury = 6
-	add_prestige = 7
+	add_prestige = 5
 }

@@ -1,40 +1,37 @@
-# Cebta
+# Bajanid
 government = monarchy
 add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = visigothic
+primary_culture = bedouin_arabic
 religion = sunni
 clear_scripted_personalities = yes
-capital = 1751
-1422.1.1 = {
+capital = 453
+1444.1.1 = {
 	monarch = {
-		name = "Pelagio"
+		name = "Jibril"
 		birth_date = 1407.1.1
-		dynasty = "Qutid"
+		dynasty = "Bajanid"
 		adm = 2
-		dip = 2
-		mil = 4
+		dip = 1
+		mil = 5
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = obsessive_perfectionist_personality
-}
-1435.1.1 = {
+	add_ruler_personality = bold_fighter_personality
 	heir = {
-		name = "Abdela"
-		monarch_name = "Abdela"
-		dynasty = "Qutid"
-		birth_date = 1435.1.1
-		death_date = 1515.1.1
-		adm = 3
-		dip = 3
-		mil = 2
+		name = "Yahya"
+		monarch_name = "Yahya"
+		dynasty = "Bajanid"
+		birth_date = 1385.1.1
+		death_date = 1465.1.1
+		adm = 5
+		dip = 0
+		mil = 3
 	}
-	add_heir_personality = craven_personality
+	add_heir_personality = midas_touched_personality
 }
 1444.11.11 = {
-	capital = 1751
-	add_treasury = 5
-	add_prestige = 3
+	capital = 453
+	add_treasury = 6
+	add_prestige = 5
 }

@@ -1,27 +1,38 @@
-# Yadava
-government = monarchy
-add_government_reform = feudalism_reform
+# Shewa
+government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = avadhi
-religion = hinduism
+technology_group = east_african
+primary_culture = amhara
+religion = coptic
 clear_scripted_personalities = yes
-capital = 524
-1415.1.1 = {
+capital = 1213
+1433.1.1 = {
 	monarch = {
-		name = "Kamal"
-		birth_date = 1410.1.1
-		dynasty = "Yadava"
+		name = "Mekonnen"
+		birth_date = 1413.1.1
+		dynasty = "Shamumun"
 		adm = 4
-		dip = 3
-		mil = 1
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Semer"
+		monarch_name = "Semer"
+		dynasty = "Shamumun"
+		birth_date = 1430.1.1
+		death_date = 1510.1.1
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 524
+	capital = 1213
 	add_treasury = 6
 	add_prestige = 5
 }

@@ -13,23 +13,23 @@ capital = 233
 		name = "Cawrdolli"
 		birth_date = 1380.1.1
 		dynasty = "Cerneu"
-		adm = 2
-		dip = 3
-		mil = 2
+		adm = 1
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = kind_hearted_personality
 	heir = {
 		name = "Oswallt"
 		monarch_name = "Oswallt"
 		dynasty = "Cerneu"
 		birth_date = 1400.1.1
 		death_date = 1480.1.1
-		adm = 0
+		adm = 3
 		dip = 3
-		mil = 2
+		mil = 4
 	}
-	add_heir_personality = loose_lips_personality
+	add_heir_personality = benevolent_personality
 }
 1444.11.11 = {
 	capital = 233

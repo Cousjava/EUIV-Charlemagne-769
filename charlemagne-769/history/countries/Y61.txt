@@ -1,26 +1,37 @@
-# Tujibid
-government = monarchy
-add_government_reform = ottoman_government
+# Galich
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = al_misr_arabic
-religion = sunni
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
 clear_scripted_personalities = yes
-capital = 1231
-1437.1.1 = {
+capital = 261
+1444.1.1 = {
 	monarch = {
-		name = "Abdullah"
-		birth_date = 1400.1.1
-		dynasty = "Tujibid"
-		adm = 2
-		dip = 6
-		mil = 3
+		name = "Premysl"
+		birth_date = 1416.1.1
+		dynasty = "Peremich"
+		adm = 0
+		dip = 4
+		mil = 4
 	}
-	add_ruler_personality = tolerant_personality
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Yevstafiy"
+		monarch_name = "Yevstafiy"
+		dynasty = "Peremich"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = pious_personality
 }
 1444.11.11 = {
-	capital = 1231
-	add_treasury = 7
+	capital = 261
+	add_treasury = 6
 	add_prestige = 6
 }

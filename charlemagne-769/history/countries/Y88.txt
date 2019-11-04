@@ -1,26 +1,37 @@
-# El Rif
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Yabguid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = berber
-religion = sunni
+technology_group = nomad_group
+primary_culture = turkish
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 335
-1435.1.1 = {
+capital = 2351
+1437.1.1 = {
 	monarch = {
-		name = "Sa'id"
-		birth_date = 1420.1.1
-		dynasty = "Salihid"
-		adm = 1
+		name = "Kapaghan"
+		birth_date = 1411.1.1
+		dynasty = "Yabguid"
+		adm = 0
 		dip = 1
-		mil = 1
+		mil = 0
 	}
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Dogan"
+		monarch_name = "Dogan"
+		dynasty = "Yabguid"
+		birth_date = 1427.1.1
+		death_date = 1507.1.1
+		adm = 2
+		dip = 2
+		mil = 0
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 335
-	add_treasury = 4
-	add_prestige = 4
+	capital = 2351
+	add_treasury = 10
+	add_prestige = 13
 }

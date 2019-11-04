@@ -1,27 +1,27 @@
-# Curonia
-government = tribal
-add_government_reform = tribal_despotism
+# Mallorca
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = latvian
-religion = animism
+technology_group = western
+primary_culture = visigothic
+religion = catholic
 clear_scripted_personalities = yes
-capital = 39
-1425.1.1 = {
+capital = 333
+1419.1.1 = {
 	monarch = {
-		name = "Ankad"
-		birth_date = 1408.1.1
-		dynasty = "Penikis"
-		adm = 5
+		name = "Theodericho"
+		birth_date = 1393.1.1
+		dynasty = "Theodoricciana"
+		adm = 2
 		dip = 2
-		mil = 6
+		mil = 3
 	}
-	add_ruler_personality = inspiring_leader_personality
-	add_ruler_personality = just_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 39
+	capital = 333
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 5
 }

@@ -1,26 +1,36 @@
-# Edessa
-government = monarchy
-add_government_reform = ottoman_government
+# Drevliania
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = armenian
-religion = sunni
+primary_culture = volhynian
+religion = animism
 clear_scripted_personalities = yes
-capital = 2308
-1441.1.1 = {
+capital = 1941
+1444.1.1 = {
 	monarch = {
-		name = "Abd al-Malik"
-		birth_date = 1385.1.1
-		dynasty = "Uqaylid"
-		adm = 1
-		dip = 3
-		mil = 3
+		name = "Dobroslav"
+		birth_date = 1423.1.1
+		dynasty = "Halyc"
+		adm = 4
+		dip = 1
+		mil = 1
 	}
 	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Rostislav"
+		monarch_name = "Rostislav"
+		dynasty = "Halyc"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 2308
+	capital = 1941
 	add_treasury = 6
-	add_prestige = 19
+	add_prestige = 5
 }

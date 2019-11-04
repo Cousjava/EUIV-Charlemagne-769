@@ -1,38 +1,38 @@
-# Nandin
-government = monarchy
-add_government_reform = feudalism_reform
+# Kantor
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = afghani
-religion = buddhism
+technology_group = sub_saharan
+primary_culture = mali
+religion = shamanism
 clear_scripted_personalities = yes
-capital = 451
-1420.1.1 = {
+capital = 2238
+1443.1.1 = {
 	monarch = {
-		name = "Bo-Fuzun"
-		birth_date = 1386.7.11
-		dynasty = "Nandin"
-		adm = 2
-		dip = 4
+		name = "Kodama"
+		birth_date = 1425.1.1
+		dynasty = "of Bambuk"
+		adm = 1
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = infertile_personality
+}
+1444.1.1 = {
 	heir = {
-		name = "Naz'aktar"
-		monarch_name = "Naz'aktar"
-		dynasty = "Nandin"
-		birth_date = 1417.9.25
-		death_date = 1497.9.25
-		adm = 1
-		dip = 3
-		mil = 2
+		name = "Cisse"
+		monarch_name = "Cisse"
+		dynasty = "of Bambuk"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
 	}
-	add_heir_personality = just_personality
 }
 1444.11.11 = {
-	capital = 451
-	add_treasury = 6
-	add_prestige = 7
+	capital = 2238
+	add_treasury = 4
+	add_prestige = 3
 }

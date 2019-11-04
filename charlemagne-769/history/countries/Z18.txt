@@ -13,12 +13,12 @@ capital = 4376
 		name = "Offa"
 		birth_date = 1405.1.1
 		dynasty = "Iceling"
-		adm = 5
-		dip = 1
-		mil = 4
+		adm = 6
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = craven_personality
 }
 1435.1.1 = {
 	heir = {
@@ -29,12 +29,12 @@ capital = 4376
 		death_date = 1515.1.1
 		adm = 3
 		dip = 3
-		mil = 2
+		mil = 3
 	}
-	add_heir_personality = naive_personality
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 4376
-	add_treasury = 7
+	add_treasury = 6
 	add_prestige = 18
 }

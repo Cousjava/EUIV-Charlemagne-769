@@ -1,38 +1,37 @@
-# Strathclyde
-government = tribal
-add_government_reform = tribal_kingdom
+# Northumbria
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = welsh
+primary_culture = anglo_saxon
 religion = catholic
 clear_scripted_personalities = yes
-capital = 249
-1435.1.1 = {
+capital = 246
+1440.1.1 = {
 	monarch = {
-		name = "Owain II"
-		birth_date = 1425.1.1
-		dynasty = "Alt Clut"
-		adm = 2
-		dip = 4
-		mil = 3
-	}
-	add_ruler_personality = tactical_genius_personality
-}
-1443.1.1 = {
-	heir = {
-		name = "Rhydderch"
-		monarch_name = "Rhydderch III"
-		dynasty = "Alt Clut"
-		birth_date = 1443.1.1
-		death_date = 1523.1.1
+		name = "Ealhred"
+		birth_date = 1400.1.1
+		dynasty = "Eadricing"
 		adm = 4
-		dip = 4
-		mil = 4
+		dip = 2
+		mil = 2
 	}
+	add_ruler_personality = craven_personality
+	heir = {
+		name = "Osred"
+		monarch_name = "Osred II"
+		dynasty = "Eadricing"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 249
+	capital = 246
 	add_treasury = 6
-	add_prestige = 33
+	add_prestige = 6
 }

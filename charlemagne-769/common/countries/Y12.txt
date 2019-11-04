@@ -1,146 +1,242 @@
-# Chud
+# Benevento
 ck2_converter_generated = yes
-graphical_culture = easterngfx
-color = { 131 146 86 }
+graphical_culture = westerngfx
+color = { 209 170 75 }
 historical_idea_groups = {
-	defensive_ideas
-	trade_ideas
-	offensive_ideas
-	spy_ideas
 	naval_ideas
-	administrative_ideas
-	quality_ideas
+	trade_ideas
+	economic_ideas
+	defensive_ideas
 	diplomatic_ideas
+	spy_ideas
+	religious_ideas
+	administrative_ideas
 }
 
 historical_units = {
-	bardiche_infantry
-	druzhina_cavalry
-	slavic_stradioti
-	eastern_militia
-	muscovite_musketeer
-	muscovite_caracolle
-	muscovite_soldaty
-	muscovite_cossack
-	russian_petrine
-	russian_lancer
-	russian_green_coat
-	russian_cuirassier
-	eastern_skirmisher
-	eastern_uhlan
-	eastern_carabinier
-	russian_mass
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Aimo" "Aatos" "Ahma" "Armas" "Arvo" "Asikko" "Ensio" "Haapa" "Hannu" "Havu" 
-	"Hintsa" "Ihanti" "Into" "Jalo" "Jurva" "Kaleva" "Kalevi" "Kettu" "Kolli" "Lalli" 
-	"Lauri" "Lemetti" "Mielitty" "Miemo" "Mikko" "Oiva" "Onni" "Otso" "Pyry" "Päiviö" 
-	"Pentti" "Reko" "Sampo" "Satajalka" "Satatieto" "Seppo" "Susi" "Tapani" "Terho" "Toivo" 
-	"Ukko" "Uoti" "Urho" "Väinö" "Valta" "Valto" "Veli" "Vesa" "Voitto" "Erkki" 
-	"Kaarle" "Johannes" "Risto" "Olavi" "Petri" "Henri" "Yrjö" "Valteri" "Riku" "Matti" 
-	"Jaakoppi" "Taisto" "Paavo" "Aatso" "Ahvo" "Aarto" "Asko" "Tuokko" "Rieti" "Kauro" 
-	"Kuuti" "Pekko" "Soini" "Tuure" "Turo" "Tommo" "Tohmas" }
+	"Audoin" "Arechis" "Romoald" "Grimoald" "Ilderic" "Grasulf" "Alboin" "Rodelinda" "Gisulf" "Zotto" 
+	"Masane" "Taso" "Cacco" "Aiulf" "Radoald" "Appa" "Geila" "Ago" "Lupus" "Arnefrit" 
+	"Romuald" "Garibald" "Theodrada" "Liutprand" "Adalgis" "Adaloald" "Adhemar" "Ado" "Agelmund" "Agilof" 
+	"Agilulf" "Agiprand" "Ahthari" "Aimeric" "Aistulf" "Ajo" "Alahis" "Aldihoc" "Alo" "Altpert" 
+	"Amefrith" "Anselm" "Ansfrid" "Ansfrith" "Ansprand" "Ardoin" "Ariald" "Aribert" "Arichis" "Aripert" 
+	"Ariulf" "Arnefrith" "Arnifrid" "Artavasdas" "Atenulf" "Atto" "Audelahis" "Aunepert" "Ausfrid" "Authari" 
+	"Berin" "Bernard" "Birinus" "Cleph" "Corvulus" "Daufer" "Desiderius" "Donnolo" "Erchempert" "Erchinoald" 
+	"Erlembald" "Ewin" "Fara" "Faroald" "Ferdulf" "Gacco" "Godehoc" "Godepert" "Godescalc" "Guaifer" 
+	"Guaimar" "Gumpert" "Gundo" "Gundoald" "Hermenfred" "Hildeprand" "Hilderic" "Hildigis" "Hilmagis" "Hrodgaud" 
+	"Hucpert" "Ibor" "Ildiches" "Indulf" "Ingoald" "Ioann" "Irnerius" "Kakko" "Kunibert" "Laiamicho" 
+	"Laidulf" "Lambert" "Landari" "Landenulf" "Lando" "Landulf" "Lantpert" "Laudari" "Liutbald" "Liutbrand" 
+	"Liutpert" "Liutward" "Maginulf" "Manso" "Munichis" "Nordepert" "Odilo" "Odoaker" "Odoin" "Orson" 
+	"Pandenulf" "Pandulf" "Pemmo" "Penno" "Perctarit" "Petrus" "Poppo" "Radelchis" "Radelgar" "Radgis" 
+	"Radwald" "Raginpert" "Ratchis" "Reccared" "Risiulf" "Rochus" "Rodgand" "Rodoald" "Rodolf" "Rodwald" 
+	"Rothari" "Saxo" "Sico" "Siconulf" "Sigibuld" "Sigisbert" "Sigisbrand" "Sikard" "Sinibald" "Taino" 
+	"Theodelap" "Theoderich" "Theodicius" "Theodo" "Theodorich" "Theotpert" "Theudoald" "Thrasimund" "Unichis" "Unigild" 
+	"Unulf" "Ursus" "Vacho" "Waifar" "Waimar" "Waldchis" "Waldipert" "Walthari" "Wechthari" "Wido" 
+	"Zuchilo" }
 monarch_names = {
-	"Aimo #1" = 18
-	"Aatos #0" = 0
-	"Ahma #0" = 0
-	"Armas #0" = 0
-	"Arvo #0" = 0
-	"Asikko #0" = 0
-	"Ensio #0" = 0
-	"Haapa #0" = 0
-	"Hannu #0" = 0
-	"Havu #0" = 0
-	"Hintsa #0" = 0
-	"Ihanti #0" = 0
-	"Into #0" = 0
-	"Jalo #0" = 0
-	"Jurva #0" = 0
-	"Kaleva #0" = 0
-	"Kalevi #0" = 0
-	"Kettu #0" = 0
-	"Kolli #0" = 0
-	"Lalli #0" = 0
-	"Lauri #0" = 0
-	"Lemetti #0" = 0
-	"Mielitty #0" = 0
-	"Miemo #0" = 0
-	"Mikko #0" = 0
-	"Oiva #0" = 0
-	"Onni #0" = 0
-	"Otso #0" = 0
-	"Pyry #0" = 0
-	"Päiviö #0" = 0
-	"Pentti #0" = 0
-	"Reko #0" = 0
-	"Sampo #0" = 0
-	"Satajalka #0" = 0
-	"Satatieto #0" = 0
-	"Seppo #0" = 0
-	"Susi #0" = 0
-	"Tapani #0" = 0
-	"Terho #0" = 0
-	"Toivo #0" = 0
-	"Ukko #0" = 0
-	"Uoti #0" = 0
-	"Urho #0" = 0
-	"Väinö #0" = 0
-	"Valta #0" = 0
-	"Valto #0" = 0
-	"Veli #0" = 0
-	"Vesa #0" = 0
-	"Voitto #0" = 0
-	"Erkki #0" = 0
-	"Kaarle #0" = 0
-	"Johannes #0" = 0
-	"Risto #0" = 0
-	"Olavi #0" = 0
-	"Petri #0" = 0
-	"Henri #0" = 0
-	"Yrjö #0" = 0
-	"Valteri #0" = 0
-	"Riku #0" = 0
-	"Matti #0" = 0
-	"Jaakoppi #0" = 0
-	"Taisto #0" = 0
-	"Paavo #0" = 0
-	"Aatso #0" = 0
-	"Ahvo #0" = 0
-	"Aarto #0" = 0
-	"Asko #0" = 0
-	"Tuokko #0" = 0
-	"Rieti #0" = 0
-	"Kauro #0" = 0
-	"Kuuti #0" = 0
-	"Pekko #0" = 0
-	"Soini #0" = 0
-	"Tuure #0" = 0
-	"Turo #0" = 0
-	"Tommo #0" = 0
-	"Tohmas #0" = 0
-
-
-	"Titti #0" = -1
-	"Tuovi #0" = -1
-	"Irene #0" = -1
-	"Metta #0" = -1
-	"Käpy #0" = -1
+	"Audoin #0" = 1
+	"Arechis #2" = 21
+	"Romoald #0" = 1
+	"Grimoald #2" = 24
+	"Ilderic #0" = 1
+	"Grasulf #0" = 1
+	"Alboin #0" = 1
+	"Rodelinda #0" = -1
+	"Gisulf #2" = 27
+	"Zotto #1" = 18
+	"Masane #0" = -1
+	"Taso #0" = 1
+	"Cacco #0" = 1
+	"Aiulf #1" = 18
+	"Radoald #1" = 18
+	"Appa #0" = -1
+	"Geila #0" = -1
+	"Ago #0" = 1
+	"Lupus #0" = 1
+	"Arnefrit #0" = 1
+	"Romuald #2" = 21
+	"Garibald #0" = 1
+	"Theodrada #0" = -1
+	"Liutprand #1" = 18
+	"Adalgis #0" = 0
+	"Adaloald #0" = 0
+	"Adhemar #0" = 0
+	"Ado #0" = 0
+	"Agelmund #0" = 0
+	"Agilof #0" = 0
+	"Agilulf #0" = 0
+	"Agiprand #0" = 0
+	"Ahthari #0" = 0
+	"Aimeric #0" = 0
+	"Aistulf #0" = 0
+	"Ajo #0" = 0
+	"Alahis #0" = 0
+	"Aldihoc #0" = 0
+	"Alo #0" = 0
+	"Altpert #0" = 0
+	"Amefrith #0" = 0
+	"Anselm #0" = 0
+	"Ansfrid #0" = 0
+	"Ansfrith #0" = 0
+	"Ansprand #0" = 0
+	"Ardoin #0" = 0
+	"Ariald #0" = 0
+	"Aribert #0" = 0
+	"Arichis #0" = 0
+	"Aripert #0" = 0
+	"Ariulf #0" = 0
+	"Arnefrith #0" = 0
+	"Arnifrid #0" = 0
+	"Artavasdas #0" = 0
+	"Atenulf #0" = 0
+	"Atto #0" = 0
+	"Audelahis #0" = 0
+	"Aunepert #0" = 0
+	"Ausfrid #0" = 0
+	"Authari #0" = 0
+	"Berin #0" = 0
+	"Bernard #0" = 0
+	"Birinus #0" = 0
+	"Cleph #0" = 0
+	"Corvulus #0" = 0
+	"Daufer #0" = 0
+	"Desiderius #0" = 0
+	"Donnolo #0" = 0
+	"Erchempert #0" = 0
+	"Erchinoald #0" = 0
+	"Erlembald #0" = 0
+	"Ewin #0" = 0
+	"Fara #0" = 0
+	"Faroald #0" = 0
+	"Ferdulf #0" = 0
+	"Gacco #0" = 0
+	"Godehoc #0" = 0
+	"Godepert #0" = 0
+	"Godescalc #0" = 0
+	"Guaifer #0" = 0
+	"Guaimar #0" = 0
+	"Gumpert #0" = 0
+	"Gundo #0" = 0
+	"Gundoald #0" = 0
+	"Hermenfred #0" = 0
+	"Hildeprand #0" = 0
+	"Hilderic #0" = 0
+	"Hildigis #0" = 0
+	"Hilmagis #0" = 0
+	"Hrodgaud #0" = 0
+	"Hucpert #0" = 0
+	"Ibor #0" = 0
+	"Ildiches #0" = 0
+	"Indulf #0" = 0
+	"Ingoald #0" = 0
+	"Ioann #0" = 0
+	"Irnerius #0" = 0
+	"Kakko #0" = 0
+	"Kunibert #0" = 0
+	"Laiamicho #0" = 0
+	"Laidulf #0" = 0
+	"Lambert #0" = 0
+	"Landari #0" = 0
+	"Landenulf #0" = 0
+	"Lando #0" = 0
+	"Landulf #0" = 0
+	"Lantpert #0" = 0
+	"Laudari #0" = 0
+	"Liutbald #0" = 0
+	"Liutbrand #0" = 0
+	"Liutpert #0" = 0
+	"Liutward #0" = 0
+	"Maginulf #0" = 0
+	"Manso #0" = 0
+	"Munichis #0" = 0
+	"Nordepert #0" = 0
+	"Odilo #0" = 0
+	"Odoaker #0" = 0
+	"Odoin #0" = 0
+	"Orson #0" = 0
+	"Pandenulf #0" = 0
+	"Pandulf #0" = 0
+	"Pemmo #0" = 0
+	"Penno #0" = 0
+	"Perctarit #0" = 0
+	"Petrus #0" = 0
+	"Poppo #0" = 0
+	"Radelchis #0" = 0
+	"Radelgar #0" = 0
+	"Radgis #0" = 0
+	"Radwald #0" = 0
+	"Raginpert #0" = 0
+	"Ratchis #0" = 0
+	"Reccared #0" = 0
+	"Risiulf #0" = 0
+	"Rochus #0" = 0
+	"Rodgand #0" = 0
+	"Rodoald #0" = 0
+	"Rodolf #0" = 0
+	"Rodwald #0" = 0
+	"Rothari #0" = 0
+	"Saxo #0" = 0
+	"Sico #0" = 0
+	"Siconulf #0" = 0
+	"Sigibuld #0" = 0
+	"Sigisbert #0" = 0
+	"Sigisbrand #0" = 0
+	"Sikard #0" = 0
+	"Sinibald #0" = 0
+	"Taino #0" = 0
+	"Theodelap #0" = 0
+	"Theoderich #0" = 0
+	"Theodicius #0" = 0
+	"Theodo #0" = 0
+	"Theodorich #0" = 0
+	"Theotpert #0" = 0
+	"Theudoald #0" = 0
+	"Thrasimund #0" = 0
+	"Unichis #0" = 0
+	"Unigild #0" = 0
+	"Unulf #0" = 0
+	"Ursus #0" = 0
+	"Vacho #0" = 0
+	"Waifar #0" = 0
+	"Waimar #0" = 0
+	"Waldchis #0" = 0
+	"Waldipert #0" = 0
+	"Walthari #0" = 0
+	"Wechthari #0" = 0
+	"Wido #0" = 0
+	"Zuchilo #0" = 0
 }
 ship_names = {
-	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
-	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
-	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
-	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
-	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
-	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
-	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
-	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
-	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
-	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
-	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+	Agatobles Altavilla Apollo Archimede Audaze Borbone
+	Calabria Capitana Diana Disttrutore Drago
+	Ercole Etna "Federigo Barbarossa" Folgorante Fulminante
+	Generoso Guiscardo Hohenstaufen Idra Invencibile L'Aretusa Jupiter
+	"Maria Inmacolata" Marte Mercurio Messaggero Minerva
+	Napoli Navigante Nettuno Palinuro Partenope Pegaso 
+	Peloro Plutone Puglia "Purissima Concezione"
+	"Re Carlo" "Re Federigo" "Re Ferrante" "Regina dei Mari"
+	"S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo"
+	"San Ferdinando" "San Vito" Sannita "Santa Amalia" "Santa Helena"
+	"Santa Lucia" "Santa Wenfrida" Sant'Agata Sant'Agatone
+	Sibilla Sicilia Sirena Tancredi Veloce
 }
 

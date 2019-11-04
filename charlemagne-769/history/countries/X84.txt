@@ -1,38 +1,36 @@
-# Yutian
+# Ayudha
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
-technology_group = chinese
-primary_culture = saka
-religion = buddhism
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
 clear_scripted_personalities = yes
-capital = 710
-1431.1.1 = {
+capital = 2063
+1444.1.1 = {
 	monarch = {
-		name = "Sata II"
-		birth_date = 1411.1.1
-		dynasty = "Vijaya"
+		name = "Vajrayudha"
+		birth_date = 1415.1.1
+		dynasty = "Ayudha"
 		adm = 2
-		dip = 4
-		mil = 0
-	}
-	add_ruler_personality = charismatic_negotiator_personality
-	add_ruler_personality = loose_lips_personality
-	heir = {
-		name = "Ananta"
-		monarch_name = "Ananta II"
-		dynasty = "Vijaya"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
-		adm = 1
 		dip = 1
-		mil = 2
+		mil = 4
 	}
-	add_heir_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Indrayudha"
+		monarch_name = "Indrayudha"
+		dynasty = "Ayudha"
+		birth_date = 1441.1.1
+		death_date = 1521.1.1
+		adm = 3
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 710
-	add_treasury = 6
-	add_prestige = 97
+	capital = 2063
+	add_treasury = 9
+	add_prestige = 11
 }

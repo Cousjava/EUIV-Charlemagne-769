@@ -1,0 +1,26 @@
+# Ili
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = karluk
+religion = tengri_pagan_reformed
+clear_scripted_personalities = yes
+capital = 2120
+1441.1.1 = {
+	monarch = {
+		name = "Jelme"
+		birth_date = 1418.1.1
+		dynasty = "Ili"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = craven_personality
+}
+1444.11.11 = {
+	capital = 2120
+	add_treasury = 8
+	add_prestige = 7
+}

@@ -1,26 +1,26 @@
-# Canarias
-government = tribal
-add_government_reform = tribal_despotism
+# Damashq
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = muslim
-primary_culture = berber
-religion = shamanism
+primary_culture = al_suryah_arabic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 366
-1442.1.1 = {
+capital = 382
+1441.1.1 = {
 	monarch = {
-		name = "Mahtar"
+		name = "Al-Fadl"
 		birth_date = 1415.1.1
-		dynasty = "Mahtarid"
-		adm = 3
-		dip = 0
-		mil = 6
+		dynasty = "Abbasid"
+		adm = 1
+		dip = 1
+		mil = 1
 	}
 	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 366
-	add_treasury = 4
-	add_prestige = 2
+	capital = 382
+	add_treasury = 6
+	add_prestige = 33
 }

@@ -1,0 +1,26 @@
+# Maryul
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = zhangzhung
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 2074
+1436.1.1 = {
+	monarch = {
+		name = "Bhuti"
+		birth_date = 1415.1.1
+		dynasty = "Pangong"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+1444.11.11 = {
+	capital = 2074
+	add_treasury = 6
+	add_prestige = 5
+}

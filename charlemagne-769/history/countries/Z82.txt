@@ -1,27 +1,27 @@
-# Thessalonika
-government = monarchy
-add_government_reform = feudalism_reform
+# Rana
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = greek
-religion = iconoclast
+technology_group = western
+primary_culture = pommeranian
+religion = animism
 clear_scripted_personalities = yes
-capital = 1853
-1429.1.1 = {
+capital = 47
+1425.1.1 = {
 	monarch = {
-		name = "Theoktistos"
-		birth_date = 1409.1.1
-		dynasty = "Kyritzios"
-		adm = 2
-		dip = 1
-		mil = 3
+		name = "Strasz"
+		birth_date = 1408.1.1
+		dynasty = "z Rujani"
+		adm = 0
+		dip = 3
+		mil = 4
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 1853
-	add_treasury = 6
-	add_prestige = 4
+	capital = 47
+	add_treasury = 4
+	add_prestige = 2
 }

@@ -1,27 +1,40 @@
-# Meshchera
+# Yatvingia
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = mordvin
+primary_culture = lithuanian
 religion = animism
 clear_scripted_personalities = yes
-capital = 301
+capital = 1937
 1425.1.1 = {
 	monarch = {
-		name = "Parush"
+		name = "Arunas"
 		birth_date = 1408.1.1
-		dynasty = "Mescheravid"
+		dynasty = "of Gardinas"
 		adm = 2
-		dip = 4
+		dip = 5
+		mil = 3
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = secretive_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Gedivilas"
+		monarch_name = "Gedivilas"
+		dynasty = "of Gardinas"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 1
 		mil = 2
 	}
-	add_ruler_personality = greedy_personality
-	add_ruler_personality = embezzler_personality
+	add_heir_personality = secretive_personality
 }
 1444.11.11 = {
-	capital = 301
+	capital = 1937
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

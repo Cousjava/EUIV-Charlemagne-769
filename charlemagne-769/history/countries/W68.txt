@@ -1,0 +1,37 @@
+# Vym
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+clear_scripted_personalities = yes
+capital = 4129
+1444.1.1 = {
+	monarch = {
+		name = "Sarin"
+		birth_date = 1406.1.1
+		dynasty = "Ozhegid"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	heir = {
+		name = "Kezhapa"
+		monarch_name = "Kezhapa"
+		dynasty = "Ozhegid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 4129
+	add_treasury = 4
+	add_prestige = 3
+}

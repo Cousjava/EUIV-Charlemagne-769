@@ -1,63 +1,128 @@
-# Zhetysu
+# Rashtrakuta
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 233 187 90 }
+graphical_culture = indiangfx
+color = { 150 0 20 }
 
 
 
 
 leader_names = {
 
-	"Bönek" "Uzluk" "Sirin" "Sevenç" "Çilbu" "Aepak" "Asalup" "Asep" "Atrak" "Bachman" 
-	"Begluk" "Blush" "Bonyak" "Borç" "Eldeçyuk" "Etrek" "Girgen" "Gzi" "Itlar" "Ituk" 
-	"Könçek" "Kobyak" "Kopti" "Kotyan" "Koza" "Kozel" "Kubasar" "Kuntuvdi" "Kutan" "Pulad" 
-	"Saru" "Sirçan" "Sokal" "Sotan" "Sugr" "Törtogul" "Togli" "Tolun" "Tugor" "Uzur" }
+	"Govinda" "Krishna" "Karkka" "Indra" "Rannadevi" "Dhruva" "Sthamba" "Dantidurga" "Pulakesi" "Kirtivarman" 
+	"Mangalesa" "Vikramaditya" "Vinayaditya" "Vijayaditya" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" 
+	"Avinita" "Ayanna" "Bhuvikrama" "Bijjama" "Bukka" "Butuga" "Chavundaraya" "Dashavarman" "Durgasimha" "Durvinita" 
+	"Ereganga" "Ereyanga" "Gangaraja" "Gajankusha" "Gobburi" "Hakka" "Harihara" "Harivarman" "Jagadhekamalla" "Jagaraya" 
+	"Jagattunga" "Jayasimha" "Jogama" "Kambarasa" "Kannama" "Karka" "Khottiga" "Kiriyasaga" "Konganivarman" "Madhava" 
+	"Madhura" "Mallikarjuna" "Mallugi" "Mangalesi" "Marasimha" "Marulaganga" "Mushkara" "Narasanayaka" "Narasimha" "Neetimarga" 
+	"Nripakama" "Permadi" "Permanadi" "Polavira" "Praudharaya" "Purandaradasa" "Rachamalla" "Ramachandra" "Ramadeva" "Ramaraya" 
+	"Sankama" "Satyasraya" "Sharva" "Shivamara" "Singhana" "Somesvara" "Sovideva" "Sripadaraya" "Sripurusha" "Sriranga" 
+	"Srivikrama" "Tailapa" "Thimma" "Tirumalaraya" "Uchita" "Venkatadri" "Venkatapathi" "Viraballala" "Viravijaya" "Virupaksha" 
+	"Vishnugopa" "Vishnuvardhana" "Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
 monarch_names = {
-	"Bönek #0" = 1
-	"Uzluk #1" = 18
-	"Sirin #0" = -1
-	"Sevenç #0" = 1
-	"Çilbu #0" = 0
-	"Aepak #0" = 0
-	"Asalup #0" = 0
-	"Asep #0" = 0
-	"Atrak #0" = 0
-	"Bachman #0" = 0
-	"Begluk #0" = 0
-	"Blush #0" = 0
-	"Bonyak #0" = 0
-	"Borç #0" = 0
-	"Eldeçyuk #0" = 0
-	"Etrek #0" = 0
-	"Girgen #0" = 0
-	"Gzi #0" = 0
-	"Itlar #0" = 0
-	"Ituk #0" = 0
-	"Könçek #0" = 0
-	"Kobyak #0" = 0
-	"Kopti #0" = 0
-	"Kotyan #0" = 0
-	"Koza #0" = 0
-	"Kozel #0" = 0
-	"Kubasar #0" = 0
-	"Kuntuvdi #0" = 0
-	"Kutan #0" = 0
-	"Pulad #0" = 0
-	"Saru #0" = 0
-	"Sirçan #0" = 0
-	"Sokal #0" = 0
-	"Sotan #0" = 0
-	"Sugr #0" = 0
-	"Törtogul #0" = 0
-	"Togli #0" = 0
-	"Tolun #0" = 0
-	"Tugor #0" = 0
-	"Uzur #0" = 0
+	"Govinda #0" = 1
+	"Krishna #1" = 18
+	"Karkka #0" = 1
+	"Indra #0" = 1
+	"Rannadevi #0" = -1
+	"Dhruva #0" = 1
+	"Sthamba #0" = 1
+	"Dantidurga #1" = 18
+	"Pulakesi #2" = 0
+	"Kirtivarman #2" = 0
+	"Mangalesa #1" = 0
+	"Vikramaditya #2" = 0
+	"Vinayaditya #1" = 0
+	"Vijayaditya #1" = 0
+	"Achugi #0" = 0
+	"Adikavi #0" = 0
+	"Ahavamalla #0" = 0
+	"Amoghavarsha #0" = 0
+	"Anekonda #0" = 0
+	"Asaga #0" = 0
+	"Avinita #0" = 0
+	"Ayanna #0" = 0
+	"Bhuvikrama #0" = 0
+	"Bijjama #0" = 0
+	"Bukka #0" = 0
+	"Butuga #0" = 0
+	"Chavundaraya #0" = 0
+	"Dashavarman #0" = 0
+	"Durgasimha #0" = 0
+	"Durvinita #0" = 0
+	"Ereganga #0" = 0
+	"Ereyanga #0" = 0
+	"Gangaraja #0" = 0
+	"Gajankusha #0" = 0
+	"Gobburi #0" = 0
+	"Hakka #0" = 0
+	"Harihara #0" = 0
+	"Harivarman #0" = 0
+	"Jagadhekamalla #0" = 0
+	"Jagaraya #0" = 0
+	"Jagattunga #0" = 0
+	"Jayasimha #0" = 0
+	"Jogama #0" = 0
+	"Kambarasa #0" = 0
+	"Kannama #0" = 0
+	"Karka #0" = 0
+	"Khottiga #0" = 0
+	"Kiriyasaga #0" = 0
+	"Konganivarman #0" = 0
+	"Madhava #0" = 0
+	"Madhura #0" = 0
+	"Mallikarjuna #0" = 0
+	"Mallugi #0" = 0
+	"Mangalesi #0" = 0
+	"Marasimha #0" = 0
+	"Marulaganga #0" = 0
+	"Mushkara #0" = 0
+	"Narasanayaka #0" = 0
+	"Narasimha #0" = 0
+	"Neetimarga #0" = 0
+	"Nripakama #0" = 0
+	"Permadi #0" = 0
+	"Permanadi #0" = 0
+	"Polavira #0" = 0
+	"Praudharaya #0" = 0
+	"Purandaradasa #0" = 0
+	"Rachamalla #0" = 0
+	"Ramachandra #0" = 0
+	"Ramadeva #0" = 0
+	"Ramaraya #0" = 0
+	"Sankama #0" = 0
+	"Satyasraya #0" = 0
+	"Sharva #0" = 0
+	"Shivamara #0" = 0
+	"Singhana #0" = 0
+	"Somesvara #0" = 0
+	"Sovideva #0" = 0
+	"Sripadaraya #0" = 0
+	"Sripurusha #0" = 0
+	"Sriranga #0" = 0
+	"Srivikrama #0" = 0
+	"Tailapa #0" = 0
+	"Thimma #0" = 0
+	"Tirumalaraya #0" = 0
+	"Uchita #0" = 0
+	"Venkatadri #0" = 0
+	"Venkatapathi #0" = 0
+	"Viraballala #0" = 0
+	"Viravijaya #0" = 0
+	"Virupaksha #0" = 0
+	"Vishnugopa #0" = 0
+	"Vishnuvardhana #0" = 0
+	"Yachama #0" = 0
+	"Yachamanedu #0" = 0
+	"Achyutadeva #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Sadashiva #0" = 0
+	"Vendakadri #0" = 0
+	"Viranarasimha #0" = 0
 
 
-	"Özlem #0" = -1
-	"Mala #0" = -1
-	"Gulay #0" = -1
-	"Sirma #0" = -1
+	"Hoysaladevi #0" = -1
+	"Revakanimmadi #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Bijjabbe #0" = -1
 }
 

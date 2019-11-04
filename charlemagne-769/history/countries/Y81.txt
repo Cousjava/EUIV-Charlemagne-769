@@ -1,26 +1,40 @@
-# Awzalid
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Alania
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = berber
-religion = sunni
+technology_group = nomad_group
+primary_culture = alan
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 339
-1442.1.1 = {
+capital = 2197
+1416.1.1 = {
 	monarch = {
-		name = "Hashim"
-		birth_date = 1410.1.1
-		dynasty = "Awzalid"
+		name = "Buriberdi"
+		birth_date = 1395.1.1
+		dynasty = "Zmbalani"
 		adm = 3
-		dip = 2
+		dip = 0
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = infertile_personality
+}
+1421.1.1 = {
+	heir = {
+		name = "Balsag"
+		monarch_name = "Balsag"
+		dynasty = "Zmbalani"
+		birth_date = 1421.1.1
+		death_date = 1501.1.1
+		adm = 2
+		dip = 1
 		mil = 1
 	}
-	add_ruler_personality = kind_hearted_personality
+	add_heir_personality = secretive_personality
 }
 1444.11.11 = {
-	capital = 339
-	add_treasury = 7
-	add_prestige = 7
+	capital = 2197
+	add_treasury = 10
+	add_prestige = 13
 }

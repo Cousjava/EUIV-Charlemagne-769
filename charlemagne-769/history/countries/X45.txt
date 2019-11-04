@@ -1,37 +1,38 @@
-# Pala
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
+# Yugra
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = bengali
-religion = buddhism
+technology_group = eastern
+primary_culture = khanty
+religion = animism
 clear_scripted_personalities = yes
-capital = 4479
-1444.1.1 = {
+capital = 1080
+1427.1.1 = {
 	monarch = {
-		name = "Dharmapala"
-		birth_date = 1428.1.1
-		dynasty = "Pala"
-		adm = 4
-		dip = 2
-		mil = 6
+		name = "Nalka"
+		birth_date = 1405.1.1
+		dynasty = "Yugra"
+		adm = 3
+		dip = 3
+		mil = 3
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
 	heir = {
-		name = "Vakapala"
-		monarch_name = "Vakapala"
-		dynasty = "Pala"
-		birth_date = 1432.1.1
-		death_date = 1512.1.1
-		adm = 2
-		dip = 2
-		mil = 2
+		name = "Setyamka"
+		monarch_name = "Setyamka"
+		dynasty = "Yugra"
+		birth_date = 1427.1.1
+		death_date = 1507.1.1
+		adm = 6
+		dip = 0
+		mil = 3
 	}
-	add_heir_personality = scholar_personality
+	add_heir_personality = midas_touched_personality
 }
 1444.11.11 = {
-	capital = 4479
-	add_treasury = 43
-	add_prestige = 219
+	capital = 1080
+	add_treasury = 6
+	add_prestige = 4
 }

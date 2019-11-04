@@ -1,10 +1,10 @@
-# Wallachia
+# Muntenia
 government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = avar
+primary_culture = bolghar
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
 capital = 161
@@ -13,14 +13,14 @@ capital = 161
 		name = "Vakrim"
 		birth_date = 1428.1.1
 		dynasty = "Ukil"
-		adm = 2
-		dip = 1
-		mil = 6
+		adm = 1
+		dip = 2
+		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = silver_tongue_personality
 }
 1444.11.11 = {
 	capital = 161
-	add_treasury = 6
-	add_prestige = 30
+	add_treasury = 7
+	add_prestige = 29
 }

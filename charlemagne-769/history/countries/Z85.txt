@@ -1,27 +1,37 @@
-# Paphlagonia
-government = monarchy
-add_government_reform = feudalism_reform
+# Nisani
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = greek
-religion = iconoclast
+technology_group = western
+primary_culture = pommeranian
+religion = animism
 clear_scripted_personalities = yes
-capital = 4313
-1434.1.1 = {
+capital = 59
+1435.1.1 = {
 	monarch = {
-		name = "Aetios"
-		birth_date = 1414.1.1
-		dynasty = "Souanites"
+		name = "Branislav"
+		birth_date = 1417.1.1
+		dynasty = "z Milczanow"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Przybyslaw"
+		monarch_name = "Przybyslaw"
+		dynasty = "z Milczanow"
+		birth_date = 1397.1.1
+		death_date = 1477.1.1
 		adm = 2
-		dip = 3
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = drunkard_personality
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 4313
-	add_treasury = 6
-	add_prestige = 4
+	capital = 59
+	add_treasury = 4
+	add_prestige = 3
 }

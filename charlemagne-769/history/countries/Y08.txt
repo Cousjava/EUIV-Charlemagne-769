@@ -1,27 +1,27 @@
-# Pomorye
-government = tribal
-add_government_reform = tribal_despotism
+# Amalfi
+government = republic
+add_government_reform = merchants_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = finnish
-religion = animism
+technology_group = western
+primary_culture = greek
+religion = catholic
 clear_scripted_personalities = yes
-capital = 1955
-1425.1.1 = {
+capital = 1934
+1426.1.1 = {
 	monarch = {
-		name = "Oiva"
-		birth_date = 1408.1.1
-		dynasty = "Vepsä"
-		adm = 3
-		dip = 2
-		mil = 2
+		name = "Leon"
+		birth_date = 1406.1.1
+		dynasty = "Amalfinos"
+		adm = 6
+		dip = 1
+		mil = 4
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = malevolent_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 1955
-	add_treasury = 4
-	add_prestige = 3
+	capital = 1934
+	add_treasury = 7
+	add_prestige = 4
 }

@@ -1,0 +1,26 @@
+# Uchturpan
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = chinese
+primary_culture = tocharian
+religion = buddhism
+clear_scripted_personalities = yes
+capital = 4209
+1437.1.1 = {
+	monarch = {
+		name = "Ksmate"
+		birth_date = 1418.1.1
+		dynasty = "Bharuka"
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+}
+1444.11.11 = {
+	capital = 4209
+	add_treasury = 4
+	add_prestige = 4
+}

@@ -1,26 +1,27 @@
-# Hashimid
+# Strymon
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = bedouin_arabic
-religion = shiite
+technology_group = eastern
+primary_culture = bulgarian
+religion = animism
 clear_scripted_personalities = yes
-capital = 2331
-1442.1.1 = {
+capital = 3001
+1428.1.1 = {
 	monarch = {
-		name = "Hasan"
-		birth_date = 1378.1.1
-		dynasty = "Hashimid"
-		adm = 2
-		dip = 3
-		mil = 1
+		name = "Senko"
+		birth_date = 1408.1.1
+		dynasty = "Peteinakes"
+		adm = 1
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 2331
-	add_treasury = 7
-	add_prestige = 12
+	capital = 3001
+	add_treasury = 6
+	add_prestige = 5
 }

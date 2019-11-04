@@ -13,11 +13,24 @@ capital = 4371
 		name = "Osmund"
 		birth_date = 1415.1.1
 		dynasty = "Hæsting"
-		adm = 1
-		dip = 2
+		adm = 3
+		dip = 1
 		mil = 3
 	}
-	add_ruler_personality = secretive_personality
+	add_ruler_personality = fierce_negotiator_personality
+}
+1437.1.1 = {
+	heir = {
+		name = "Scule"
+		monarch_name = "Scule"
+		dynasty = "Hæsting"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
 	capital = 4371

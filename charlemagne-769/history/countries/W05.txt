@@ -1,0 +1,37 @@
+# Tara
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = khanty
+religion = animism
+clear_scripted_personalities = yes
+capital = 2429
+1444.1.1 = {
+	monarch = {
+		name = "Aymort"
+		birth_date = 1416.1.1
+		dynasty = "Raydasid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = cruel_personality
+	heir = {
+		name = "Turush"
+		monarch_name = "Turush"
+		dynasty = "Raydasid"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = cruel_personality
+}
+1444.11.11 = {
+	capital = 2429
+	add_treasury = 4
+	add_prestige = 3
+}

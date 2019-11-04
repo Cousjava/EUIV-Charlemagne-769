@@ -1,27 +1,38 @@
-# Nadirid
+# Umayyad
 government = monarchy
 add_government_reform = ottoman_government
-government_rank = 1
+government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = visigothic
+primary_culture = bedouin_arabic
 religion = sunni
 clear_scripted_personalities = yes
-capital = 221
-1420.1.1 = {
+capital = 225
+1431.3.16 = {
 	monarch = {
-		name = "Ali"
-		birth_date = 1400.1.1
-		dynasty = "Nadirid"
-		adm = 4
-		dip = 1
+		name = "Abd-al-Rahman"
+		birth_date = 1406.3.1
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = craven_personality
+	add_ruler_personality = kind_hearted_personality
+	heir = {
+		name = "Abd-al-Rahman"
+		monarch_name = "Abd-al-Rahman II"
+		dynasty = "Umayyad"
+		birth_date = 1422.1.1
+		death_date = 1502.1.1
+		adm = 1
+		dip = 2
 		mil = 0
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = malevolent_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 221
-	add_treasury = 6
-	add_prestige = 5
+	capital = 225
+	add_treasury = 11
+	add_prestige = 113
 }

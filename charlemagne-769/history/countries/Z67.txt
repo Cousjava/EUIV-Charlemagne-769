@@ -1,26 +1,39 @@
-# Länsipohja
+# Eystridal
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = sapmi
+primary_culture = norse
 religion = animism
 clear_scripted_personalities = yes
-capital = 11
+capital = 22
 1435.1.1 = {
 	monarch = {
-		name = "Sárra"
-		birth_date = 1410.1.1
-		dynasty = "Saiva"
-		adm = 4
-		dip = 4
+		name = "Þorsteinn"
+		birth_date = 1415.1.1
+		dynasty = "Hede"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = scholar_personality
+}
+1436.1.1 = {
+	heir = {
+		name = "Alfr"
+		monarch_name = "Alfr"
+		dynasty = "Hede"
+		birth_date = 1436.1.1
+		death_date = 1516.1.1
+		adm = 2
+		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = secretive_personality
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 11
+	capital = 22
 	add_treasury = 4
 	add_prestige = 2
 }

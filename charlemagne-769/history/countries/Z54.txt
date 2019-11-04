@@ -1,27 +1,26 @@
-# Ivrea
+# Toledo
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = old_lombard
-religion = catholic
+primary_culture = visigothic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 103
-1431.1.1 = {
+capital = 219
+1444.1.1 = {
 	monarch = {
-		name = "Liutprand"
-		birth_date = 1415.1.1
-		dynasty = "Liutprandingi"
-		adm = 2
-		dip = 1
+		name = "Abd-al-Rahman"
+		birth_date = 1422.1.1
+		dynasty = "Umayyad"
+		adm = 1
+		dip = 2
 		mil = 0
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 103
-	add_treasury = 6
-	add_prestige = 5
+	capital = 219
+	add_treasury = 7
+	add_prestige = 122
 }

@@ -8,7 +8,7 @@ color = { 81 30 243 }
 
 leader_names = {
 
-	"Lope" "Ximeno" "Antso" "Gartzia" "Donato" "Zentulo" "Lop" "Adhémar" "Acfred" "Aimeric" 
+	"Lope" "Ximeno" "Antso" "Zentulo" "Gartzia" "Donato" "Lop" "Adhémar" "Acfred" "Aimeric" 
 	"Alberic" "Albert" "Aldebert" "Alias" "Anfòs" "Amalric" "Amaneus" "Ancelmes" "André" "Archambaut" 
 	"Arnaut" "Artau" "Aton" "Audoïn" "Aymar" "Aymeric" "Aznar" "Barral" "Bartoumiéu" "Baudoïn" 
 	"Beneset" "Bérard" "Berenguié" "Bermond" "Bernat" "Bernat-Aton" "Bernat-Ezi" "Bertrand" "Blasi" "Borel" 
@@ -25,9 +25,9 @@ monarch_names = {
 	"Lope #1" = 18
 	"Ximeno #0" = 1
 	"Antso #0" = 1
+	"Zentulo #0" = 1
 	"Gartzia #0" = 1
 	"Donato #0" = 1
-	"Zentulo #0" = 1
 	"Lop #1" = 0
 	"Adhémar #0" = 0
 	"Acfred #0" = 0
@@ -145,10 +145,10 @@ monarch_names = {
 	"Vicenç #0" = 0
 
 
-	"Urraka #0" = -1
-	"Belaskita #0" = -1
-	"Elbira #0" = -1
-	"Andregoto #0" = -1
 	"Ximena #0" = -1
+	"Plazentzia #0" = -1
+	"Nuña #0" = -1
+	"Andregoto #0" = -1
+	"Estefania #0" = -1
 }
 

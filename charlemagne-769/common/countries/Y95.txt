@@ -1,7 +1,7 @@
-# Azd Umanid
+# Hashimid
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 93 196 2 }
+color = { 150 249 43 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -31,16 +31,49 @@ historical_units = {
 
 leader_names = {
 
-	"al-Julanda" "Muhammad" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Abdullah" 
-	"Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" 
-	"Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" "Is'mail" 
-	"Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" 
-	"Mubarak" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" "Qawurd" 
-	"Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" "Talib" 
-	"Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Murrah" "Hasan" "Ismail" "Abdullah" "Ibrahim" "Musa" "Kilab" "Taym" "Adi" "Saad" 
+	"Qurat" "Qusai" "Kaab" "Abd Manaf" "Hashim" "Adb Shams" "Ribah" "Umru" "Amar" "Shaiba" 
+	"Riza" "Abul Uzza" "Nufail" "Abu Talib" "Khattab" "Muhammad" "Uthman" "Abu Bakr" "Umar" "Ali" 
+	"Hussayn" "Zayd" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" "Aghlab" 
+	"Akin" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" "Fadl" "Faruk" "Ghalib" 
+	"Hafiz" "Halil" "Husam" "Idris" "Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" 
+	"Khalil" "Mahdi" "Mahmud" "Mansur" "Mirza" "Mubarak" "Mukhtar" "Murad" "Muslihiddin" "Muzaffaraddin" 
+	"Najib" "Nasr" "Nizam" "Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" 
+	"Shamir" "Shujah" "Sulayman" "Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" 
+	"Zeyd" }
 monarch_names = {
-	"al-Julanda #1" = 18
+	"Murrah #0" = 1
+	"Hasan #1" = 24
+	"Ismail #0" = 1
+	"Abdullah #0" = 1
+	"Ibrahim #0" = 1
+	"Musa #0" = 1
+	"Kilab #0" = 1
+	"Taym #0" = 1
+	"Adi #0" = 1
+	"Saad #0" = 1
+	"Qurat #0" = 1
+	"Qusai #0" = 1
+	"Kaab #0" = 1
+	"Abd Manaf #0" = 1
+	"Hashim #0" = 1
+	"Adb Shams #0" = 1
+	"Ribah #0" = 1
+	"Umru #0" = 1
+	"Amar #0" = 1
+	"Shaiba #0" = 1
+	"Riza #0" = 1
+	"Abul Uzza #0" = 1
+	"Nufail #0" = 1
+	"Abu Talib #0" = 1
+	"Khattab #0" = 1
 	"Muhammad #0" = 1
+	"Uthman #0" = 1
+	"Abu Bakr #0" = 1
+	"Umar #0" = 1
+	"Ali #0" = 1
+	"Hussayn #0" = 1
+	"Zayd #0" = 1
 	"Abu-Bakr #0" = 0
 	"Aarif #0" = 0
 	"Abdul-Gafur #0" = 0
@@ -48,10 +81,8 @@ monarch_names = {
 	"Abdul-Qadir #0" = 0
 	"Abdul-Wahab #0" = 0
 	"Abdul #0" = 0
-	"Abdullah #0" = 0
 	"Aghlab #0" = 0
 	"Akin #0" = 0
-	"Ali #0" = 0
 	"Alim #0" = 0
 	"Aram #0" = 0
 	"Azam #0" = 0
@@ -63,10 +94,7 @@ monarch_names = {
 	"Ghalib #0" = 0
 	"Hafiz #0" = 0
 	"Halil #0" = 0
-	"Hasan #0" = 0
 	"Husam #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
 	"Idris #0" = 0
 	"Is'mail #0" = 0
 	"Isa #0" = 0
@@ -82,7 +110,6 @@ monarch_names = {
 	"Mubarak #0" = 0
 	"Mukhtar #0" = 0
 	"Murad #0" = 0
-	"Musa #0" = 0
 	"Muslihiddin #0" = 0
 	"Muzaffaraddin #0" = 0
 	"Najib #0" = 0
@@ -108,11 +135,11 @@ monarch_names = {
 	"Zeyd #0" = 0
 
 
-	"Paywand #0" = -1
-	"Rasa #0" = -1
-	"Yagana #0" = -1
-	"Shararah #0" = -1
+	"Shameem #0" = -1
 	"Nafisa #0" = -1
+	"Shahzadah #0" = -1
+	"Yasmin #0" = -1
+	"Taliba #0" = -1
 }
 ship_names = {
 	Arif

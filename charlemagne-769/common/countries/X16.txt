@@ -1,128 +1,137 @@
-# Rashtrakuta
+# Kartli
 ck2_converter_generated = yes
-graphical_culture = indiangfx
-color = { 150 0 20 }
+graphical_culture = easterngfx
+color = { 234 119 119 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
 
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
 
 
 
 leader_names = {
 
-	"Govinda" "Krishna" "Rannadevi" "Indra" "Sthamba" "Dhruva" "Karkka" "Dantidurga" "Pulakesi" "Kirtivarman" 
-	"Mangalesa" "Vikramaditya" "Vinayaditya" "Vijayaditya" "Achugi" "Adikavi" "Ahavamalla" "Amoghavarsha" "Anekonda" "Asaga" 
-	"Avinita" "Ayanna" "Bhuvikrama" "Bijjama" "Bukka" "Butuga" "Chavundaraya" "Dashavarman" "Durgasimha" "Durvinita" 
-	"Ereganga" "Ereyanga" "Gangaraja" "Gajankusha" "Gobburi" "Hakka" "Harihara" "Harivarman" "Jagadhekamalla" "Jagaraya" 
-	"Jagattunga" "Jayasimha" "Jogama" "Kambarasa" "Kannama" "Karka" "Khottiga" "Kiriyasaga" "Konganivarman" "Madhava" 
-	"Madhura" "Mallikarjuna" "Mallugi" "Mangalesi" "Marasimha" "Marulaganga" "Mushkara" "Narasanayaka" "Narasimha" "Neetimarga" 
-	"Nripakama" "Permadi" "Permanadi" "Polavira" "Praudharaya" "Purandaradasa" "Rachamalla" "Ramachandra" "Ramadeva" "Ramaraya" 
-	"Sankama" "Satyasraya" "Sharva" "Shivamara" "Singhana" "Somesvara" "Sovideva" "Sripadaraya" "Sripurusha" "Sriranga" 
-	"Srivikrama" "Tailapa" "Thimma" "Tirumalaraya" "Uchita" "Venkatadri" "Venkatapathi" "Viraballala" "Viravijaya" "Virupaksha" 
-	"Vishnugopa" "Vishnuvardhana" "Yachama" "Yachamanedu" "Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
+	"Adarnase" "Nerse" "Tamari" "Parsman" "Mihrdat" "Amazasp" "Hradam" "Rev" "Vache" "Bakur" 
+	"Varaz-Bakur" "Mirian" "Saurmag" "Trdati" "Archili" "Vakhtang" "Darchili" "Guaram" "Stepanoz" "Aghsartan" 
+	"Aleksandre" "Andronik" "Anzori" "Ashot" "Bagrat" "Davit" "Demetre" "Demna" "Djavakhi" "Erekle" 
+	"Gabrieli" "Gagiki" "Giorgi" "Grigoli" "Gubaz" "Gurgen" "Iese" "Ioane" "Ishkhanik" "Iveri" 
+	"Jarji" "Kaikhosro" "Kakhi" "Koba" "Konstantine" "Kvarkvare" "Kvirike" "Levan" "Luarsab" "Malkhazi" 
+	"Mamia" "Merab" "Mikheil" "Mukhran" "Nikoloz" "Okhropir" "Orbeli" "Padla" "Samoeli" "Shanshe" 
+	"Shota" "Simon" "Sumbat" "Teimuraz" "Tornike" "Ushisha" "Zurab" "Zviad" }
 monarch_names = {
-	"Govinda #0" = 1
-	"Krishna #1" = 18
-	"Rannadevi #0" = -1
-	"Indra #0" = 1
-	"Sthamba #0" = 1
-	"Dhruva #0" = 1
-	"Karkka #0" = 1
-	"Dantidurga #1" = 18
-	"Pulakesi #2" = 0
-	"Kirtivarman #2" = 0
-	"Mangalesa #1" = 0
-	"Vikramaditya #2" = 0
-	"Vinayaditya #1" = 0
-	"Vijayaditya #1" = 0
-	"Achugi #0" = 0
-	"Adikavi #0" = 0
-	"Ahavamalla #0" = 0
-	"Amoghavarsha #0" = 0
-	"Anekonda #0" = 0
-	"Asaga #0" = 0
-	"Avinita #0" = 0
-	"Ayanna #0" = 0
-	"Bhuvikrama #0" = 0
-	"Bijjama #0" = 0
-	"Bukka #0" = 0
-	"Butuga #0" = 0
-	"Chavundaraya #0" = 0
-	"Dashavarman #0" = 0
-	"Durgasimha #0" = 0
-	"Durvinita #0" = 0
-	"Ereganga #0" = 0
-	"Ereyanga #0" = 0
-	"Gangaraja #0" = 0
-	"Gajankusha #0" = 0
-	"Gobburi #0" = 0
-	"Hakka #0" = 0
-	"Harihara #0" = 0
-	"Harivarman #0" = 0
-	"Jagadhekamalla #0" = 0
-	"Jagaraya #0" = 0
-	"Jagattunga #0" = 0
-	"Jayasimha #0" = 0
-	"Jogama #0" = 0
-	"Kambarasa #0" = 0
-	"Kannama #0" = 0
-	"Karka #0" = 0
-	"Khottiga #0" = 0
-	"Kiriyasaga #0" = 0
-	"Konganivarman #0" = 0
-	"Madhava #0" = 0
-	"Madhura #0" = 0
-	"Mallikarjuna #0" = 0
-	"Mallugi #0" = 0
-	"Mangalesi #0" = 0
-	"Marasimha #0" = 0
-	"Marulaganga #0" = 0
-	"Mushkara #0" = 0
-	"Narasanayaka #0" = 0
-	"Narasimha #0" = 0
-	"Neetimarga #0" = 0
-	"Nripakama #0" = 0
-	"Permadi #0" = 0
-	"Permanadi #0" = 0
-	"Polavira #0" = 0
-	"Praudharaya #0" = 0
-	"Purandaradasa #0" = 0
-	"Rachamalla #0" = 0
-	"Ramachandra #0" = 0
-	"Ramadeva #0" = 0
-	"Ramaraya #0" = 0
-	"Sankama #0" = 0
-	"Satyasraya #0" = 0
-	"Sharva #0" = 0
-	"Shivamara #0" = 0
-	"Singhana #0" = 0
-	"Somesvara #0" = 0
-	"Sovideva #0" = 0
-	"Sripadaraya #0" = 0
-	"Sripurusha #0" = 0
-	"Sriranga #0" = 0
-	"Srivikrama #0" = 0
-	"Tailapa #0" = 0
-	"Thimma #0" = 0
-	"Tirumalaraya #0" = 0
-	"Uchita #0" = 0
-	"Venkatadri #0" = 0
-	"Venkatapathi #0" = 0
-	"Viraballala #0" = 0
-	"Viravijaya #0" = 0
-	"Virupaksha #0" = 0
-	"Vishnugopa #0" = 0
-	"Vishnuvardhana #0" = 0
-	"Yachama #0" = 0
-	"Yachamanedu #0" = 0
-	"Achyutadeva #0" = 0
-	"Krishnadevaraya #0" = 0
-	"Sadashiva #0" = 0
-	"Vendakadri #0" = 0
-	"Viranarasimha #0" = 0
+	"Adarnase #3" = 18
+	"Nerse #1" = 18
+	"Tamari #0" = -1
+	"Parsman #6" = 0
+	"Mihrdat #4" = 0
+	"Amazasp #2" = 0
+	"Hradam #1" = 0
+	"Rev #2" = 0
+	"Vache #1" = 0
+	"Bakur #3" = 0
+	"Varaz-Bakur #3" = 0
+	"Mirian #1" = 0
+	"Saurmag #1" = 0
+	"Trdati #1" = 0
+	"Archili #1" = 0
+	"Vakhtang #1" = 0
+	"Darchili #1" = 0
+	"Guaram #3" = 0
+	"Stepanoz #2" = 0
+	"Aghsartan #0" = 0
+	"Aleksandre #0" = 0
+	"Andronik #0" = 0
+	"Anzori #0" = 0
+	"Ashot #0" = 0
+	"Bagrat #0" = 0
+	"Davit #0" = 0
+	"Demetre #0" = 0
+	"Demna #0" = 0
+	"Djavakhi #0" = 0
+	"Erekle #0" = 0
+	"Gabrieli #0" = 0
+	"Gagiki #0" = 0
+	"Giorgi #0" = 0
+	"Grigoli #0" = 0
+	"Gubaz #0" = 0
+	"Gurgen #0" = 0
+	"Iese #0" = 0
+	"Ioane #0" = 0
+	"Ishkhanik #0" = 0
+	"Iveri #0" = 0
+	"Jarji #0" = 0
+	"Kaikhosro #0" = 0
+	"Kakhi #0" = 0
+	"Koba #0" = 0
+	"Konstantine #0" = 0
+	"Kvarkvare #0" = 0
+	"Kvirike #0" = 0
+	"Levan #0" = 0
+	"Luarsab #0" = 0
+	"Malkhazi #0" = 0
+	"Mamia #0" = 0
+	"Merab #0" = 0
+	"Mikheil #0" = 0
+	"Mukhran #0" = 0
+	"Nikoloz #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Padla #0" = 0
+	"Samoeli #0" = 0
+	"Shanshe #0" = 0
+	"Shota #0" = 0
+	"Simon #0" = 0
+	"Sumbat #0" = 0
+	"Teimuraz #0" = 0
+	"Tornike #0" = 0
+	"Ushisha #0" = 0
+	"Zurab #0" = 0
+	"Zviad #0" = 0
 
 
-	"Mailaladevi #0" = -1
-	"Bijjabbe #0" = -1
-	"Chandrabbalabbe #0" = -1
-	"Kundakadevi #0" = -1
+	"Suliko #0" = -1
+	"Taplo #0" = -1
+	"Lamzira #0" = -1
+	"Ia #0" = -1
+}
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tbilisi Tashiri
+	Urbnisi
 }
 

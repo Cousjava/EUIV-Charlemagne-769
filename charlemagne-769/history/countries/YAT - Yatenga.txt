@@ -1,0 +1,37 @@
+# Yatenga
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = mali
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1135
+1440.1.1 = {
+	monarch = {
+		name = "Malla"
+		birth_date = 1410.1.1
+		dynasty = "of Gurma"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+	add_ruler_personality = drunkard_personality
+	heir = {
+		name = "Bisi"
+		monarch_name = "Bisi"
+		dynasty = "of Gurma"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = naive_personality
+}
+1444.11.11 = {
+	capital = 1135
+	add_treasury = 4
+	add_prestige = 4
+}

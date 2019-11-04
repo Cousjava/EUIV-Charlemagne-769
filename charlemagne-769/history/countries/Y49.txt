@@ -1,37 +1,27 @@
-# Yabguid
+# Esztergom
 government = tribal
-add_government_reform = steppe_horde
-government_rank = 2
+add_government_reform = tribal_despotism
+government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = turkish
+technology_group = eastern
+primary_culture = slovieni
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 2351
-1437.1.1 = {
+capital = 135
+1406.1.1 = {
 	monarch = {
-		name = "Kapaghan"
-		birth_date = 1411.1.1
-		dynasty = "Yabguid"
-		adm = 2
-		dip = 1
-		mil = 2
-	}
-	add_ruler_personality = malevolent_personality
-	heir = {
-		name = "Dogan"
-		monarch_name = "Dogan"
-		dynasty = "Yabguid"
-		birth_date = 1427.1.1
-		death_date = 1507.1.1
+		name = "Vetam"
+		birth_date = 1386.1.1
+		dynasty = "Khazbek"
 		adm = 1
-		dip = 2
-		mil = 6
+		dip = 4
+		mil = 1
 	}
-	add_heir_personality = tactical_genius_personality
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = calm_personality
 }
 1444.11.11 = {
-	capital = 2351
-	add_treasury = 10
-	add_prestige = 13
+	capital = 135
+	add_treasury = 6
+	add_prestige = 5
 }

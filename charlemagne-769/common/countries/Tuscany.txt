@@ -387,10 +387,10 @@ monarch_names = {
 	"Zaccaria #0" = 0
 
 
-	"Gudeliva #0" = -1
-	"Gundeperga #0" = -1
-	"Theodarada #0" = -1
-	"Appa #0" = -1
+	"Giseltrude #0" = -1
+	"Liutberga #0" = -1
+	"Liutpirc #0" = -1
+	"Gambara #0" = -1
 }
 ship_names = {
 	Medea Vulcano Gloria Minerva Laatea

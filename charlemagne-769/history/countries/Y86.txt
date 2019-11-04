@@ -1,27 +1,40 @@
-# Ifrinid
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Pechenegs
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = berber
-religion = ibadi
+technology_group = nomad_group
+primary_culture = pecheneg
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 336
-1416.1.1 = {
+capital = 465
+1427.1.1 = {
 	monarch = {
-		name = "Abu Qurra"
-		birth_date = 1395.1.1
-		dynasty = "Ifrinid"
-		adm = 2
-		dip = 3
-		mil = 4
+		name = "Korkutan"
+		birth_date = 1411.1.1
+		dynasty = "Uraçic"
+		adm = 6
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = fierce_negotiator_personality
 	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = midas_touched_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Suru"
+		monarch_name = "Suru"
+		dynasty = "Uraçic"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = malevolent_personality
 }
 1444.11.11 = {
-	capital = 336
-	add_treasury = 7
-	add_prestige = 6
+	capital = 465
+	add_treasury = 10
+	add_prestige = 13
 }

@@ -1,7 +1,7 @@
-# Adrianopolis
+# Thessalonika
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 213 74 165 }
+color = { 189 19 130 }
 historical_idea_groups = {
 	religious_ideas
 	defensive_ideas
@@ -36,7 +36,7 @@ historical_units = {
 
 leader_names = {
 
-	"Theophanes" "Nikephoros" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" 
+	"Theoktistos" "Agne" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" "Andronikos" 
 	"Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" "Bartholomaios" 
 	"Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" "David" 
 	"Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" "Eusebios" 
@@ -45,15 +45,15 @@ leader_names = {
 	"Ioannikios" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" "Kaisarios" 
 	"Kallinikos" "Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" "Kyros" 
 	"Laurentios" "Lazaros" "Leon" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" 
-	"Maximos" "Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Niketas" "Nikodemos" "Nikolaos" 
-	"Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" "Philaretos" 
-	"Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" "Romanos" 
-	"Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" "Theocharistos" 
-	"Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" "Traianos" 
-	"Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
+	"Maximos" "Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" 
+	"Nikolaos" "Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" 
+	"Philaretos" "Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" 
+	"Romanos" "Sabas" "Samuel" "Serapion" "Sebastianos" "Sergios" "Stephanos" "Staurakios" "Symeon" "Symmachos" 
+	"Theocharistos" "Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" "Tiberios" 
+	"Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
-	"Theophanes #1" = 18
-	"Nikephoros #0" = 1
+	"Theoktistos #1" = 18
+	"Agne #0" = -1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -149,6 +149,7 @@ monarch_names = {
 	"Michael #0" = 0
 	"Narses #0" = 0
 	"Neophytos #0" = 0
+	"Nikephoros #0" = 0
 	"Niketas #0" = 0
 	"Nikodemos #0" = 0
 	"Nikolaos #0" = 0
@@ -186,7 +187,7 @@ monarch_names = {
 	"Theodosios #0" = 0
 	"Theodotos #0" = 0
 	"Theodoulos #0" = 0
-	"Theoktistos #0" = 0
+	"Theophanes #0" = 0
 	"Theophilos #0" = 0
 	"Theophylaktos #0" = 0
 	"Thomas #0" = 0
@@ -200,11 +201,10 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Sibylla #0" = -1
-	"Antonia #0" = -1
+	"Markia #0" = -1
 	"Thekla #0" = -1
-	"Melissa #0" = -1
-	"Apollonia #0" = -1
+	"Iouliana #0" = -1
+	"Valeria #0" = -1
 }
 ship_names = {
 	Hydra

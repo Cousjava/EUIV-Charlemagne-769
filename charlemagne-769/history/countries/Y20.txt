@@ -1,27 +1,39 @@
-# Greater Poland
+# Suomi
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = polish
+technology_group = western
+primary_culture = finnish
 religion = animism
 clear_scripted_personalities = yes
-capital = 43
-1425.1.1 = {
+capital = 4123
+1430.1.1 = {
 	monarch = {
-		name = "Dobieslaw"
-		birth_date = 1408.1.1
-		dynasty = "Choscisko"
-		adm = 1
-		dip = 2
-		mil = 6
+		name = "Ihala"
+		birth_date = 1413.1.1
+		dynasty = "Virtanen"
+		adm = 2
+		dip = 0
+		mil = 5
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = careful_personality
+}
+1442.1.1 = {
+	heir = {
+		name = "Terho"
+		monarch_name = "Terho"
+		dynasty = "Virtanen"
+		birth_date = 1442.1.1
+		death_date = 1522.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
 }
 1444.11.11 = {
-	capital = 43
+	capital = 4123
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 4
 }

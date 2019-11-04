@@ -1,37 +1,37 @@
-# Slavonia
-government = monarchy
-add_government_reform = feudalism_reform
+# Finnmárku
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = croatian
+technology_group = western
+primary_culture = sapmi
 religion = animism
 clear_scripted_personalities = yes
-capital = 131
+capital = 315
 1435.1.1 = {
 	monarch = {
-		name = "Senulat"
-		birth_date = 1405.1.1
-		dynasty = "Senulatovic"
+		name = "Áilu"
+		birth_date = 1404.1.1
+		dynasty = "Gájka"
 		adm = 2
-		dip = 2
-		mil = 2
+		dip = 1
+		mil = 0
 	}
-	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = greedy_personality
 	heir = {
-		name = "Silimir"
-		monarch_name = "Silimir"
-		dynasty = "Senulatovic"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
+		name = "Mohkku"
+		monarch_name = "Mohkku"
+		dynasty = "Gájka"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
 		adm = 1
-		dip = 0
-		mil = 1
+		dip = 1
+		mil = 3
 	}
-	add_heir_personality = tolerant_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 131
-	add_treasury = 6
-	add_prestige = 5
+	capital = 315
+	add_treasury = 4
+	add_prestige = 2
 }

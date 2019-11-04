@@ -1,4 +1,4 @@
-# Thracesia
+# Cibyrrhaeot
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,21 +7,21 @@ technology_group = eastern
 primary_culture = greek
 religion = iconoclast
 clear_scripted_personalities = yes
-capital = 4309
-1430.1.1 = {
+capital = 320
+1426.1.1 = {
 	monarch = {
-		name = "Michael"
-		birth_date = 1410.1.1
-		dynasty = "Lachanodrakon"
-		adm = 2
-		dip = 1
-		mil = 5
+		name = "Theophylaktos"
+		birth_date = 1406.1.1
+		dynasty = "Rangabes"
+		adm = 4
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = tolerant_personality
+	add_ruler_personality = tactical_genius_personality
 }
 1444.11.11 = {
-	capital = 4309
+	capital = 320
 	add_treasury = 6
 	add_prestige = 4
 }

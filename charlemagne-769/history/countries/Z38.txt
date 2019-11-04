@@ -1,38 +1,27 @@
-# Domnonia
+# Franconia
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = breton
+primary_culture = german
 religion = catholic
 clear_scripted_personalities = yes
-capital = 169
-1415.1.1 = {
+capital = 79
+1408.1.1 = {
 	monarch = {
-		name = "Budic"
-		birth_date = 1395.1.1
-		dynasty = "de Poher"
+		name = "Thuringus"
+		birth_date = 1394.1.1
+		dynasty = "Hetanid"
 		adm = 1
-		dip = 4
-		mil = 0
+		dip = 1
+		mil = 2
 	}
-	add_ruler_personality = martial_educator_personality
-	add_ruler_personality = tactical_genius_personality
-	heir = {
-		name = "Melliau"
-		monarch_name = "Melliau"
-		dynasty = "de Poher"
-		birth_date = 1415.1.1
-		death_date = 1495.1.1
-		adm = 4
-		dip = 2
-		mil = 1
-	}
-	add_heir_personality = midas_touched_personality
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 169
-	add_treasury = 4
-	add_prestige = 2
+	capital = 79
+	add_treasury = 6
+	add_prestige = 15
 }

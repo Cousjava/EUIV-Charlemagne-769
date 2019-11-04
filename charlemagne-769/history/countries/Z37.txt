@@ -1,40 +1,26 @@
-# Saxony
-government = tribal
-add_government_reform = tribal_despotism
-government_rank = 2
+# West-Frisia
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = hannoverian
-religion = animism
+primary_culture = frisian
+religion = catholic
 clear_scripted_personalities = yes
-capital = 52
-1415.1.1 = {
+capital = 97
+1435.1.1 = {
 	monarch = {
-		name = "Theoderic"
-		birth_date = 1395.1.1
-		dynasty = "Theodericing"
+		name = "Anselm"
+		birth_date = 1395.1.5
+		dynasty = "de Chaumontois"
 		adm = 3
-		dip = 1
+		dip = 4
 		mil = 2
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = strict_personality
-}
-1416.1.1 = {
-	heir = {
-		name = "Wichimann"
-		monarch_name = "Wichimann"
-		dynasty = "Theodericing"
-		birth_date = 1416.1.1
-		death_date = 1496.1.1
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-	add_heir_personality = intricate_web_weaver_personality
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
-	capital = 52
-	add_treasury = 8
+	capital = 97
+	add_treasury = 7
 	add_prestige = 9
 }

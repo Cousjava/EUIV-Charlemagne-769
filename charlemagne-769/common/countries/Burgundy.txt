@@ -8,7 +8,7 @@ color = { 153 67 108 }
 
 leader_names = {
 
-	"Nibelung" "Theodbert" "Theoderic" "Teudoin" "Adalelm" "Childebrand" "Niebelung" "Guillaume" "Abba" "Berta" 
+	"Nibelung" "Teudoin" "Theoderic" "Niebelung" "Adalelm" "Guillaume" "Childebrand" "Theodbert" "Abba" "Berta" 
 	"Dreux" "Abrahil" "Abram" "Adalbald" "Adalbert" "Adalgari" "Adalgrim" "Aegidius" "Ageric" "Agilbert" 
 	"Agiulf" "Ailbert" "Albric" "Aldedramn" "Andica" "Ansovald" "Arcambald" "Aregisel" "Arnegisel" "Arnulf" 
 	"Ascaric" "Audovald" "Austregisel" "Autbert" "Autgari" "Autgeri" "Avremar" "Badegisel" "Balduin" "Barnard" 
@@ -31,13 +31,13 @@ leader_names = {
 	"Trutgaud" "Vuitard" "Vulfari" "Vulframn" "Vulvari" "Waltgaud" "Werinbert" "Wilbert" "Willichar" "Wolfari" }
 monarch_names = {
 	"Nibelung #0" = 1
-	"Theodbert #0" = 1
-	"Theoderic #1" = 21
 	"Teudoin #0" = 1
-	"Adalelm #0" = 1
-	"Childebrand #0" = 1
+	"Theoderic #1" = 21
 	"Niebelung #0" = 1
+	"Adalelm #0" = 1
 	"Guillaume #0" = 1
+	"Childebrand #0" = 1
+	"Theodbert #0" = 1
 	"Abba #0" = -1
 	"Berta #0" = -1
 	"Dreux #1" = 0
@@ -242,8 +242,8 @@ monarch_names = {
 	"Wolfari #0" = 0
 
 
-	"Framberta #0" = -1
-	"Gundrada #0" = -1
-	"Beretrude #0" = -1
+	"Ermengildis #0" = -1
+	"Morberga #0" = -1
+	"Frotberga #0" = -1
 }
 

@@ -1,0 +1,27 @@
+# Ket
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = kirgiz
+religion = manichean
+clear_scripted_personalities = yes
+capital = 1068
+1429.1.1 = {
+	monarch = {
+		name = "Kürtel"
+		birth_date = 1416.1.1
+		dynasty = "Ket"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = free_thinker_personality
+	add_ruler_personality = tolerant_personality
+}
+1444.11.11 = {
+	capital = 1068
+	add_treasury = 8
+	add_prestige = 7
+}

@@ -1,40 +1,40 @@
-# Sjælland
+# Bréifne
 government = tribal
-add_government_reform = tribal_despotism
+add_government_reform = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = norse
-religion = animism
+primary_culture = irish
+religion = catholic
 clear_scripted_personalities = yes
-capital = 12
-1404.1.1 = {
+capital = 4119
+1418.1.1 = {
 	monarch = {
-		name = "Haraldr"
-		birth_date = 1365.6.12
-		dynasty = "Skjöldung"
-		adm = 3
-		dip = 3
-		mil = 4
+		name = "Cernach"
+		birth_date = 1402.1.1
+		dynasty = "Ua Briúin Bréifne"
+		adm = 4
+		dip = 2
+		mil = 3
 	}
-	add_ruler_personality = secretive_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = fierce_negotiator_personality
 }
-1408.1.1 = {
+1426.1.1 = {
 	heir = {
-		name = "Hrörekr"
-		monarch_name = "Hrörekr II"
-		dynasty = "Skjöldung"
-		birth_date = 1408.1.1
-		death_date = 1488.1.1
-		adm = 2
-		dip = 6
-		mil = 1
+		name = "Sellachán"
+		monarch_name = "Sellachán"
+		dynasty = "Ua Briúin Bréifne"
+		birth_date = 1426.1.1
+		death_date = 1506.1.1
+		adm = 4
+		dip = 5
+		mil = 3
 	}
-	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = righteous_personality
 }
 1444.11.11 = {
-	capital = 12
-	add_treasury = 6
-	add_prestige = 9
+	capital = 4119
+	add_treasury = 4
+	add_prestige = 2
 }

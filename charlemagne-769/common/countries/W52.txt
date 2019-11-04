@@ -1,0 +1,68 @@
+# Makari
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 76 139 178 }
+
+
+
+
+leader_names = {
+
+	"Shu" "Fatima" "Abakar" "Abba" "Abdulraham" "Adam" "Ahmed" "At-Tayeb" "Brahim" "Daoud" 
+	"Deli" "Dolo" "Gilding" "Goukouni" "Hishi" "Ibrahim" "Idris" "Ingir" "Issa" "Kasu" 
+	"Kosu" "Ku" "Kuti" "Mahmoud" "Minni" "Musa" "Oki" "Okiramaj" "Omer" "Osman" 
+	"Shartay" "Siddick" "Sora" "Suleyman" "Tijani" "Timan" "Toholjo" "Tor" "Torfu" "Tugule" 
+	"Udure" "Yahya" "Yaqub" "Yusuf" }
+monarch_names = {
+	"Shu #0" = 1
+	"Fatima #0" = -1
+	"Abakar #0" = 0
+	"Abba #0" = 0
+	"Abdulraham #0" = 0
+	"Adam #0" = 0
+	"Ahmed #0" = 0
+	"At-Tayeb #0" = 0
+	"Brahim #0" = 0
+	"Daoud #0" = 0
+	"Deli #0" = 0
+	"Dolo #0" = 0
+	"Gilding #0" = 0
+	"Goukouni #0" = 0
+	"Hishi #0" = 0
+	"Ibrahim #0" = 0
+	"Idris #0" = 0
+	"Ingir #0" = 0
+	"Issa #0" = 0
+	"Kasu #0" = 0
+	"Kosu #0" = 0
+	"Ku #0" = 0
+	"Kuti #0" = 0
+	"Mahmoud #0" = 0
+	"Minni #0" = 0
+	"Musa #0" = 0
+	"Oki #0" = 0
+	"Okiramaj #0" = 0
+	"Omer #0" = 0
+	"Osman #0" = 0
+	"Shartay #0" = 0
+	"Siddick #0" = 0
+	"Sora #0" = 0
+	"Suleyman #0" = 0
+	"Tijani #0" = 0
+	"Timan #0" = 0
+	"Toholjo #0" = 0
+	"Tor #0" = 0
+	"Torfu #0" = 0
+	"Tugule #0" = 0
+	"Udure #0" = 0
+	"Yahya #0" = 0
+	"Yaqub #0" = 0
+	"Yusuf #0" = 0
+
+
+	"Ter #0" = -1
+	"Halima #0" = -1
+	"Ogai #0" = -1
+	"Sumiah #0" = -1
+}
+

@@ -8,7 +8,7 @@ color = { 175 60 30 }
 
 leader_names = {
 
-	"Sankaradeva" "Sakya Devi" "Baladeva" "Baliraja" "Dharmadeva" "Manadeva" "Mahideva" "Vasantadeva" "Manudeva" "Vamanadeva" 
+	"Sankaradeva" "Sakya Devi" "Baliraja" "Baladeva" "Dharmadeva" "Manadeva" "Mahideva" "Vasantadeva" "Manudeva" "Vamanadeva" 
 	"Ramadeva" "Amaradeva" "Gunakamadeva" "Ganadeva" "Gangadeva" "Shivadeva" "Amshuvarman" "Udayadeva" "Dhruvadeva" "Bhimarjunadeva" 
 	"Bhrikuti Devi" "Narendradeva" "Jayadeva" "Aashish" "Ananta" "Ankit" "Akash" "Aramudi" "Babu" "Bhairaja" 
 	"Bibhas" "Bibek" "Bikash" "Bishal" "Chandra" "Finjo" "Gagan" "Hem" "Kamal" "Kiran" 
@@ -18,8 +18,8 @@ leader_names = {
 monarch_names = {
 	"Sankaradeva #2" = 21
 	"Sakya Devi #0" = -1
-	"Baladeva #0" = 1
 	"Baliraja #1" = 18
+	"Baladeva #0" = 1
 	"Dharmadeva #1" = 18
 	"Manadeva #3" = 24
 	"Mahideva #1" = 18
@@ -84,8 +84,8 @@ monarch_names = {
 	"Yash #0" = 0
 
 
-	"Swornima #0" = -1
-	"Heena #0" = -1
-	"Birsha #0" = -1
+	"Aspru #0" = -1
+	"Kusum #0" = -1
+	"Tsamchoe #0" = -1
 }
 

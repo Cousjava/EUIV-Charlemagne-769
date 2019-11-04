@@ -1,26 +1,38 @@
-# Seville
+# Middle Francia
 government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+add_government_reform = feudalism_reform
+government_rank = 2
 mercantilism = 0.1
 technology_group = western
-primary_culture = visigothic
-religion = sunni
+primary_culture = frankish
+religion = catholic
 clear_scripted_personalities = yes
-capital = 224
-1444.1.1 = {
+capital = 186
+1443.9.24 = {
 	monarch = {
-		name = "Hisham"
-		birth_date = 1432.4.26
-		dynasty = "Umayyad"
-		adm = 2
+		name = "Karloman"
+		birth_date = 1426.1.1
+		dynasty = "Karling"
+		adm = 1
 		dip = 3
-		mil = 2
+		mil = 4
 	}
-	add_ruler_personality = calm_personality
+	add_ruler_personality = secretive_personality
+}
+1443.11.4 = {
+	heir = {
+		name = "Pepin"
+		monarch_name = "Pepin"
+		dynasty = "Karling"
+		birth_date = 1443.11.4
+		death_date = 1523.11.4
+		adm = 4
+		dip = 4
+		mil = 4
+	}
 }
 1444.11.11 = {
-	capital = 224
-	add_treasury = 6
-	add_prestige = 121
+	capital = 186
+	add_treasury = 9
+	add_prestige = 32
 }

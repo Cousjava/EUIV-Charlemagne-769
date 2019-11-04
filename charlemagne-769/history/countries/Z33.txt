@@ -1,4 +1,4 @@
-# Kent
+# East Anglia
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
@@ -7,31 +7,31 @@ technology_group = western
 primary_culture = anglo_saxon
 religion = catholic
 clear_scripted_personalities = yes
-capital = 235
-1440.1.1 = {
+capital = 1860
+1435.1.1 = {
 	monarch = {
-		name = "Ecgberht II"
-		birth_date = 1410.1.1
-		dynasty = "Wihtgilsing"
-		adm = 2
-		dip = 1
+		name = "Æthelred"
+		birth_date = 1400.1.1
+		dynasty = "Wuffing"
+		adm = 4
+		dip = 2
 		mil = 4
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = malevolent_personality
 	heir = {
-		name = "Eadberht"
-		monarch_name = "Eadberht III"
-		dynasty = "Wihtgilsing"
-		birth_date = 1430.1.1
-		death_date = 1510.1.1
-		adm = 3
-		dip = 1
-		mil = 3
+		name = "Æthelberht"
+		monarch_name = "Æthelberht"
+		dynasty = "Wuffing"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 2
+		mil = 4
 	}
-	add_heir_personality = free_thinker_personality
+	add_heir_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 235
+	capital = 1860
 	add_treasury = 6
-	add_prestige = 28
+	add_prestige = 16
 }

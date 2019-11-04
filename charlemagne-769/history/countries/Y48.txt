@@ -1,37 +1,26 @@
-# Yaik
+# Avaria
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_despotism
 government_rank = 2
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = bolghar
+technology_group = eastern
+primary_culture = avar
 religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 475
-1443.1.1 = {
+capital = 153
+1442.1.1 = {
 	monarch = {
-		name = "Taridin"
-		birth_date = 1410.1.1
-		dynasty = "Baskatir"
-		adm = 1
-		dip = 5
+		name = "Dengizikh"
+		birth_date = 1397.1.1
+		dynasty = "Khunzakhal"
+		adm = 2
+		dip = 1
 		mil = 1
 	}
-	add_ruler_personality = kind_hearted_personality
-	heir = {
-		name = "Oshi"
-		monarch_name = "Oshi"
-		dynasty = "Baskatir"
-		birth_date = 1429.1.1
-		death_date = 1509.1.1
-		adm = 1
-		dip = 1
-		mil = 4
-	}
-	add_heir_personality = silver_tongue_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
-	capital = 475
-	add_treasury = 10
-	add_prestige = 12
+	capital = 153
+	add_treasury = 8
+	add_prestige = 52
 }

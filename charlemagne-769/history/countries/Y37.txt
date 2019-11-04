@@ -1,26 +1,26 @@
-# Karadakhu
+# Ilmenia
 government = tribal
-add_government_reform = steppe_horde
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = khazar
-religion = tengri_pagan_reformed
+technology_group = eastern
+primary_culture = ilmenian
+religion = animism
 clear_scripted_personalities = yes
-capital = 2409
-1438.1.1 = {
+capital = 310
+1435.1.1 = {
 	monarch = {
-		name = "Sartäç"
-		birth_date = 1408.1.1
-		dynasty = "Karadakhu"
+		name = "Rodislav"
+		birth_date = 1418.1.1
+		dynasty = "Slovensky"
 		adm = 2
-		dip = 2
-		mil = 3
+		dip = 0
+		mil = 4
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = greedy_personality
 }
 1444.11.11 = {
-	capital = 2409
-	add_treasury = 8
+	capital = 310
+	add_treasury = 6
 	add_prestige = 8
 }

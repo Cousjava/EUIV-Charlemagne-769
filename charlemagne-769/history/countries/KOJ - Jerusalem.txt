@@ -13,12 +13,12 @@ capital = 379
 		name = "Al-Hasan"
 		birth_date = 1388.1.1
 		dynasty = "Taid"
-		adm = 4
-		dip = 0
+		adm = 2
+		dip = 6
 		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 379

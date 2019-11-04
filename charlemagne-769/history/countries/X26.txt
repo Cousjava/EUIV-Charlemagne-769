@@ -1,37 +1,40 @@
-# Pratihara
+# Ifrinid
 government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 2
+add_government_reform = ottoman_government
+government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = rajput
-religion = hinduism
+technology_group = muslim
+primary_culture = berber
+religion = ibadi
 clear_scripted_personalities = yes
-capital = 526
-1440.1.1 = {
+capital = 336
+1416.1.1 = {
 	monarch = {
-		name = "Kakustha"
-		birth_date = 1405.1.1
-		dynasty = "Pratihara"
-		adm = 3
+		name = "Abu Qurra"
+		birth_date = 1395.1.1
+		dynasty = "Ifrinid"
+		adm = 1
 		dip = 2
-		mil = 1
+		mil = 4
 	}
+	add_ruler_personality = bold_fighter_personality
 	add_ruler_personality = secretive_personality
+}
+1421.1.1 = {
 	heir = {
-		name = "Devasakti"
-		monarch_name = "Devasakti"
-		dynasty = "Pratihara"
-		birth_date = 1407.1.1
-		death_date = 1487.1.1
+		name = "Amaz'uz'"
+		monarch_name = "Amaz'uz'"
+		dynasty = "Ifrinid"
+		birth_date = 1421.1.1
+		death_date = 1501.1.1
 		adm = 3
 		dip = 1
-		mil = 6
+		mil = 4
 	}
-	add_heir_personality = tactical_genius_personality
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 526
-	add_treasury = 10
-	add_prestige = 77
+	capital = 336
+	add_treasury = 6
+	add_prestige = 6
 }

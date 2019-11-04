@@ -1,28 +1,27 @@
-# Nagchu
+# Akhun
 government = tribal
-add_government_reform = tribal_kingdom
+add_government_reform = steppe_horde
 government_rank = 1
 mercantilism = 0.1
-technology_group = chinese
-primary_culture = sumpa
-religion = bon
+technology_group = nomad_group
+primary_culture = uyghur
+religion = manichean
 clear_scripted_personalities = yes
-capital = 4205
-1430.1.1 = {
+capital = 1066
+1419.1.1 = {
 	monarch = {
-		name = "Ataklumo"
-		birth_date = 1413.1.1
-		dynasty = "Tong"
-		female = yes
-		adm = 3
-		dip = 3
-		mil = 6
+		name = "Kozel"
+		birth_date = 1416.8.1
+		dynasty = "Akhun"
+		adm = 1
+		dip = 4
+		mil = 0
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = calm_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = benevolent_personality
 }
 1444.11.11 = {
-	capital = 4205
-	add_treasury = 6
-	add_prestige = 12
+	capital = 1066
+	add_treasury = 8
+	add_prestige = 10
 }

@@ -1,4 +1,4 @@
-# Bréifne
+# Connachta
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,34 +7,31 @@ technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 4379
-1418.1.1 = {
+capital = 4119
+1443.1.1 = {
 	monarch = {
-		name = "Cernach"
-		birth_date = 1402.1.1
-		dynasty = "Ua Briúin Bréifne"
-		adm = 2
+		name = "Donn Cothaid"
+		birth_date = 1396.1.1
+		dynasty = "Uí Fiachrach"
+		adm = 0
 		dip = 4
-		mil = 4
+		mil = 0
 	}
-	add_ruler_personality = intricate_web_weaver_personality
-	add_ruler_personality = fierce_negotiator_personality
-}
-1426.1.1 = {
+	add_ruler_personality = cruel_personality
 	heir = {
-		name = "Sellachán"
-		monarch_name = "Sellachán"
-		dynasty = "Ua Briúin Bréifne"
-		birth_date = 1426.1.1
-		death_date = 1506.1.1
-		adm = 3
+		name = "Cathmug"
+		monarch_name = "Cathmug"
+		dynasty = "Uí Fiachrach"
+		birth_date = 1417.1.1
+		death_date = 1497.1.1
+		adm = 2
 		dip = 3
 		mil = 4
 	}
-	add_heir_personality = careful_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 4379
-	add_treasury = 4
-	add_prestige = 2
+	capital = 4119
+	add_treasury = 6
+	add_prestige = 4
 }

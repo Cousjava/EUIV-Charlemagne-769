@@ -1,26 +1,40 @@
-# Bavandid
-government = monarchy
-add_government_reform = feudalism_reform
+# Lesser Poland
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = persian
-religion = zoroastrian
+technology_group = eastern
+primary_culture = polish
+religion = animism
 clear_scripted_personalities = yes
-capital = 426
-1436.1.1 = {
+capital = 259
+1425.1.1 = {
 	monarch = {
-		name = "Sorkhab"
-		birth_date = 1375.1.1
-		dynasty = "Bavandid"
-		adm = 3
+		name = "Siemowit"
+		birth_date = 1408.1.1
+		dynasty = "Lechowicz"
+		adm = 2
 		dip = 2
-		mil = 3
+		mil = 4
 	}
-	add_ruler_personality = infertile_personality
+	add_ruler_personality = drunkard_personality
+	add_ruler_personality = greedy_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Pelka"
+		monarch_name = "Pelka"
+		dynasty = "Lechowicz"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = drunkard_personality
 }
 1444.11.11 = {
-	capital = 426
+	capital = 259
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

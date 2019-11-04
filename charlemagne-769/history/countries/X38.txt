@@ -1,37 +1,26 @@
-# Taghlibid
+# Shirazid
 government = monarchy
 add_government_reform = ottoman_government
-government_rank = 2
+government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
+technology_group = east_african
 primary_culture = bedouin_arabic
 religion = sunni
 clear_scripted_personalities = yes
-capital = 2231
+capital = 1211
 1443.1.1 = {
 	monarch = {
-		name = "Hisam"
-		birth_date = 1405.1.1
-		dynasty = "Taghlibid"
-		adm = 2
+		name = "Talut"
+		birth_date = 1423.1.1
+		dynasty = "Shirazid"
+		adm = 1
 		dip = 3
-		mil = 4
+		mil = 3
 	}
-	add_ruler_personality = obsessive_perfectionist_personality
-	heir = {
-		name = "Sufyah"
-		monarch_name = "Sufyah"
-		dynasty = "Taghlibid"
-		birth_date = 1407.1.1
-		death_date = 1487.1.1
-		adm = 0
-		dip = 3
-		mil = 1
-	}
-	add_heir_personality = drunkard_personality
+	add_ruler_personality = secretive_personality
 }
 1444.11.11 = {
-	capital = 2231
-	add_treasury = 9
-	add_prestige = 7
+	capital = 1211
+	add_treasury = 6
+	add_prestige = 5
 }

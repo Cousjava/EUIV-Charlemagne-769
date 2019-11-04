@@ -1,26 +1,38 @@
-# Qinghai
+# Kalinga Ganga
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = chinese
-primary_culture = tangut
-religion = confucianism
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
 clear_scripted_personalities = yes
-capital = 706
-1437.1.1 = {
+capital = 549
+1427.1.1 = {
 	monarch = {
-		name = "Chaoguang"
-		birth_date = 1416.1.1
-		dynasty = "Tuoba"
-		adm = 3
-		dip = 1
-		mil = 3
+		name = "Rajendravarma"
+		birth_date = 1395.1.1
+		dynasty = "Kalinga Ganga"
+		adm = 2
+		dip = 2
+		mil = 1
 	}
 	add_ruler_personality = greedy_personality
+	add_ruler_personality = just_personality
+	heir = {
+		name = "Anantavarma"
+		monarch_name = "Anantavarma II"
+		dynasty = "Kalinga Ganga"
+		birth_date = 1415.1.1
+		death_date = 1495.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+	add_heir_personality = bold_fighter_personality
 }
 1444.11.11 = {
-	capital = 706
+	capital = 549
 	add_treasury = 6
-	add_prestige = 6
+	add_prestige = 31
 }

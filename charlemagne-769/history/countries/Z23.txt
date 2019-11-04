@@ -13,11 +13,22 @@ capital = 1979
 		name = "Allcallorred"
 		birth_date = 1375.1.1
 		dynasty = "Caliu"
-		adm = 2
-		dip = 5
-		mil = 2
+		adm = 3
+		dip = 2
+		mil = 6
 	}
-	add_ruler_personality = craven_personality
+	add_ruler_personality = tactical_genius_personality
+	heir = {
+		name = "Mael"
+		monarch_name = "Mael"
+		dynasty = "Caliu"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+	add_heir_personality = cruel_personality
 }
 1444.11.11 = {
 	capital = 1979

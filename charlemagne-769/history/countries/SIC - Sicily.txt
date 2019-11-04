@@ -14,11 +14,11 @@ capital = 2982
 		birth_date = 1411.1.1
 		dynasty = "Kalopragmon"
 		adm = 3
-		dip = 3
-		mil = 3
+		dip = 2
+		mil = 4
 	}
-	add_ruler_personality = malevolent_personality
-	add_ruler_personality = obsessive_perfectionist_personality
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = expansionist_personality
 }
 1444.11.11 = {
 	capital = 2982

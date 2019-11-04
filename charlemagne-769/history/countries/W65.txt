@@ -1,0 +1,37 @@
+# Tobysh
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1444.1.1 = {
+	monarch = {
+		name = "Nga"
+		birth_date = 1413.1.1
+		dynasty = "Numid"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+	add_ruler_personality = silver_tongue_personality
+	heir = {
+		name = "Sarak"
+		monarch_name = "Sarak"
+		dynasty = "Numid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = malevolent_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 4
+	add_prestige = 2
+}

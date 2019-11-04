@@ -1,0 +1,37 @@
+# Tsilma
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = samoyed
+religion = animism
+clear_scripted_personalities = yes
+capital = 4257
+1444.1.1 = {
+	monarch = {
+		name = "Noumea"
+		birth_date = 1414.1.1
+		dynasty = "Manvid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = naive_personality
+	heir = {
+		name = "Wayngachi"
+		monarch_name = "Wayngachi"
+		dynasty = "Manvid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 4257
+	add_treasury = 4
+	add_prestige = 3
+}

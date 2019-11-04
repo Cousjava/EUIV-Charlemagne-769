@@ -1,27 +1,40 @@
-# Bhatti
+# Ceuta
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = indian
-primary_culture = rajput
-religion = hinduism
+technology_group = muslim
+primary_culture = visigothic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 513
-1406.1.1 = {
+capital = 1751
+1422.1.1 = {
 	monarch = {
-		name = "Kehar"
-		birth_date = 1390.1.1
-		dynasty = "Bhatti"
-		adm = 3
+		name = "Pelagio"
+		birth_date = 1407.1.1
+		dynasty = "Qutid"
+		adm = 2
 		dip = 2
-		mil = 6
+		mil = 5
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = benevolent_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = cruel_personality
+}
+1435.1.1 = {
+	heir = {
+		name = "Abdela"
+		monarch_name = "Abdela"
+		dynasty = "Qutid"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11 = {
-	capital = 513
-	add_treasury = 6
-	add_prestige = 30
+	capital = 1751
+	add_treasury = 4
+	add_prestige = 3
 }

@@ -7,21 +7,34 @@ technology_group = eastern
 primary_culture = volhynian
 religion = animism
 clear_scripted_personalities = yes
-capital = 1940
+capital = 279
 1425.1.1 = {
 	monarch = {
 		name = "Briachislav"
 		birth_date = 1408.1.1
 		dynasty = "Tyvercy"
-		adm = 2
-		dip = 2
+		adm = 6
+		dip = 4
 		mil = 3
 	}
-	add_ruler_personality = scholar_personality
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = kind_hearted_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Yefimiy"
+		monarch_name = "Yefimiy"
+		dynasty = "Tyvercy"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11 = {
-	capital = 1940
+	capital = 279
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

@@ -1,7 +1,7 @@
-# Arwadid
+# Sulamid
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
-color = { 215 180 20 }
+color = { 71 150 32 }
 historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
@@ -31,88 +31,91 @@ historical_units = {
 
 leader_names = {
 
-	"Mansur" "Arwa" "Yazid" "Abu-Bakr" "Aarif" "Abdul-Gafur" "Abdul-Jaleel" "Abdul-Qadir" "Abdul-Wahab" "Abdul" 
-	"Abdullah" "Aghlab" "Akin" "Ali" "Alim" "Aram" "Azam" "Bahir" "Burhanaddin" "Fadil" 
-	"Fadl" "Faruk" "Ghalib" "Hafiz" "Halil" "Hasan" "Husam" "Hussayn" "Ibrahim" "Idris" 
-	"Is'mail" "Isa" "Jabir" "Jalil" "Jibril" "Khaireddin" "Khalil" "Mahdi" "Mahmud" "Mirza" 
-	"Mubarak" "Muhammad" "Mukhtar" "Murad" "Musa" "Muslihiddin" "Muzaffaraddin" "Najib" "Nasr" "Nizam" 
-	"Qawurd" "Ramadan" "Sa'daddin" "Sadiq" "Sami" "Samir" "Shaiban" "Shamir" "Shujah" "Sulayman" 
-	"Talib" "Ubayd" "Uways" "Yahya" "Ya'qub" "Youkhanna" "Yusuf" "Zeyd" }
+	"Zafir" "Yazid" "Ahmad" "Khalid" "Yusuf" "Abdallah" "Rashid" "Asid" "Abdul-Azeem" "Abdul-Hamid" 
+	"Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" "Abdullah" "Adhid" "Adil" "Akab" "Ala'i" "Ali" "Amir" 
+	"Ashraf" "Aziz" "Bashar" "Boutros" "Da'ud" "Faisal" "Fayiz" "Ghazi" "Hakam" "Hamdan" 
+	"Hashmaddin" "Hussayn" "Ibrahim" "Imamaddin" "Isa" "Is'mail" "Ismat" "Jahan" "Jamil" "Kamran" 
+	"Khudayar" "Majid" "Mas'ud" "Muaddam" "Muhammad" "Muhsin" "Mukhtar" "Murad" "Musa" "Muzaffar" 
+	"Muzaffaraddin" "Nasraddin" "Nuraddin" "Nuri" "Radhi" "Rasul" "Sa'ud" "Salahaddin" "Seyfullah" "Sharaf" 
+	"Sirhan" "Taimur" "Tawfiq" "Umaya" "Wahid" "Yahya" "Ya'qub" "Yasar" "Youkhanna" "Zahir" }
 monarch_names = {
-	"Mansur #0" = 1
-	"Arwa #0" = -1
+	"Zafir #1" = 18
 	"Yazid #1" = 18
-	"Abu-Bakr #0" = 0
-	"Aarif #0" = 0
-	"Abdul-Gafur #0" = 0
-	"Abdul-Jaleel #0" = 0
-	"Abdul-Qadir #0" = 0
-	"Abdul-Wahab #0" = 0
-	"Abdul #0" = 0
+	"Ahmad #0" = 1
+	"Khalid #0" = 1
+	"Yusuf #0" = 1
+	"Abdallah #0" = 1
+	"Rashid #0" = 1
+	"Asid #1" = 18
+	"Abdul-Azeem #0" = 0
+	"Abdul-Hamid #0" = 0
+	"Abdul-Lateef #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abdul-Wahad #0" = 0
 	"Abdullah #0" = 0
-	"Aghlab #0" = 0
-	"Akin #0" = 0
+	"Adhid #0" = 0
+	"Adil #0" = 0
+	"Akab #0" = 0
+	"Ala'i #0" = 0
 	"Ali #0" = 0
-	"Alim #0" = 0
-	"Aram #0" = 0
-	"Azam #0" = 0
-	"Bahir #0" = 0
-	"Burhanaddin #0" = 0
-	"Fadil #0" = 0
-	"Fadl #0" = 0
-	"Faruk #0" = 0
-	"Ghalib #0" = 0
-	"Hafiz #0" = 0
-	"Halil #0" = 0
-	"Hasan #0" = 0
-	"Husam #0" = 0
+	"Amir #0" = 0
+	"Ashraf #0" = 0
+	"Aziz #0" = 0
+	"Bashar #0" = 0
+	"Boutros #0" = 0
+	"Da'ud #0" = 0
+	"Faisal #0" = 0
+	"Fayiz #0" = 0
+	"Ghazi #0" = 0
+	"Hakam #0" = 0
+	"Hamdan #0" = 0
+	"Hashmaddin #0" = 0
 	"Hussayn #0" = 0
 	"Ibrahim #0" = 0
-	"Idris #0" = 0
-	"Is'mail #0" = 0
+	"Imamaddin #0" = 0
 	"Isa #0" = 0
-	"Jabir #0" = 0
-	"Jalil #0" = 0
-	"Jibril #0" = 0
-	"Khaireddin #0" = 0
-	"Khalil #0" = 0
-	"Mahdi #0" = 0
-	"Mahmud #0" = 0
-	"Mirza #0" = 0
-	"Mubarak #0" = 0
+	"Is'mail #0" = 0
+	"Ismat #0" = 0
+	"Jahan #0" = 0
+	"Jamil #0" = 0
+	"Kamran #0" = 0
+	"Khudayar #0" = 0
+	"Majid #0" = 0
+	"Mas'ud #0" = 0
+	"Muaddam #0" = 0
 	"Muhammad #0" = 0
+	"Muhsin #0" = 0
 	"Mukhtar #0" = 0
 	"Murad #0" = 0
 	"Musa #0" = 0
-	"Muslihiddin #0" = 0
+	"Muzaffar #0" = 0
 	"Muzaffaraddin #0" = 0
-	"Najib #0" = 0
-	"Nasr #0" = 0
-	"Nizam #0" = 0
-	"Qawurd #0" = 0
-	"Ramadan #0" = 0
-	"Sa'daddin #0" = 0
-	"Sadiq #0" = 0
-	"Sami #0" = 0
-	"Samir #0" = 0
-	"Shaiban #0" = 0
-	"Shamir #0" = 0
-	"Shujah #0" = 0
-	"Sulayman #0" = 0
-	"Talib #0" = 0
-	"Ubayd #0" = 0
-	"Uways #0" = 0
+	"Nasraddin #0" = 0
+	"Nuraddin #0" = 0
+	"Nuri #0" = 0
+	"Radhi #0" = 0
+	"Rasul #0" = 0
+	"Sa'ud #0" = 0
+	"Salahaddin #0" = 0
+	"Seyfullah #0" = 0
+	"Sharaf #0" = 0
+	"Sirhan #0" = 0
+	"Taimur #0" = 0
+	"Tawfiq #0" = 0
+	"Umaya #0" = 0
+	"Wahid #0" = 0
 	"Yahya #0" = 0
 	"Ya'qub #0" = 0
+	"Yasar #0" = 0
 	"Youkhanna #0" = 0
-	"Yusuf #0" = 0
-	"Zeyd #0" = 0
+	"Zahir #0" = 0
 
 
+	"Shameem #0" = -1
+	"Nafisa #0" = -1
 	"Shahzadah #0" = -1
-	"Sabba #0" = -1
-	"Shola #0" = -1
-	"Qamara #0" = -1
+	"Yasmin #0" = -1
+	"Taliba #0" = -1
 }
 ship_names = {
 	Arif

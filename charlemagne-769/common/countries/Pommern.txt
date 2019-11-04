@@ -34,19 +34,23 @@ historical_units = {
 
 leader_names = {
 
-	"Przemysl" "Aleksander" "Andrzej" "Antoni" "Aron" "Barnim" "Bartosz" "Bedrich" "Bezprzym" "Blazej" 
-	"Bogislaw" "Bohdan" "Bohumir" "Boleslaw" "Boriwoj" "Bozydar" "Branimir" "Branislav" "Bretislav" "Casimir" 
-	"Ctibor" "Dobieslaw" "Dobromil" "Drosuk" "Dytryk" "Frantisek" "Gawel" "Grzegorz" "Havel" "Jacenty" 
-	"Jakub" "Jakusz" "Janusz" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" "Jindrich" "Jirí" 
-	"Jozef" "Juliusz" "Kajetan" "Kamil" "Karel" "Kasper" "Kazimierz" "Kliment" "Kolman" "Kornel" 
-	"Kresimir" "Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Ludvik" "Marek" "Marian" 
-	"Mateusz" "Mieszko" "Mikolás" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Msciwoj" "Oldrich" "Ondrej" 
-	"Otokar" "Patryk" "Pawel" "Piotr" "Prendota" "Przybyslaw" "Radomil" "Radomir" "Radoslav" "Rostislav" 
-	"Ryszard" "Sambor" "Sobieslav" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" "Szczesny" "Szymon" 
-	"Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" "Wawrzyniec" "Wenceslaw" 
-	"Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" "Zdislav" "Zygmunt" }
+	"Przemysl" "Havel" "Vladislava" "Hanna" "Aleksander" "Andrzej" "Antoni" "Aron" "Barnim" "Bartosz" 
+	"Bedrich" "Bezprzym" "Blazej" "Bogislaw" "Bohdan" "Bohumir" "Boleslaw" "Boriwoj" "Bozydar" "Branimir" 
+	"Branislav" "Bretislav" "Casimir" "Ctibor" "Dobieslaw" "Dobromil" "Drosuk" "Dytryk" "Frantisek" "Gawel" 
+	"Grzegorz" "Jacenty" "Jakub" "Jakusz" "Janusz" "Jaromar" "Jaromil" "Jaromir" "Jaroslav" "Jedrzej" 
+	"Jindrich" "Jirí" "Jozef" "Juliusz" "Kajetan" "Kamil" "Karel" "Kasper" "Kazimierz" "Kliment" 
+	"Kolman" "Kornel" "Kresimir" "Krzeslaw" "Krzysztof" "Lech" "Leszek" "Lubomir" "Lucjan" "Ludvik" 
+	"Marek" "Marian" "Mateusz" "Mieszko" "Mikolás" "Miloslaw" "Milosz" "Miroslaw" "Mscislaw" "Msciwoj" 
+	"Oldrich" "Ondrej" "Otokar" "Patryk" "Pawel" "Piotr" "Prendota" "Przybyslaw" "Radomil" "Radomir" 
+	"Radoslav" "Rostislav" "Ryszard" "Sambor" "Sobieslav" "Stanislaw" "Strasz" "Swietopelk" "Swietoslaw" "Szczepan" 
+	"Szczesny" "Szymon" "Tadeusz" "Tomasz" "Udalrich" "Urjasz" "Vojtech" "Waclaw" "Walenty" "Wratislaw" 
+	"Wawrzyniec" "Wenceslaw" "Wincenty" "Wizlaw" "Wladyslaw" "Wlodek" "Wlodzimierz" "Wlodzislaw" "Zbigniew" "Zdenek" 
+	"Zdislav" "Zygmunt" }
 monarch_names = {
 	"Przemysl #1" = 18
+	"Havel #0" = 1
+	"Vladislava #0" = -1
+	"Hanna #0" = -1
 	"Aleksander #0" = 0
 	"Andrzej #0" = 0
 	"Antoni #0" = 0
@@ -74,7 +78,6 @@ monarch_names = {
 	"Frantisek #0" = 0
 	"Gawel #0" = 0
 	"Grzegorz #0" = 0
-	"Havel #0" = 0
 	"Jacenty #0" = 0
 	"Jakub #0" = 0
 	"Jakusz #0" = 0
@@ -158,11 +161,9 @@ monarch_names = {
 	"Zygmunt #0" = 0
 
 
-	"Zdenka #0" = -1
-	"Kornelia #0" = -1
-	"Ludmila #0" = -1
-	"Berta #0" = -1
-	"Matylda #0" = -1
+	"Jadwiga #0" = -1
+	"Wera #0" = -1
+	"Milena #0" = -1
 }
 ship_names = {
 	Pommern "Herzog Kasimir" "Herzog Bogislaw"

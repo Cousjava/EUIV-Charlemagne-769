@@ -1,26 +1,26 @@
-# Hayya
-government = tribal
-add_government_reform = tribal_kingdom
+# Barmakid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = nubian
-religion = coptic
+technology_group = muslim
+primary_culture = assyrian
+religion = sunni
 clear_scripted_personalities = yes
-capital = 1229
-1442.1.1 = {
+capital = 411
+1440.1.1 = {
 	monarch = {
-		name = "Soizuros"
-		birth_date = 1423.1.1
-		dynasty = "Hadendiwa"
-		adm = 3
+		name = "Khalid"
+		birth_date = 1380.1.1
+		dynasty = "Barmakid"
+		adm = 2
 		dip = 3
 		mil = 3
 	}
-	add_ruler_personality = cruel_personality
+	add_ruler_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 1229
-	add_treasury = 4
-	add_prestige = 2
+	capital = 411
+	add_treasury = 6
+	add_prestige = 7
 }

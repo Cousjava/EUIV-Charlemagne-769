@@ -14,13 +14,13 @@ capital = 196
 		birth_date = 1428.1.1
 		dynasty = "Nibelunging"
 		adm = 1
-		dip = 3
+		dip = 4
 		mil = 1
 	}
-	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = charismatic_negotiator_personality
 }
 1444.11.11 = {
 	capital = 196
 	add_treasury = 6
-	add_prestige = 10
+	add_prestige = 11
 }

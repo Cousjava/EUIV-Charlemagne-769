@@ -1,26 +1,40 @@
-# Kartli
-government = monarchy
-add_government_reform = feudalism_reform
+# Mordva
+government = tribal
+add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = georgian
-religion = orthodox
+primary_culture = mordvin
+religion = animism
 clear_scripted_personalities = yes
-capital = 423
-1435.1.1 = {
+capital = 302
+1425.1.1 = {
 	monarch = {
-		name = "Nerse"
-		birth_date = 1375.1.1
-		dynasty = "Nersiani"
+		name = "Uzhara"
+		birth_date = 1408.1.1
+		dynasty = "Mordvanid"
 		adm = 3
-		dip = 0
-		mil = 6
+		dip = 1
+		mil = 1
 	}
-	add_ruler_personality = sinner_personality
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = midas_touched_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Tutyra"
+		monarch_name = "Tutyra"
+		dynasty = "Mordvanid"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 423
+	capital = 302
 	add_treasury = 6
 	add_prestige = 6
 }

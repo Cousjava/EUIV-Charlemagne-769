@@ -36,24 +36,28 @@ historical_units = {
 
 leader_names = {
 
-	"Brorda" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" "Beorhtric" "Beorhtsige" "Beorhtwine" 
-	"Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" "Cenræd" "Cenwulf" "Ceolwulf" 
-	"Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" "Eadberht" "Eadfrith" "Eadgar" 
-	"Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" "Eadweald" "Eadweard" "Eadwig" "Eadwine" 
-	"Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" "Ealdwine" "Ealdwulf" "Eanberht" "Eanfrith" "Eanhere" "Eardwulf" 
-	"Eastmund" "Ecgberht" "Ecgfrith" "Gamall" "Godwine" "Gospatric" "Guthfrith" "Guthmund" "Gyrth" "Hacon" 
-	"Harold" "Heahberht" "Hereberht" "Hereweald" "Hereweard" "Hlothere" "Hrodberht" "Inwær" "Leofheah" "Leofhelm" 
-	"Leofric" "Leofweald" "Leofwine" "Maccus" "Morcar" "Mærleswegn" "Offa" "Onlaf" "Ordgar" "Oscytel" 
-	"Oshere" "Osmund" "Osric" "Osræd" "Osulf" "Osweald" "Oswine" "Oswulf" "Petre" "Rædwulf" 
-	"Rægenweald" "Scule" "Sigeberht" "Sigehelm" "Sigeric" "Sigeræd" "Sighere" "Siweard" "Stigand" "Swegn" 
-	"Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sælræd" "Sæweald" "Sæxbald" "Sæxræd" "Thoræd" "Thurcytel" 
-	"Thurfrith" "Tostig" "Uhtræd" "Ulf" "Ulfcytel" "Waltheof" "Werestan" "Wiglaf" "Wihtræd" "Wistan" 
-	"Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" "Wulfhere" "Wulfmær" "Wulfnoth" "Wulfstan" "Ælfgar" "Ælfmær" 
-	"Ælfnoth" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" "Ælfwig" "Ælfwine" "Ælle" 
-	"Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelric" "Æthelræd" "Æthelsige" "Æthelstan" "Æthelweald" 
-	"Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" "Rædwald" }
+	"Brorda" "Æthelric" "Ealhflæd" "Ælfgyth" "Arncytel" "Balthere" "Beorhtfrith" "Beorhthelm" "Beorhtmær" "Beorhtnoth" 
+	"Beorhtric" "Beorhtsige" "Beorhtwine" "Beorn" "Beornræd" "Beornwulf" "Burgheard" "Byrhtnoth" "Cearl" "Cenfus" 
+	"Cenræd" "Cenwulf" "Ceolwulf" "Cerdic" "Copsige" "Cuthberht" "Cuthræd" "Cynehelm" "Cynewulf" "Cytelbearn" 
+	"Eadberht" "Eadfrith" "Eadgar" "Eadmund" "Eadmær" "Eadric" "Eadræd" "Eadsige" "Eadulf" "Eadweald" 
+	"Eadweard" "Eadwig" "Eadwine" "Eadwulf" "Ealdhun" "Ealdmund" "Ealdræd" "Ealdwine" "Ealdwulf" "Eanberht" 
+	"Eanfrith" "Eanhere" "Eardwulf" "Eastmund" "Ecgberht" "Ecgfrith" "Gamall" "Godwine" "Gospatric" "Guthfrith" 
+	"Guthmund" "Gyrth" "Hacon" "Harold" "Heahberht" "Hereberht" "Hereweald" "Hereweard" "Hlothere" "Hrodberht" 
+	"Inwær" "Leofheah" "Leofhelm" "Leofric" "Leofweald" "Leofwine" "Maccus" "Morcar" "Mærleswegn" "Offa" 
+	"Onlaf" "Ordgar" "Oscytel" "Oshere" "Osmund" "Osric" "Osræd" "Osulf" "Osweald" "Oswine" 
+	"Oswulf" "Petre" "Rædwulf" "Rægenweald" "Scule" "Sigeberht" "Sigehelm" "Sigeric" "Sigeræd" "Sighere" 
+	"Siweard" "Stigand" "Swegn" "Swithelm" "Swithræd" "Swæfræd" "Sæbert" "Sælræd" "Sæweald" "Sæxbald" 
+	"Sæxræd" "Thoræd" "Thurcytel" "Thurfrith" "Tostig" "Uhtræd" "Ulf" "Ulfcytel" "Waltheof" "Werestan" 
+	"Wiglaf" "Wihtræd" "Wistan" "Wulf" "Wulfgar" "Wulfgeat" "Wulfhelm" "Wulfhere" "Wulfmær" "Wulfnoth" 
+	"Wulfstan" "Ælfgar" "Ælfmær" "Ælfnoth" "Ælfric" "Ælfræd" "Ælfsige" "Ælfstan" "Ælfwald" "Ælfweard" 
+	"Ælfwig" "Ælfwine" "Ælle" "Æthelbald" "Æthelberht" "Æthelfrith" "Æthelhere" "Æthelmær" "Æthelræd" "Æthelsige" 
+	"Æthelstan" "Æthelweald" "Æthelweard" "Æthelwine" "Æthelwold" "Æthelwulf" "Eormenred" "Eorcenberht" "Eormenric" "Eadbald" 
+	"Rædwald" }
 monarch_names = {
 	"Brorda #0" = 1
+	"Æthelric #0" = 1
+	"Ealhflæd #0" = -1
+	"Ælfgyth #0" = -1
 	"Arncytel #0" = 0
 	"Balthere #0" = 0
 	"Beorhtfrith #0" = 0
@@ -198,7 +202,6 @@ monarch_names = {
 	"Æthelfrith #0" = 0
 	"Æthelhere #0" = 0
 	"Æthelmær #0" = 0
-	"Æthelric #0" = 0
 	"Æthelræd #0" = 0
 	"Æthelsige #0" = 0
 	"Æthelstan #0" = 0
@@ -214,11 +217,9 @@ monarch_names = {
 	"Rædwald #0" = 0
 
 
-	"Wulfthryth #0" = -1
-	"Gytha #0" = -1
-	"Ælfwynn #0" = -1
-	"Cynegyth #0" = -1
-	"Æthelflæd #0" = -1
+	"Ælfgyth #0" = -1
+	"Hextilda #0" = -1
+	"Beorhtflæd #0" = -1
 }
 ship_names = {
 	Achille Adventure Ajax Albemarle Alexander "Anne Gallant" Antelope "Ark Royal" Assurance Audacious

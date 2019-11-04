@@ -1,26 +1,26 @@
-# Tamimi
+# Vidin
 government = monarchy
-add_government_reform = ottoman_government
+add_government_reform = autocracy_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = persian
-religion = sunni
+technology_group = eastern
+primary_culture = romanian
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 430
-1444.1.1 = {
+capital = 2746
+1441.1.1 = {
 	monarch = {
-		name = "Nasr"
-		birth_date = 1411.1.1
-		dynasty = "Tamimi"
-		adm = 2
-		dip = 3
-		mil = 2
+		name = "Uturgur"
+		birth_date = 1403.1.1
+		dynasty = "Ukil"
+		adm = 1
+		dip = 2
+		mil = 5
 	}
-	add_ruler_personality = greedy_personality
+	add_ruler_personality = expansionist_personality
 }
 1444.11.11 = {
-	capital = 430
+	capital = 2746
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 39
 }

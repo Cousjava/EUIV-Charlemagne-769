@@ -209,10 +209,10 @@ monarch_names = {
 	"Ygo #0" = 0
 
 
-	"Hersewindis #0" = -1
-	"Baua #0" = -1
-	"Esa #0" = -1
-	"Amelgeir #0" = -1
+	"Fenna #0" = -1
+	"Hodine #0" = -1
+	"Heike #0" = -1
+	"Minke #0" = -1
 }
 ship_names = {
 	Adelaar Ajax Alkmaar Amelia Amsterdam Atalanta

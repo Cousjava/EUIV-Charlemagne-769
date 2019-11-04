@@ -1,0 +1,70 @@
+# Nagchu
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 206 107 125 }
+
+
+
+
+leader_names = {
+
+	"Drotsen" "Shenlo" "Ataklumo" "Dangraskya" "Datserhim" "Dirotiga" "Dudlutsen" "Krasnetse" "Kunhritse" "Litsakra" 
+	"Ljonlji" "Mangpu" "Martaskra" "Molingzan" "Muba" "Muguni" "Mugunpu" "Murkya" "Nejini" "Nerkya" 
+	"Nyagdod" "Nyilni" "Pantihritse" "Pantimatso" "Rangskya" "Rangwerro" "Rawerni" "Rtseni" "Sadslungse" "Sadsrung" 
+	"Shimwerro" "Skyartse" "Talsnetse" "Talwerni" "Thatseseto" "Thetsedar" "Thungni" "Tigrali" "Tigratinsho" "Tigunyiri" 
+	"Timinrang" "Tisrang" "Tsakrani" "Xinuoluo" "Zarani" "Zlaririm" }
+monarch_names = {
+	"Drotsen #1" = 18
+	"Shenlo #0" = 1
+	"Ataklumo #1" = -19
+	"Dangraskya #0" = 0
+	"Datserhim #0" = 0
+	"Dirotiga #0" = 0
+	"Dudlutsen #0" = 0
+	"Krasnetse #0" = 0
+	"Kunhritse #0" = 0
+	"Litsakra #0" = 0
+	"Ljonlji #0" = 0
+	"Mangpu #0" = 0
+	"Martaskra #0" = 0
+	"Molingzan #0" = 0
+	"Muba #0" = 0
+	"Muguni #0" = 0
+	"Mugunpu #0" = 0
+	"Murkya #0" = 0
+	"Nejini #0" = 0
+	"Nerkya #0" = 0
+	"Nyagdod #0" = 0
+	"Nyilni #0" = 0
+	"Pantihritse #0" = 0
+	"Pantimatso #0" = 0
+	"Rangskya #0" = 0
+	"Rangwerro #0" = 0
+	"Rawerni #0" = 0
+	"Rtseni #0" = 0
+	"Sadslungse #0" = 0
+	"Sadsrung #0" = 0
+	"Shimwerro #0" = 0
+	"Skyartse #0" = 0
+	"Talsnetse #0" = 0
+	"Talwerni #0" = 0
+	"Thatseseto #0" = 0
+	"Thetsedar #0" = 0
+	"Thungni #0" = 0
+	"Tigrali #0" = 0
+	"Tigratinsho #0" = 0
+	"Tigunyiri #0" = 0
+	"Timinrang #0" = 0
+	"Tisrang #0" = 0
+	"Tsakrani #0" = 0
+	"Xinuoluo #0" = 0
+	"Zarani #0" = 0
+	"Zlaririm #0" = 0
+
+
+	"Khirnyiri #0" = -1
+	"Khikhar #0" = -1
+	"Sherkya #0" = -1
+	"Zhamze #0" = -1
+}
+

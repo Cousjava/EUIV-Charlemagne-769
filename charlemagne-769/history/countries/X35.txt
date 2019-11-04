@@ -1,27 +1,26 @@
-# Akhun
-government = tribal
-add_government_reform = steppe_horde
+# Arwadid
+government = monarchy
+add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = nomad_group
-primary_culture = uyghur
-religion = manichean
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
 clear_scripted_personalities = yes
-capital = 714
-1419.1.1 = {
+capital = 390
+1443.1.1 = {
 	monarch = {
-		name = "Kozel"
-		birth_date = 1416.8.1
-		dynasty = "Akhun"
-		adm = 3
+		name = "Yazid"
+		birth_date = 1393.1.1
+		dynasty = "Arwadid"
+		adm = 1
 		dip = 1
-		mil = 3
+		mil = 2
 	}
-	add_ruler_personality = malevolent_personality
 	add_ruler_personality = obsessive_perfectionist_personality
 }
 1444.11.11 = {
-	capital = 714
-	add_treasury = 8
-	add_prestige = 9
+	capital = 390
+	add_treasury = 6
+	add_prestige = 4
 }

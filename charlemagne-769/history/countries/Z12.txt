@@ -1,4 +1,4 @@
-# Deasmhumhain
+# Urmhumhain
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -8,31 +8,33 @@ primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
 capital = 4118
-1407.1.1 = {
+1427.1.1 = {
 	monarch = {
-		name = "Fergal"
-		birth_date = 1375.1.1
-		dynasty = "Eóganacht-Raithlind"
-		adm = 1
-		dip = 2
-		mil = 3
-	}
-	add_ruler_personality = bold_fighter_personality
-	add_ruler_personality = lawgiver_personality
-	heir = {
-		name = "Selbach"
-		monarch_name = "Selbach"
-		dynasty = "Eóganacht-Raithlind"
-		birth_date = 1395.1.1
-		death_date = 1475.1.1
-		adm = 4
-		dip = 2
+		name = "Indrechtach"
+		birth_date = 1409.1.1
+		dynasty = "Eóganacht-Chaisil"
+		adm = 2
+		dip = 3
 		mil = 1
 	}
-	add_heir_personality = craven_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = careful_personality
+}
+1432.1.1 = {
+	heir = {
+		name = "Talorc"
+		monarch_name = "Talorc"
+		dynasty = "Eóganacht-Chaisil"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_heir_personality = fertile_personality
 }
 1444.11.11 = {
 	capital = 4118
 	add_treasury = 4
-	add_prestige = 8
+	add_prestige = 17
 }

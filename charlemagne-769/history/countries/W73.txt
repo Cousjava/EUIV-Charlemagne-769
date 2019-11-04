@@ -1,0 +1,40 @@
+# Seisyllwg
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = welsh
+religion = catholic
+clear_scripted_personalities = yes
+capital = 241
+1410.1.1 = {
+	monarch = {
+		name = "Dyfnwal"
+		birth_date = 1385.1.1
+		dynasty = "Seisyllwg"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = scholar_personality
+	add_ruler_personality = embezzler_personality
+}
+1435.1.1 = {
+	heir = {
+		name = "Meurig"
+		monarch_name = "Meurig"
+		dynasty = "Seisyllwg"
+		birth_date = 1435.1.1
+		death_date = 1515.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 241
+	add_treasury = 6
+	add_prestige = 9
+}

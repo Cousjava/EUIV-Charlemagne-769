@@ -34,23 +34,21 @@ historical_units = {
 
 leader_names = {
 
-	"Premysl" "Nezamysl" "Kresomysl" "Mnata" "Vojen" "Unislav" "Strojmir" "Albert" "Albrecht" "Ales" 
-	"Arnost" "Bavor" "Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" 
-	"Budivoj" "Castolov" "Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" 
-	"Havel" "Heralt" "Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" 
-	"Jirík" "Karel" "Kojata" "Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" 
-	"Mojmír" "Ojír" "Oldrich" "Ondrej" "Ota" "Otakar" "Pelhrim" "Petr" "Prokop" "Rajmund" 
-	"Rostislav" "Sezima" "Slavibor" "Slavomír" "Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Svatopluk" 
-	"Tobiás" "Václav" "Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" 
-	"Vsebor" "Závis" "Zbynek" "Zdík" "Zdirad" "Zikmund" }
+	"Premysl" "Nezamysl" "Mnata" "Vojen" "Unislav" "Albert" "Albrecht" "Ales" "Arnost" "Bavor" 
+	"Bedrich" "Benes" "Bocek" "Bohuslav" "Boleslav" "Bores" "Borijov" "Bretislav" "Budivoj" "Castolov" 
+	"Cenek" "Chval" "Ctirad" "Diepold" "Detrich" "Drslav" "Gerhard" "Hanus" "Havel" "Heralt" 
+	"Herman" "Hrabis" "Hynek" "Jan" "Jaromír" "Jaroslav" "Jesek" "Jindrich" "Jirík" "Karel" 
+	"Kojata" "Konrád" "Kuník" "Litold" "Markvart" "Matous" "Mikulás" "Milic" "Mojmír" "Ojír" 
+	"Oldrich" "Ondrej" "Ota" "Otakar" "Pelhrim" "Petr" "Prokop" "Rajmund" "Rostislav" "Sezima" 
+	"Slavibor" "Slavomír" "Smil" "Sobieslav" "Spytihnev" "Strachkvas" "Svatobor" "Svatopluk" "Tobiás" "Václav" 
+	"Viktorín" "Vítek" "Vanek" "Vilém" "Vladimír" "Vladislav" "Vojtech" "Vratislav" "Vsebor" "Závis" 
+	"Zbynek" "Zdík" "Zdirad" "Zikmund" }
 monarch_names = {
 	"Premysl #1" = 18
 	"Nezamysl #1" = 18
-	"Kresomysl #0" = 1
 	"Mnata #0" = 1
 	"Vojen #0" = 1
 	"Unislav #0" = 1
-	"Strojmir #0" = 1
 	"Albert #0" = 0
 	"Albrecht #0" = 0
 	"Ales #0" = 0
@@ -132,11 +130,11 @@ monarch_names = {
 	"Zikmund #0" = 0
 
 
-	"Olga #0" = -1
-	"Pribyslava #0" = -1
-	"Stanislava #0" = -1
-	"Vilemína #0" = -1
 	"Johanka #0" = -1
+	"Guta #0" = -1
+	"Blazena #0" = -1
+	"Gertruda #0" = -1
+	"Viola #0" = -1
 }
 ship_names = {
 	"Svatý Vaclav"

@@ -1,27 +1,37 @@
-# Lesser Poland
+# Snopa
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = polish
+primary_culture = samoyed
 religion = animism
 clear_scripted_personalities = yes
-capital = 2960
-1425.1.1 = {
+capital = 4257
+1444.1.1 = {
 	monarch = {
-		name = "Siemowit"
-		birth_date = 1408.1.1
-		dynasty = "Lechowicz"
-		adm = 3
-		dip = 1
-		mil = 3
+		name = "Kharuchi"
+		birth_date = 1399.1.1
+		dynasty = "Alikid"
+		adm = 2
+		dip = 3
+		mil = 5
 	}
-	add_ruler_personality = just_personality
-	add_ruler_personality = strict_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Nenyts"
+		monarch_name = "Nenyts"
+		dynasty = "Alikid"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 1
+		dip = 6
+		mil = 2
+	}
+	add_heir_personality = silver_tongue_personality
 }
 1444.11.11 = {
-	capital = 2960
-	add_treasury = 6
-	add_prestige = 6
+	capital = 4257
+	add_treasury = 4
+	add_prestige = 3
 }

@@ -1,0 +1,37 @@
+# Soso
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = soninke
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1123
+1435.1.1 = {
+	monarch = {
+		name = "Mamadi"
+		birth_date = 1413.1.1
+		dynasty = "Kanté"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_ruler_personality = midas_touched_personality
+	heir = {
+		name = "Kaba"
+		monarch_name = "Kaba"
+		dynasty = "Kanté"
+		birth_date = 1432.1.1
+		death_date = 1512.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+}
+1444.11.11 = {
+	capital = 1123
+	add_treasury = 4
+	add_prestige = 3
+}

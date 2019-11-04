@@ -1,27 +1,40 @@
-# Severia
+# Vyatichia
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = severian
+primary_culture = ilmenian
 religion = animism
 clear_scripted_personalities = yes
-capital = 289
+capital = 294
 1425.1.1 = {
 	monarch = {
-		name = "Sviatoslav"
+		name = "Volodar"
 		birth_date = 1408.1.1
-		dynasty = "Seversky"
-		adm = 2
-		dip = 5
+		dynasty = "Vyatich"
+		adm = 3
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = pious_personality
+}
+1431.1.1 = {
+	heir = {
+		name = "Gleb"
+		monarch_name = "Gleb"
+		dynasty = "Vyatich"
+		birth_date = 1431.1.1
+		death_date = 1511.1.1
+		adm = 3
+		dip = 2
 		mil = 3
 	}
-	add_ruler_personality = silver_tongue_personality
-	add_ruler_personality = cruel_personality
+	add_heir_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 289
+	capital = 294
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 6
 }

@@ -1,26 +1,38 @@
-# Kumul
+# Bhaumakara
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
-technology_group = chinese
-primary_culture = tocharian
+technology_group = indian
+primary_culture = oriya
 religion = buddhism
 clear_scripted_personalities = yes
-capital = 2123
-1440.1.1 = {
+capital = 552
+1431.1.1 = {
 	monarch = {
-		name = "Siddharthe"
-		birth_date = 1417.1.1
-		dynasty = "Krorän"
-		adm = 3
-		dip = 2
+		name = "Sivakaradeva"
+		birth_date = 1405.1.1
+		dynasty = "Bhaumakara"
+		adm = 0
+		dip = 5
 		mil = 4
 	}
-	add_ruler_personality = lawgiver_personality
+	add_ruler_personality = bold_fighter_personality
+	add_ruler_personality = secretive_personality
+	heir = {
+		name = "Subhakaradeva"
+		monarch_name = "Subhakaradeva"
+		dynasty = "Bhaumakara"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 3
+		dip = 4
+		mil = 0
+	}
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
-	capital = 2123
+	capital = 552
 	add_treasury = 6
-	add_prestige = 24
+	add_prestige = 7
 }

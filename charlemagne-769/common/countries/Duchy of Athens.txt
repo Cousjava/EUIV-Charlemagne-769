@@ -1,4 +1,4 @@
-# Athens
+# Hellas
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 206 66 158 }
@@ -202,9 +202,9 @@ monarch_names = {
 
 
 	"Eulalia #0" = -1
-	"Leontia #0" = -1
+	"Martha #0" = -1
 	"Eustathia #0" = -1
-	"Nikarete #0" = -1
+	"Zenobia #0" = -1
 }
 ship_names = {
 	Hydra

@@ -1,0 +1,38 @@
+# Cedi
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+mercantilism = 0.1
+technology_group = indian
+primary_culture = avadhi
+religion = hinduism
+clear_scripted_personalities = yes
+capital = 550
+1425.1.1 = {
+	monarch = {
+		name = "Sankaragana"
+		birth_date = 1395.1.1
+		dynasty = "Cedi"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = righteous_personality
+	heir = {
+		name = "Krishnaraja"
+		monarch_name = "Krishnaraja"
+		dynasty = "Cedi"
+		birth_date = 1425.1.1
+		death_date = 1505.1.1
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+	add_heir_personality = embezzler_personality
+}
+1444.11.11 = {
+	capital = 550
+	add_treasury = 6
+	add_prestige = 13
+}

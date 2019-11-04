@@ -1,56 +1,59 @@
-# Nidaros
+# Rygjafylki
 ck2_converter_generated = yes
 graphical_culture = westerngfx
-color = { 20 155 255 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+color = { 10 110 255 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Grimr" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" "Arnbjörn" "Arngrimr" "Arni" 
-	"Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" "Bertil" "Birger" "Björn" 
-	"Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dag" "Dan" "Dyre" "Eilif" "Egill" 
-	"Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" "Frirek" "Froði" 
-	"Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" "Guðfrið" "Guðmundr" 
-	"Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" "Hemming" "Holmger" "Hrafn" 
-	"Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" "Hysing" "Ingólfr" "Ingemar" 
-	"Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" "Kjartan" "Klas" "Knut" 
-	"Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" "Oddr" "Ofeig" "Olafr" 
-	"Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" "Snorri" "Sigbjörn" 
-	"Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" "Suni" "Sveinn" 
-	"Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" "Þorfinn" "Þorbrandr" 
-	"Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" "Ulfr" "Vagn" 
-	"Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
+	"Geir" "Olafr" "Dag" "Þyra" "Ale" "Alfr" "Alfgeir" "Anders" "Anlaufr" "Anundr" 
+	"Arnbjörn" "Arngrimr" "Arni" "Arnfast" "Asbjörn" "Bagge" "Baldr" "Barid" "Bengt" "Bersi" 
+	"Bertil" "Birger" "Björn" "Bo" "Borkvard" "Botulfr" "Bragi" "Buðli" "Dan" "Dyre" 
+	"Eilif" "Egill" "Emund" "Einarr" "Eirikr" "Eskild" "Falki" "Faste" "Filip" "Fredrik" 
+	"Frirek" "Froði" "Freyr" "Folki" "Gandalfr" "Geirr" "Georg" "Gnupa" "Gorm" "Greger" 
+	"Grimr" "Guðfrið" "Guðmundr" "Guðröðr" "Gunnarr" "Hakon" "Halsten" "Haraldr" "Haukr" "Helgi" 
+	"Hemming" "Holmger" "Hrafn" "Hrolfr" "Hrane" "Hæsteinn" "Hjalmar" "Hroðgar" "Hroðulfr" "Hrörekr" 
+	"Hysing" "Ingólfr" "Ingemar" "Ingjald" "Ivar" "Jedvard" "Jon" "Karl" "Kettil" "Kettilmund" 
+	"Kjartan" "Klas" "Knut" "Kol" "Kolbjörn" "Markus" "Magni" "Mats" "Nils" "Niklas" 
+	"Oddr" "Ofeig" "Ormr" "Ottarr" "Refr" "Refil" "Ragnarr" "Rikulfr" "Rögnvaldr" "Skuli" 
+	"Snorri" "Sigbjörn" "Sigtrygg" "Sigurðr" "Starkaðr" "Steinn" "Sturla" "Styrbjörn" "Styrkar" "Sumarliði" 
+	"Suni" "Sveinn" "Sverker" "Sæmundr" "Sölvi" "Sörkver" "Tjudmund" "Toke" "Tolir" "Þorbjörn" 
+	"Þorfinn" "Þorbrandr" "Þordr" "Þorgil" "Þorsteinn" "Þorolfr" "Toste" "Totil" "Tryggve" "Tyke" 
+	"Ulfr" "Vagn" "Valdemar" "Åke" "Yngvar" "Örvar" "Öysteinn" }
 monarch_names = {
-	"Grimr #0" = 1
+	"Geir #0" = 1
+	"Olafr #0" = 1
+	"Dag #0" = 1
+	"Þyra #0" = -1
 	"Ale #0" = 0
 	"Alfr #0" = 0
 	"Alfgeir #0" = 0
@@ -75,7 +78,6 @@ monarch_names = {
 	"Botulfr #0" = 0
 	"Bragi #0" = 0
 	"Buðli #0" = 0
-	"Dag #0" = 0
 	"Dan #0" = 0
 	"Dyre #0" = 0
 	"Eilif #0" = 0
@@ -98,6 +100,7 @@ monarch_names = {
 	"Gnupa #0" = 0
 	"Gorm #0" = 0
 	"Greger #0" = 0
+	"Grimr #0" = 0
 	"Guðfrið #0" = 0
 	"Guðmundr #0" = 0
 	"Guðröðr #0" = 0
@@ -139,7 +142,6 @@ monarch_names = {
 	"Niklas #0" = 0
 	"Oddr #0" = 0
 	"Ofeig #0" = 0
-	"Olafr #0" = 0
 	"Ormr #0" = 0
 	"Ottarr #0" = 0
 	"Refr #0" = 0
@@ -187,21 +189,20 @@ monarch_names = {
 	"Öysteinn #0" = 0
 
 
-	"Yrsa #0" = -1
-	"Aleta #0" = -1
-	"Sara #0" = -1
-	"Kristina #0" = -1
 	"Kraka #0" = -1
+	"Halla #0" = -1
+	"Alfrið #0" = -1
+	"Rögnfrið #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
 }
 

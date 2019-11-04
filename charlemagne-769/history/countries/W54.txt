@@ -1,0 +1,38 @@
+# Zamfara
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = sub_saharan
+primary_culture = hausa
+religion = shamanism
+clear_scripted_personalities = yes
+capital = 1150
+1441.1.1 = {
+	monarch = {
+		name = "Durbawa"
+		birth_date = 1425.1.1
+		dynasty = "Durbawa"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_ruler_personality = sinner_personality
+}
+1444.1.1 = {
+	heir = {
+		name = "Adam"
+		monarch_name = "Adam"
+		dynasty = "Durbawa"
+		birth_date = 1444.1.1
+		death_date = 1524.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	capital = 1150
+	add_treasury = 4
+	add_prestige = 4
+}

@@ -1,37 +1,26 @@
-# Uqaylid
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 2
+# Misharid
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 1
 mercantilism = 0.1
-technology_group = eastern
-primary_culture = bedouin_arabic
-religion = sunni
+technology_group = nomad_group
+primary_culture = alan
+religion = manichean
 clear_scripted_personalities = yes
-capital = 331
-1444.1.1 = {
+capital = 1945
+1435.1.1 = {
 	monarch = {
-		name = "Bakkar"
-		birth_date = 1400.1.1
-		dynasty = "Uqaylid"
-		adm = 1
-		dip = 1
-		mil = 5
+		name = "Mishar"
+		birth_date = 1419.1.1
+		dynasty = "Misharid"
+		adm = 2
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = drunkard_personality
-	heir = {
-		name = "Amir"
-		monarch_name = "Amir"
-		dynasty = "Uqaylid"
-		birth_date = 1430.1.1
-		death_date = 1510.1.1
-		adm = 1
-		dip = 1
-		mil = 3
-	}
-	add_heir_personality = greedy_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 331
+	capital = 1945
 	add_treasury = 8
-	add_prestige = 20
+	add_prestige = 7
 }

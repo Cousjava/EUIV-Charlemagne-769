@@ -1,186 +1,97 @@
-# Muhallabid
+# Peloponnese
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 10 255 80 }
-historical_idea_groups = {
-	defensive_ideas
-	religious_ideas
-	offensive_ideas
-	trade_ideas
-	spy_ideas
-	diplomatic_ideas
-	innovativeness_ideas
-	economic_ideas
-}
+graphical_culture = easterngfx
+color = { 196 35 140 }
 
-historical_units = {
-	persian_footsoldier
-	persian_cavalry_charge
-	persian_shamshir
-	qizilbash_cavalry
-	tofongchis_musketeer
-	topchis_artillery
-	afsharid_reformed
-	afsharid_reformed_infantry
-	muslim_mass_infantry
-	muslim_dragoon
-	persian_rifle
-}
 
 
 
 leader_names = {
 
-	"Muhallab" "Habib" "Dawud" "Al-Mughirah" "Al-Fadl" "Yazid" "Rawh" "Umar" "Nasr" "Hafs" 
-	"al-Mufaddal" "Marwan" "Abd al-malik" "Mu'awiyah" "Hatim" "Aaron" "Abanoub" "Abderahman" "Abdul-Aziz" "Abdul-Haq" 
-	"Abdul-Madjid" "Abdul-Salaam" "Abdullah" "Abianos" "Abisalom" "Ablarion" "Abraam" "Abu-Bakr" "Adnan" "Agathon" 
-	"Agathonikos" "Agathos" "Ahmad" "Akbar" "Alam" "Ali" "Amr" "Androus" "Anthinos" "Arsenios" 
-	"Ashraf" "Asim" "Athanasios" "Badr" "Bashir" "Biktor" "Binyamin" "Bishoi" "Boutros" "Danyal" 
-	"Dawlat" "Da’oud" "Farhan" "Firuz" "Gabri’el" "Georgios" "Ghiyasaddin" "Habil" "Hakam" "Hammud" 
-	"Hanri" "Haroun" "Hisham" "Hussayn" "Ibrahim" "Ilyas" "Is'mail" "Izzaddin" "Jalaaladdin" "Jawdat" 
-	"Jerjer" "Kemaladdin" "Khalil" "Krystafer" "Latif" "Lot" "Malik" "Matta" "Mehtar" "Mikail" 
-	"Mikhael" "Milad" "Mina" "Muammar" "Muhammad" "Mukhtar" "Murad" "Murshid" "Musa" "Muzaffaraddin" 
-	"Nabil" "Nasir" "Nassib" "Nuraddin" "Pamin" "Qadir" "Ra'uf" "Rafiq" "Ridwan" "Sabah" 
-	"Salim" "Sha'ban" "Sharif" "Suhail" "Tadros" "Tajaddin" "Tayyib" "Touma" "Usama" "Walid" 
-	"Yahya" "Yared" "Yassir" "Youkhanna" "Youssef" "Zaia" "Zakariyah" }
+	"Mijat" "Budimir" "Aldimir" "Asen" "Berbat" "Blaz" "Boleslav" "Borna" "Branimir" "Kosmin" 
+	"Danilo" "Djordje" "Dmitar" "Dobroslav" "Dragija" "Dragos" "Dragutin" "Gavrilo" "Godimir" "Goran" 
+	"Grgur" "Ilija" "Ivan" "Josif" "Josip" "Jovan" "Kasjan" "Konstantin" "Krsto" "Lazar" 
+	"Ljudevit" "Luka" "Marko" "Matija" "Mihailo" "Mihovil" "Milorad" "Milutin" "Mircea" "Miroslav" 
+	"Mislav" "Nenad" "Nikodim" "Nikola" "Ninoslav" "Petar" "Porin" "Prvoslav" "Radoslav" "Rastko" 
+	"Ratomir" "Roman" "Serapion" "Sinisa" "Slavko" "Slobodan" "Stefan" "Teodosije" "Trajan" "Uros" 
+	"Visarion" "Vladimir" "Vladislav" "Vlastimir" "Vuk" "Vukan" "Vukasin" "Vukoman" "Zoran" "Zvonimir" }
 monarch_names = {
-	"Muhallab #0" = 1
-	"Habib #0" = 1
-	"Dawud #0" = 1
-	"Al-Mughirah #0" = 1
-	"Al-Fadl #0" = 1
-	"Yazid #1" = 21
-	"Rawh #0" = 1
-	"Umar #0" = 1
-	"Nasr #0" = 1
-	"Hafs #0" = 1
-	"al-Mufaddal #0" = 1
-	"Marwan #0" = 1
-	"Abd al-malik #0" = 1
-	"Mu'awiyah #0" = 1
-	"Hatim #0" = 1
-	"Aaron #0" = 0
-	"Abanoub #0" = 0
-	"Abderahman #0" = 0
-	"Abdul-Aziz #0" = 0
-	"Abdul-Haq #0" = 0
-	"Abdul-Madjid #0" = 0
-	"Abdul-Salaam #0" = 0
-	"Abdullah #0" = 0
-	"Abianos #0" = 0
-	"Abisalom #0" = 0
-	"Ablarion #0" = 0
-	"Abraam #0" = 0
-	"Abu-Bakr #0" = 0
-	"Adnan #0" = 0
-	"Agathon #0" = 0
-	"Agathonikos #0" = 0
-	"Agathos #0" = 0
-	"Ahmad #0" = 0
-	"Akbar #0" = 0
-	"Alam #0" = 0
-	"Ali #0" = 0
-	"Amr #0" = 0
-	"Androus #0" = 0
-	"Anthinos #0" = 0
-	"Arsenios #0" = 0
-	"Ashraf #0" = 0
-	"Asim #0" = 0
-	"Athanasios #0" = 0
-	"Badr #0" = 0
-	"Bashir #0" = 0
-	"Biktor #0" = 0
-	"Binyamin #0" = 0
-	"Bishoi #0" = 0
-	"Boutros #0" = 0
-	"Danyal #0" = 0
-	"Dawlat #0" = 0
-	"Da’oud #0" = 0
-	"Farhan #0" = 0
-	"Firuz #0" = 0
-	"Gabri’el #0" = 0
-	"Georgios #0" = 0
-	"Ghiyasaddin #0" = 0
-	"Habil #0" = 0
-	"Hakam #0" = 0
-	"Hammud #0" = 0
-	"Hanri #0" = 0
-	"Haroun #0" = 0
-	"Hisham #0" = 0
-	"Hussayn #0" = 0
-	"Ibrahim #0" = 0
-	"Ilyas #0" = 0
-	"Is'mail #0" = 0
-	"Izzaddin #0" = 0
-	"Jalaaladdin #0" = 0
-	"Jawdat #0" = 0
-	"Jerjer #0" = 0
-	"Kemaladdin #0" = 0
-	"Khalil #0" = 0
-	"Krystafer #0" = 0
-	"Latif #0" = 0
-	"Lot #0" = 0
-	"Malik #0" = 0
-	"Matta #0" = 0
-	"Mehtar #0" = 0
-	"Mikail #0" = 0
-	"Mikhael #0" = 0
-	"Milad #0" = 0
-	"Mina #0" = 0
-	"Muammar #0" = 0
-	"Muhammad #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Murshid #0" = 0
-	"Musa #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Nabil #0" = 0
-	"Nasir #0" = 0
-	"Nassib #0" = 0
-	"Nuraddin #0" = 0
-	"Pamin #0" = 0
-	"Qadir #0" = 0
-	"Ra'uf #0" = 0
-	"Rafiq #0" = 0
-	"Ridwan #0" = 0
-	"Sabah #0" = 0
-	"Salim #0" = 0
-	"Sha'ban #0" = 0
-	"Sharif #0" = 0
-	"Suhail #0" = 0
-	"Tadros #0" = 0
-	"Tajaddin #0" = 0
-	"Tayyib #0" = 0
-	"Touma #0" = 0
-	"Usama #0" = 0
-	"Walid #0" = 0
-	"Yahya #0" = 0
-	"Yared #0" = 0
-	"Yassir #0" = 0
-	"Youkhanna #0" = 0
-	"Youssef #0" = 0
-	"Zaia #0" = 0
-	"Zakariyah #0" = 0
+	"Mijat #1" = 18
+	"Budimir #0" = 1
+	"Aldimir #0" = 0
+	"Asen #0" = 0
+	"Berbat #0" = 0
+	"Blaz #0" = 0
+	"Boleslav #0" = 0
+	"Borna #0" = 0
+	"Branimir #0" = 0
+	"Kosmin #0" = 0
+	"Danilo #0" = 0
+	"Djordje #0" = 0
+	"Dmitar #0" = 0
+	"Dobroslav #0" = 0
+	"Dragija #0" = 0
+	"Dragos #0" = 0
+	"Dragutin #0" = 0
+	"Gavrilo #0" = 0
+	"Godimir #0" = 0
+	"Goran #0" = 0
+	"Grgur #0" = 0
+	"Ilija #0" = 0
+	"Ivan #0" = 0
+	"Josif #0" = 0
+	"Josip #0" = 0
+	"Jovan #0" = 0
+	"Kasjan #0" = 0
+	"Konstantin #0" = 0
+	"Krsto #0" = 0
+	"Lazar #0" = 0
+	"Ljudevit #0" = 0
+	"Luka #0" = 0
+	"Marko #0" = 0
+	"Matija #0" = 0
+	"Mihailo #0" = 0
+	"Mihovil #0" = 0
+	"Milorad #0" = 0
+	"Milutin #0" = 0
+	"Mircea #0" = 0
+	"Miroslav #0" = 0
+	"Mislav #0" = 0
+	"Nenad #0" = 0
+	"Nikodim #0" = 0
+	"Nikola #0" = 0
+	"Ninoslav #0" = 0
+	"Petar #0" = 0
+	"Porin #0" = 0
+	"Prvoslav #0" = 0
+	"Radoslav #0" = 0
+	"Rastko #0" = 0
+	"Ratomir #0" = 0
+	"Roman #0" = 0
+	"Serapion #0" = 0
+	"Sinisa #0" = 0
+	"Slavko #0" = 0
+	"Slobodan #0" = 0
+	"Stefan #0" = 0
+	"Teodosije #0" = 0
+	"Trajan #0" = 0
+	"Uros #0" = 0
+	"Visarion #0" = 0
+	"Vladimir #0" = 0
+	"Vladislav #0" = 0
+	"Vlastimir #0" = 0
+	"Vuk #0" = 0
+	"Vukan #0" = 0
+	"Vukasin #0" = 0
+	"Vukoman #0" = 0
+	"Zoran #0" = 0
+	"Zvonimir #0" = 0
 
 
-	"Nyawela #0" = -1
-	"Yagana #0" = -1
-	"Shameem #0" = -1
-	"Sheeftah #0" = -1
-	"Nafisa #0" = -1
-}
-ship_names = {
-	Arif
-	Azmi
-	Dervish
-	Fuad
-	Haci
-	Haydar
-	Mulish
-	Nuri
-	Salih
-	Said
-	Sefveti
-	Shukri
+	"Hicela #0" = -1
+	"Casna #0" = -1
+	"Elena #0" = -1
+	"Bistrina #0" = -1
+	"Ljubica #0" = -1
 }
 

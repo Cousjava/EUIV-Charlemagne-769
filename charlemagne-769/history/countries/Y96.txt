@@ -1,27 +1,26 @@
-# Berbera
+# Tamimi
 government = monarchy
 add_government_reform = ottoman_government
 government_rank = 1
 mercantilism = 0.1
-technology_group = east_african
-primary_culture = somali
+technology_group = muslim
+primary_culture = persian
 religion = sunni
 clear_scripted_personalities = yes
-capital = 1209
-1432.1.1 = {
+capital = 430
+1444.1.1 = {
 	monarch = {
-		name = "Hil"
-		birth_date = 1412.1.1
-		dynasty = "Abrone"
-		adm = 2
-		dip = 0
-		mil = 3
+		name = "Nasr"
+		birth_date = 1411.1.1
+		dynasty = "Tamimi"
+		adm = 4
+		dip = 2
+		mil = 4
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = drunkard_personality
+	add_ruler_personality = strict_personality
 }
 1444.11.11 = {
-	capital = 1209
-	add_treasury = 6
+	capital = 430
+	add_treasury = 7
 	add_prestige = 5
 }

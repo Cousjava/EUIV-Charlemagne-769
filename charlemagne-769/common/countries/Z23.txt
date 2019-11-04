@@ -2,50 +2,52 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 116 145 239 }
-historical_idea_groups = {
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
-	plutocracy_ideas
-	#New Ideas
-	innovativeness_ideas
-	naval_ideas
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
 }
 
-historical_units = {
-	western_medieval_infantry
-	western_medieval_knights
-	western_men_at_arms
-	dutch_maurician
-	swedish_gallop
-	swedish_gustavian
-	swedish_caroline
-	swedish_arme_blanche
-	prussian_frederickian
-	prussian_uhlan
-	mixed_order_infantry
-	open_order_cavalry
-	napoleonic_square
-	napoleonic_lancers
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
 }
 
 
 
 leader_names = {
 
-	"Allcallorred" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allisander" "Aniel" "Ardle" "Auust" "Bili" 
-	"Bran" "Breth" "Bridei" "Briog" "Broichan" "Brude" "Caltram" "Canu" "Canuall" "Canan" 
-	"Caradaig" "Caruorst" "Castant" "Castantin" "Ciniod" "Crup" "Dabuut" "Deocillimon" "Deoord" "Domelch" 
-	"Drest" "Drosten" "Eddarrnonn" "Elpin" "Enuidaig" "Erpin" "Galam" "Ganant" "Garalt" "Gede" 
-	"Gest" "Gigurum" "Girom" "Idual" "Iduallon" "Iestan" "Iuan" "Irb" "Lutrin" "Mael" 
-	"Maelchon" "Manath" "Mordeleg" "Morleo" "Murtolic" "Naiton" "Ninian" "Pedric" "Pedur" "Paul" 
-	"Pidarnoin" "Ru" "Ruatirch" "Rubert" "Rudri" "Telurg" "Telurgan" "Taran" "Tarla" "Uipoig" 
-	"Uist" "Uuochu" "Uoret" "Unen" "Unuist" "Urguist" "Usuullt" "Uthoil" "Uudrost" "Uuen" 
-	"Uuid" "Uuirp" "Uuredach" "Uuroid" }
+	"Allcallorred" "Mael" "Madru" "Achiuir" "Aethon" "Aenbecan" "Allan" "Allisander" "Aniel" "Ardle" 
+	"Auust" "Bili" "Bran" "Breth" "Bridei" "Briog" "Broichan" "Brude" "Caltram" "Canu" 
+	"Canuall" "Canan" "Caradaig" "Caruorst" "Castant" "Castantin" "Ciniod" "Crup" "Dabuut" "Deocillimon" 
+	"Deoord" "Domelch" "Drest" "Drosten" "Eddarrnonn" "Elpin" "Enuidaig" "Erpin" "Galam" "Ganant" 
+	"Garalt" "Gede" "Gest" "Gigurum" "Girom" "Idual" "Iduallon" "Iestan" "Iuan" "Irb" 
+	"Lutrin" "Maelchon" "Manath" "Mordeleg" "Morleo" "Murtolic" "Naiton" "Ninian" "Pedric" "Pedur" 
+	"Paul" "Pidarnoin" "Ru" "Ruatirch" "Rubert" "Rudri" "Telurg" "Telurgan" "Taran" "Tarla" 
+	"Uipoig" "Uist" "Uuochu" "Uoret" "Unen" "Unuist" "Urguist" "Usuullt" "Uthoil" "Uudrost" 
+	"Uuen" "Uuid" "Uuirp" "Uuredach" "Uuroid" }
 monarch_names = {
 	"Allcallorred #0" = 1
+	"Mael #0" = 1
+	"Madru #0" = -1
 	"Achiuir #0" = 0
 	"Aethon #0" = 0
 	"Aenbecan #0" = 0
@@ -94,7 +96,6 @@ monarch_names = {
 	"Iuan #0" = 0
 	"Irb #0" = 0
 	"Lutrin #0" = 0
-	"Mael #0" = 0
 	"Maelchon #0" = 0
 	"Manath #0" = 0
 	"Mordeleg #0" = 0
@@ -131,21 +132,20 @@ monarch_names = {
 	"Uuroid #0" = 0
 
 
-	"Neulina #0" = -1
-	"Addiena #0" = -1
-	"Mairi #0" = -1
-	"Sara #0" = -1
-	"Muriel #0" = -1
+	"Maelmurie #0" = -1
+	"Arnemetia #0" = -1
+	"Allust #0" = -1
+	"Eua #0" = -1
 }
-ship_names = {
-	Ålvik
-	Bergen
-	Engan
-	Kristiansund
-	Molde
-	Oslo
-	Roan
-	Stavanger Sula
-	Trondheim
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
 }
 

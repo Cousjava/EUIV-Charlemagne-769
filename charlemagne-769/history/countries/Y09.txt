@@ -1,27 +1,26 @@
-# Bjarmia
-government = tribal
-add_government_reform = tribal_despotism
+# The Iconoclast Patriarchate
+government = theocracy
+add_government_reform = leading_clergy_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = eastern
-primary_culture = samoyed
-religion = animism
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 313
-1425.1.1 = {
+capital = 151
+1441.11.16 = {
 	monarch = {
-		name = "Kako"
-		birth_date = 1408.1.1
-		dynasty = "Hasabid"
-		adm = 1
-		dip = 4
-		mil = 3
+		name = "Niketas"
+		birth_date = 1395.1.1
+		dynasty = "Polites"
+		adm = 3
+		dip = 2
+		mil = 0
 	}
-	add_ruler_personality = cruel_personality
-	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = free_thinker_personality
 }
 1444.11.11 = {
-	capital = 313
+	capital = 151
 	add_treasury = 6
-	add_prestige = 5
+	add_prestige = 90
 }

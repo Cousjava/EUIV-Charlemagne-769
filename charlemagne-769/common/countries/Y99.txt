@@ -1,125 +1,195 @@
-# Kassala
+# Quadirid
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 200 101 34 }
+graphical_culture = easterngfx
+color = { 100 219 134 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
 
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
 
 
 
 leader_names = {
 
-	"Thoma" "Aarôn" "Aberikos" "Abraam" "Añgelos" "Andreas" "Athanasios" "Balô" "Bartholomaios" "Birêl" 
-	"Chael" "Christophoros" "Dauid" "Dimetheos" "Dioskoros" "Diônisios" "Eliezer" "Eionkouda" "Emmanouel" "Enôch" 
-	"Ephannê" "Epimachos" "Epiphanios" "Gabriel" "Gabrielkouda" "Gabrielophorou" "Gennatios" "Geôrgios" "Hêlias" "Hoase" 
-	"Hoassi" "Hoasse" "Iacob" "Ieremias" "Iêsous" "Iêsousinkouda" "Iôannou" "Iôannês" "Iordanes" "Ioseph" 
-	"Kalinikos" "Kollouthos" "Krisanthos" "Kuriakos" "Kurillos" "Lazaros" "Leon" "Leontios" "Makarios" "Mariana" 
-	"Mariankouda" "Marianos" "Marios" "Markos" "Marturophoros" "Mašanñal" "Maththias" "Mêlênkouda" "Mena" "Menankouda" 
-	"Merkourios" "Michaêl" "Michaêlkouda" "Mouses" "Orna" "Panigiros" "Papasinen" "Papasinkouda" "Patrikios" "Paulos" 
-	"Petros" "Petrou" "Philotheos" "Philemon" "Prochoros" "Raphael" "Raphaelkouda" "Samson" "Senouthios" "Sentiko" 
-	"Sergios" "Simeoni" "Soizuros" "Solomôn" "Sotinkouda" "Stephanos" "Stephanou" "Thadeosi" "Theodôros" "Theodosios" 
-	"Theodote" "Tophêna" "Tirsakouni" "Zacharias" "Zosima" }
+	"Abdul-Aziz" "Nuraddin" "Amunet" "Aaron" "Abanoub" "Abderahman" "Abianos" "Abisalom" "Ablarion" "Abraam" 
+	"Agathon" "Agathonikos" "Agathos" "Ahmod" "Aiai" "Aha" "Akhom" "Amon" "Amakhte" "An" 
+	"Andronicus" "Androus" "Anthinos" "Apanoub" "Apahour" "Apamon" "Apas" "Aretee" "Arsenios" "Ashraf" 
+	"Athanasios" "Beet" "Bertouet" "Biktor" "Binyamin" "Bishoi" "Bolis" "Boutros" "Cosmas" "Damianos" 
+	"Danyal" "Da’oud" "Ennikeran" "Erhu" "Farag" "Gerges" "Ghabri" "Guirguis" "Habil" "Hanouf" 
+	"Hanri" "Hany" "Haroun" "Hesdy" "Ilyas" "Ishaaq" "Jerjer" "Jinti" "Jori" "Keloj" 
+	"Krystafer" "Kyrillos" "Lot" "Macari" "Marcos" "Mareten" "Matta" "Mei" "Mikail" "Mikhael" 
+	"Milad" "Mina" "Musa" "Nakat" "Nahdi" "Nishde" "Nai" "Naui" "Nishti" "Nofr" 
+	"Noub" "Ounouf" "Ourot" "Ouini" "Ounisht" "Pajro" "Pakat" "Pakhom" "Pamin" "Panous" 
+	"Papnouti" "Pashnona" "Pasnadi" "Patape" "Payom" "Philotheos" "Pijimi" "Pijoul" "Pikhit" "Pimen" 
+	"Pimoue" "Pimoui" "Pishai" "Pisha-eneh" "Pishoui" "Psote" "Rami" "Rashad" "Rashi" "Roufail" 
+	"Ruweis" "Shenouda" "Shenouti" "Shosi" "Sim'an" "Sok" "Tadros" "Taio" "Tawadros" "Touma" 
+	"Yakovos" "Yared" "Yoannis" "Yousab" "Zacharias" "Zaia" }
 monarch_names = {
-	"Thoma #0" = 1
-	"Aarôn #0" = 0
-	"Aberikos #0" = 0
+	"Abdul-Aziz #1" = 18
+	"Nuraddin #0" = 1
+	"Amunet #0" = -1
+	"Aaron #0" = 0
+	"Abanoub #0" = 0
+	"Abderahman #0" = 0
+	"Abianos #0" = 0
+	"Abisalom #0" = 0
+	"Ablarion #0" = 0
 	"Abraam #0" = 0
-	"Añgelos #0" = 0
-	"Andreas #0" = 0
+	"Agathon #0" = 0
+	"Agathonikos #0" = 0
+	"Agathos #0" = 0
+	"Ahmod #0" = 0
+	"Aiai #0" = 0
+	"Aha #0" = 0
+	"Akhom #0" = 0
+	"Amon #0" = 0
+	"Amakhte #0" = 0
+	"An #0" = 0
+	"Andronicus #0" = 0
+	"Androus #0" = 0
+	"Anthinos #0" = 0
+	"Apanoub #0" = 0
+	"Apahour #0" = 0
+	"Apamon #0" = 0
+	"Apas #0" = 0
+	"Aretee #0" = 0
+	"Arsenios #0" = 0
+	"Ashraf #0" = 0
 	"Athanasios #0" = 0
-	"Balô #0" = 0
-	"Bartholomaios #0" = 0
-	"Birêl #0" = 0
-	"Chael #0" = 0
-	"Christophoros #0" = 0
-	"Dauid #0" = 0
-	"Dimetheos #0" = 0
-	"Dioskoros #0" = 0
-	"Diônisios #0" = 0
-	"Eliezer #0" = 0
-	"Eionkouda #0" = 0
-	"Emmanouel #0" = 0
-	"Enôch #0" = 0
-	"Ephannê #0" = 0
-	"Epimachos #0" = 0
-	"Epiphanios #0" = 0
-	"Gabriel #0" = 0
-	"Gabrielkouda #0" = 0
-	"Gabrielophorou #0" = 0
-	"Gennatios #0" = 0
-	"Geôrgios #0" = 0
-	"Hêlias #0" = 0
-	"Hoase #0" = 0
-	"Hoassi #0" = 0
-	"Hoasse #0" = 0
-	"Iacob #0" = 0
-	"Ieremias #0" = 0
-	"Iêsous #0" = 0
-	"Iêsousinkouda #0" = 0
-	"Iôannou #0" = 0
-	"Iôannês #0" = 0
-	"Iordanes #0" = 0
-	"Ioseph #0" = 0
-	"Kalinikos #0" = 0
-	"Kollouthos #0" = 0
-	"Krisanthos #0" = 0
-	"Kuriakos #0" = 0
-	"Kurillos #0" = 0
-	"Lazaros #0" = 0
-	"Leon #0" = 0
-	"Leontios #0" = 0
-	"Makarios #0" = 0
-	"Mariana #0" = 0
-	"Mariankouda #0" = 0
-	"Marianos #0" = 0
-	"Marios #0" = 0
-	"Markos #0" = 0
-	"Marturophoros #0" = 0
-	"Mašanñal #0" = 0
-	"Maththias #0" = 0
-	"Mêlênkouda #0" = 0
-	"Mena #0" = 0
-	"Menankouda #0" = 0
-	"Merkourios #0" = 0
-	"Michaêl #0" = 0
-	"Michaêlkouda #0" = 0
-	"Mouses #0" = 0
-	"Orna #0" = 0
-	"Panigiros #0" = 0
-	"Papasinen #0" = 0
-	"Papasinkouda #0" = 0
-	"Patrikios #0" = 0
-	"Paulos #0" = 0
-	"Petros #0" = 0
-	"Petrou #0" = 0
+	"Beet #0" = 0
+	"Bertouet #0" = 0
+	"Biktor #0" = 0
+	"Binyamin #0" = 0
+	"Bishoi #0" = 0
+	"Bolis #0" = 0
+	"Boutros #0" = 0
+	"Cosmas #0" = 0
+	"Damianos #0" = 0
+	"Danyal #0" = 0
+	"Da’oud #0" = 0
+	"Ennikeran #0" = 0
+	"Erhu #0" = 0
+	"Farag #0" = 0
+	"Gerges #0" = 0
+	"Ghabri #0" = 0
+	"Guirguis #0" = 0
+	"Habil #0" = 0
+	"Hanouf #0" = 0
+	"Hanri #0" = 0
+	"Hany #0" = 0
+	"Haroun #0" = 0
+	"Hesdy #0" = 0
+	"Ilyas #0" = 0
+	"Ishaaq #0" = 0
+	"Jerjer #0" = 0
+	"Jinti #0" = 0
+	"Jori #0" = 0
+	"Keloj #0" = 0
+	"Krystafer #0" = 0
+	"Kyrillos #0" = 0
+	"Lot #0" = 0
+	"Macari #0" = 0
+	"Marcos #0" = 0
+	"Mareten #0" = 0
+	"Matta #0" = 0
+	"Mei #0" = 0
+	"Mikail #0" = 0
+	"Mikhael #0" = 0
+	"Milad #0" = 0
+	"Mina #0" = 0
+	"Musa #0" = 0
+	"Nakat #0" = 0
+	"Nahdi #0" = 0
+	"Nishde #0" = 0
+	"Nai #0" = 0
+	"Naui #0" = 0
+	"Nishti #0" = 0
+	"Nofr #0" = 0
+	"Noub #0" = 0
+	"Ounouf #0" = 0
+	"Ourot #0" = 0
+	"Ouini #0" = 0
+	"Ounisht #0" = 0
+	"Pajro #0" = 0
+	"Pakat #0" = 0
+	"Pakhom #0" = 0
+	"Pamin #0" = 0
+	"Panous #0" = 0
+	"Papnouti #0" = 0
+	"Pashnona #0" = 0
+	"Pasnadi #0" = 0
+	"Patape #0" = 0
+	"Payom #0" = 0
 	"Philotheos #0" = 0
-	"Philemon #0" = 0
-	"Prochoros #0" = 0
-	"Raphael #0" = 0
-	"Raphaelkouda #0" = 0
-	"Samson #0" = 0
-	"Senouthios #0" = 0
-	"Sentiko #0" = 0
-	"Sergios #0" = 0
-	"Simeoni #0" = 0
-	"Soizuros #0" = 0
-	"Solomôn #0" = 0
-	"Sotinkouda #0" = 0
-	"Stephanos #0" = 0
-	"Stephanou #0" = 0
-	"Thadeosi #0" = 0
-	"Theodôros #0" = 0
-	"Theodosios #0" = 0
-	"Theodote #0" = 0
-	"Tophêna #0" = 0
-	"Tirsakouni #0" = 0
+	"Pijimi #0" = 0
+	"Pijoul #0" = 0
+	"Pikhit #0" = 0
+	"Pimen #0" = 0
+	"Pimoue #0" = 0
+	"Pimoui #0" = 0
+	"Pishai #0" = 0
+	"Pisha-eneh #0" = 0
+	"Pishoui #0" = 0
+	"Psote #0" = 0
+	"Rami #0" = 0
+	"Rashad #0" = 0
+	"Rashi #0" = 0
+	"Roufail #0" = 0
+	"Ruweis #0" = 0
+	"Shenouda #0" = 0
+	"Shenouti #0" = 0
+	"Shosi #0" = 0
+	"Sim'an #0" = 0
+	"Sok #0" = 0
+	"Tadros #0" = 0
+	"Taio #0" = 0
+	"Tawadros #0" = 0
+	"Touma #0" = 0
+	"Yakovos #0" = 0
+	"Yared #0" = 0
+	"Yoannis #0" = 0
+	"Yousab #0" = 0
 	"Zacharias #0" = 0
-	"Zosima #0" = 0
+	"Zaia #0" = 0
 
 
-	"Rahimah #0" = -1
-	"Iêsousyko #0" = -1
-	"Ñonnen #0" = -1
-	"Ñoltou #0" = -1
-	"Theozia #0" = -1
+	"Alia #0" = -1
+	"Tawaret #0" = -1
+	"Sacmis #0" = -1
+	"Zahra #0" = -1
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
 }
 

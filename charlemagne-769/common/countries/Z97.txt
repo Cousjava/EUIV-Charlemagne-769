@@ -1,22 +1,50 @@
-# Amalfi
+# Armeniacon
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 140 200 230 }
+color = { 125 190 75 }
+historical_idea_groups = {
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	defensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	quality_ideas
+}
 
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
 
 
 
 leader_names = {
 
-	"Leon" "Timoleon" "Aikaterine" "Kaisarios" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" 
-	"Andreas" "Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" 
-	"Bardas" "Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" 
-	"Daniel" "David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" 
-	"Euphemios" "Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" 
-	"Gregorios" "Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" 
-	"Innokentios" "Ioannes" "Ioannikios" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" 
-	"Ioustinos" "Kallinikos" "Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" 
-	"Kyros" "Laurentios" "Lazaros" "Leontios" "Loukas" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" 
+	"Olvianos" "Loukas" "Gregoria" "Adrianos" "Akakios" "Alexandros" "Alexios" "Anastasios" "Anatolios" "Andreas" 
+	"Andronikos" "Anthemios" "Anthimos" "Antiochos" "Antonios" "Apollonios" "Arsenios" "Artemios" "Athanasios" "Bardas" 
+	"Bartholomaios" "Basileios" "Belisarios" "Boethios" "Bosporios" "Christophoros" "Chrysanthos" "Chrysogonos" "Damianos" "Daniel" 
+	"David" "Demetrios" "Diogenes" "Dionysios" "Dorotheos" "Eirenaios" "Eudoxios" "Eustratios" "Eugenios" "Euphemios" 
+	"Eusebios" "Eustathios" "Evangelos" "Gabriel" "Gennadios" "Georgios" "Gerasimos" "Germanos" "Gregoras" "Gregorios" 
+	"Hektorios" "Helias" "Herakleios" "Hierotheos" "Himerios" "Hippolytos" "Hypatios" "Iakobos" "Ignatios" "Innokentios" 
+	"Ioannes" "Ioannikios" "Iordanes" "Ioseph" "Isaakios" "Isaias" "Isidoros" "Ioulianos" "Ioustinianos" "Ioustinos" 
+	"Kaisarios" "Kallinikos" "Kallistos" "Komitas" "Konstantinos" "Konstantios" "Konstas" "Kosmas" "Kyriakos" "Kyrillos" 
+	"Kyros" "Laurentios" "Lazaros" "Leon" "Leontios" "Makarios" "Manuel" "Markos" "Matthaios" "Maurikios" 
 	"Maximos" "Megistos" "Meletios" "Methodios" "Michael" "Narses" "Neophytos" "Nikephoros" "Niketas" "Nikodemos" 
 	"Nikolaos" "Niphon" "Orestes" "Pamphilios" "Pankratios" "Pantoleon" "Paschalis" "Pavlos" "Pelagios" "Petros" 
 	"Philaretos" "Philippos" "Philotheos" "Phokas" "Photios" "Polykarpos" "Porphyrios" "Prokopios" "Pyrros" "Raphail" 
@@ -24,10 +52,9 @@ leader_names = {
 	"Theocharistos" "Theodoros" "Theodosios" "Theodotos" "Theodoulos" "Theoktistos" "Theophanes" "Theophilos" "Theophylaktos" "Thomas" 
 	"Tiberios" "Traianos" "Timotheos" "Tryphon" "Valerios" "Zacharias" "Zenobios" "Zenon" }
 monarch_names = {
-	"Leon #1" = 18
-	"Timoleon #0" = 1
-	"Aikaterine #0" = -1
-	"Kaisarios #0" = 1
+	"Olvianos #1" = 18
+	"Loukas #0" = 1
+	"Gregoria #0" = -1
 	"Adrianos #0" = 0
 	"Akakios #0" = 0
 	"Alexandros #0" = 0
@@ -95,6 +122,7 @@ monarch_names = {
 	"Ioulianos #0" = 0
 	"Ioustinianos #0" = 0
 	"Ioustinos #0" = 0
+	"Kaisarios #0" = 0
 	"Kallinikos #0" = 0
 	"Kallistos #0" = 0
 	"Komitas #0" = 0
@@ -107,8 +135,8 @@ monarch_names = {
 	"Kyros #0" = 0
 	"Laurentios #0" = 0
 	"Lazaros #0" = 0
+	"Leon #0" = 0
 	"Leontios #0" = 0
-	"Loukas #0" = 0
 	"Makarios #0" = 0
 	"Manuel #0" = 0
 	"Markos #0" = 0
@@ -174,9 +202,37 @@ monarch_names = {
 	"Zenon #0" = 0
 
 
-	"Eusebia #0" = -1
-	"Agne #0" = -1
-	"Theodosia #0" = -1
-	"Sophia #0" = -1
+	"Eulalia #0" = -1
+	"Martha #0" = -1
+	"Eustathia #0" = -1
+	"Zenobia #0" = -1
+}
+ship_names = {
+	Adrianopolis "Aetos Autokratiki" "Aghia Ioylia" "Aghia Irini" "Aghia Magdalini" "Aghia Sophia" "Aghia Thekla"
+	"Aghios Angelos" "Aghios Eusebios" "Aghios Ioakeim" "Aghios Ioannes" "Aghios Loukas"
+	"Aghios Markos" "Aghios Matthaios" "Aghios Maximos" "Aghios Nikolaos" "Aghios Pavlos"
+	"Aghios Petros" "Aghios Philimon" "Aghios Sergios" "Aghios Stephanos" "Aghios Thimoteos"
+	Aiakos Aineas Akhilleus Amphitrion Aphrodita Apollo Arakhne Ares Asia Athena
+	"Basileous Alexandros" "Basileous Alexeios" "Basileous Andronikos" "Basileous Basileos"
+	"Basileous Demetrios" "Basileous Ioannes" "Basileous Isaak" "Basileous Leon"
+	"Basileous Manuel" "Basileous Michael" "Basileous Rhomaion" "Basileous Romanos"
+	"Basileous Theodoros" "Basileous Theophilos" "Basileisa Theodora" "Basileisa Zoe"
+	Belisarios Byzantion
+	Cassandra Castor "Christos Soter" Chronos
+	Demeter "Despotes Demetrios" "Despotes Moreas" Diana "Drakon Ouranos" Dyonisos
+	Ellade Endymion Eros Europa
+	Gea "Gorgona Poseidonos"
+	Hades Hektor Hephaistos Hera Herakles Hermes Hestia Hydra Hypnos
+	Jason
+	"Kaisar Konstantinos" Konstantinopolis "Konstantinos Dragases"
+	"Liontari Skliros" "Lussa ton Theon" "Lykos Thalasses"
+	Makedonia "Margaritari Aspra" Minos
+	Nestor
+	Odysseos Orestes Okeanasthraustis Ouranos
+	Panselenos Pegasos Perseos "Pontikos Thalasses" Poseidon
+	Rhadamanthys
+	Sebastokrator
+	Thanatos Theseos
+	Zeous
 }
 

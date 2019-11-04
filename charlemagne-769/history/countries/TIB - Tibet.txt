@@ -13,12 +13,12 @@ capital = 677
 		name = "Trisong Detsen"
 		birth_date = 1417.1.1
 		dynasty = "Purgyal"
-		adm = 0
-		dip = 1
-		mil = 3
+		adm = 1
+		dip = 2
+		mil = 2
 	}
-	add_ruler_personality = drunkard_personality
-	add_ruler_personality = pious_personality
+	add_ruler_personality = craven_personality
+	add_ruler_personality = cruel_personality
 }
 1434.1.1 = {
 	heir = {
@@ -27,14 +27,14 @@ capital = 677
 		dynasty = "Purgyal"
 		birth_date = 1434.1.1
 		death_date = 1514.1.1
-		adm = 2
+		adm = 3
 		dip = 3
 		mil = 2
 	}
-	add_heir_personality = naive_personality
+	add_heir_personality = craven_personality
 }
 1444.11.11 = {
 	capital = 677
-	add_treasury = 113
+	add_treasury = 111
 	add_prestige = 126
 }

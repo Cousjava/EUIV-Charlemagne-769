@@ -1,4 +1,4 @@
-# Osraige
+# Mumu
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,31 +7,31 @@ technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 4377
-1436.1.1 = {
+capital = 375
+1444.1.1 = {
 	monarch = {
-		name = "Tóim Snáma"
-		birth_date = 1390.1.1
-		dynasty = "Dál Birn"
-		adm = 2
-		dip = 4
-		mil = 3
-	}
-	add_ruler_personality = charismatic_negotiator_personality
-	heir = {
-		name = "Fergal"
-		monarch_name = "Fergal"
-		dynasty = "Dál Birn"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
+		name = "Máel-Dúin"
+		birth_date = 1380.1.1
+		dynasty = "Eóganacht-Locha Léin"
 		adm = 1
-		dip = 2
-		mil = 1
+		dip = 3
+		mil = 4
 	}
-	add_heir_personality = conqueror_personality
+	add_ruler_personality = zealot_personality
+	heir = {
+		name = "Cobthach"
+		monarch_name = "Cobthach"
+		dynasty = "Eóganacht-Locha Léin"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+	add_heir_personality = righteous_personality
 }
 1444.11.11 = {
-	capital = 4377
-	add_treasury = 4
-	add_prestige = 6
+	capital = 375
+	add_treasury = 6
+	add_prestige = 12
 }

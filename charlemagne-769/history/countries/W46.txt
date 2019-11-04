@@ -1,0 +1,37 @@
+# Ushytsia
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = volhynian
+religion = animism
+clear_scripted_personalities = yes
+capital = 281
+1444.1.1 = {
+	monarch = {
+		name = "Milodrag"
+		birth_date = 1395.1.1
+		dynasty = "Ulich"
+		adm = 0
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = pious_personality
+	heir = {
+		name = "Volodar"
+		monarch_name = "Volodar"
+		dynasty = "Ulich"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 0
+		dip = 3
+		mil = 3
+	}
+	add_heir_personality = bold_fighter_personality
+}
+1444.11.11 = {
+	capital = 281
+	add_treasury = 4
+	add_prestige = 3
+}

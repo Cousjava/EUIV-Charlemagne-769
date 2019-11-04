@@ -124,8 +124,25 @@ nubian_ideas = {
 	}
 }
 
-
 french_culture_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+caucasus_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+caspian_ideas = {
+	trigger = {
+		always = no
+	}
+}
+
+ruthenian_ideas = {
 	trigger = {
 		always = no
 	}

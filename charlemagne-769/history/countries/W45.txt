@@ -1,0 +1,37 @@
+# Sygnafylki
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = norse
+religion = animism
+clear_scripted_personalities = yes
+capital = 23
+1439.1.1 = {
+	monarch = {
+		name = "Gunarr"
+		birth_date = 1404.1.1
+		dynasty = "af Raumsdalr"
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Gunnarr"
+		monarch_name = "Gunnarr"
+		dynasty = "af Raumsdalr"
+		birth_date = 1420.1.1
+		death_date = 1500.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+	add_heir_personality = greedy_personality
+}
+1444.11.11 = {
+	capital = 23
+	add_treasury = 4
+	add_prestige = 2
+}

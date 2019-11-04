@@ -1,26 +1,27 @@
-# Sorbia
-government = tribal
-add_government_reform = tribal_despotism
+# Calabria
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-primary_culture = pommeranian
-religion = animism
+primary_culture = greek
+religion = iconoclast
 clear_scripted_personalities = yes
-capital = 50
-1443.1.1 = {
+capital = 123
+1432.1.1 = {
 	monarch = {
-		name = "Milyduch"
-		birth_date = 1425.1.1
-		dynasty = "z Luzyc"
-		adm = 5
-		dip = 4
-		mil = 4
+		name = "Ionas"
+		birth_date = 1412.1.1
+		dynasty = "Glykomachaires"
+		adm = 2
+		dip = 5
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = conqueror_personality
 }
 1444.11.11 = {
-	capital = 50
+	capital = 123
 	add_treasury = 6
 	add_prestige = 5
 }

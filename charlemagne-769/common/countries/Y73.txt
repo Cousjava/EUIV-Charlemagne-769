@@ -1,134 +1,106 @@
-# The Patriarchate of the East
+# Burtas
 ck2_converter_generated = yes
-graphical_culture = muslimgfx
-color = { 180 137 97 }
+graphical_culture = easterngfx
+color = { 173 121 176 }
 
 
 
 
 leader_names = {
 
-	"Thomas" "Bartholomew" "Thaddeus" "Aggai" "Mari" "Abris" "Abraham" "Ya'qob" "Ahadabui" "Shahlufa" 
-	"Papa" "Shem'on" "Shahdost" "Barba'shmin" "Tomarsa" "Qayyoma" "Ahha" "Yahballaha" "Ma'na" "Farbokht" 
-	"Dadisho'" "Babowai" "Barsauma" "Acacius" "Babai" "Shila" "Elisha'" "Narsai" "Paul" "Aba" 
-	"Yousef" "Ezekiel" "Isho'yahb" "Sabrisho'" "Grwgari" "Gabriel" "Maremmeh" "Giwargis" "Yohannan" "Hnanisho'" 
-	"Yohannan Garba" "Sliba-zkha" "Pethion" "Surin" "Abdul-Azeem" "Abdul-Hamid" "Abdul-Lateef" "Abdul-Razzaq" "Abdul-Wahad" "Adhid" 
-	"Adil" "Akab" "Ala'i" "Amir" "Ashraf" "Aziz" "Bashar" "Boutros" "Da'ud" "Faisal" 
-	"Fayiz" "Ghazi" "Hakam" "Hamdan" "Hashmaddin" "Ibrahim" "Imamaddin" "Isa" "Is'mail" "Ismat" 
-	"Jahan" "Jamil" "Kamran" "Khalid" "Khudayar" "Majid" "Mas'ud" "Muaddam" "Muhsin" "Mukhtar" 
-	"Murad" "Musa" "Muzaffar" "Muzaffaraddin" "Nasraddin" "Nuraddin" "Nuri" "Radhi" "Rasul" "Sa'ud" 
-	"Salahaddin" "Seyfullah" "Sharaf" "Sirhan" "Taimur" "Tawfiq" "Umaya" "Wahid" "Yahya" "Ya'qub" 
-	"Yasar" "Youkhanna" "Zahir" }
+	"Khatir" "Gætæg" "Ælbeg" "Æmbalan" "Aghsartan" "Alatey" "Akhsar" "Anbal" "Anbazuk" "Aravat" 
+	"Arsen" "Askhkadar" "Ashot" "Aslan" "Aspar" "Athom" "Balambar" "Balsag" "Barlah" "Bæqætar" 
+	"Basil" "Bazuk" "Beler" "Ber" "Biræg" "Boz-Uruz" "Buürgur" "Buriberdi" "Burikhan" "Candak" 
+	"Chelakhsartag" "Davit" "Djadaron" "Durgulel" "Dzæræs" "Georgy" "Girgon" "Gokhar" "Gubaz" "Guram" 
+	"Hasqar" "Huddan" "Istor" "Itaz" "Iveri" "Kandak" "Kandz" "Kavtia" "Kaur" "Khankhusy" 
+	"Khætag" "Konstantin" "Kubal" "Kuddana" "Kul" "Kuluk" "Lak" "Levan" "Pulad" "Respendial" 
+	"Rosmag" "Safrak" "Sakhir" "Sangipan" "Saros" "Sathis" "Savkudz" "Soslan" "Suarn" "Syrdon" 
+	"Taymuraz" "Taus" "Totraz" "Urdure" "Uruzma" "Uturku" "Yasynya" "Zaur" }
 monarch_names = {
-	"Thomas #1" = 0
-	"Bartholomew #1" = 0
-	"Thaddeus #1" = 0
-	"Aggai #1" = 0
-	"Mari #1" = 0
-	"Abris #1" = 0
-	"Abraham #1" = 0
-	"Ya'qob #2" = 0
-	"Ahadabui #1" = 0
-	"Shahlufa #1" = 0
-	"Papa #1" = 0
-	"Shem'on #1" = 0
-	"Shahdost #1" = 0
-	"Barba'shmin #1" = 0
-	"Tomarsa #1" = 0
-	"Qayyoma #1" = 0
-	"Ahha #1" = 0
-	"Yahballaha #1" = 0
-	"Ma'na #1" = 0
-	"Farbokht #1" = 0
-	"Dadisho' #1" = 0
-	"Babowai #1" = 0
-	"Barsauma #1" = 0
-	"Acacius #1" = 0
-	"Babai #2" = 0
-	"Shila #1" = 0
-	"Elisha' #1" = 0
-	"Narsai #1" = 0
-	"Paul #1" = 0
-	"Aba #2" = 0
-	"Yousef #1" = 0
-	"Ezekiel #1" = 0
-	"Isho'yahb #3" = 0
-	"Sabrisho' #1" = 0
-	"Grwgari #1" = 0
-	"Gabriel #1" = 0
-	"Maremmeh #1" = 0
-	"Giwargis #1" = 0
-	"Yohannan #1" = 0
-	"Hnanisho' #1" = 0
-	"Yohannan Garba #1" = 0
-	"Sliba-zkha #1" = 0
-	"Pethion #1" = 0
-	"Surin #1" = 0
-	"Abdul-Azeem #0" = 0
-	"Abdul-Hamid #0" = 0
-	"Abdul-Lateef #0" = 0
-	"Abdul-Razzaq #0" = 0
-	"Abdul-Wahad #0" = 0
-	"Adhid #0" = 0
-	"Adil #0" = 0
-	"Akab #0" = 0
-	"Ala'i #0" = 0
-	"Amir #0" = 0
-	"Ashraf #0" = 0
-	"Aziz #0" = 0
-	"Bashar #0" = 0
-	"Boutros #0" = 0
-	"Da'ud #0" = 0
-	"Faisal #0" = 0
-	"Fayiz #0" = 0
-	"Ghazi #0" = 0
-	"Hakam #0" = 0
-	"Hamdan #0" = 0
-	"Hashmaddin #0" = 0
-	"Ibrahim #0" = 0
-	"Imamaddin #0" = 0
-	"Isa #0" = 0
-	"Is'mail #0" = 0
-	"Ismat #0" = 0
-	"Jahan #0" = 0
-	"Jamil #0" = 0
-	"Kamran #0" = 0
-	"Khalid #0" = 0
-	"Khudayar #0" = 0
-	"Majid #0" = 0
-	"Mas'ud #0" = 0
-	"Muaddam #0" = 0
-	"Muhsin #0" = 0
-	"Mukhtar #0" = 0
-	"Murad #0" = 0
-	"Musa #0" = 0
-	"Muzaffar #0" = 0
-	"Muzaffaraddin #0" = 0
-	"Nasraddin #0" = 0
-	"Nuraddin #0" = 0
-	"Nuri #0" = 0
-	"Radhi #0" = 0
-	"Rasul #0" = 0
-	"Sa'ud #0" = 0
-	"Salahaddin #0" = 0
-	"Seyfullah #0" = 0
-	"Sharaf #0" = 0
-	"Sirhan #0" = 0
-	"Taimur #0" = 0
-	"Tawfiq #0" = 0
-	"Umaya #0" = 0
-	"Wahid #0" = 0
-	"Yahya #0" = 0
-	"Ya'qub #0" = 0
-	"Yasar #0" = 0
-	"Youkhanna #0" = 0
-	"Zahir #0" = 0
+	"Khatir #1" = 18
+	"Gætæg #0" = 1
+	"Ælbeg #0" = 0
+	"Æmbalan #0" = 0
+	"Aghsartan #0" = 0
+	"Alatey #0" = 0
+	"Akhsar #0" = 0
+	"Anbal #0" = 0
+	"Anbazuk #0" = 0
+	"Aravat #0" = 0
+	"Arsen #0" = 0
+	"Askhkadar #0" = 0
+	"Ashot #0" = 0
+	"Aslan #0" = 0
+	"Aspar #0" = 0
+	"Athom #0" = 0
+	"Balambar #0" = 0
+	"Balsag #0" = 0
+	"Barlah #0" = 0
+	"Bæqætar #0" = 0
+	"Basil #0" = 0
+	"Bazuk #0" = 0
+	"Beler #0" = 0
+	"Ber #0" = 0
+	"Biræg #0" = 0
+	"Boz-Uruz #0" = 0
+	"Buürgur #0" = 0
+	"Buriberdi #0" = 0
+	"Burikhan #0" = 0
+	"Candak #0" = 0
+	"Chelakhsartag #0" = 0
+	"Davit #0" = 0
+	"Djadaron #0" = 0
+	"Durgulel #0" = 0
+	"Dzæræs #0" = 0
+	"Georgy #0" = 0
+	"Girgon #0" = 0
+	"Gokhar #0" = 0
+	"Gubaz #0" = 0
+	"Guram #0" = 0
+	"Hasqar #0" = 0
+	"Huddan #0" = 0
+	"Istor #0" = 0
+	"Itaz #0" = 0
+	"Iveri #0" = 0
+	"Kandak #0" = 0
+	"Kandz #0" = 0
+	"Kavtia #0" = 0
+	"Kaur #0" = 0
+	"Khankhusy #0" = 0
+	"Khætag #0" = 0
+	"Konstantin #0" = 0
+	"Kubal #0" = 0
+	"Kuddana #0" = 0
+	"Kul #0" = 0
+	"Kuluk #0" = 0
+	"Lak #0" = 0
+	"Levan #0" = 0
+	"Pulad #0" = 0
+	"Respendial #0" = 0
+	"Rosmag #0" = 0
+	"Safrak #0" = 0
+	"Sakhir #0" = 0
+	"Sangipan #0" = 0
+	"Saros #0" = 0
+	"Sathis #0" = 0
+	"Savkudz #0" = 0
+	"Soslan #0" = 0
+	"Suarn #0" = 0
+	"Syrdon #0" = 0
+	"Taymuraz #0" = 0
+	"Taus #0" = 0
+	"Totraz #0" = 0
+	"Urdure #0" = 0
+	"Uruzma #0" = 0
+	"Uturku #0" = 0
+	"Yasynya #0" = 0
+	"Zaur #0" = 0
 
 
-	"Mehri #0" = -1
-	"Najela #0" = -1
-	"Madiha #0" = -1
-	"Khaterah #0" = -1
-	"Noushin #0" = -1
+	"Nino #0" = -1
+	"Alda #0" = -1
+	"Shatana #0" = -1
+	"Tinatini #0" = -1
+	"Satinik #0" = -1
 }
 

@@ -1,26 +1,37 @@
-# Malzuzi
-government = monarchy
-add_government_reform = ottoman_government
-government_rank = 1
+# Bashkiria
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = muslim
-primary_culture = berber
-religion = ibadi
+technology_group = nomad_group
+primary_culture = pecheneg
+religion = tengri_pagan_reformed
 clear_scripted_personalities = yes
-capital = 354
+capital = 475
 1443.1.1 = {
 	monarch = {
-		name = "Hatim"
-		birth_date = 1395.1.1
-		dynasty = "Malzuzi"
-		adm = 1
-		dip = 2
-		mil = 5
+		name = "Taridin"
+		birth_date = 1410.1.1
+		dynasty = "Baskatir"
+		adm = 0
+		dip = 0
+		mil = 2
 	}
-	add_ruler_personality = strict_personality
+	add_ruler_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Oshi"
+		monarch_name = "Oshi"
+		dynasty = "Baskatir"
+		birth_date = 1429.1.1
+		death_date = 1509.1.1
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+	add_heir_personality = intricate_web_weaver_personality
 }
 1444.11.11 = {
-	capital = 354
-	add_treasury = 7
-	add_prestige = 6
+	capital = 475
+	add_treasury = 10
+	add_prestige = 13
 }

@@ -1,27 +1,37 @@
-# Katyuri
-government = monarchy
-add_government_reform = feudalism_reform
-government_rank = 1
+# Uyghur
+government = tribal
+add_government_reform = steppe_horde
+government_rank = 2
 mercantilism = 0.1
-technology_group = chinese
-primary_culture = avadhi
-religion = buddhism
+technology_group = nomad_group
+primary_culture = uyghur
+religion = manichean
 clear_scripted_personalities = yes
-capital = 2069
-1391.1.1 = {
+capital = 2190
+1434.6.1 = {
 	monarch = {
-		name = "Basudeva"
-		birth_date = 1375.1.1
-		dynasty = "Katyuri"
-		adm = 4
-		dip = 4
-		mil = 5
+		name = "Tengri Bögü"
+		birth_date = 1420.1.1
+		dynasty = "Yaghlakar"
+		adm = 1
+		dip = 0
+		mil = 3
 	}
-	add_ruler_personality = strict_personality
-	add_ruler_personality = entrepreneur_personality
+	add_ruler_personality = greedy_personality
+	heir = {
+		name = "Alp-Qutlugh"
+		monarch_name = "Alp-Qutlugh"
+		dynasty = "Yaghlakar"
+		birth_date = 1400.1.1
+		death_date = 1480.1.1
+		adm = 3
+		dip = 3
+		mil = 1
+	}
+	add_heir_personality = industrious_personality
 }
 1444.11.11 = {
-	capital = 2069
-	add_treasury = 7
-	add_prestige = 15
+	capital = 2190
+	add_treasury = 10
+	add_prestige = 40
 }

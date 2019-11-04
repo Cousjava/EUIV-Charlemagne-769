@@ -1,4 +1,4 @@
-# Dubhlinn
+# Osraige
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1
@@ -7,31 +7,31 @@ technology_group = western
 primary_culture = irish
 religion = catholic
 clear_scripted_personalities = yes
-capital = 373
-1438.1.1 = {
+capital = 4377
+1436.1.1 = {
 	monarch = {
-		name = "Congalach"
-		birth_date = 1385.1.1
-		dynasty = "Ua Néill Noígiallaich"
-		adm = 3
-		dip = 3
-		mil = 5
+		name = "Tóim Snáma"
+		birth_date = 1390.1.1
+		dynasty = "Dál Birn"
+		adm = 4
+		dip = 1
+		mil = 3
 	}
-	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
 	heir = {
-		name = "Flann"
-		monarch_name = "Flann"
-		dynasty = "Ua Néill Noígiallaich"
-		birth_date = 1425.1.1
-		death_date = 1505.1.1
+		name = "Ailgel"
+		monarch_name = "Ailgel"
+		dynasty = "Dál Birn"
+		birth_date = 1421.1.1
+		death_date = 1501.1.1
 		adm = 3
-		dip = 3
-		mil = 2
+		dip = 4
+		mil = 3
 	}
-	add_heir_personality = scholar_personality
+	add_heir_personality = tolerant_personality
 }
 1444.11.11 = {
-	capital = 373
+	capital = 4377
 	add_treasury = 4
-	add_prestige = 15
+	add_prestige = 11
 }

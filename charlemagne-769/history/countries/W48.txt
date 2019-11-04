@@ -1,0 +1,26 @@
+# al-Ibadi
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = berber
+religion = ibadi
+clear_scripted_personalities = yes
+capital = 2448
+1437.1.1 = {
+	monarch = {
+		name = "Hiyan"
+		birth_date = 1420.1.1
+		dynasty = "al-Ibadi"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_ruler_personality = secretive_personality
+}
+1444.11.11 = {
+	capital = 2448
+	add_treasury = 6
+	add_prestige = 8
+}

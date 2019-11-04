@@ -1,4 +1,4 @@
-# Jamtaland
+# Nordland
 government = tribal
 add_government_reform = tribal_despotism
 government_rank = 1
@@ -7,20 +7,33 @@ technology_group = western
 primary_culture = norse
 religion = animism
 clear_scripted_personalities = yes
-capital = 10
+capital = 21
 1435.1.1 = {
 	monarch = {
-		name = "Steinn"
+		name = "Ormr"
 		birth_date = 1415.1.1
-		dynasty = "Alfr"
-		adm = 6
+		dynasty = "av Nordland"
+		adm = 0
 		dip = 2
-		mil = 4
+		mil = 2
 	}
-	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = navigator_personality
+}
+1437.1.1 = {
+	heir = {
+		name = "Froði"
+		monarch_name = "Froði"
+		dynasty = "av Nordland"
+		birth_date = 1437.1.1
+		death_date = 1517.1.1
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+	add_heir_personality = navigator_personality
 }
 1444.11.11 = {
-	capital = 10
+	capital = 21
 	add_treasury = 4
-	add_prestige = 2
+	add_prestige = 3
 }

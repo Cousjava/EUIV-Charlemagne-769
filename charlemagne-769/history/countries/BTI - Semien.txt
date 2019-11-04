@@ -13,12 +13,12 @@ capital = 1227
 		name = "Phineas"
 		birth_date = 1398.1.1
 		dynasty = "Gideon"
-		adm = 4
+		adm = 3
 		dip = 4
-		mil = 3
+		mil = 2
 	}
-	add_ruler_personality = entrepreneur_personality
-	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = pious_personality
+	add_ruler_personality = craven_personality
 }
 1430.1.1 = {
 	heir = {
@@ -27,11 +27,11 @@ capital = 1227
 		dynasty = "Gideon"
 		birth_date = 1430.1.1
 		death_date = 1510.1.1
-		adm = 1
-		dip = 1
-		mil = 2
+		adm = 2
+		dip = 3
+		mil = 4
 	}
-	add_heir_personality = conqueror_personality
+	add_heir_personality = kind_hearted_personality
 }
 1444.11.11 = {
 	capital = 1227
